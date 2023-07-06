@@ -1,0 +1,538 @@
+____TEXT____
+Moonless is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[6]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[5]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[4]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[3]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[1]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Partly decomposed body is hanging here.
+____TEXT____
+Partly decomposed body is hanging here.
+____TEXT____
+Partly decomposed body is hanging here.
+____TEXT____
+Partly decomposed body is hanging here.
+____TEXT____
+Partly decomposed body is hanging here.
+____TEXT____
+Partly decomposed body is hanging here.
+____TEXT____
+The girl is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+The stone has a heavy aura to it. It's almost too much
+for you to carry...
+____TEXT____
+Here lies \N[16]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[17]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[18]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+MERCENARY
+KNIGHT
+CAPTAIN
+OUTLANDER
+MARRIAGE
+____TEXT____
+Your child is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+With \c[2]Mastery over insects\c[0] you are able to hear
+whispers...
+____TEXT____
+\} "Master... my rotten home... there was something shiny!"
+____TEXT____
+You observe the hanging body and there seems to be something
+stuck in his flesh...
+____TEXT____
+You find 5 \c[2]Silver coins\c[0]!
+____TEXT____
+\c[7]Knight\c[0]
+"Ah!!"
+____TEXT____
+\c[7]Knight\c[0]
+"Ah-I -I'll slay you demon!"
+____TEXT____
+\c[7]Knight\c[0]
+"..."
+____TEXT____
+\c[7]Knight\c[0]
+"Wait. You're not one of them, are you??"
+____TEXT____
+\c[7]Knight\c[0]
+"Whew. You had me going there for a moment!"
+____TEXT____
+\c[7]Knight\c[0]
+"I'm sorry. I don't trust anyone here and I'm in a hurry!"
+____TEXT____
+\c[7]Knight\c[0]
+"Ah!!"
+____TEXT____
+\c[7]Knight\c[0]
+"Ah-I -I'll slay you demon!"
+____TEXT____
+\c[7]Knight\c[0]
+"..."
+____TEXT____
+\c[7]Knight\c[0]
+"Wait. You're not one of them, are you??"
+____TEXT____
+\c[7]Knight\c[0]
+"Whew. You had me going there for a moment!"
+____TEXT____
+\c[7]Knight\c[0]
+"I'm sorry. I don't trust anyone here and I'm in a hurry!"
+____TEXT____
+\c[7]Knight\c[0]
+"Ah!!"
+____TEXT____
+\c[7]Knight\c[0]
+"Ah-I -I'll slay you demon!"
+____TEXT____
+\c[7]Knight\c[0]
+"..."
+____TEXT____
+\c[7]Knight\c[0]
+"Wait. You're not one of them, are you??"
+____TEXT____
+\c[7]Knight\c[0]
+"Whew. You had me going there for a moment!"
+____TEXT____
+\c[7]Knight\c[0]
+"I'm sorry. I don't trust anyone here and I'm in a hurry!"
+<follower touch>
+<follower touch>
+<follower touch>
+<follower touch>
+<follower touch>
+<follower touch>
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the crow.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead guard.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The Crow Mauler is down...
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+Crow Mauler only carries \c[2]Crow emblem key\c[0] with
+him.
+____TEXT____
+You see no point in skinning the Crow Mauler.
+____TEXT____
+The Crow Mauler is down...
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+Crow Mauler only carries \c[2]Crow emblem key\c[0] with
+him.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the crow.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead guard.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The Crow Mauler is down...
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+Crow Mauler has nothing of worth.
+____TEXT____
+You see no point in skinning the Crow Mauler.
+____TEXT____
+The Crow Mauler is down...
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+Crow Mauler has nothing of worth.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+A pile of flesh remains here...
+____TEXT____
+You search the barrel for anything useful...
+____TEXT____
+The barrel is searched already.
+____TEXT____
+You pick up a \c[2]Green herb\c[0].
+____TEXT____
+You pick up a \c[2]Blue herb\c[0].
+____TEXT____
+Here lies \N[19]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[20]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[21]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+There is a well here... It reeks of death inside.
+___CHOICE___
+Jump down
+Leave
+____TEXT____
+There is a well here... It reeks of death inside.
+___CHOICE___
+Jump down
+Leave
+____TEXT____
+There is a well here... It reeks of death inside.
+___CHOICE___
+Jump down
+Leave
+____TEXT____
+There is a well here... It reeks of death inside.
+___CHOICE___
+Jump down
+Leave
+____TEXT____
+You search the barrel for anything useful...
+____TEXT____
+The barrel is searched already.
+____TEXT____
+You feel a presence of a minor curse attached to the door.
+____TEXT____
+You could cancel it's effects with your \c[2]Counter-magic\c[0].
+___CHOICE___
+Use \c[2]Counter-magic\c[0]
+Leave
+____TEXT____
+\c[2]Counter-magic\c[0] was succesful.
+____TEXT____
+You try to open the door but it doesn't budge.
+___CHOICE___
+Investigate
+Leave
+____TEXT____
+\c[2]Purifying talisman\c[0] seems to react to the markings
+on the door.
+___CHOICE___
+Use \c[2]Purifying talisman\c[0]
+Leave
+____TEXT____
+\c[2]Purifying talisman\c[0] burned brightly.
+____TEXT____
+An unknown force is keeping the door shut. There doesn't
+seem to be anything you could do.
+____TEXT____
+There are markings on the door that look similar to the
+text found around Eastern Sanctuaries.
+____TEXT____
+You managed to defeat the spectre that was after your sword.
+____TEXT____
+Like distant winds carried from from the far-away lands 
+you hear whispers...
+____TEXT____
+\c[7]Assassin spectre\c[0]
+"Finish... my...task..."
+____TEXT____
+\c[7]Assassin spectre\c[0]
+"O... worthy..."
+____TEXT____
+The \c[2]Eastern sword\c[0] was purified!
+____TEXT____
+The engraving on the hilt becomes clear to you now.
+\c[2]Eastern sword\c[0] was purified and it revealed its
+true name to you - the Black steel of the East.
+____TEXT____
+You managed to defeat the spectre that was after your sword.
+____TEXT____
+Like distant winds carried from from the far-away lands 
+you hear whispers...
+____TEXT____
+\c[7]Assassin spectre\c[0]
+"Finish... my...task..."
+____TEXT____
+\c[7]Assassin spectre\c[0]
+"O... worthy..."
+____TEXT____
+The \c[2]Eastern sword\c[0] was purified!
+____TEXT____
+The engraving on the hilt becomes clear to you now.
+\c[2]Eastern sword\c[0] was purified and it revealed its
+true name to you - the Black steel of the East.
+____TEXT____
+You managed to defeat the spectre that was after your sword.
+____TEXT____
+Like distant winds carried from from the far-away lands 
+you hear whispers...
+____TEXT____
+\c[7]Assassin spectre\c[0]
+"Finish... my...task..."
+____TEXT____
+\c[7]Assassin spectre\c[0]
+"O... worthy..."
+____TEXT____
+The \c[2]Eastern sword\c[0] was purified!
+____TEXT____
+The engraving on the hilt becomes clear to you now.
+\c[2]Eastern sword\c[0] was purified and it revealed its
+true name to you - the Black steel of the East.
+____TEXT____
+You managed to defeat the spectre that was after your sword.
+____TEXT____
+Like distant winds carried from from the far-away lands 
+you hear whispers...
+____TEXT____
+\c[7]Assassin spectre\c[0]
+"Finish... my...task..."
+____TEXT____
+\c[7]Assassin spectre\c[0]
+"O... worthy..."
+____TEXT____
+The \c[2]Eastern sword\c[0] was purified!
+____TEXT____
+The engraving on the hilt becomes clear to you now.
+\c[2]Eastern sword\c[0] was purified and it revealed its
+true name to you - the Black steel of the East.
+____TEXT____
+You managed to defeat the spectre that was after your sword.
+____TEXT____
+Like distant winds carried from from the far-away lands 
+you hear whispers...
+____TEXT____
+\c[7]Assassin spectre\c[0]
+"Finish... my...task..."
+____TEXT____
+\c[7]Assassin spectre\c[0]
+"O... worthy..."
+____TEXT____
+The \c[2]Eastern sword\c[0] was purified!
+____TEXT____
+The engraving on the hilt becomes clear to you now.
+\c[2]Eastern sword\c[0] was purified and it revealed its
+true name to you - the Black steel of the East.
+____TEXT____
+You find a \c[2]Stick\c[0]!

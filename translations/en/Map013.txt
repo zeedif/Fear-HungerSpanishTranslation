@@ -1,0 +1,30 @@
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!

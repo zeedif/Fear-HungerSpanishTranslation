@@ -1,0 +1,905 @@
+____TEXT____
+\c[7]Yellow mage\c[0]
+"Ho ho, welcome dweller!"
+____TEXT____
+What do you want to buy?
+___CHOICE___
+Beds
+Storages
+Carpets
+Decoration
+Furniture
+Exit
+____TEXT____
+You have \c[2]\v[0096] Silver coins\c[0]. What do you want to trade them for?
+___CHOICE___
+\i[52] Crude bed \c[2][2]\c[0]
+\i[34] Fancy sofa \c[2][10]\c[0]
+\i[51] Stone coffin \c[2][10]\c[0]
+\i[32] Princess bed \c[2][20]\c[0]
+Nevermind
+____TEXT____
+You trade 2 \c[2]Silver coins\c[0] for a \c[2]Crude bed\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 10 \c[2]Silver coins\c[0] for a \c[2]Fancy sofa\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 10 \c[2]Silver coins\c[0] for a \c[2]Stone sofa\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 20 \c[2]Silver coins\c[0] for a \c[2]Princess bed\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You have \c[2]\v[0096] Silver coins\c[0]. What do you want to trade them for?
+___CHOICE___
+\i[42] Bookshelf \c[2][5]\c[0]
+\i[39] Alchemy shelf \c[2][10]\c[0]
+\i[57] Diagonal shelf \c[2][10]\c[0]
+\i[35] Wooden table \c[2][4]\c[0]
+\i[56] Cage \c[2][20]\c[0]
+\i[65] Wooden chest \c[2][5]\c[0]
+____TEXT____
+You trade 5 \c[2]Silver coins\c[0] for a \c[2]Bookshelf\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 10 \c[2]Silver coins\c[0] for an \c[2]Alchemy shelf\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 10 \c[2]Silver coins\c[0] for a \c[2]Diagonal shelf\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 4 \c[2]Silver coins\c[0] for a \c[2]Wooden table\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 20 \c[2]Silver coins\c[0] for a \c[2]Cage\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 5 \c[2]Silver coins\c[0] for a \c[2]Wooden chest\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+___CHOICE___
+Nevermind
+____TEXT____
+You have \c[2]\v[0096] Silver coins\c[0]. What do you want to trade them for?
+___CHOICE___
+\i[44] Yellow carpet \c[2][6]\c[0]
+\i[45] Red carpet \c[2][6]\c[0]
+\i[50] Green carpet \c[2][6]\c[0]
+\i[64] Blood stain \c[2][3]\c[0]
+\i[63] Iron grid \c[2][10]\c[0]
+Nevermind
+____TEXT____
+You trade 6 \c[2]Silver coins\c[0] for an \c[2]Yellow carpet\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 6 \c[2]Silver coins\c[0] for a \c[2]Red carpet\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 6 \c[2]Silver coins\c[0] for a \c[2]Green carpet\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 3 \c[2]Silver coins\c[0] for a \c[2]Blood stain\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 10 \c[2]Silver coins\c[0] for an \c[2]Iron grid\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You have \c[2]\v[0096] Silver coins\c[0]. What do you want to trade them for?
+___CHOICE___
+\i[41] SM Chains \c[2][6]\c[0]
+\i[46] Green curtains \c[2][10]\c[0]
+\i[47] Skeleton \c[2][4]\c[0]
+\i[59] Crucified man \c[2][10]\c[0]
+\i[58] Rondon flag \c[2][15]\c[0]
+\i[43] Royal flag \c[2][15]\c[0]
+____TEXT____
+You trade 6 \c[2]Silver coins\c[0] for an \c[2]Yellow carpet\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 10 \c[2]Silver coins\c[0] for \c[2]Green curtains\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 4 \c[2]Silver coins\c[0] for a \c[2]Skeleton\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 10 \c[2]Silver coins\c[0] for a \c[2]Crucified man\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 15 \c[2]Silver coins\c[0] for a \c[2]Rondon flag\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 15 \c[2]Silver coins\c[0] for a \c[2]Royal flag\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+___CHOICE___
+\i[48] Globe \c[2][15]\c[0]
+\i[37] Candle stand \c[2][7]\c[0]
+\i[36] Red light \c[2][7]\c[0]
+\i[38] Stove \c[2][5]\c[0]
+\i[54] Pile of bodies \c[2][10]\c[0]
+\i[53] Miasma \c[2][20]\c[0]
+____TEXT____
+You trade 15 \c[2]Silver coins\c[0] for a \c[2]Globe\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 7 \c[2]Silver coins\c[0] for a \c[2]Candle stand\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 7 \c[2]Silver coins\c[0] for a \c[2]Red light\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 5 \c[2]Silver coins\c[0] for a \c[2]Stove\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 10 \c[2]Silver coins\c[0] for a \c[2]Pile of bodies\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 20 \c[2]Silver coins\c[0] for the \c[2]Miasma\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+___CHOICE___
+\i[61] Hooks \c[2][6]\c[0]
+\i[55] Iron maiden \c[2][10]\c[0]
+\i[49] Pile of books \c[2][5]\c[0]
+\i[62] Skull candle \c[2][7]\c[0]
+\i[66] Statue \c[2][12]\c[0]
+\i[67] Mannequin \c[2][12]\c[0]
+____TEXT____
+You trade 6 \c[2]Silver coins\c[0] for \c[2]Hooks\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 10 \c[2]Silver coins\c[0] for an \c[2]Iron maiden\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 5 \c[2]Silver coins\c[0] for a \c[2]Pile of books\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 7 \c[2]Silver coins\c[0] for a \c[2]Skull candle\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 12 \c[2]Silver coins\c[0] for a \c[2]Statue\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 12 \c[2]Silver coins\c[0] for a \c[2]Mannequin\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+___CHOICE___
+Nevermind
+____TEXT____
+You have \c[2]\v[0096] Silver coins\c[0]. What do you want to trade them for?
+___CHOICE___
+\i[40] Crude chair \c[2][2]\c[0]
+\i[33] Fancy chair \c[2][5]\c[0]
+\i[60] Urn \c[2][5]\c[0]
+\i[35] Wooden table \c[2][4]\c[0]
+Nevermind
+____TEXT____
+You trade 2 \c[2]Silver coins\c[0] for a \c[2]Crude chair\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 5 \c[2]Silver coins\c[0] for a \c[2]Fancy chair\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 5 \c[2]Silver coins\c[0] for an \c[2]Urn\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 4 \c[2]Silver coins\c[0] for a \c[2]Wooden table\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+\c[7]Guard\c[0]
+"W-welcome... guargh."
+____TEXT____
+What do you want to buy?
+___CHOICE___
+Goodies
+Nevermind
+____TEXT____
+You have \c[2]\v[0096] Silver coins\c[0]. What do you want to trade them for?
+___CHOICE___
+\i[180] Blue vial \c[2][5]\c[0]
+\i[226] White vial \c[2][5]\c[0]
+\i[208] Bottle of whiskey \c[2][5]\c[0]
+\i[269] Elixir of body \c[2][10]\c[0]
+\i[267] Elixir of mind \c[2][10]\c[0]
+\i[226] Explosive vial \c[2][10]\c[0]
+____TEXT____
+You trade 5 \c[2]Silver coins\c[0] for a \c[2]Blue vial\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 5 \c[2]Silver coins\c[0] for a \c[2]White vial\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 5 \c[2]Silver coins\c[0] for a \c[2]Bottle of whiskey\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 10 \c[2]Silver coins\c[0] for an \c[2]Elixir of body\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 10 \c[2]Silver coins\c[0] for an \c[2]Elixir of mind\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 10 \c[2]Silver coins\c[0] for an \c[2]Explosive vial\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+___CHOICE___
+\i[188] Small key \c[2][3]\c[0]
+\i[185] Tinderbox \c[2][1]\c[0]
+\i[179] Meatpie \c[2][4]\c[0]
+\i[209] Moldy bread \c[2][2]\c[0]
+\i[201] Cabbage \c[2][3]\c[0]
+Nevermind
+____TEXT____
+You trade 3 \c[2]Silver coins\c[0] for a \c[2]Small key\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade a \c[2]Silver coin\c[0] for a \c[2]Tinderbox\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 4 \c[2]Silver coins\c[0] for a \c[2]Meatpie\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 2 \c[2]Silver coins\c[0] for a \c[2]Moldy bread\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 3 \c[2]Silver coins\c[0] for a \c[2]Cabbage\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+The iron candle stand are for sale!
+____TEXT____
+"Bring light to your moist hellhole!"
+____TEXT____
+Deluxe edition skeletons have just arrived!
+____TEXT____
+The seem to be missing a leg though and that's why the price
+is lowered.
+____TEXT____
+Miscellaneous design items are stored here. They are still
+to be unpacked.
+____TEXT____
+There is a globe depicting the world map here. It would
+give really intellectual image of yourself if you had
+one in your room!
+____TEXT____
+Miscellaneous design items are stored here. They are still
+to be unpacked.
+____TEXT____
+Miscellaneous design items are stored here. They are still
+to be unpacked.
+____TEXT____
+Miscellaneous design items are stored here. They are still
+to be unpacked.
+____TEXT____
+Miscellaneous design items are stored here. They are still
+to be unpacked.
+____TEXT____
+Bookshelf for sale! It comes with the books, so you don't
+have to worry about filling the shelves.
+____TEXT____
+Bookshelf for sale! It comes with the books, so you don't
+have to worry about filling the shelves.
+____TEXT____
+A simple crude bed. It's uncomfortable but serves its
+purpose.
+____TEXT____
+Call it a day?
+___CHOICE___
+Yes
+Not yet
+____TEXT____
+A stone coffin. It's a quirky and hipster place to sleep
+in, but that's just the kind of person you are.
+____TEXT____
+Call it a day?
+___CHOICE___
+Yes
+Not yet
+____TEXT____
+A fancy sofa. You traded away your bed for some class and
+dignity in your interior design.
+____TEXT____
+The sofa is good for hanging out just as well as sleepovers.
+It's surprisingly comfortable actually.
+____TEXT____
+Call it a day?
+___CHOICE___
+Yes
+Not yet
+____TEXT____
+A princess bed. It's really classy way to spend your nights.
+____TEXT____
+Call it a day?
+___CHOICE___
+Yes
+Not yet
+____TEXT____
+A simple crude bed. It's uncomfortable but serves its
+purpose.
+____TEXT____
+Call it a day?
+___CHOICE___
+Yes
+Not yet
+____TEXT____
+A stone coffin. It's a quirky and hipster place to sleep
+in, but that's just the kind of person you are.
+____TEXT____
+Call it a day?
+___CHOICE___
+Yes
+Not yet
+____TEXT____
+A fancy sofa. You traded away your bed for some class and
+dignity in your interior design.
+____TEXT____
+The sofa is good for hanging out just as well as sleepovers.
+It's surprisingly comfortable actually.
+____TEXT____
+Call it a day?
+___CHOICE___
+Yes
+Not yet
+____TEXT____
+A princess bed. It's really classy way to spend your nights.
+____TEXT____
+Call it a day?
+___CHOICE___
+Yes
+Not yet
+____TEXT____
+A simple crude bed. It's uncomfortable but serves its
+purpose.
+____TEXT____
+Call it a day?
+___CHOICE___
+Yes
+Not yet
+____TEXT____
+A stone coffin. It's a quirky and hipster place to sleep
+in, but that's just the kind of person you are.
+____TEXT____
+Call it a day?
+___CHOICE___
+Yes
+Not yet
+____TEXT____
+A fancy sofa. You traded away your bed for some class and
+dignity in your interior design.
+____TEXT____
+The sofa is good for hanging out just as well as sleepovers.
+It's surprisingly comfortable actually.
+____TEXT____
+Call it a day?
+___CHOICE___
+Yes
+Not yet
+____TEXT____
+A princess bed. It's really classy way to spend your nights.
+____TEXT____
+Call it a day?
+___CHOICE___
+Yes
+Not yet
+____TEXT____
+A simple crude bed. It's uncomfortable but serves its
+purpose.
+____TEXT____
+A stone coffin. It's a quirky and hipster place to sleep
+in, but that's just the kind of person you are.
+____TEXT____
+A fancy sofa. You traded away your bed to some class and
+dignity into your interior design.
+____TEXT____
+It's still surprisingly comfortable to sleep in.
+____TEXT____
+A princess bed. It's really classy way to spend your nights.
+____TEXT____
+A simple crude bed. It's uncomfortable but serves its
+purpose.
+____TEXT____
+A stone coffin. It's a quirky and hipster place to sleep
+in, but that's just the kind of person you are.
+____TEXT____
+A fancy sofa. You traded away your bed to some class and
+dignity into your interior design.
+____TEXT____
+It's still surprisingly comfortable to sleep in.
+____TEXT____
+A princess bed. It's really classy way to spend your nights.
+____TEXT____
+A simple crude bed. It's uncomfortable but serves its
+purpose.
+____TEXT____
+A stone coffin. It's a quirky and hipster place to sleep
+in, but that's just the kind of person you are.
+____TEXT____
+A fancy sofa. You traded away your bed to some class and
+dignity into your interior design.
+____TEXT____
+It's still surprisingly comfortable to sleep in.
+____TEXT____
+A princess bed. It's really classy way to spend your nights.
+____TEXT____
+Bookshelf for sale! It comes with the books, so you don't
+have to worry about filling the shelves.
+____TEXT____
+Miscellaneous design items are stored here. They are still
+to be unpacked.
+____TEXT____
+These SM chains give an immediate picture on what kind of
+person you are and what kind of entertainment you prefer.
+____TEXT____
+These curtains give an illusion of a window that is sorely
+lacking in your room.
+____TEXT____
+A crucified man. Why not?
+____TEXT____
+A flag of the Kingdom of Rondon. You are feeling patriotic
+and you are not ashamed of showing it to the world.
+____TEXT____
+A flag of the royal crown. It brings a breeze of dignity
+to your room.
+____TEXT____
+These hooks are shiny and new. There are absolutely no
+stains in them.
+____TEXT____
+These SM chains give an immediate picture on what kind of
+person you are and what kind of entertainment you prefer.
+____TEXT____
+These curtains give an illusion of a window that is sorely
+lacking in your room.
+____TEXT____
+A crucified man. Why not?
+____TEXT____
+A flag of the Kingdom of Rondon. You are feeling patriotic
+and you are not ashamed of showing it to the world.
+____TEXT____
+A flag of the royal crown. It brings a breeze of dignity
+to your room.
+____TEXT____
+A red light gives a passionate and intense impression of
+you. Although it might not be of good taste in some circles.
+____TEXT____
+These hooks are shiny and new. There are absolutely no
+stains in them.
+____TEXT____
+These SM chains give an immediate picture on what kind of
+person you are and what kind of entertainment you prefer.
+____TEXT____
+These curtains give an illusion of a window that is sorely
+lacking in your room.
+____TEXT____
+A skeleton. A conversation piece. To be honest you are not
+aware of its origin...
+____TEXT____
+A crucified man. Why not?
+____TEXT____
+A flag of the Kingdom of Rondon. You are feeling patriotic
+and you are not ashamed of showing it to the world.
+____TEXT____
+A flag of the royal crown. It brings a breeze of dignity
+to your room.
+____TEXT____
+These hooks are shiny and new. There are absolutely no
+stains in them.
+____TEXT____
+These SM chains give an immediate picture on what kind of
+person you are and what kind of entertainment you prefer.
+____TEXT____
+These curtains give an illusion of a window that is sorely
+lacking in your room.
+____TEXT____
+These hooks are shiny and new. There are absolutely no
+stains in them.
+____TEXT____
+These SM chains give an immediate picture on what kind of
+person you are and what kind of entertainment you prefer.
+____TEXT____
+These curtains give an illusion of a window that is sorely
+lacking in your room.
+____TEXT____
+A crucified man. Why not?
+____TEXT____
+A flag of the Kingdom of Rondon. You are feeling patriotic
+and you are not ashamed of showing it to the world.
+____TEXT____
+A flag of the royal crown. It brings a breeze of dignity
+to your room.
+____TEXT____
+These hooks are shiny and new. There are absolutely no
+stains in them.
+____TEXT____
+These SM chains give an immediate picture on what kind of
+person you are and what kind of entertainment you prefer.
+____TEXT____
+These curtains give an illusion of a window that is sorely
+lacking in your room.
+____TEXT____
+These hooks are shiny and new. There are absolutely no
+stains in them.
+____TEXT____
+A globe that shows the map of the entire known world.
+It gives off an intellectual image of you.
+____TEXT____
+A candle that soothes you in the darkness. Helps keep
+your sanity intact too.
+____TEXT____
+A practical decoration. You can make your own pancakes
+with this.
+____TEXT____
+A bit more gruesome interior design. It's got attitude and
+personality.
+____TEXT____
+A mystical sword called the Miasma. You are a person of
+cultures with this foreign and alien blade.
+____TEXT____
+A mysterious statue that keeps watching you even when you
+sleep.
+____TEXT____
+A mannequin built for dubious purposes.
+____TEXT____
+A globe that shows the map of the entire known world.
+It gives off an intellectual image of you.
+____TEXT____
+A bit more gruesome interior design. It's got attitude and
+personality.
+____TEXT____
+A pile of books. You take studying seriously.
+____TEXT____
+Miscellaneous books fill the bookshelf.
+____TEXT____
+Nothing gives off as mysterious vibes as an alchemic shelf
+in your room!
+____TEXT____
+Miscellaneous books fill the bookshelf.
+____TEXT____
+A small cage for storage and other uses.
+____TEXT____
+A chest that's used for storage.
+____TEXT____
+Miscellaneous books fill the bookshelf.
+____TEXT____
+Nothing gives off as mysterious vibes as an alchemic shelf
+in your room!
+____TEXT____
+Miscellaneous books fill the bookshelf.
+____TEXT____
+A small cage for storage and other uses.
+____TEXT____
+A chest that's used for storage.
+____TEXT____
+Miscellaneous books fill the bookshelf.
+____TEXT____
+There are different substances and alchemic formulas 
+filling the shelf.
+____TEXT____
+Miscellaneous books fill the bookshelf.
+____TEXT____
+A small cage for storage and other uses.
+____TEXT____
+Miscellaneous books fill the bookshelf.
+____TEXT____
+There are different substances and alchemic formulas 
+filling the shelf.
+____TEXT____
+Miscellaneous books fill the bookshelf.
+____TEXT____
+A small cage for storage and other uses.
+____TEXT____
+Miscellaneous books fill the bookshelf.
+____TEXT____
+There are different substances and alchemic formulas 
+filling the shelf.
+____TEXT____
+Miscellaneous books fill the bookshelf.
+____TEXT____
+A small cage for storage and other uses.
+____TEXT____
+Miscellaneous books fill the bookshelf.
+____TEXT____
+There are different substances and alchemic formulas 
+filling the shelf.
+____TEXT____
+Miscellaneous books fill the bookshelf.
+____TEXT____
+A small cage for storage and other uses.
+____TEXT____
+A small cage for storage and other uses.
+____TEXT____
+A small cage for storage and other uses.
+____TEXT____
+It's your pet crow.
+___CHOICE___
+"Kaw kaw!"
+"Kueeeh!"
+"Bad boy!"
+"Bad girl!"
+"..."
+____TEXT____
+It's your pet cavegnome.
+____TEXT____
+It's your pet thing. It's crying non-stop...
+____TEXT____
+It's your pet spider.
+____TEXT____
+The door is locked tight.
+____TEXT____
+This is your room.
+____TEXT____
+Nothing gives off as mysterious vibes as an alchemic shelf
+in your room!
+____TEXT____
+Bookshelf for sale! It comes with the books, so you don't
+have to worry about filling the shelves.
+____TEXT____
+A fancy sofa that is good for hanging out just as well as 
+sleepovers. It's surprisingly comfortable actually.
+____TEXT____
+The door is locked tight.
+____TEXT____
+This is not your room...
+____TEXT____
+This is not your room...
+____TEXT____
+The toilets are here, but you don't feel like going in
+because the smell is already terrible outside the door...
+____TEXT____
+The store shelves are full of miscellaneous goodies to help
+you in the dungeons.
+____TEXT____
+The store shelves are full of miscellaneous goodies to help
+you in the dungeons.
+____TEXT____
+The store shelves are full of miscellaneous goodies to help
+you in the dungeons.
+____TEXT____
+The tables are full of miscellaneous goodies to help you 
+in the dungeons.
+____TEXT____
+The tables are full of miscellaneous goodies to help you 
+in the dungeons.
+____TEXT____
+The tables are full of miscellaneous goodies to help you 
+in the dungeons.
+____TEXT____
+The tables are full of miscellaneous goodies to help you 
+in the dungeons.
+____TEXT____
+The tables are full of miscellaneous goodies to help you 
+in the dungeons.
+____TEXT____
+The tables are full of miscellaneous goodies to help you 
+in the dungeons.
+____TEXT____
+The tables are full of miscellaneous goodies to help you 
+in the dungeons.
+____TEXT____
+The tables are full of miscellaneous goodies to help you 
+in the dungeons.
+____TEXT____
+The bucket is empty...
+____TEXT____
+The barrel has food in store.
+____TEXT____
+The barrel has food in store.
+____TEXT____
+Barrels full of different materials used in armors and
+equipment.
+____TEXT____
+Barrels full of different materials used in armors and
+equipment.
+____TEXT____
+Barrels full of different materials used in armors and
+equipment.
+____TEXT____
+Barrels full of different materials used in armors and
+equipment.
+____TEXT____
+Barrels full of different materials used in armors and
+equipment.
+____TEXT____
+There are different weapos laid here for viewing.
+____TEXT____
+There are different weapos laid here for viewing.
+____TEXT____
+There are different weapos laid here for viewing.
+____TEXT____
+\c[7]Tall knight\c[0]
+"..."
+____TEXT____
+The tall knight gestures you to browse the equipment.
+____TEXT____
+What do you want to buy?
+___CHOICE___
+Weapons
+Armor
+Leave
+____TEXT____
+You have \c[2]\v[0096] Silver coins\c[0]. What do you want to trade them for?
+___CHOICE___
+\i[191] Short sword \c[2][5]\c[0]
+\i[203] Meatcleaver \c[2][8]\c[0]
+\i[222] Iron mace \c[2][7]\c[0]
+\i[257] Long sword \c[2][7]\c[0]
+\i[219] Crude sword \c[2][17]\c[0]
+\i[218] Claymore \c[2][30]\c[0]
+____TEXT____
+You trade 5 \c[2]Silver coins\c[0] for a \c[2]Short sword\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 8 \c[2]Silver coins\c[0] for a \c[2]Meatcleaver\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 7 \c[2]Silver coins\c[0] for a \c[2]Iron mace\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 10 \c[2]Silver coins\c[0] for a \c[2]Long sword\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 17 \c[2]Silver coins\c[0] for a \c[2]Crude sword\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 30 \c[2]Silver coins\c[0] for a \c[2]Claymore\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+___CHOICE___
+\i[223] Eastern sword \c[2][15]\c[0]
+\i[306] Shark teeth \c[2][10]\c[0]
+\i[307] Bone shears \c[2][20]\c[0]
+\i[305] War scythe \c[2][20]\c[0]
+\i[304] Morning star \c[2][7]\c[0]
+\i[239] Ritual spear \c[2][15]\c[0]
+____TEXT____
+You trade 15 \c[2]Silver coins\c[0] for an \c[2]Eastern sword\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 10 \c[2]Silver coins\c[0] for a \c[2]Shark teeth\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 20 \c[2]Silver coins\c[0] for \c[2]Bone shears\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 20 \c[2]Silver coins\c[0] for a \c[2]War scythe\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 7 \c[2]Silver coins\c[0] for a \c[2]Morning star\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 15 \c[2]Silver coins\c[0] for a \c[2]Ritual spear\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+___CHOICE___
+\i[239] Iron spear \c[2][12]\c[0]
+\i[238] Short bow \c[2][15]\c[0]
+\i[292] Miasma \c[2][40]\c[0]
+\i[293] Sergal spear \c[2][40]\c[0]
+Nevermind
+____TEXT____
+You trade 12 \c[2]Silver coins\c[0] for an \c[2]Iron spear\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 15 \c[2]Silver coins\c[0] for a \c[2]Short bow\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 40 \c[2]Silver coins\c[0] for a \c[2]Miasma\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 40 \c[2]Silver coins\c[0] for a \c[2]Sergal spear\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You have \c[2]\v[0096] Silver coins\c[0]. What do you want to trade them for?
+___CHOICE___
+\i[206] Hard leather armor \c[2][8]\c[0]
+\i[215] Leather helmet \c[2][4]\c[0]
+\i[236] Plate mail \c[2][15]\c[0]
+\i[263] Plate helmet \c[2][9]\c[0]
+\i[302] Gaunt plate armor \c[2][20]\c[0]
+\i[316] Gaunt bascinet \c[2][10]\c[0]
+____TEXT____
+You trade 8 \c[2]Silver coins\c[0] for a \c[2]Hard leather armor\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 4 \c[2]Silver coins\c[0] for a \c[2]Leather helmet\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 15 \c[2]Silver coins\c[0] for a \c[2]Plate mail\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 9 \c[2]Silver coins\c[0] for a \c[2]Plate helmet\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 20 \c[2]Silver coins\c[0] for a \c[2]Gaunt plate armor\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 10 \c[2]Silver coins\c[0] for a \c[2]Gaunt bascinet\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+___CHOICE___
+\i[200] Wooden buckler \c[2][4]\c[0]
+\i[199] Spider shield \c[2][8]\c[0]
+\i[256] Eagle crest shield \c[2][10]\c[0]
+\i[271] Leg guards \c[2][8]\c[0]
+\i[270] Arm guards \c[2][8]\c[0]
+Nevermind
+____TEXT____
+You trade 4 \c[2]Silver coins\c[0] for a \c[2]Wooden buckler\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 8 \c[2]Silver coins\c[0] for a \c[2]Spider shield\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 15 \c[2]Silver coins\c[0] for an \c[2]Eagle crest shield\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 8 \c[2]Silver coins\c[0] for \c[2]Leg guards\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 8 \c[2]Silver coins\c[0] for \c[2]Arm guards\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.

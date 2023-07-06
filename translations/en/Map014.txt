@@ -1,0 +1,319 @@
+____TEXT____
+Your child is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+The girl is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+The stone has a heavy aura to it. It's almost too much
+for you to carry...
+____TEXT____
+Moonless is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[16]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[17]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[18]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[1]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[3]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[6]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[5]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[4]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[19]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[20]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+MERCENARY
+KNIGHT
+CAPTAIN
+OUTLANDER
+MARRIAGE
+____TEXT____
+Here lies \N[21]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+There's a thing here.
+___CHOICE___
+Put your hand inside
+Investigate it
+Leave
+____TEXT____
+It feels warm inside.
+____TEXT____
+The hole goes on beyond your reach.
+____TEXT____
+It's a thing. Looks like an anthill, but there are no ants.
+___CHOICE___
+Smell it
+Listen inside
+Poke it
+Leave
+____TEXT____
+A smell of tobacco...
+____TEXT____
+A faint echo can be heard resonating from the inside.
+____TEXT____
+It's sides are squishy but firm.
+<follower touch>
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead hound.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the cavewolf.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+A wild hound lies dead on the ground.
+___CHOICE___
+Beat him
+Search him
+Leave
+____TEXT____
+The hound is definitely dead.
+____TEXT____
+The hound doesn't appear to have anything.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+A pile of flesh remains here...
+____TEXT____
+There's a thing here.
+___CHOICE___
+Put your hand inside
+Investigate it
+Leave
+____TEXT____
+It feels warm inside.
+____TEXT____
+The hole goes on beyond your reach.
+____TEXT____
+It's a thing. Looks like an anthill, but there are no ants.
+___CHOICE___
+Smell it
+Listen inside
+Poke it
+Leave
+____TEXT____
+A smell of tobacco...
+____TEXT____
+A faint echo can be heard resonating from the inside.
+____TEXT____
+It's sides are squishy but firm.
+____TEXT____
+There's a thing here.
+___CHOICE___
+Put your hand inside
+Investigate it
+Leave
+____TEXT____
+It feels warm inside.
+____TEXT____
+The hole goes on beyond your reach.
+____TEXT____
+It's a thing. Looks like an anthill, but there are no ants.
+___CHOICE___
+Smell it
+Listen inside
+Poke it
+Leave
+____TEXT____
+A smell of tobacco...
+____TEXT____
+A faint echo can be heard resonating from the inside.
+____TEXT____
+It's sides are squishy but firm.
+____TEXT____
+You find a \c[2]Stick\c[0]!
+____TEXT____
+You find a \c[2]Stick\c[0]!

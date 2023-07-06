@@ -1,0 +1,1604 @@
+____TEXT____
+Murals depicting ancient kings offering gifts to older
+gods.
+____TEXT____
+The mercenary Cahara seems to have left your party without
+you noticing it.
+____TEXT____
+You are also missing the \c[2]King's crown\c[0].
+____TEXT____
+The mercenary Cahara seems to have left your party without
+you noticing it.
+____TEXT____
+You are also missing the \c[2]King's crown\c[0].
+____TEXT____
+Moonless is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[6]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[5]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[4]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[3]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[1]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+The mercenary Cahara seems to have left your party without
+you noticing it.
+____TEXT____
+You are also missing the \c[2]King's crown\c[0].
+____TEXT____
+The girl is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+The stone has a heavy aura to it. It's almost too much
+for you to carry...
+____TEXT____
+Here lies \N[16]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[17]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[18]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+MERCENARY
+KNIGHT
+CAPTAIN
+OUTLANDER
+MARRIAGE
+____TEXT____
+Your child is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+The mercenary Cahara seems to have left your party without
+you noticing it.
+____TEXT____
+You are also missing the \c[2]King's crown\c[0].
+<follower touch>
+<follower touch>
+<follower touch>
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to the
+remains of the creature...
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead guard.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead guard.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+You took \c[2]Lord of flies fur\c[0]!
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to the
+remains of the creature...
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead guard.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead guard.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+You already searched him.
+____TEXT____
+You took \c[2]Lord of flies fur\c[0]!
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+You already searched him.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to the
+remains of the creature...
+____TEXT____
+A pile of flesh remains here...
+____TEXT____
+There's something going on...
+____TEXT____
+The hairy beast is dragging someone...
+___CHOICE___
+Interrupt the beast
+Ignore
+____TEXT____
+There is a knight from the Kingdom of Rondon here...
+____TEXT____
+You don't have time to check her with the creature so close
+by.
+____TEXT____
+There is a knight from the Kingdom of Rondon here...
+___CHOICE___
+Investigate
+Leave
+____TEXT____
+She is scarred, dismembered and badly beaten.
+____TEXT____
+But still alive just barely.
+____TEXT____
+There is a knight from the Kingdom of Rondon here...
+___CHOICE___
+Investigate
+Leave
+____TEXT____
+She is scarred, dismembered and badly beaten. She's dead.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+There is a dead knight here...
+___CHOICE___
+Beat her
+Search her
+Leave
+____TEXT____
+No reaction. She really is dead.
+____TEXT____
+You undress the knight and take her \c[2]Plate mail\c[0]
+and \c[2]Long sword\c[0] with you.
+____TEXT____
+She also has \c[2]2 Blue vials\c[0] with her.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+There is a dead knight here...
+___CHOICE___
+Beat her
+Search her
+Leave
+____TEXT____
+No reaction. She really is dead.
+____TEXT____
+She's got nothing left on her.
+____TEXT____
+The doorway is boarded up for some reason. Seems like this
+whole city has been abandoned...
+____TEXT____
+The doorway is boarded up for some reason. Seems like this
+whole city has been abandoned...
+____TEXT____
+The doorway is boarded up for some reason. Seems like this
+whole city has been abandoned...
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+There is a huge pile of rubble here...
+___CHOICE___
+Take a stone
+Leave
+____TEXT____
+You take a \c[2]Stone\c[0].
+____TEXT____
+There is a huge pile of rubble here...
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the barrel for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the barrel for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the barrel for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+There is a huge pile of rubble here...
+___CHOICE___
+Take a stone
+Leave
+____TEXT____
+You take a \c[2]Stone\c[0].
+____TEXT____
+There is a huge pile of rubble here...
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+CHEST
+____TEXT____
+A sturdy chest. It doesn't seem to be locked.
+___CHOICE___
+Open
+Leave
+___CHOICE___
+HEADS
+TAILS
+____TEXT____
+It's empty.
+CHEST
+____TEXT____
+There is nothing left in the chest anymore.
+CHEST
+____TEXT____
+A sturdy chest. It doesn't seem to be locked.
+___CHOICE___
+Open
+Leave
+___CHOICE___
+HEADS
+TAILS
+____TEXT____
+It's empty.
+CHEST
+____TEXT____
+There is nothing left in the chest anymore.
+____TEXT____
+A sturdy chest. It doesn't seem to be locked.
+___CHOICE___
+Open
+Leave it
+___CHOICE___
+HEADS
+TAILS
+____TEXT____
+Empty.
+____TEXT____
+Empty.
+____TEXT____
+There is nothing left in the chest anymore.
+____TEXT____
+A sturdy chest. It doesn't seem to be locked.
+___CHOICE___
+Open
+Leave it
+___CHOICE___
+HEADS
+TAILS
+____TEXT____
+Empty.
+____TEXT____
+Empty.
+____TEXT____
+There is nothing left in the chest anymore.
+____TEXT____
+A sturdy chest. It doesn't seem to be locked.
+___CHOICE___
+Open
+Leave it
+___CHOICE___
+HEADS
+TAILS
+____TEXT____
+Empty.
+____TEXT____
+Empty.
+____TEXT____
+There is nothing left in the chest anymore.
+____TEXT____
+A sturdy chest. It doesn't seem to be locked.
+___CHOICE___
+Open
+Leave it
+___CHOICE___
+HEADS
+TAILS
+____TEXT____
+Empty.
+____TEXT____
+Empty.
+____TEXT____
+There is nothing left in the chest anymore.
+____TEXT____
+Murals depicting ancient kings offering gifts to older
+gods.
+____TEXT____
+Murals depicting ancient kings offering gifts to older
+gods.
+____TEXT____
+Murals depicting ancient kings offering gifts to older
+gods.
+____TEXT____
+Murals depicting ancient kings offering gifts to older
+gods.
+____TEXT____
+Murals depicting ancient kings offering gifts to older
+gods.
+____TEXT____
+Murals depicting ancient kings offering gifts to older
+gods.
+____TEXT____
+Murals depicting ancient kings offering gifts to older
+gods.
+____TEXT____
+Murals depicting ancient kings offering gifts to older
+gods.
+____TEXT____
+Murals depicting ancient kings offering gifts to older
+gods.
+____TEXT____
+Here lies \N[19]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[20]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[21]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+The female knight comes back to her senses. She seems
+to be in a very bad condition...
+____TEXT____
+\c[7]Rondon knight\c[0]
+"Uhh..."
+____TEXT____
+\c[7]Rondon knight\c[0]
+"Who-who are you...? What happened?"
+___CHOICE___
+Introduce yourself
+"Who are you?"
+____TEXT____
+\c[7]Jeanne\c[0]
+"Pleasure. I'm Jeanne... from the Kingdom of Rondon."
+____TEXT____
+\c[7]Jeanne\c[0]
+"I guess I have you to thank for saving me..."
+____TEXT____
+\c[7]Jeanne\c[0]
+"I'm Jeanne from the Kingdom of Rondon."
+____TEXT____
+\c[7]Jeanne\c[0]
+"Now it would be polite to introduce yourself too."
+___CHOICE___
+Introduce yourself
+"..."
+____TEXT____
+\c[7]Jeanne\c[0]
+"It's a pleasure..."
+____TEXT____
+\c[7]Jeanne\c[0]
+"I guess I have you to thank for saving me..."
+____TEXT____
+\c[7]Jeanne\c[0]
+"Really, this is how it is going to be?"
+____TEXT____
+\c[7]Jeanne\c[0]
+"Well thank you for saving me in any case... I guess being
+polite has nothing to do with that."
+____TEXT____
+\c[7]Jeanne\c[0]
+"I think I remember what happened... We were getting to 
+the lower levels of the prison."
+____TEXT____
+\c[7]Jeanne\c[0]
+"But then we got ambushed..."
+___CHOICE___
+"Who is 'we'?"
+"Ambushed by what?"
+____TEXT____
+\c[7]Jeanne\c[0]
+"There was a small party of us... We came down here to the
+dungeons."
+____TEXT____
+\c[7]Jeanne\c[0]
+"We were meant to save the brother of one of our comrades.
+He was serving at the dungeons of fear and hunger as the
+captain."
+____TEXT____
+\c[7]Jeanne\c[0]
+"Several days ago we got a plead for help from the dungeons.
+Something had gone terribly wrong..."
+____TEXT____
+\c[7]Jeanne\c[0]
+"Our party was separated already at the first floors of the
+dungeon. We were thrown in the midst of chaos right from the
+start"
+____TEXT____
+\c[7]Jeanne\c[0]
+"Me and the dark knight Seril ended up together and when
+we couldn't find the others, we decided to dwell lower..."
+____TEXT____
+\c[7]Jeanne\c[0]
+"Big mistake."
+____TEXT____
+\c[7]Jeanne\c[0]
+"We were then ambushed by a creature with a head of a 
+crow..."
+____TEXT____
+\c[7]Jeanne\c[0]
+"I have no idea what happened to Seril, but I hid in the
+catacombs, only to be found out by that hairy beast later
+on..."
+____TEXT____
+\c[7]Jeanne\c[0]
+*cough* *cough*
+____TEXT____
+Jeanne coughs blood. She looks to be in serious pain.
+____TEXT____
+\c[7]Jeanne\c[0]
+"...I have a favor to ask..."
+____TEXT____
+\c[7]Jeanne\c[0]
+"It might be a bit too much to ask, but could you help me
+to the upper floors of the dungeon?"
+____TEXT____
+\c[7]Jeanne\c[0]
+"We were supposed to re-group at the basement area."
+____TEXT____
+\c[7]Jeanne\c[0]
+"I'm afraid I'm in a way too bad of a shape to get there 
+on my own."
+____TEXT____
+\c[7]Jeanne\c[0]
+"I know it's a big detour from here... but..."
+___CHOICE___
+"Sure, I'll help."
+"I'm afraid I'm in a hurry..."
+"Forget it."
+____TEXT____
+\c[7]Jeanne\c[0]
+"You will?!"
+____TEXT____
+\c[7]Jeanne\c[0]
+"Thank you so much!"
+____TEXT____
+\c[7]Jeanne\c[0]
+"...Yes... I can understand that..."
+____TEXT____
+\c[7]Jeanne\c[0]
+"I'm sure I can make it on my own too..."
+___CHOICE___
+"Good luck."
+"I doubt it."
+____TEXT____
+\c[7]Jeanne\c[0]
+"..."
+____TEXT____
+\c[7]Jeanne\c[0]
+"..."
+____TEXT____
+\c[7]Jeanne\c[0]
+"You know, I changed my mind. I don't even want your help."
+____TEXT____
+\c[7]Jeanne\c[0]
+"..."
+____TEXT____
+\c[7]Jeanne\c[0]
+"You know, I changed my mind. I don't even want your help."
+____TEXT____
+\c[7]Jeanne\c[0]
+"..."
+____TEXT____
+\c[7]Jeanne\c[0]
+"I just need to catch my breath first..."
+____TEXT____
+There is a terrified look on the face of Jeanne.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+It's pitch black inside...
+___CHOICE___
+Peek
+Leave
+____TEXT____
+You try to peek inside...
+____TEXT____
+In the shadows you can make out a small room with some
+basic furniture and stairs. There might be a chest in
+there too...
+____TEXT____
+No signs of life can be detected.
+____TEXT____
+There's something going on...
+____TEXT____
+The hairy beast is dragging someone...
+___CHOICE___
+Interrupt the beast
+Ignore
+____TEXT____
+There's something going on...
+____TEXT____
+The hairy beast is dragging someone...
+___CHOICE___
+Interrupt the beast
+Ignore
+____TEXT____
+There's something going on...
+____TEXT____
+The hairy beast is dragging someone...
+___CHOICE___
+Interrupt the beast
+Ignore
+____TEXT____
+Where do you want to take Jeanne to?
+___CHOICE___
+Where she asked to
+To Trortur
+____TEXT____
+You slowly make your way back to the upper floors, all the
+while keeping quiet about where you're taking her...
+____TEXT____
+You slowly make your way back to the upper floors, all the
+way to the basement...
+<follower touch>
+____TEXT____
+\c[7]Scarab\c[0]
+"Oh! You talk our language master?"
+____TEXT____
+\c[7]Scarab\c[0]
+"This city. It's our home! We took it from the spiderlings!"
+____TEXT____
+Scarab is peaceful now.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the scarab.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+The shell was a bit too crunchy for your taste...
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the scarab.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave him
+____TEXT____
+The shell of the creature is surprisingly hard... It
+hurt you a little beating it.
+____TEXT____
+The scarab has nothing of value.
+____TEXT____
+The shell is too hard for skinning.
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+The shell of the creature is surprisingly hard... It
+hurt you a little beating it.
+____TEXT____
+The scarab has nothing of value.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+A pile of flesh remains here...
+<follower touch>
+____TEXT____
+\c[7]Scarab\c[0]
+"Oh! You talk our language master?"
+____TEXT____
+\c[7]Scarab\c[0]
+"This city. It's our home! We took it from the spiderlings!"
+____TEXT____
+Scarab is peaceful now.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the scarab.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+The shell was a bit too crunchy for your taste...
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the scarab.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave him
+____TEXT____
+The shell of the creature is surprisingly hard... It
+hurt you a little beating it.
+____TEXT____
+The scarab has nothing of value.
+____TEXT____
+The shell is too hard for skinning.
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+The shell of the creature is surprisingly hard... It
+hurt you a little beating it.
+____TEXT____
+The scarab has nothing of value.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+A pile of flesh remains here...
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+There is nothing left in the crate.
+____TEXT____
+There is a huge pile of rubble here...
+___CHOICE___
+Take a stone
+Leave
+____TEXT____
+You take a \c[2]Stone\c[0].
+____TEXT____
+There is a huge pile of rubble here...
+____TEXT____
+There is a huge pile of rubble here...
+___CHOICE___
+Take a stone
+Leave
+____TEXT____
+You take a \c[2]Stone\c[0].
+____TEXT____
+There is a huge pile of rubble here...
+____TEXT____
+There is a huge pile of rubble here...
+___CHOICE___
+Take a stone
+Leave
+____TEXT____
+You take a \c[2]Stone\c[0].
+____TEXT____
+There is a huge pile of rubble here...
+____TEXT____
+There is a huge pile of rubble here...
+___CHOICE___
+Take a stone
+Leave
+____TEXT____
+You take a \c[2]Stone\c[0].
+____TEXT____
+There is a huge pile of rubble here...
+____TEXT____
+There is a huge pile of rubble here...
+___CHOICE___
+Take a stone
+Leave
+____TEXT____
+You take a \c[2]Stone\c[0].
+____TEXT____
+There is a huge pile of rubble here...
+____TEXT____
+There is a huge pile of rubble here...
+___CHOICE___
+Take a stone
+Leave
+____TEXT____
+You take a \c[2]Stone\c[0].
+____TEXT____
+There is a huge pile of rubble here...
+____TEXT____
+There is a huge pile of rubble here...
+___CHOICE___
+Take a stone
+Leave
+____TEXT____
+You take a \c[2]Stone\c[0].
+____TEXT____
+There is a huge pile of rubble here...
+____TEXT____
+There is a huge pile of rubble here...
+___CHOICE___
+Take a stone
+Leave
+____TEXT____
+You take a \c[2]Stone\c[0].
+____TEXT____
+There is a huge pile of rubble here...
+____TEXT____
+There is a huge pile of rubble here...
+___CHOICE___
+Take a stone
+Leave
+____TEXT____
+You take a \c[2]Stone\c[0].
+____TEXT____
+There is a huge pile of rubble here...
+____TEXT____
+There is a huge pile of rubble here...
+___CHOICE___
+Take a stone
+Leave
+____TEXT____
+You take a \c[2]Stone\c[0].
+____TEXT____
+There is a huge pile of rubble here...
+____TEXT____
+There is a pile of rubble here...
+___CHOICE___
+Take a stone
+Leave
+____TEXT____
+You take a \c[2]Stone\c[0].
+____TEXT____
+There is a pile of rubble here...
+____TEXT____
+There is a pile of rubble here...
+___CHOICE___
+Take a stone
+Leave
+____TEXT____
+You take a \c[2]Stone\c[0].
+____TEXT____
+There is a pile of rubble here...
+____TEXT____
+There is a pile of rubble here...
+___CHOICE___
+Take a stone
+Leave
+____TEXT____
+You take a \c[2]Stone\c[0].
+____TEXT____
+There is a pile of rubble here...
+____TEXT____
+There is a pile of rubble here...
+___CHOICE___
+Take a stone
+Leave
+____TEXT____
+You take a \c[2]Stone\c[0].
+____TEXT____
+There is a pile of rubble here...
+____TEXT____
+There is a huge pile of rubble here...
+___CHOICE___
+Take a stone
+Leave
+____TEXT____
+You take a \c[2]Stone\c[0].
+____TEXT____
+There is a huge pile of rubble here...
+____TEXT____
+There is a huge pile of rubble here...
+___CHOICE___
+Take a stone
+Leave
+____TEXT____
+You take a \c[2]Stone\c[0].
+____TEXT____
+There is a huge pile of rubble here...
+____TEXT____
+There is a huge pile of rubble here...
+___CHOICE___
+Take a stone
+Leave
+____TEXT____
+You take a \c[2]Stone\c[0].
+____TEXT____
+There is a huge pile of rubble here...
+____TEXT____
+There is a huge pile of rubble here...
+___CHOICE___
+Take a stone
+Leave
+____TEXT____
+You take a \c[2]Stone\c[0].
+____TEXT____
+There is a huge pile of rubble here...
+____TEXT____
+There is a huge pile of rubble here...
+___CHOICE___
+Take a stone
+Leave
+____TEXT____
+You take a \c[2]Stone\c[0].
+____TEXT____
+There is a huge pile of rubble here...
+____TEXT____
+There is a huge pile of rubble here...
+___CHOICE___
+Take a stone
+Leave
+____TEXT____
+You take a \c[2]Stone\c[0].
+____TEXT____
+There is a huge pile of rubble here...
+____TEXT____
+There is a huge pile of rubble here...
+___CHOICE___
+Take a stone
+Leave
+____TEXT____
+You take a \c[2]Stone\c[0].
+____TEXT____
+There is a huge pile of rubble here...
+____TEXT____
+There is a huge pile of rubble here...
+___CHOICE___
+Take a stone
+Leave
+____TEXT____
+You take a \c[2]Stone\c[0].
+____TEXT____
+There is a huge pile of rubble here...
+____TEXT____
+There is a huge pile of rubble here...
+___CHOICE___
+Take a stone
+Leave
+____TEXT____
+You take a \c[2]Stone\c[0].
+____TEXT____
+There is a huge pile of rubble here...
+____TEXT____
+There is a huge pile of rubble here...
+___CHOICE___
+Take a stone
+Leave
+____TEXT____
+You take a \c[2]Stone\c[0].
+____TEXT____
+There is a huge pile of rubble here...
+____TEXT____
+There is a huge pile of rubble here...
+___CHOICE___
+Take a stone
+Leave
+____TEXT____
+You take a \c[2]Stone\c[0].
+____TEXT____
+There is a huge pile of rubble here...
+____TEXT____
+There is a huge pile of rubble here...
+___CHOICE___
+Take a stone
+Leave
+____TEXT____
+You take a \c[2]Stone\c[0].
+____TEXT____
+There is a huge pile of rubble here...
+____TEXT____
+There is a huge pile of rubble here...
+___CHOICE___
+Take a stone
+Leave
+____TEXT____
+You take a \c[2]Stone\c[0].
+____TEXT____
+There is a huge pile of rubble here...
+____TEXT____
+There is a huge pile of rubble here...
+___CHOICE___
+Take a stone
+Leave
+____TEXT____
+You take a \c[2]Stone\c[0].
+____TEXT____
+There is a huge pile of rubble here...
+____TEXT____
+There is a huge pile of rubble here...
+___CHOICE___
+Take a stone
+Leave
+____TEXT____
+You take a \c[2]Stone\c[0].
+____TEXT____
+There is a huge pile of rubble here...
+____TEXT____
+There is a huge pile of rubble here...
+___CHOICE___
+Take a stone
+Leave
+____TEXT____
+You take a \c[2]Stone\c[0].
+____TEXT____
+There is a huge pile of rubble here...
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+There is nothing left in the crate.
+____TEXT____
+There is a huge pile of rubble here...
+___CHOICE___
+Take a stone
+Leave
+____TEXT____
+You take a \c[2]Stone\c[0].
+____TEXT____
+There is a huge pile of rubble here...
+____TEXT____
+There is a huge pile of rubble here...
+___CHOICE___
+Take a stone
+Leave
+____TEXT____
+You take a \c[2]Stone\c[0].
+____TEXT____
+There is a huge pile of rubble here...
+____TEXT____
+There is a huge pile of rubble here...
+___CHOICE___
+Take a stone
+Leave
+____TEXT____
+You take a \c[2]Stone\c[0].
+____TEXT____
+There is a huge pile of rubble here...
+____TEXT____
+There is a huge pile of rubble here...
+___CHOICE___
+Take a stone
+Leave
+____TEXT____
+You take a \c[2]Stone\c[0].
+____TEXT____
+There is a huge pile of rubble here...
+____TEXT____
+There is a huge pile of rubble here...
+___CHOICE___
+Take a stone
+Leave
+____TEXT____
+You take a \c[2]Stone\c[0].
+____TEXT____
+There is a huge pile of rubble here...
+____TEXT____
+There is a huge pile of rubble here...
+___CHOICE___
+Take a stone
+Leave
+____TEXT____
+You take a \c[2]Stone\c[0].
+____TEXT____
+There is a huge pile of rubble here...
+____TEXT____
+The mercenary Cahara seems to have left your party without
+you noticing it.
+____TEXT____
+You are also missing the \c[2]King's crown\c[0].
+<follower touch>
+<follower touch>
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead creature.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead creature.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+What do you want to do with the body?
+___CHOICE___
+Beat it
+Search it
+Leave
+____TEXT____
+You beat the remains. The body is solid and scaly under the
+coat.
+____TEXT____
+You take the \c[2]Trench coat\c[0] of the creature and you
+also find a \c[2]Throwing dart\c[0]
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead creature.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead creature.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+What do you want to do with the body?
+___CHOICE___
+Beat it
+Search it
+Leave
+____TEXT____
+You beat the remains. The body is solid and scaly under the
+coat.
+____TEXT____
+The creature has nothing left.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+A pile of flesh remains here...
+____TEXT____
+The chest is empty.
+____TEXT____
+The chest is empty.
+____TEXT____
+The chest is empty.
+____TEXT____
+The tiling feels a little loose here...
+___CHOICE___
+Dig the ground
+Leave
+____TEXT____
+You find the \c[2]King's crown\c[0] from the chest.
+____TEXT____
+This crown looks very valuable and pricey. It is bound to 
+guarantee wealthy life if you sold it to proper vendors in 
+the Kingdom of Rondon...
+____TEXT____
+The amount of silver and gold you could get from this would
+greatly exceed the amount you were originally promised as
+the bounty.
+____TEXT____
+There is no need to continue your journey to the depths.
+____TEXT____
+You could escape these dungeons and leave all this behind
+while you are still alive.
+____TEXT____
+\c[7]Cahara\c[0]
+"That crown sure looks valuable, huh?"
+____TEXT____
+\c[7]Cahara\c[0]
+"Wonder who used it?"
+___CHOICE___
+"No idea..."
+"You want the crown?"
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+____TEXT____
+\c[7]Cahara\c[0]
+"I think it would suit me pretty well, don'tcha think?"
+____TEXT____
+\c[7]Cahara\c[0]
+"Huh? Me? Where'd you get that impression haha?"
+____TEXT____
+\c[7]Cahara\c[0]
+"Although... Now that you mention it, we could split some
+of the loot we've got so far."
+____TEXT____
+\c[7]Cahara\c[0]
+"And... I guess I wouldn't mind getting that crown either."
+____TEXT____
+\c[7]Cahara\c[0]
+"So... How about I take it with me?"
+___CHOICE___
+"You can have it."
+"No."
+____TEXT____
+\c[7]Cahara\c[0]
+"Really?? Wow, thanks a lot!"
+____TEXT____
+You gave the \c[2]King's crown\c[0] to Cahara.
+____TEXT____
+\c[7]Cahara\c[0]
+"I owe you one!"
+____TEXT____
+\c[7]Cahara\c[0]
+"No?"
+____TEXT____
+\c[7]Cahara\c[0]
+"What's up with that? You know my services cost something
+too."
+____TEXT____
+\c[7]Cahara\c[0]
+"I ain't no free sword, they call us hired swords for a
+reason."
+___CHOICE___
+"Fine. You can have it."
+"We can split the loot once we get out."
+____TEXT____
+\c[7]Cahara\c[0]
+"Yeah? Well cheers."
+____TEXT____
+You gave the \c[2]King's crown\c[0] to Cahara.
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+____TEXT____
+The chest is empty.
+____TEXT____
+The chest is empty.
+____TEXT____
+You managed to defeat the spectre that was after your sword.
+____TEXT____
+Like distant winds carried from from the far-away lands 
+you hear whispers...
+____TEXT____
+\c[7]Assassin spectre\c[0]
+"Finish... my...task..."
+____TEXT____
+\c[7]Assassin spectre\c[0]
+"O... worthy..."
+____TEXT____
+The \c[2]Eastern sword\c[0] was purified!
+____TEXT____
+The engraving on the hilt becomes clear to you now.
+\c[2]Eastern sword\c[0] was purified and it revealed its
+true name to you - the Black steel of the East.
+____TEXT____
+You managed to defeat the spectre that was after your sword.
+____TEXT____
+Like distant winds carried from from the far-away lands 
+you hear whispers...
+____TEXT____
+\c[7]Assassin spectre\c[0]
+"Finish... my...task..."
+____TEXT____
+\c[7]Assassin spectre\c[0]
+"O... worthy..."
+____TEXT____
+The \c[2]Eastern sword\c[0] was purified!
+____TEXT____
+The engraving on the hilt becomes clear to you now.
+\c[2]Eastern sword\c[0] was purified and it revealed its
+true name to you - the Black steel of the East.
+____TEXT____
+You managed to defeat the spectre that was after your sword.
+____TEXT____
+Like distant winds carried from from the far-away lands 
+you hear whispers...
+____TEXT____
+\c[7]Assassin spectre\c[0]
+"Finish... my...task..."
+____TEXT____
+\c[7]Assassin spectre\c[0]
+"O... worthy..."
+____TEXT____
+The \c[2]Eastern sword\c[0] was purified!
+____TEXT____
+The engraving on the hilt becomes clear to you now.
+\c[2]Eastern sword\c[0] was purified and it revealed its
+true name to you - the Black steel of the East.
+____TEXT____
+You managed to defeat the spectre that was after your sword.
+____TEXT____
+Like distant winds carried from from the far-away lands 
+you hear whispers...
+____TEXT____
+\c[7]Assassin spectre\c[0]
+"Finish... my...task..."
+____TEXT____
+\c[7]Assassin spectre\c[0]
+"O... worthy..."
+____TEXT____
+The \c[2]Eastern sword\c[0] was purified!
+____TEXT____
+The engraving on the hilt becomes clear to you now.
+\c[2]Eastern sword\c[0] was purified and it revealed its
+true name to you - the Black steel of the East.

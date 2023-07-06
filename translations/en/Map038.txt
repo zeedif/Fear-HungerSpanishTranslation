@@ -1,0 +1,2084 @@
+____TEXT____
+There is a strange mechanism here.
+___CHOICE___
+Use the mechanism
+Leave
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Well hello stranger~!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"How are you doing on this wonderful day?"
+___CHOICE___
+"What is so wonderful about it?"
+"Depressed as always."
+"I want to die."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"New day brings new challenges. What is life without
+challenges?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"..."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Well ain'tcha a killjoy?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Don't we all? Don't we all?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Life sure is peculiar like that, huh?"
+___CHOICE___
+"Life is peculiar when you're peculiar."
+"What are you doing here?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Got that right! I'm liking you already!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I know we just met, but I feel the connection forming
+here already!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I hope you don't mind if I ask this straight..."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Living humans are divided into two groups, yes?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"There are children of light. Those destined to walk
+under the bright sun."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Those people do well in all hardships of life. They 
+have dear humans who they want to return to."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Even in the darkest hour, they can feel warmth of
+their loved ones in their heart and gain extra courage
+from that."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Then in the opposite end of spectrum, there are people 
+of darkness."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Those humans are often driven to depression and sorrow
+because of life's peculiar ways."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"But they have learned how to live with those feelings.
+In fact, they have grown to love the ever-pressing
+darkness within."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Those humans are able to draw energy from darkness,
+they are not dependant on other people. They only need
+darkness, their old friend."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"So, humans of light and darkness... Which one are you?"
+___CHOICE___
+"Light"
+"Darkness"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I see I see. I am surprised to hear that to be honest.
+I hope you don't let these dungeons affect you in that
+case."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Yes~! They all are. I suspected as much. I am glad you
+were able to be so honest with me."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Tell me - do you love me by chance?"
+___CHOICE___
+"Yes"
+"No"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Right..."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"So you really aren't a human of darkness. You just
+said so, because you thought that's what I wanted to
+hear."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"But that's alright. Really. However, you must always 
+remember to be yourself in every situation."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Even if you love someone. Because if you base your
+love on a lie like that, it won't end well for you."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Well it probably won't end well anyways. But that's
+life. Peculiar as always."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Hooo~! Very good very good."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I love honest words, even when they hurt me."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"..."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I say that now... But I'm probably going to feel
+really awful later on."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"But don't you worry about that. Really. I have grown
+to love this feeling of being rejected."
+____TEXT____
+\c[7]Pocketcat\c[0]
+Well anyways, I'm a merchant of sorts. I sell precious
+items and weapons for those in need."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"The funny thing is though; I don't want your gold or
+silver."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I will trade items for human children. Bring them to
+me and I'll make it worth your while."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"My pockets are very deep, you see~"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Hm. Straight to business, huh? Enough small talk?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Fair enough. I'm a merchant of sorts. I sell precious
+items and weapons for those in need."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"The funny thing is though; I don't want your gold or
+silver in exchange."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I will trade items for human children. Bring them to
+me and I'll make it worth your while."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"My pockets are very deep, you see~"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Well hello stranger~!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"..."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"And hello~ little one!!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"What a pretty little face you are! I like your hips
+and ankles especially!"
+____TEXT____
+\c[7]Girl\c[0]
+"..."
+____TEXT____
+The girl seems to be scared of Pocketcat.
+____TEXT____
+\c[7]Pocketcat\c[0]
+"How about I make an offer you cannot refuse!
+Just for you, my special customer~"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I will trade the little girl to an item of your
+choosing!"
+___CHOICE___
+\c[2]Claymore\c[0]
+\c[2]Book of enlightment\c[0]
+No deal
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade the little girl for \c[2]Claymore\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade the little girl for \c[2]Book of enlightment\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"O-oh. How disapointing. Y-you sure about this?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"The offer lasts! Come back if you change your mind!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I will trade the little girl to an item of your
+choosing!"
+___CHOICE___
+\c[2]Claymore\c[0]
+\c[2]Book of forgotten memories\c[0]
+\c[2]Book of enlightment\c[0]
+No deal
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade the little girl for \c[2]Claymore\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade the little girl for \c[2]Book of the forgotten
+memories\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade the little girl for \c[2]Book of enlightment\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"O-oh. How disapointing. Y-you sure about this?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"The offer lasts! Come back if you change your mind!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I will trade the little girl to an item of your
+choosing!"
+___CHOICE___
+\c[2]Claymore\c[0]
+\c[2]Necronomicon\c[0]
+\c[2]Book of enlightment\c[0]
+No deal
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade the little girl for \c[2]Claymore\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade the little girl for \c[2]Ancient book\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade the little girl for \c[2]Book of enlightment\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"O-oh. How disapointing. Y-you sure about this?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"The offer lasts! Come back if you change your mind!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I will trade the little girl to an item of your
+choosing!"
+___CHOICE___
+\c[2]Claymore\c[0]
+\c[2]Necronomicon\c[0]
+\c[2]Book of forgotten memories\c[0]
+\c[2]Book of enlightment\c[0]
+No deal
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade the little girl for \c[2]Claymore\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade the little girl for \c[2]Ancient book\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade the little girl for \c[2]Book of the forgotten
+memories\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade the little girl for \c[2]Book of enlightment\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"O-oh. How disapointing. Y-you sure about this?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"The offer lasts! Come back if you change your mind!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Well hello stranger~!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"..."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"And hello~ little one!!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"What a peculiar little creature you are!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Am I imagining things or do you share features with this
+caretaker of yours?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Is she your momma by any chance?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Is he your daddy by any chance?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I'd like to be your daddy too..."
+____TEXT____
+\N[8] doesn't seem to react to Pocketcat in any way.
+____TEXT____
+\c[7]Pocketcat\c[0]
+"How about I make an offer you cannot refuse!
+Just for you, my special customer~"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I will trade the little rascal to an item of your
+choosing!"
+___CHOICE___
+\c[2]Claymore\c[0]
+\c[2]Book of enlightment\c[0]
+No deal
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade \N[8] for \c[2]Claymore\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade \N[8] for \c[2]Book of enlightment\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"O-oh. How disapointing. Y-you sure about this?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"The offer lasts! Come back if you change your mind!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I will trade the little rascal to an item of your
+choosing!"
+___CHOICE___
+\c[2]Claymore\c[0]
+\c[2]Book of forgotten memories\c[0]
+\c[2]Book of enlightment\c[0]
+No deal
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade \N[8] for \c[2]Claymore\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade \N[8] for \c[2]Book of the forgotten
+memories\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade \N[8] for \c[2]Book of enlightment\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"O-oh. How disapointing. Y-you sure about this?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"The offer lasts! Come back if you change your mind!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I will trade the little rascal to an item of your
+choosing!"
+___CHOICE___
+\c[2]Claymore\c[0]
+\c[2]Necronomicon\c[0]
+\c[2]Book of enlightment\c[0]
+No deal
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade \N[8] for \c[2]Claymore\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade \N[8] for \c[2]Ancient book\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade \N[8] for \c[2]Book of enlightment\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"O-oh. How disapointing. Y-you sure about this?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"The offer lasts! Come back if you change your mind!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I will trade the little rascal to an item of your
+choosing!"
+___CHOICE___
+\c[2]Claymore\c[0]
+\c[2]Necronomicon\c[0]
+\c[2]Book of forgotten memories\c[0]
+\c[2]Book of enlightment\c[0]
+No deal
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade \N[8] for \c[2]Claymore\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade \N[8] for \c[2]Ancient book\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade \N[8] for \c[2]Book of the forgotten
+memories\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade \N[8] for \c[2]Book of enlightment\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"O-oh. How disapointing. Y-you sure about this?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"The offer lasts! Come back if you change your mind!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Well hello stranger~!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"..."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I'm not seeing any children with you..."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Well hello stranger~!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"..."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"And hello~ little one!!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"What a peculiar little creature you are!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Am I imagining things or do you share features with this
+caretaker of yours?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Is she your momma by any chance?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Is he your daddy by any chance?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I'd like to be your daddy too..."
+____TEXT____
+\N[8] doesn't seem to react to Pocketcat in any way.
+____TEXT____
+\c[7]Pocketcat\c[0]
+"How about I make an offer you cannot refuse!
+Just for you, my special customer~"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I will trade the little rascal to an item of your
+choosing!"
+___CHOICE___
+\c[2]Claymore\c[0]
+\c[2]Book of enlightment\c[0]
+No deal
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade \N[8] for \c[2]Claymore\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade \N[8] for \c[2]Book of enlightment\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"O-oh. How disapointing. Y-you sure about this?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"The offer lasts! Come back if you change your mind!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I will trade the little rascal to an item of your
+choosing!"
+___CHOICE___
+\c[2]Claymore\c[0]
+\c[2]Book of forgotten memories\c[0]
+\c[2]Book of enlightment\c[0]
+No deal
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade \N[8] for \c[2]Claymore\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade \N[8] for \c[2]Book of the forgotten
+memories\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade \N[8] for \c[2]Book of enlightment\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"O-oh. How disapointing. Y-you sure about this?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"The offer lasts! Come back if you change your mind!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I will trade the little rascal to an item of your
+choosing!"
+___CHOICE___
+\c[2]Claymore\c[0]
+\c[2]Necronomicon\c[0]
+\c[2]Book of enlightment\c[0]
+No deal
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade \N[8] for \c[2]Claymore\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade \N[8] for \c[2]Ancient book\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade \N[8] for \c[2]Book of enlightment\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"O-oh. How disapointing. Y-you sure about this?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"The offer lasts! Come back if you change your mind!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I will trade the little rascal to an item of your
+choosing!"
+___CHOICE___
+\c[2]Claymore\c[0]
+\c[2]Necronomicon\c[0]
+\c[2]Book of forgotten memories\c[0]
+\c[2]Book of enlightment\c[0]
+No deal
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade \N[8] for \c[2]Claymore\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade \N[8] for \c[2]Ancient book\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade \N[8] for \c[2]Book of the forgotten
+memories\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade \N[8] for \c[2]Book of enlightment\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"O-oh. How disapointing. Y-you sure about this?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"The offer lasts! Come back if you change your mind!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Well hello stranger~!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I'm enjoying our little deal. I really am, believe me~"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"If you find any other children, please let's make
+business again, yes?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"My pockets are real deep, you see."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Well hello stranger~!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"..."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"And hello~ little one!!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"What a pretty little face you are! I like your hips
+and ankles especially!"
+____TEXT____
+\c[7]Girl\c[0]
+"..."
+____TEXT____
+The girl seems to be scared of Pocketcat.
+____TEXT____
+\c[7]Pocketcat\c[0]
+"How about I make an offer you cannot refuse!
+Just for you, my special customer~"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I will trade the little girl to an item of your
+choosing!"
+___CHOICE___
+\c[2]Claymore\c[0]
+\c[2]Book of enlightment\c[0]
+No deal
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade the little girl for \c[2]Claymore\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade the little girl for \c[2]Book of enlightment\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"O-oh. How disapointing. Y-you sure about this?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"The offer lasts! Come back if you change your mind!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I will trade the little girl to an item of your
+choosing!"
+___CHOICE___
+\c[2]Claymore\c[0]
+\c[2]Book of forgotten memories\c[0]
+\c[2]Book of enlightment\c[0]
+No deal
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade the little girl for \c[2]Claymore\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade the little girl for \c[2]Book of the forgotten
+memories\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade the little girl for \c[2]Book of enlightment\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"O-oh. How disapointing. Y-you sure about this?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"The offer lasts! Come back if you change your mind!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I will trade the little girl to an item of your
+choosing!"
+___CHOICE___
+\c[2]Claymore\c[0]
+\c[2]Necronomicon\c[0]
+\c[2]Book of enlightment\c[0]
+No deal
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade the little girl for \c[2]Claymore\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade the little girl for \c[2]Ancient book\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade the little girl for \c[2]Book of enlightment\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"O-oh. How disapointing. Y-you sure about this?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"The offer lasts! Come back if you change your mind!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I will trade the little girl to an item of your
+choosing!"
+___CHOICE___
+\c[2]Claymore\c[0]
+\c[2]Necronomicon\c[0]
+\c[2]Book of forgotten memories\c[0]
+\c[2]Book of enlightment\c[0]
+No deal
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade the little girl for \c[2]Claymore\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade the little girl for \c[2]Ancient book\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade the little girl for \c[2]Book of the forgotten
+memories\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade the little girl for \c[2]Book of enlightment\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"O-oh. How disapointing. Y-you sure about this?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"The offer lasts! Come back if you change your mind!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Well hello stranger~!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I'm enjoying our little deal. I really am, believe me~"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"If you find any other children, please let's make
+business again, yes?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"My pockets are real deep, you see."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"You drive a hard bargain my friend. But so do I. So do I~"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"If you find any other children, please let's make
+business again, yes?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"My pockets are real deep, you see."
+____TEXT____
+A pile of burnt bodies remain here.
+____TEXT____
+A pile of burnt bodies remain here.
+____TEXT____
+A pile of burnt bodies remain here.
+____TEXT____
+The girl is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+The stone has a heavy aura to it. It's almost too much
+for you to carry...
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+A pile of burnt bodies remain here.
+____TEXT____
+Cavemother seems to be finally dead.
+____TEXT____
+There is an opening between the legs...
+___CHOICE___
+Search
+Leave
+____TEXT____
+You reach out through the yellow muckus oozing from 
+the inside...
+____TEXT____
+You find a \c[2]Gnome egg\c[0]!
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Cavemother seems to be finally dead.
+____TEXT____
+There is a strange object here...
+___CHOICE___
+Break it
+Leave it
+____TEXT____
+The insides are disgusting and smell rotten.
+____TEXT____
+There is a strange object here...
+___CHOICE___
+Break it
+Leave it
+____TEXT____
+The insides are disgusting and smell rotten.
+____TEXT____
+There is a strange object here...
+___CHOICE___
+Break it
+Leave it
+____TEXT____
+There is murky yellow muckus inside...
+___CHOICE___
+Taste it
+Scoop in glass vial
+Leave it
+____TEXT____
+You taste the yellow muckus... \|
+The smell and taste of it is stingy and salty.
+____TEXT____
+The taste does not please you.
+____TEXT____
+You carefully scoop some of the yellow muckus into
+your glass vial.
+____TEXT____
+\c[2]Yellow muckus\c[0] obtained!
+___CHOICE___
+Taste it
+Leave it
+____TEXT____
+You taste the yellow muckus... \|
+The smell and taste of it is stingy and salty.
+____TEXT____
+The taste does not please you.
+____TEXT____
+There is a strange object here...
+___CHOICE___
+Break it
+Leave it
+____TEXT____
+There is murky yellow muckus inside...
+___CHOICE___
+Taste it
+Scoop in glass vial
+Leave it
+____TEXT____
+You taste the yellow muckus... \|
+The smell and taste of it is stingy and salty.
+____TEXT____
+The taste does not please you.
+____TEXT____
+You carefully scoop some of the yellow muckus into
+your glass vial.
+____TEXT____
+\c[2]Yellow muckus\c[0] obtained!
+___CHOICE___
+Taste it
+Leave it
+____TEXT____
+You taste the yellow muckus... \|
+The smell and taste of it is stingy and salty.
+____TEXT____
+The taste does not please you.
+____TEXT____
+There is a strange object here...
+___CHOICE___
+Break it
+Leave it
+____TEXT____
+The insides are disgusting and smell rotten.
+____TEXT____
+There is a strange object here...
+___CHOICE___
+Break it
+Leave it
+____TEXT____
+The insides are disgusting and smell rotten.
+____TEXT____
+There is a strange object here...
+___CHOICE___
+Break it
+Leave it
+____TEXT____
+The insides are disgusting and smell rotten.
+____TEXT____
+There is a strange object here...
+___CHOICE___
+Break it
+Leave it
+____TEXT____
+The insides are disgusting and smell rotten.
+____TEXT____
+There is a strange object here...
+___CHOICE___
+Break it
+Leave it
+____TEXT____
+There is murky yellow muckus inside...
+___CHOICE___
+Taste it
+Scoop in glass vial
+Leave it
+____TEXT____
+You taste the yellow muckus... \|
+The smell and taste of it is stingy and salty.
+____TEXT____
+The taste does not please you.
+____TEXT____
+You carefully scoop some of the yellow muckus into
+your glass vial.
+____TEXT____
+\c[2]Yellow muckus\c[0] obtained!
+___CHOICE___
+Taste it
+Leave it
+____TEXT____
+You taste the yellow muckus... \|
+The smell and taste of it is stingy and salty.
+____TEXT____
+The taste does not please you.
+____TEXT____
+There is a strange object here...
+___CHOICE___
+Break it
+Leave it
+____TEXT____
+The insides are disgusting and smell rotten.
+____TEXT____
+There is a strange object here...
+___CHOICE___
+Break it
+Leave it
+____TEXT____
+The insides are disgusting and smell rotten.
+____TEXT____
+There is a strange object here...
+___CHOICE___
+Break it
+Leave it
+____TEXT____
+The insides are disgusting and smell rotten.
+____TEXT____
+A pile of burnt bodies remain here.
+____TEXT____
+A pile of burnt bodies remain here.
+____TEXT____
+A pile of burnt bodies remain here.
+____TEXT____
+A pile of burnt bodies remain here.
+____TEXT____
+\c[7]Girl\c[0]
+"...."
+____TEXT____
+The girl is trembling...
+____TEXT____
+\c[7]Girl\c[0]
+"...."
+____TEXT____
+The girl is trembling...
+____TEXT____
+\c[7]Girl\c[0]
+"...."
+____TEXT____
+The girl is trembling...
+____TEXT____
+There is a strange object here...
+___CHOICE___
+Break it
+Leave it
+____TEXT____
+The insides are disgusting and smell rotten.
+____TEXT____
+There is a strange object here...
+___CHOICE___
+Break it
+Leave it
+____TEXT____
+The insides are disgusting and smell rotten.
+____TEXT____
+There is a strange object here...
+___CHOICE___
+Break it
+Leave it
+____TEXT____
+The insides are disgusting and smell rotten.
+____TEXT____
+There is a strange object here...
+___CHOICE___
+Break it
+Leave it
+____TEXT____
+The insides are disgusting and smell rotten.
+____TEXT____
+There is a strange object here...
+___CHOICE___
+Break it
+Leave it
+____TEXT____
+The insides are disgusting and smell rotten.
+____TEXT____
+There is a strange object here...
+___CHOICE___
+Break it
+Leave it
+____TEXT____
+The insides are disgusting and smell rotten.
+____TEXT____
+There is a strange object here...
+___CHOICE___
+Break it
+Leave it
+____TEXT____
+There is murky yellow muckus inside...
+___CHOICE___
+Taste it
+Scoop in glass vial
+Leave it
+____TEXT____
+You taste the yellow muckus... \|
+The smell and taste of it is stingy and salty.
+____TEXT____
+The taste does not please you.
+____TEXT____
+You carefully scoop some of the yellow muckus into
+your glass vial.
+____TEXT____
+\c[2]Yellow muckus\c[0] obtained!
+___CHOICE___
+Taste it
+Leave it
+____TEXT____
+You taste the yellow muckus... \|
+The smell and taste of it is stingy and salty.
+____TEXT____
+The taste does not please you.
+____TEXT____
+There is a strange object here...
+___CHOICE___
+Break it
+Leave it
+____TEXT____
+The insides are disgusting and smell rotten.
+____TEXT____
+There is a strange object here...
+___CHOICE___
+Break it
+Leave it
+____TEXT____
+There is murky yellow muckus inside...
+___CHOICE___
+Taste it
+Scoop in glass vial
+Leave it
+____TEXT____
+You taste the yellow muckus... \|
+The smell and taste of it is stingy and salty.
+____TEXT____
+The taste does not please you.
+____TEXT____
+You carefully scoop some of the yellow muckus into
+your glass vial.
+____TEXT____
+\c[2]Yellow muckus\c[0] obtained!
+___CHOICE___
+Taste it
+Leave it
+____TEXT____
+You taste the yellow muckus... \|
+The smell and taste of it is stingy and salty.
+____TEXT____
+The taste does not please you.
+____TEXT____
+There is a strange object here...
+___CHOICE___
+Break it
+Leave it
+____TEXT____
+The insides are disgusting and smell rotten.
+____TEXT____
+There is a strange object here...
+___CHOICE___
+Break it
+Leave it
+____TEXT____
+The insides are disgusting and smell rotten.
+____TEXT____
+Cavemother disappeared into darkness...
+____TEXT____
+A pile of burnt bodies remain here.
+____TEXT____
+Cavemother disappeared into darkness...
+____TEXT____
+A pile of burnt bodies remain here.
+____TEXT____
+A pile of burnt bodies remain here.
+____TEXT____
+A pile of burnt bodies remain here.
+____TEXT____
+A pile of burnt bodies remain here.
+____TEXT____
+A pile of burnt bodies remain here.
+____TEXT____
+A pile of burnt bodies remain here.
+____TEXT____
+A pile of burnt bodies remain here.
+____TEXT____
+A pile of burnt bodies remain here.
+____TEXT____
+A pile of burnt bodies remain here.
+____TEXT____
+There is a strange object here...
+___CHOICE___
+Break it
+Leave it
+____TEXT____
+There is a strange object here...
+___CHOICE___
+Break it
+Leave it
+____TEXT____
+There is a strange object here...
+___CHOICE___
+Break it
+Leave it
+____TEXT____
+An ancient statue stands here.
+____TEXT____
+Do you want to pray?
+___CHOICE___
+Pray Gro-goroth
+Pray Sylvian
+Pray Alll-mer
+Leave
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+You finish praying.
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+You finish praying.
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+You finish praying.
+____TEXT____
+An ancient statue stands here.
+____TEXT____
+Do you want to pray?
+___CHOICE___
+Pray Gro-goroth
+Pray Sylvian
+Pray Alll-mer
+Leave
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+You finish praying.
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+You finish praying.
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+You finish praying.
+____TEXT____
+An ancient statue stands here.
+____TEXT____
+Do you want to pray?
+___CHOICE___
+Pray Gro-goroth
+Pray Sylvian
+Pray Alll-mer
+Leave
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+You finish praying.
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+You finish praying.
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+You finish praying.
+____TEXT____
+An ancient statue stands here.
+____TEXT____
+Do you want to pray?
+___CHOICE___
+Pray Gro-goroth
+Pray Sylvian
+Pray Alll-mer
+Leave
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+You finish praying.
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+You finish praying.
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+You finish praying.
+____TEXT____
+A pile of burnt bodies remain here.
+____TEXT____
+A pile of burnt bodies remain here.
+____TEXT____
+A pile of burnt bodies remain here.
+____TEXT____
+Here lies \N[16]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+A pile of burnt bodies remain here.
+____TEXT____
+A pile of burnt bodies remain here.
+<follower touch>
+<follower touch>
+____TEXT____
+A pile of burnt bodies remain here.
+____TEXT____
+Cavemother seems to be finally dead.
+____TEXT____
+There is an opening between the legs...
+___CHOICE___
+Search
+Leave
+____TEXT____
+You reach out through the yellow muckus oozing from 
+the inside...
+____TEXT____
+You find a \c[2]Gnome egg\c[0]!
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Cavemother seems to be finally dead.
+____TEXT____
+Cavemother seems to be finally dead.
+____TEXT____
+There is an opening between the legs...
+___CHOICE___
+Search
+Leave
+____TEXT____
+You reach out through the yellow muckus oozing from 
+the inside...
+____TEXT____
+You find a \c[2]Gnome egg\c[0]!
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Cavemother seems to be finally dead.
+____TEXT____
+Cavemother seems to be finally dead.
+____TEXT____
+There is an opening between the legs...
+___CHOICE___
+Search
+Leave
+____TEXT____
+You reach out through the yellow muckus oozing from 
+the inside...
+____TEXT____
+You find a \c[2]Gnome egg\c[0]!
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Cavemother seems to be finally dead.
+____TEXT____
+Cavemother seems to be finally dead.
+____TEXT____
+There is an opening between the legs...
+___CHOICE___
+Search
+Leave
+____TEXT____
+You reach out through the yellow muckus oozing from 
+the inside...
+____TEXT____
+You find a \c[2]Gnome egg\c[0]!
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Cavemother seems to be finally dead.
+____TEXT____
+Cavemother seems to be finally dead.
+____TEXT____
+There is an opening between the legs...
+___CHOICE___
+Search
+Leave
+____TEXT____
+You reach out through the yellow muckus oozing from 
+the inside...
+____TEXT____
+You find a \c[2]Gnome egg\c[0]!
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Cavemother seems to be finally dead.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the barrel for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+Cavemother disappeared into darkness...
+____TEXT____
+A pile of burnt bodies remain here.
+____TEXT____
+A pile of burnt bodies remain here.
+____TEXT____
+A pile of burnt bodies remain here.
+____TEXT____
+A pile of burnt bodies remain here.
+____TEXT____
+A pile of burnt bodies remain here.
+____TEXT____
+A pile of burnt bodies remain here.
+____TEXT____
+A pile of burnt bodies remain here.
+____TEXT____
+A pile of burnt bodies remain here.
+____TEXT____
+A pile of burnt bodies remain here.
+____TEXT____
+A pile of burnt bodies remain here.
+____TEXT____
+A pile of burnt bodies remain here.
+____TEXT____
+A pile of burnt bodies remain here.
+____TEXT____
+A pile of burnt bodies remain here.
+____TEXT____
+An ancient statue stands here.
+____TEXT____
+Do you want to pray?
+___CHOICE___
+Pray Gro-goroth
+Pray Sylvian
+Pray Alll-mer
+Leave
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+You finish praying.
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+You finish praying.
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+You finish praying.
+____TEXT____
+An ancient statue stands here.
+____TEXT____
+Do you want to pray?
+___CHOICE___
+Pray Gro-goroth
+Pray Sylvian
+Pray Alll-mer
+Leave
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+You finish praying.
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+You finish praying.
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+You finish praying.
+____TEXT____
+A pile of burnt bodies remain here.
+____TEXT____
+An ancient statue stands here.
+____TEXT____
+Do you want to pray?
+___CHOICE___
+Pray Gro-goroth
+Pray Sylvian
+Pray Alll-mer
+Leave
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+You finish praying.
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+You finish praying.
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+You finish praying.
+____TEXT____
+An ancient statue stands here.
+____TEXT____
+Do you want to pray?
+___CHOICE___
+Pray Gro-goroth
+Pray Sylvian
+Pray Alll-mer
+Leave
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+You finish praying.
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+You finish praying.
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+You finish praying.
+____TEXT____
+An ancient statue stands here.
+____TEXT____
+Do you want to pray?
+___CHOICE___
+Pray Gro-goroth
+Pray Sylvian
+Pray Alll-mer
+Leave
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+You finish praying.
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+You finish praying.
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+You finish praying.
+____TEXT____
+An ancient statue stands here.
+____TEXT____
+Do you want to pray?
+___CHOICE___
+Pray Gro-goroth
+Pray Sylvian
+Pray Alll-mer
+Leave
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+You finish praying.
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+You finish praying.
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+You finish praying.
+____TEXT____
+An ancient statue stands here.
+____TEXT____
+Do you want to pray?
+___CHOICE___
+Pray Gro-goroth
+Pray Sylvian
+Pray Alll-mer
+Leave
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+You finish praying.
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+You finish praying.
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+You finish praying.
+____TEXT____
+An ancient statue stands here.
+____TEXT____
+Do you want to pray?
+___CHOICE___
+Pray Gro-goroth
+Pray Sylvian
+Pray Alll-mer
+Leave
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+You finish praying.
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+You finish praying.
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+You finish praying.
+____TEXT____
+Here lies \N[17]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[18]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Moonless is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[1]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[3]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[6]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[5]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[4]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+<follower touch>
+<follower touch>
+<follower touch>
+<follower touch>
+____TEXT____
+Moonless seems to respect you to a certain degree.
+___CHOICE___
+Let her join your party
+Let her go
+____TEXT____
+Moonless seems to understand you.
+____TEXT____
+Unfortunately you already have a full party of 4...
+____TEXT____
+Moonless run into the distance. You feel like you might
+never again run into her...
+____TEXT____
+Moonless run into the distance. You feel like you might
+never again run into her...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead wolf.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the cavewolf.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The cavewolf lies dead on the ground.
+___CHOICE___
+Beat her
+Search her
+Skin her
+Leave her
+____TEXT____
+The cavewolf definitely is dead.
+____TEXT____
+The cavewolf doesn't appear to have anything.
+____TEXT____
+You took \c[2]Cavewolf fur\c[0]!
+____TEXT____
+The cavewolf lies dead on the ground.
+___CHOICE___
+Beat her
+Search her
+Leave her
+____TEXT____
+The cavewolf is definitely dead.
+____TEXT____
+The cavewolf doesn't appear to have anything.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead wolf.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the cavewolf.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+A pile of flesh remains here...
+MERCENARY
+KNIGHT
+CAPTAIN
+OUTLANDER
+MARRIAGE
+____TEXT____
+There is a huge creature chained on the wall. It's all
+dried up, but it's uncertain whether it's alive or not.
+____TEXT____
+Its breasts are oozing yellow mucus...
+___CHOICE___
+Milk it
+Leave it
+____TEXT____
+You milked some \c[2]Yellow mucus\c[0] from the breast!
+____TEXT____
+Its breasts are oozing yellow mucus...
+____TEXT____
+There is a huge creature chained on the wall. It's all
+dried up, but it's uncertain whether it's alive or not.
+____TEXT____
+Its breasts are oozing yellow mucus...
+___CHOICE___
+Milk it
+Leave it
+____TEXT____
+You milked some \c[2]Yellow mucus\c[0] from the breast!
+____TEXT____
+Its breasts are oozing yellow mucus...
+____TEXT____
+There is a huge creature chained on the wall. It's all
+dried up, but it's uncertain whether it's alive or not.
+____TEXT____
+It's breasts hanging empty...
+<follower touch>
+____TEXT____
+\c[7]Mercenary\c[0]
+"..."
+____TEXT____
+\c[7]Mercenary\c[0]
+"Oh another human being?"
+____TEXT____
+\c[7]Mercenary\c[0]
+"I never seriously contemplated on the idea of suicide..."
+____TEXT____
+\c[7]Mercenary\c[0]
+"I always figured that you could just start your life over
+in a new part of the world. Just leave all the dirt and past
+sins behind." 
+____TEXT____
+\c[7]Mercenary\c[0]
+"I've done so. Many times before... but these dungeons man..."
+____TEXT____
+\c[7]Mercenary\c[0]
+"The anxiety and oppressiveness are slowly eating away my
+stature."
+____TEXT____
+\c[7]Mercenary\c[0]
+"They are suffocating me, more so than this darkness. I just
+can't see light of hope anywhere."
+____TEXT____
+\c[7]Mercenary\c[0]
+"Death would be a simple answer..."
+____TEXT____
+\c[7]Mercenary\c[0]
+"..."
+____TEXT____
+\c[7]Mercenary\c[0]
+"Now you've seen it too, haven't you?"
+____TEXT____
+\c[7]Mercenary\c[0]
+"The golden glow on the walls of the ancient city."
+____TEXT____
+\c[7]Mercenary\c[0]
+"The realization that all the macabre tales must be true
+after all."
+____TEXT____
+\c[7]Mercenary\c[0]
+"Tell me... Should the older gods be stopped?"
+___CHOICE___
+"We must stop the older gods."
+"The new gods are the true root of our evil."
+____TEXT____
+\c[7]Mercenary\c[0]
+"Yes... They've always looked down on us humans with a
+look of pity."
+____TEXT____
+\c[7]Mercenary\c[0]
+"Nah, not even pity. It's more like they despise what we
+represent."
+____TEXT____
+\c[7]Mercenary\c[0]
+"Maybe once they cared about us, when they created us for
+whatever sick purpose that might have had."
+____TEXT____
+\c[7]Mercenary\c[0]
+"But they abandoned us."
+____TEXT____
+\c[7]Mercenary\c[0]
+"For us to be truly free from their grasp, we need to take
+them down. To tear down their ivory tower called Mahabre!"
+____TEXT____
+\c[7]Mercenary\c[0]
+"Suicide is not an option for me. But this sounds like a
+grand enough plan to get me killed in the process."
+____TEXT____
+\c[7]Mercenary\c[0]
+"Count me in! You can call me Cahara of the desert."
+____TEXT____
+\c[7]Mercenary\c[0]
+"Seems like you already got quite a party with you..."
+____TEXT____
+\c[7]Mercenary\c[0]
+"If you ever have room in your party, you can count me in!"
+____TEXT____
+\c[7]Mercenary\c[0]
+"The new gods huh?"
+____TEXT____
+\c[7]Mercenary\c[0]
+"In a way I agree."
+____TEXT____
+\c[7]Mercenary\c[0]
+"The new gods represent wealth, power, sex and science."
+____TEXT____
+\c[7]Mercenary\c[0]
+"The new gods, who used to be just regular folks like you
+and me, wanted to create a new world order around those 
+values."
+____TEXT____
+\c[7]Mercenary\c[0]
+"Believing those would lead us all to happiness. To paradise."
+____TEXT____
+\c[7]Mercenary\c[0]
+"But look at where it has gotten people, where it has gotten
+me!?"
+____TEXT____
+\c[7]Mercenary\c[0]
+"I've done cruel things in pursue of all those values.
+My bad deeds have lead me to great despair. And I've seen
+the same happen to many others too."
+____TEXT____
+\c[7]Mercenary\c[0]
+"I've grown to fear whatever paradise the new gods are really
+after."
+____TEXT____
+\c[7]Mercenary\c[0]
+"They need to be stopped."
+____TEXT____
+\c[7]Mercenary\c[0]
+"Suicide is not an option for me. But this sounds like a
+grand enough plan to get me killed in the process."
+____TEXT____
+\c[7]Mercenary\c[0]
+"Count me in! You can call me Cahara of the desert."
+____TEXT____
+\c[7]Mercenary\c[0]
+"Seems like you already got quite a party with you..."
+____TEXT____
+\c[7]Mercenary\c[0]
+"If you ever have room in your party, you can count me in!"
+____TEXT____
+Your child is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+You feel a terrible presence entering these dungeons...
+____TEXT____
+With \c[2]Mastery over insects\c[0] you are able to hear
+whispers...
+____TEXT____
+\} "Master... our true king... have you met him?"
+____TEXT____
+\} "Master... become one with us... he will reward you grandly..."
+____TEXT____
+\c[7]\N[8]\c[0]
+"...."
+____TEXT____
+\N[8] seems more distant than before. As if he's trying
+to supress some memories...
+____TEXT____
+\c[7]\N[8]\c[0]
+"...."
+____TEXT____
+\N[8] seems more distant than before. As if he's trying
+to supress some memories...
+____TEXT____
+\c[7]\N[8]\c[0]
+"...."
+____TEXT____
+\N[8] seems more distant than before. As if he's trying
+to supress some memories...
+____TEXT____
+You feel a terrible presence entering these dungeons...
+____TEXT____
+Here lies \N[19]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[20]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[21]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+There is something shining here...
+____TEXT____
+You find a \c[2]Soul stone\c[0]!

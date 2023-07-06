@@ -1,0 +1,1277 @@
+____TEXT____
+Moonless is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[6]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[5]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[4]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[3]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[1]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You can't leave! You are on a date!
+<follower touch>
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the maneba.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead ghoul.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+What do you want to do with the body?
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave
+____TEXT____
+The body of the maneba is jelly-like, so your kicks sink
+in deep.
+____TEXT____
+The maneba has nothing of value.
+____TEXT____
+You took \c[2]Pale skin\c[0]!
+____TEXT____
+What do you want to do with the body?
+___CHOICE___
+Beat him
+Search him
+Leave
+____TEXT____
+The body of the maneba is jelly-like, so your kicks sink
+in deep.
+____TEXT____
+The maneba has nothing of value.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+A pile of flesh remains here...
+<follower touch>
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the maneba.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead ghoul.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+What do you want to do with the body?
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave
+____TEXT____
+The body of the maneba is jelly-like, so your kicks sink
+in deep.
+____TEXT____
+The maneba has nothing of value.
+____TEXT____
+You took \c[2]Pale skin\c[0]!
+____TEXT____
+What do you want to do with the body?
+___CHOICE___
+Beat him
+Search him
+Leave
+____TEXT____
+The body of the maneba is jelly-like, so your kicks sink
+in deep.
+____TEXT____
+The maneba has nothing of value.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+A pile of flesh remains here...
+____TEXT____
+There is a note left here...
+____TEXT____
+"Don't touch anything! This is my room!"
+____TEXT____
+The girl is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+The stone has a heavy aura to it. It's almost too much
+for you to carry...
+____TEXT____
+Here lies \N[16]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[17]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[18]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+MERCENARY
+KNIGHT
+CAPTAIN
+OUTLANDER
+MARRIAGE
+____TEXT____
+Your child is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+The statue has mysterious mechanics built on its foundation.
+____TEXT____
+You could push the statue...
+___CHOICE___
+Push
+Leave
+____TEXT____
+The statue won't budge anymore...
+____TEXT____
+The bed is not made well. Who ever stays here is a messy
+person.
+____TEXT____
+The bed is not made well. Who ever stays here is a messy
+person.
+____TEXT____
+There is a symbol on the wall...
+____TEXT____
+There is a symbol on the wall...
+____TEXT____
+The bed is not made well. Who ever stays here is a messy
+person.
+____TEXT____
+The urn has nothing in it.
+____TEXT____
+Here lies \N[19]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[20]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[21]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+You can't leave! You are on a date!
+____TEXT____
+There is a lone crow having a lunch here...
+____TEXT____
+Solve the ancient puzzle that was left here for the adventurous
+cave dweller to stumble upon. Try to solve it within the time
+limit if possible.
+____TEXT____
+It is rather challenging though...
+day
+____TEXT____
+The stone statue is standing ominously here.
+It's too heavy to move. It won't even budge.
+____TEXT____
+The stone statue is standing ominously here.
+It's too heavy to move. It won't even budge.
+____TEXT____
+The stone statue is standing ominously here.
+It's too heavy to move. It won't even budge.
+____TEXT____
+The stone statue is standing ominously here.
+It's too heavy to move. It won't even budge.
+<follower touch>
+<follower touch>
+<follower touch>
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead ghoul.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead ghoul.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+You could use \c[2]Necromancy\c[0] on the bloody man.
+___CHOICE___
+Use \c[2]Necromancy\c[0]
+Leave
+____TEXT____
+There is no room in your party for new ghouls!
+____TEXT____
+\c[2]Necromancy\c[0] was succesful!
+___CHOICE___
+HEADS
+TAILS
+____TEXT____
+\c[2]Necromancy\c[0] was succesful!
+____TEXT____
+\c[2]Necromancy\c[0] failed!
+____TEXT____
+\c[2]Necromancy\c[0] was succesful!
+____TEXT____
+\c[2]Necromancy\c[0] failed!
+____TEXT____
+You could use \c[2]Necromancy\c[0] on the bloody man.
+___CHOICE___
+Use \c[2]Necromancy\c[0]
+Leave
+____TEXT____
+You don't have enough sanity to perform such actions.
+____TEXT____
+What do you want to do with the body?
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave him
+____TEXT____
+You beat its mushy and bloody body.
+____TEXT____
+The bloody man has nothing of value.
+____TEXT____
+You tried skinning the bloody man, but its skin is in too
+rotten state to stay together...
+____TEXT____
+What do you want to do with the body?
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+You beat its mushy and bloody body.
+____TEXT____
+Prisoner has nothing of value.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+A pile of flesh remains here...
+____TEXT____
+The bloody man is in too bad of a shape to even stand...
+<follower touch>
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead red man.
+___CHOICE___
+Yes
+No
+____TEXT____
+The skin of the redman feels too chewy to bite through...
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave him
+____TEXT____
+He massive body of the redman doesn't even budge with your 
+kicks.
+____TEXT____
+The creature has nothing of value.
+____TEXT____
+The skin of the redman is chewy. The skinning knife feels
+too weak to puncture the skin properly.
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+He massive body of the redman doesn't even budge with your 
+kicks.
+____TEXT____
+The creature has nothing of value.
+<follower touch>
+<follower touch>
+<follower touch>
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead ghoul.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead ghoul.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+You could use \c[2]Necromancy\c[0] on the bloody man.
+___CHOICE___
+Use \c[2]Necromancy\c[0]
+Leave
+____TEXT____
+There is no room in your party for new ghouls!
+____TEXT____
+\c[2]Necromancy\c[0] was succesful!
+___CHOICE___
+HEADS
+TAILS
+____TEXT____
+\c[2]Necromancy\c[0] was succesful!
+____TEXT____
+\c[2]Necromancy\c[0] failed!
+____TEXT____
+\c[2]Necromancy\c[0] was succesful!
+____TEXT____
+\c[2]Necromancy\c[0] failed!
+____TEXT____
+You could use \c[2]Necromancy\c[0] on the bloody man.
+___CHOICE___
+Use \c[2]Necromancy\c[0]
+Leave
+____TEXT____
+You don't have enough sanity to perform such actions.
+____TEXT____
+What do you want to do with the body?
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave him
+____TEXT____
+You beat its mushy and bloody body.
+____TEXT____
+The bloody man has nothing of value.
+____TEXT____
+You tried skinning the bloody man, but its skin is in too
+rotten state to stay together...
+____TEXT____
+What do you want to do with the body?
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+You beat its mushy and bloody body.
+____TEXT____
+Prisoner has nothing of value.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+A pile of flesh remains here...
+____TEXT____
+The bloody man is in too bad of a shape to even stand...
+____TEXT____
+The coffin is sealed shut tight. There is no opening it.
+<follower touch>
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the maneba.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead ghoul.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+What do you want to do with the body?
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave
+____TEXT____
+The body of the maneba is jelly-like, so your kicks sink
+in deep.
+____TEXT____
+The maneba has nothing of value.
+____TEXT____
+You took \c[2]Pale skin\c[0]!
+____TEXT____
+What do you want to do with the body?
+___CHOICE___
+Beat him
+Search him
+Leave
+____TEXT____
+The body of the maneba is jelly-like, so your kicks sink
+in deep.
+____TEXT____
+The maneba has nothing of value.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+A pile of flesh remains here...
+____TEXT____
+The coffin is sealed shut tight. There is no opening it.
+____TEXT____
+The coffin is sealed shut tight. There is no opening it.
+<follower touch>
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the maneba.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead ghoul.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+What do you want to do with the body?
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave
+____TEXT____
+The body of the maneba is jelly-like, so your kicks sink
+in deep.
+____TEXT____
+The maneba has nothing of value.
+____TEXT____
+You took \c[2]Pale skin\c[0]!
+____TEXT____
+What do you want to do with the body?
+___CHOICE___
+Beat him
+Search him
+Leave
+____TEXT____
+The body of the maneba is jelly-like, so your kicks sink
+in deep.
+____TEXT____
+The maneba has nothing of value.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+A pile of flesh remains here...
+____TEXT____
+The coffin is sealed shut tight. There is no opening it.
+____TEXT____
+The coffin is sealed shut tight. There is no opening it.
+<follower touch>
+<follower touch>
+<follower touch>
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead ghoul.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead ghoul.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+You could use \c[2]Necromancy\c[0] on the bloody man.
+___CHOICE___
+Use \c[2]Necromancy\c[0]
+Leave
+____TEXT____
+There is no room in your party for new ghouls!
+____TEXT____
+\c[2]Necromancy\c[0] was succesful!
+___CHOICE___
+HEADS
+TAILS
+____TEXT____
+\c[2]Necromancy\c[0] was succesful!
+____TEXT____
+\c[2]Necromancy\c[0] failed!
+____TEXT____
+\c[2]Necromancy\c[0] was succesful!
+____TEXT____
+\c[2]Necromancy\c[0] failed!
+____TEXT____
+You could use \c[2]Necromancy\c[0] on the bloody man.
+___CHOICE___
+Use \c[2]Necromancy\c[0]
+Leave
+____TEXT____
+You don't have enough sanity to perform such actions.
+____TEXT____
+What do you want to do with the body?
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave him
+____TEXT____
+You beat its mushy and bloody body.
+____TEXT____
+The bloody man has nothing of value.
+____TEXT____
+You tried skinning the bloody man, but its skin is in too
+rotten state to stay together...
+____TEXT____
+What do you want to do with the body?
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+You beat its mushy and bloody body.
+____TEXT____
+Prisoner has nothing of value.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+A pile of flesh remains here...
+____TEXT____
+The bloody man is in too bad of a shape to even stand...
+MERCENARY
+KNIGHT
+CAPTAIN
+OUTLANDER
+MARRIAGE
+DARK PRIEST
+____TEXT____
+The coffin is sealed shut tight. There is no opening it.
+____TEXT____
+The coffin is sealed shut tight. There is no opening it.
+____TEXT____
+The coffin is sealed shut tight. There is no opening it.
+____TEXT____
+The coffin is sealed shut tight. There is no opening it.
+____TEXT____
+The coffin is sealed shut tight. There is no opening it.
+____TEXT____
+The coffin is sealed shut tight. There is no opening it.
+____TEXT____
+The coffin is sealed shut tight. There is no opening it.
+____TEXT____
+The coffin is sealed shut tight. There is no opening it.
+____TEXT____
+The coffin is sealed shut tight. There is no opening it.
+<follower touch>
+<follower touch>
+<follower touch>
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead ghoul.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead ghoul.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+You could use \c[2]Necromancy\c[0] on the bloody man.
+___CHOICE___
+Use \c[2]Necromancy\c[0]
+Leave
+____TEXT____
+There is no room in your party for new ghouls!
+____TEXT____
+\c[2]Necromancy\c[0] was succesful!
+___CHOICE___
+HEADS
+TAILS
+____TEXT____
+\c[2]Necromancy\c[0] was succesful!
+____TEXT____
+\c[2]Necromancy\c[0] failed!
+____TEXT____
+\c[2]Necromancy\c[0] was succesful!
+____TEXT____
+\c[2]Necromancy\c[0] failed!
+____TEXT____
+You could use \c[2]Necromancy\c[0] on the bloody man.
+___CHOICE___
+Use \c[2]Necromancy\c[0]
+Leave
+____TEXT____
+You don't have enough sanity to perform such actions.
+____TEXT____
+What do you want to do with the body?
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave him
+____TEXT____
+You beat its mushy and bloody body.
+____TEXT____
+The bloody man has nothing of value.
+____TEXT____
+You tried skinning the bloody man, but its skin is in too
+rotten state to stay together...
+____TEXT____
+What do you want to do with the body?
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+You beat its mushy and bloody body.
+____TEXT____
+Prisoner has nothing of value.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+A pile of flesh remains here...
+____TEXT____
+The bloody man is in too bad of a shape to even stand...
+____TEXT____
+The coffin is sealed shut tight. There is no opening it.
+____TEXT____
+The coffin is sealed shut tight. There is no opening it.
+____TEXT____
+The coffin is sealed shut tight. There is no opening it.
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+The coffin is sealed shut tight. There is no opening it.
+<follower touch>
+<follower touch>
+<follower touch>
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead ghoul.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead ghoul.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+You could use \c[2]Necromancy\c[0] on the bloody man.
+___CHOICE___
+Use \c[2]Necromancy\c[0]
+Leave
+____TEXT____
+There is no room in your party for new ghouls!
+____TEXT____
+\c[2]Necromancy\c[0] was succesful!
+___CHOICE___
+HEADS
+TAILS
+____TEXT____
+\c[2]Necromancy\c[0] was succesful!
+____TEXT____
+\c[2]Necromancy\c[0] failed!
+____TEXT____
+\c[2]Necromancy\c[0] was succesful!
+____TEXT____
+\c[2]Necromancy\c[0] failed!
+____TEXT____
+You could use \c[2]Necromancy\c[0] on the bloody man.
+___CHOICE___
+Use \c[2]Necromancy\c[0]
+Leave
+____TEXT____
+You don't have enough sanity to perform such actions.
+____TEXT____
+What do you want to do with the body?
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave him
+____TEXT____
+You beat its mushy and bloody body.
+____TEXT____
+The bloody man has nothing of value.
+____TEXT____
+You tried skinning the bloody man, but its skin is in too
+rotten state to stay together...
+____TEXT____
+What do you want to do with the body?
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+You beat its mushy and bloody body.
+____TEXT____
+Prisoner has nothing of value.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+A pile of flesh remains here...
+____TEXT____
+The bloody man is in too bad of a shape to even stand...
+____TEXT____
+A sturdy chest. It doesn't seem to be locked.
+___CHOICE___
+Open
+Leave it
+___CHOICE___
+HEADS
+TAILS
+____TEXT____
+There is nothing left in the chest anymore.
+____TEXT____
+A sturdy chest. It doesn't seem to be locked.
+___CHOICE___
+Open
+Leave it
+___CHOICE___
+HEADS
+TAILS
+____TEXT____
+Empty.
+____TEXT____
+Empty.
+____TEXT____
+There is nothing left in the chest anymore.
+____TEXT____
+A sturdy chest. It doesn't seem to be locked.
+___CHOICE___
+Open
+Leave it
+___CHOICE___
+HEADS
+TAILS
+____TEXT____
+There is nothing left in the chest anymore.
+____TEXT____
+A sturdy chest. It doesn't seem to be locked.
+___CHOICE___
+Open
+Leave it
+___CHOICE___
+HEADS
+TAILS
+____TEXT____
+Empty.
+____TEXT____
+Empty.
+____TEXT____
+There is nothing left in the chest anymore.
+____TEXT____
+The coffin is sealed shut tight. There is no opening it.
+____TEXT____
+The coffin is sealed shut tight. There is no opening it.
+____TEXT____
+The coffin is sealed shut tight. There is no opening it.
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+The coffin is sealed shut tight. There is no opening it.
+____TEXT____
+The coffin is sealed shut tight. There is no opening it.
+____TEXT____
+The effects of the cube vanish as you head down the
+catacombs.
+____TEXT____
+The effects of the cube vanish as you head down the
+catacombs.
+____TEXT____
+The coffin is sealed shut tight. There is no opening it.
+____TEXT____
+The coffin is sealed shut tight. There is no opening it.
+____TEXT____
+The coffin is sealed shut tight. There is no opening it.
+____TEXT____
+The coffin is sealed shut tight. There is no opening it.
+____TEXT____
+The coffin is sealed shut tight. There is no opening it.
+____TEXT____
+The coffin is sealed shut tight. There is no opening it.
+____TEXT____
+The coffin is sealed shut tight. There is no opening it.
+____TEXT____
+The coffin is sealed shut tight. There is no opening it.
+____TEXT____
+The coffin is sealed shut tight. There is no opening it.
+____TEXT____
+The coffin is sealed shut tight. There is no opening it.
+____TEXT____
+The coffin is sealed shut tight. There is no opening it.
+____TEXT____
+The coffin is sealed shut tight. There is no opening it.
+____TEXT____
+The coffin is sealed shut tight. There is no opening it.
+____TEXT____
+The Beacon of the Depths is standing here.
+___CHOICE___
+Use \c[2]Cube of the depths\c[0]
+Investigate
+Leave
+____TEXT____
+The beacon's mechanisms are ancient. The light it radiates
+is supposed to guide souls to the next world.
+____TEXT____
+There appears to be a place for a cube shaped object on the
+front...
+____TEXT____
+The Beacon of the Depths is standing here.
+____TEXT____
+The beacon's mechanisms are ancient. The light it radiates
+is supposed to guide souls to the next world.
+____TEXT____
+There appears to be a place for a cube shaped object on the
+front...
+___CHOICE___
+Use \c[2]Cube of the depths\c[0]
+Leave
+____TEXT____
+There is a sturdy ancient door here. The door is practically
+solid stone and there is no way breaking it.
+____TEXT____
+Done! You solved the puzzle!
+____TEXT____
+\c[7]Cahara\c[0]
+"I wonder if there's a treasure for solving this thing?"
+____TEXT____
+\c[7]Cahara\c[0]
+"Otherwise it would be a giant troll, no?"
+____TEXT____
+\c[7]D'arce\c[0]
+"Hmmm... I'm not that good with puzzles..."
+____TEXT____
+\c[7]D'arce\c[0]
+"They tried to teach this stuff at the monastry when I was
+really young, but I was always more interested in military
+strategy..."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"A balanced warrior would have equal amount of brains and
+brawn."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"I actually love this kind of stuff! For some reason it
+comes off as a surprise to many."
+____TEXT____
+\c[7]Enki\c[0]
+"...Hmmmm..."
+____TEXT____
+Enki seems concentrated.
+____TEXT____
+\c[7]Enki\c[0]
+"How about you switch those tiles over there!"
+____TEXT____
+\c[7]Nilvan\c[0]
+"Tah tah daa daa..."
+____TEXT____
+\c[7]Nilvan\c[0]
+"Why have these artificial puzzles? Isn't life mysterious
+enough already?"
+____TEXT____
+\c[7]The tormented one\c[0]
+"..."
+____TEXT____
+Chambara is trying to make sense of the puzzle. Seems like
+he is really into it!
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"Kaaw kaaw!"
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"..."
+____TEXT____
+Crow Mauler seems bored. Really bored.
+____TEXT____
+\c[7]Le'garde\c[0]
+"I got no patience for these kinds of puzzles, when we are
+so close to the city of the gods!"
+____TEXT____
+\c[7]Le'garde\c[0]
+"Just solve this quickly, so we can look around the city!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Most peculiar..."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"This is a really good brain teaser for your young mind
+for sure."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"How about I let you solve this one?"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Did you get this puzzle already?"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"No? OF COURSE NOT! Just how low can I go, when I'm out
+here with YOU!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Just look at the ornament on the wall!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"The symbol of Gro-goroth! NOW REPLICATE IT ON THE FLOOR!"
+____TEXT____
+You failed at solving the puzzle...

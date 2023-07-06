@@ -1,0 +1,1048 @@
+____TEXT____
+Moonless is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[6]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[5]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[4]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[3]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[1]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+There is a huge insect sitting here...
+___CHOICE___
+"Greetings."
+Leave
+____TEXT____
+\c[7]Cockroach king\c[0]
+"Greetings..."
+____TEXT____
+\c[7]Cockroach king\c[0]
+"It appears... you understand us...?"
+____TEXT____
+\c[7]Cockroach king\c[0]
+"But alas, you are not one of us... not just yet at 
+least..."
+____TEXT____
+\c[7]Cockroach king\c[0]
+"Tell me - oh filthy human... do you want to kneel in front of me?"
+___CHOICE___
+Kneel
+Don't
+____TEXT____
+\c[7]Cockroach king\c[0]
+"Your humility... pleases me... I might just make you one
+with our kind... one day... yes..."
+____TEXT____
+\c[7]Cockroach king\c[0]
+"But for now... you are a peasant."
+____TEXT____
+\c[7]Cockroach king\c[0]
+"Say it! Say that you are my peasant!"
+___CHOICE___
+"I am your peasant."
+"No."
+____TEXT____
+\c[7]Cockroach king\c[0]
+"Peasant - there is a lowly being on the upper levels...
+A wretched being who wishes to be like us..."
+____TEXT____
+\c[7]Cockroach king\c[0]
+"The being... wants to soar the skies... but we cannot allow
+that... not from someone as miserable as him..."
+____TEXT____
+\c[7]Cockroach king\c[0]
+"Murder that being... I want to see it's blood flow... 
+and I shall reward you..."
+____TEXT____
+\c[7]Cockroach king\c[0]
+"Then leave... you disgusting piece of flesh..."
+____TEXT____
+\c[7]Cockroach king\c[0]
+"Just know that one day... you will become a rotten home...
+for my kind..."
+____TEXT____
+\c[7]Cockroach king\c[0]
+"And that day... might be sooner than you think..."
+____TEXT____
+\c[7]Cockroach king\c[0]
+"Then leave... you disgusting piece of flesh..."
+____TEXT____
+\c[7]Cockroach king\c[0]
+"Just know that one day... you will become a rotten home...
+for my kind..."
+____TEXT____
+\c[7]Cockroach king\c[0]
+"And that day... might be sooner than you think..."
+___CHOICE___
+"Greetings."
+Leave
+____TEXT____
+...
+____TEXT____
+No answer.
+____TEXT____
+\c[7]Cockroach king\c[0]
+"Just know that one day... you will become a rotten home...
+for my kind..."
+____TEXT____
+\c[7]Cockroach king\c[0]
+"And that day... might be sooner than you think..."
+____TEXT____
+\c[7]Cockroach king\c[0]
+"Peasant - your task is done... I hear... I am very pleased...
+with your efforts."
+____TEXT____
+\c[7]Cockroach king\c[0]
+"Butterfly...? No... not in a million years..."
+____TEXT____
+\c[7]Cockroach king\c[0]
+"Peasant - you shall raise in rank... you are from this day
+onwards... a Noble..."
+____TEXT____
+With the task, your affinity with the God of the Depths is 
+growing...
+____TEXT____
+With the sacrifice, your affinity with the God of the depths 
+is growing...
+____TEXT____
+\c[7]Cockroach king\c[0]
+"Peasant - there is a lowly being on the upper levels...
+A wretched being who wishes to be like us..."
+____TEXT____
+\c[7]Cockroach king\c[0]
+"The being... wants to soar the skies... but we cannot allow
+that... not from someone as miserable as him..."
+____TEXT____
+\c[7]Cockroach king\c[0]
+"Murder that being... I want to see it's blood flow... 
+and I shall reward you..."
+____TEXT____
+\c[7]Cockroach king\c[0]
+"Noble one - I might have tasks for you... but later..."
+____TEXT____
+\c[7]Cockroach king\c[0]
+"Noble one - I might have tasks for you..."
+____TEXT____
+\c[7]Cockroach king\c[0]
+"There is an outsider in these dungeons... A one with
+magical properties..."
+____TEXT____
+\c[7]Cockroach king\c[0]
+"My people have always wanted a new flesh of a home...
+that has magical properties..."
+____TEXT____
+\c[7]Cockroach king\c[0]
+"Murder this long fair haired priest of destruction...
+and I shall reward you..."
+____TEXT____
+\c[7]Cockroach king\c[0]
+"Noble - your task is done... I hear... I am very pleased...
+with your efforts once again."
+____TEXT____
+\c[7]Cockroach king\c[0]
+"My people got the flesh of a home... they wanted for so
+long..."
+____TEXT____
+\c[7]Cockroach king\c[0]
+"Noble - you shall raise in rank... you are from this day
+onwards... a Knight..."
+____TEXT____
+With the sacrifice, your affinity with the God of the depths 
+is growing...
+____TEXT____
+\c[7]Cockroach king\c[0]
+"There is an outsider in these dungeons... A one with
+magical properties..."
+____TEXT____
+\c[7]Cockroach king\c[0]
+"My people have always wanted a new flesh of a home...
+that has magical properties..."
+____TEXT____
+\c[7]Cockroach king\c[0]
+"Murder this long fair haired priest of destruction...
+and I shall reward you..."
+____TEXT____
+\c[7]Cockroach king\c[0]
+"Knight - come back later... for there is always murdering
+to do..."
+____TEXT____
+Your child is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+The girl is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+The stone has a heavy aura to it. It's almost too much
+for you to carry...
+____TEXT____
+Here lies \N[16]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[17]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[18]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+HOLE
+____TEXT____
+The ground feels soft underneath your feet...
+___CHOICE___
+HEADS
+TAILS
+____TEXT____
+You barely managed to jump to safety!
+HOLE
+MERCENARY
+KNIGHT
+CAPTAIN
+OUTLANDER
+MARRIAGE
+<follower touch>
+<follower touch>
+<follower touch>
+<follower touch>
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead mumbler.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains. Unfortunately they were poisonous.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead mumbler.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat her
+Search her
+Leave
+____TEXT____
+No reaction. The outer shell of the mumbler feels hard.
+____TEXT____
+The mumbler has nothing of value.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead mumbler.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains. Unfortunately they were poisonous.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead mumbler.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat her
+Search her
+Leave
+____TEXT____
+No reaction. The outer shell of the mumbler feels hard.
+____TEXT____
+The mumbler has nothing of value.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+A pile of flesh remains here...
+<follower touch>
+<follower touch>
+<follower touch>
+<follower touch>
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead mumbler.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains. Unfortunately they were poisonous.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead mumbler.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat her
+Search her
+Leave
+____TEXT____
+No reaction. The outer shell of the mumbler feels hard.
+____TEXT____
+The mumbler has nothing of value.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead mumbler.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains. Unfortunately they were poisonous.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead mumbler.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat her
+Search her
+Leave
+____TEXT____
+No reaction. The outer shell of the mumbler feels hard.
+____TEXT____
+The mumbler has nothing of value.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+A pile of flesh remains here...
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+The ground feels soft underneath your feet...
+___CHOICE___
+HEADS
+TAILS
+____TEXT____
+You barely managed to jump to safety!
+HOLE
+____TEXT____
+Apparently someone has been here and left an urn.
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+Apparently someone has been here and left an urn.
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+CHEST
+____TEXT____
+A sturdy chest. It doesn't seem to be locked.
+___CHOICE___
+Open
+Leave
+___CHOICE___
+HEADS
+TAILS
+CHEST
+____TEXT____
+There is nothing left in the chest anymore.
+CHEST
+____TEXT____
+A sturdy chest. It doesn't seem to be locked.
+___CHOICE___
+Open
+Leave
+___CHOICE___
+HEADS
+TAILS
+CHEST
+____TEXT____
+There is nothing left in the chest anymore.
+____TEXT____
+A dead person is tightly embraced by the growth.
+____TEXT____
+A dead person is tightly embraced by the growth.
+____TEXT____
+A dead person is tightly embraced by the growth.
+____TEXT____
+A dead person is tightly embraced by the growth.
+____TEXT____
+A dead person is tightly embraced by the growth.
+____TEXT____
+A dead person is tightly embraced by the growth.
+____TEXT____
+With \c[2]Mastery over insects\c[0] you are able to hear
+whispers...
+____TEXT____
+\} "Master... you are finally here... the king awaits..."
+____TEXT____
+With \c[2]Mastery over insects\c[0] you are able to hear
+whispers...
+____TEXT____
+\} "Master... we are glad you are... here... take!"
+____TEXT____
+You find a bag of \c[2]Opium powder\c[0]!
+____TEXT____
+With \c[2]Mastery over insects\c[0] you are able to hear
+whispers...
+____TEXT____
+\} "Master... we are glad you are... here..."
+____TEXT____
+With \c[2]Mastery over insects\c[0] you are able to hear
+whispers...
+____TEXT____
+\} "Master... don't die... take..."
+____TEXT____
+You find a \c[2]White vial\c[0] between the vines!
+____TEXT____
+With \c[2]Mastery over insects\c[0] you are able to hear
+whispers...
+____TEXT____
+\} "Master... don't die... take..."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Oh. You again?"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"You're still alive!"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Hah! I guess I misjudged you previously!"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"This place is truly curious, isn't it?"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"They say these are the intestines of the god of the depths."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"That means we are inside an older god!"
+___CHOICE___
+"The god of the depths?"
+"Would you like to join my party?"
+"Have you found what you are looking for?"
+Attack him
+Leave
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Ja, yes. He is not that well known god as he is mostly
+worshipped by those who are forsaken and forgotten."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"His people often shy away from light and prefer dark
+corners of the earth."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"You've seen the cavedwellers yet? They prove my point
+quite well."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"The god of the depths is responsible for the layout of
+these dungeons. He is ever-changing his shape to challenge
+the visitors."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"I'd try to please him, if I were to delve deeper."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Hmm... To be honest. My verdict on you is still open."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"I don't trust you to put it bluntly."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Your party seems big enough as it is."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"I don't like packs of too big in size."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Nej. Not yet."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"There is a man imprisoned somewhere in these dungeons."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"The man has something that shouldn't belong to any human.
+I'm here to retrieve it."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"And perhaps get rid of the man while at it... He carries
+an omnious energy with him. I'm not sure what to think of
+him."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"What is this all of a sudden!?"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"What is it that you want?"
+___CHOICE___
+"The god of the depths?"
+"Would you like to join my party?"
+"Have you found what you are looking for?"
+Attack him
+Leave
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Ja, yes. He is not that well known god as he is mostly
+worshipped by those who are forsaken and forgotten."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"His people often shy away from light and prefer dark
+corners of the earth."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"You've seen the cavedwellers yet? They prove my point
+quite well."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"The god of the depths is responsible for the layout of
+these dungeons. He is ever-changing his shape to challenge
+the visitors."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"I'd try to please him, if I were to delve deeper."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Hmm... To be honest. My verdict on you is still open."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"I don't trust you to put it bluntly."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Your party seems big enough as it is."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"I don't like packs of too big in size."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Nej. Not yet."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"There is a man imprisoned somewhere in these dungeons."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"The man has something that shouldn't belong to any human.
+I'm here to retrieve it."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"And perhaps get rid of the man while at it... He carries
+an omnious energy with him. I'm not sure what to think of
+him."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"What is this all of a sudden!?"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"What is it that you want?"
+___CHOICE___
+"The god of the depths?"
+"Would you like to join my party?"
+"Have you found what you are looking for?"
+Attack him
+Leave
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Ja, yes. He is not that well known god as he is mostly
+worshipped by those who are forsaken and forgotten."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"His people often shy away from light and prefer dark
+corners of the earth."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"You've seen the cavedwellers yet? They prove my point
+quite well."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"The god of the depths is responsible for the layout of
+these dungeons. He is ever-changing his shape to challenge
+the visitors."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"I'd try to please him, if I were to delve deeper."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Hmm... Maybe I will actually."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"There is clearly more to you than what I initially 
+expected, so it would be an honor to crawl these dungeons
+with you."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Your party seems big enough as it is."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"I don't like packs of too big in size."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Nej. Not yet."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"There is a man imprisoned somewhere in these dungeons."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"The man has something that shouldn't belong to any human.
+I'm here to retrieve it."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"And perhaps get rid of the man while at it... He carries
+an omnious energy with him. I'm not sure what to think of
+him."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"What is this all of a sudden!?"
+<follower touch>
+<follower touch>
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+The outlander is down...
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+You undress the outlander and take the \c[2]Fur armor\c[0]
+with you.
+____TEXT____
+You also find \c[2]8 iron arrows\c[0].
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+The outlander is down...
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+You undress the outlander and take the \c[2]Fur armor\c[0]
+with you.
+____TEXT____
+You also find \c[2]8 iron arrows\c[0].
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+The outlander is down...
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+The outlander has nothing of value anymore.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+The outlander is down...
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+The outlander has nothing of value anymore.
+____TEXT____
+There is an eastern style sword standing here.
+____TEXT____
+The sword gives you ominous vibes...
+___CHOICE___
+Try taking it
+Examine it
+Leave
+____TEXT____
+You pull the \c[2]Eastern sword\c[0] from the ground.
+____TEXT____
+Immediately you feel a presence following you...
+____TEXT____
+You managed to defeat the spectre that was after your sword.
+____TEXT____
+Like distant winds carried from from the far-away lands 
+you hear whispers...
+____TEXT____
+\c[7]Assassin spectre\c[0]
+"Finish... my...task..."
+____TEXT____
+\c[7]Assassin spectre\c[0]
+"O... worthy..."
+____TEXT____
+The \c[2]Eastern sword\c[0] was purified!
+____TEXT____
+The engraving on the hilt becomes clear to you now.
+\c[2]Eastern sword\c[0] was purified and it revealed its
+true name to you - the Black steel of the East.
+____TEXT____
+The sword seems delicate and sharp. You feel an ominous
+aura eminating from the blade...
+____TEXT____
+There is an eastern style sword standing here.
+____TEXT____
+The sword gives you ominous vibes...
+___CHOICE___
+Try taking it
+Examine it
+Leave
+____TEXT____
+You pull the \c[2]Eastern sword\c[0] from the ground.
+____TEXT____
+Immediately you feel a presence following you...
+____TEXT____
+You managed to defeat the spectre that was after your sword.
+____TEXT____
+Like distant winds carried from from the far-away lands 
+you hear whispers...
+____TEXT____
+\c[7]Assassin spectre\c[0]
+"Finish... my...task..."
+____TEXT____
+\c[7]Assassin spectre\c[0]
+"O... worthy..."
+____TEXT____
+The \c[2]Eastern sword\c[0] was purified!
+____TEXT____
+The engraving on the hilt becomes clear to you now.
+\c[2]Eastern sword\c[0] was purified and it revealed its
+true name to you - the Black steel of the East.
+____TEXT____
+The sword seems delicate and sharp. You feel an ominous
+aura eminating from the blade...
+____TEXT____
+There is something shining here...
+____TEXT____
+You find a \c[2]Soul stone\c[0]!
+____TEXT____
+Here lies \N[19]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[20]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[21]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+You managed to defeat the spectre that was after your sword.
+____TEXT____
+Like distant winds carried from from the far-away lands 
+you hear whispers...
+____TEXT____
+\c[7]Assassin spectre\c[0]
+"Finish... my...task..."
+____TEXT____
+\c[7]Assassin spectre\c[0]
+"O... worthy..."
+____TEXT____
+The \c[2]Eastern sword\c[0] was purified!
+____TEXT____
+The engraving on the hilt becomes clear to you now.
+\c[2]Eastern sword\c[0] was purified and it revealed its
+true name to you - the Black steel of the East.
+____TEXT____
+There is something shining here...
+____TEXT____
+You find a \c[2]Soul stone\c[0]!
+____TEXT____
+The wall feels soft around here.
+___CHOICE___
+Push
+Leave
+____TEXT____
+You managed to defeat the spectre that was after your sword.
+____TEXT____
+Like distant winds carried from from the far-away lands 
+you hear whispers...
+____TEXT____
+\c[7]Assassin spectre\c[0]
+"Finish... my...task..."
+____TEXT____
+\c[7]Assassin spectre\c[0]
+"O... worthy..."
+____TEXT____
+The \c[2]Eastern sword\c[0] was purified!
+____TEXT____
+The engraving on the hilt becomes clear to you now.
+\c[2]Eastern sword\c[0] was purified and it revealed its
+true name to you - the Black steel of the East.
+____TEXT____
+You managed to defeat the spectre that was after your sword.
+____TEXT____
+Like distant winds carried from from the far-away lands 
+you hear whispers...
+____TEXT____
+\c[7]Assassin spectre\c[0]
+"Finish... my...task..."
+____TEXT____
+\c[7]Assassin spectre\c[0]
+"O... worthy..."
+____TEXT____
+The \c[2]Eastern sword\c[0] was purified!
+____TEXT____
+The engraving on the hilt becomes clear to you now.
+\c[2]Eastern sword\c[0] was purified and it revealed its
+true name to you - the Black steel of the East.
+____TEXT____
+You managed to defeat the spectre that was after your sword.
+____TEXT____
+Like distant winds carried from from the far-away lands 
+you hear whispers...
+____TEXT____
+\c[7]Assassin spectre\c[0]
+"Finish... my...task..."
+____TEXT____
+\c[7]Assassin spectre\c[0]
+"O... worthy..."
+____TEXT____
+The \c[2]Eastern sword\c[0] was purified!
+____TEXT____
+The engraving on the hilt becomes clear to you now.
+\c[2]Eastern sword\c[0] was purified and it revealed its
+true name to you - the Black steel of the East.
