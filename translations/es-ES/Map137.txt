@@ -1,0 +1,120 @@
+____TEXT____
+\c[7]\N[3]\c[0]
+"They believe you're the one from the prophecies."
+____TEXT____
+\c[7]\N[6]\c[0]
+"Hm. Those ancient texts are but child's word play..."
+____TEXT____
+\c[7]\N[6]\c[0]
+"Of course that doesn't mean that I shouldn't use them to
+my advantage."
+____TEXT____
+\c[7]\N[3]\c[0]
+"..."
+____TEXT____
+\c[7]\N[3]\c[0]
+"But really, many things are scarily accurate in the 
+prophecy."
+____TEXT____
+\c[7]\N[3]\c[0]
+"It talks about 'the fair haired man' and 'the one who rivals
+gods in both power and beauty'..."
+____TEXT____
+\c[7]\N[6]\c[0]
+"Hah! I thought all the older gods were ugly as hell."
+____TEXT____
+\c[7]\N[6]\c[0]
+"Don't tell me you buy that stuff too?"
+____TEXT____
+\c[7]\N[3]\c[0]
+"Nilvan of the new gods is supposedly beautiful. Just as
+the tormented one used to be..."
+____TEXT____
+\c[7]\N[3]\c[0]
+"The texts also speak 'He, who unites the warring states, not
+by the power of the golden staff, but by the power of dozen
+pitchforks'." 
+____TEXT____
+\c[7]\N[6]\c[0]
+"Well all the kings hate me at this point, so that one line
+I can agree with..."
+____TEXT____
+\c[7]\N[6]\c[0]
+"I WILL strive to unify these lands, be it in the
+prophecies or not."
+____TEXT____
+\c[7]\N[6]\c[0]
+"No matter the cost."
+____TEXT____
+\c[7]\N[6]\c[0]
+"But..."
+____TEXT____
+\c[7]\N[6]\c[0]
+"I feel like I'm really close to achieving my goals, but
+the last step is not clear... It's still shrouded in the mist."
+____TEXT____
+\c[7]\N[6]\c[0]
+"I'm not certain if this is 'the path' to achieve all this."
+____TEXT____
+\c[7]\N[3]\c[0]
+"What do you mean? You are just a step away from founding
+your own kingdom and becoming one of the most fabled rulers
+of our time!"
+____TEXT____
+\c[7]\N[3]\c[0]
+"You'd make a great ruler! I'm sure of it! Common people 
+love you already!"
+____TEXT____
+\c[7]\N[6]\c[0]
+"..."
+____TEXT____
+\c[7]\N[6]\c[0]
+"'I'm sure of it.' she says..." 
+____TEXT____
+\c[7]\N[6]\c[0]
+"What difference would it make anyway?"
+____TEXT____
+\c[7]\N[6]\c[0]
+"The history has proven time and time again that order,
+virtue and tranquility don't last."
+____TEXT____
+\c[7]\N[6]\c[0]
+"I need something definite. Something pure."
+____TEXT____
+\c[7]\N[6]\c[0]
+"I need to ascend above the kings and queens of our times."
+____TEXT____
+\c[7]\N[6]\c[0]
+"The last step isn't shrouded in the mist. It's waiting in
+the depths of the darkness."
+____TEXT____
+\c[7]\N[3]\c[0]
+"Le'garde... I need to ask what this campaign in the north 
+is all about?
+____TEXT____
+\c[7]\N[3]\c[0]
+"I don't quite understand the importance expanding our
+reign all the way over there...
+____TEXT____
+\c[7]\N[3]\c[0]
+"Frankly... I'm afraid such campaign could have negative
+impact on your reputation."
+____TEXT____
+\c[7]\N[6]\c[0]
+"Thanks for your honest words \N[3]..."
+____TEXT____
+\c[7]\N[6]\c[0]
+"However my mind is set."
+____TEXT____
+\c[7]\N[6]\c[0]
+"The campaign in the north is vital to my plans. They have 
+something that belongs to me."
+____TEXT____
+\c[7]\N[3]\c[0]
+"Something that belongs to you? What are you talking about?"
+____TEXT____
+\c[7]\N[6]\c[0]
+"I have to reach greater heights. This is the only way."
+____TEXT____
+\c[7]\N[3]\c[0]
+"..."

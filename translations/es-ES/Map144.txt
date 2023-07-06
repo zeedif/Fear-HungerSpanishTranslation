@@ -1,0 +1,58 @@
+____TEXT____
+You are greeted with towering figurines. They are sitting 
+idle next to huge dining tables.
+____TEXT____
+You get ominous vibes from them, but at the same time there
+is a peaceful and still atmosphere filling the air...
+____TEXT____
+\c[7]New gods\c[0]
+"Welcome."
+____TEXT____
+\c[7]New gods\c[0]
+"You have earned three questions."
+____TEXT____
+\c[7]New gods\c[0]
+"Use them wisely."
+____TEXT____
+\c[7]New gods\c[0]
+"You have two questions left."
+____TEXT____
+\c[7]New gods\c[0]
+"You have one more question left."
+____TEXT____
+You got a \c[2]Book of enlightenment\c[0].
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"ENOUGH!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"That's more than enough, you filthy maggots!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"That is how I gave up my pathetic golden crown of the new
+gods!? ARE YOU KIDDING ME!?"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"MAGGOTS swimming in their OWN VOMIT!"
+____TEXT____
+Nas'hrah spits on the ground aggressively.
+____TEXT____
+\c[7]New gods\c[0]
+"You are still alive. Somewhat. Nas'hrah the half-man."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"NAS'HRAH THE HALF-MAN from the east!? Better half than
+CRISP!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"So this is what a burnt god smells like..\ DISGUSTING!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Everything about your miserable existence reeks rotten."
+____TEXT____
+\c[7]New gods\c[0]
+"..."
+____TEXT____
+Nas'hrah spits on the crisp body of the new god.
+____TEXT____
+You got a \c[2]Book of enlightenment\c[0].

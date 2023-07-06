@@ -1,0 +1,1010 @@
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+Moonless is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[6]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[5]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[4]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[3]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[1]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Bars stand in your way. They seem to be way too firm
+to budge.
+___CHOICE___
+Investigate
+Leave
+____TEXT____
+The doorway seems to lead outside...
+____TEXT____
+The girl is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+The stone has a heavy aura to it. It's almost too much
+for you to carry...
+____TEXT____
+Here lies \N[16]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[17]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[18]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+MERCENARY
+KNIGHT
+CAPTAIN
+OUTLANDER
+MARRIAGE
+____TEXT____
+Your child is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+There is something shining here...
+____TEXT____
+You find a \c[2]Lucky coin\c[0]!
+____TEXT____
+Here lies \N[19]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[20]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[21]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Rocks and rubble block your way...
+___CHOICE___
+Take a stone
+Leave
+____TEXT____
+You take a \c[2]Stone\c[0].
+<follower touch>
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to the
+remains of the creature...
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead uterus.
+___CHOICE___
+Yes
+No
+____TEXT____
+The surface of the uterus is unedible...
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the uterus.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The mannequin is down...
+___CHOICE___
+Beat her
+Search her
+Skin her
+Leave her
+____TEXT____
+No reaction. The surface of the uterus is rather hard...
+____TEXT____
+You find nothing of use from the uterus.
+____TEXT____
+The surface of the uterus is actually too hard for the
+skinning knife.
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat her
+Search her
+Leave her
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+You find nothing of use from the uterus.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to the
+remains of the creature...
+____TEXT____
+A pile of flesh remains here...
+<follower touch>
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to the
+remains of the creature...
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead uterus.
+___CHOICE___
+Yes
+No
+____TEXT____
+The surface of the uterus is unedible...
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the uterus.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The mannequin is down...
+___CHOICE___
+Beat her
+Search her
+Skin her
+Leave her
+____TEXT____
+No reaction. The surface of the uterus is rather hard...
+____TEXT____
+You find nothing of use from the uterus.
+____TEXT____
+The surface of the uterus is actually too hard for the
+skinning knife.
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat her
+Search her
+Leave her
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+You find nothing of use from the uterus.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to the
+remains of the creature...
+____TEXT____
+A pile of flesh remains here...
+BOOKSHELF
+____TEXT____
+There are few ancient scrolls laying around...
+___CHOICE___
+Search
+Leave
+___CHOICE___
+HEADS
+TAILS
+____TEXT____
+You find nothing of interest.
+BOOKSHELF
+____TEXT____
+You already searched this bookshelf.
+____TEXT____
+There are few ancient scrolls laying around...
+___CHOICE___
+Search
+Leave it be
+___CHOICE___
+HEADS
+TAILS
+____TEXT____
+You find nothing of interest.
+____TEXT____
+You find nothing of interest.
+____TEXT____
+You already searched this bookshelf.
+BOOKSHELF
+____TEXT____
+There are few ancient scrolls laying around...
+___CHOICE___
+Search
+Leave
+___CHOICE___
+HEADS
+TAILS
+____TEXT____
+You find nothing of interest.
+BOOKSHELF
+____TEXT____
+You already searched this bookshelf.
+CHEST
+____TEXT____
+A sturdy chest. It doesn't seem to be locked.
+___CHOICE___
+Open
+Leave
+___CHOICE___
+HEADS
+TAILS
+CHEST
+____TEXT____
+There is nothing left in the chest anymore.
+CHEST
+____TEXT____
+A sturdy chest. It doesn't seem to be locked.
+___CHOICE___
+Open
+Leave
+___CHOICE___
+HEADS
+TAILS
+CHEST
+____TEXT____
+There is nothing left in the chest anymore.
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the shelf for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the shelf for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the shelf for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+"Blood... Blood... BLOOD..."
+____TEXT____
+"Paint the dungeon walls in red and rejoice!"
+____TEXT____
+"This will suffice for now. But our quest is far from over."
+____TEXT____
+You lost the track of time...
+____TEXT____
+You blacked out...
+____TEXT____
+You feel great dread inside you, as if something terrible
+just happened...
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Well well..."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Things sure escalated quickly kueh kueh."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Nothing like seeing weakling maggots get succumbed by these
+dungeons."
+___CHOICE___
+"What happened here...?"
+"This must be a nightmare!"
+"What are you laughing at!?"
+"..."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"..."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Tch. It's obvious, isn't it?"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"You know goddamn well what you did just there."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Impressive, if you ask me. You just gained a slight of my
+respect."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Kueh kueh! Ravel in your filth maggot! You are a filthy little
+dungeon dwelling beast now. No different from the rest of the
+scum we see wandering these dark corridors."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Kueh kueh! Ravel in your filth maggot! You are a filthy little
+dungeon dwelling beast now. No different from the rest of the
+scum we see wandering these dark corridors."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Kueh Kueh! Keep up the good work!"
+____TEXT____
+Cahara seems to be coming back to his senses.
+____TEXT____
+\c[7]Cahara\c[0]
+"Uhhh...."
+____TEXT____
+\c[7]Cahara\c[0]
+"Just what happened...?"
+___CHOICE___
+"Are you okay?"
+"You were possessed by the sword."
+"Let's just continue. No time to waste."
+____TEXT____
+\c[7]Cahara\c[0]
+"Headache of the century. No amount of wine could help this
+pain..."
+____TEXT____
+\c[7]Cahara\c[0]
+"That sword... It's messed up."
+____TEXT____
+\c[7]Cahara\c[0]
+"No kidding..."
+____TEXT____
+\c[7]Cahara\c[0]
+"Just what the hell is that sword?!"
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+____TEXT____
+\c[7]Cahara\c[0]
+"We are cool...?"
+____TEXT____
+\c[7]Cahara\c[0]
+"Yeah, let's just continue."
+____TEXT____
+\c[7]Cahara\c[0]
+"We can think about this once we get out of these dungeons."
+____TEXT____
+D'arce seems to be coming back to her senses.
+____TEXT____
+\c[7]D'arce\c[0]
+"Ah...."
+____TEXT____
+\c[7]D'arce\c[0]
+"I just had the worst nightmare... Please tell me it didn't
+really happen?"
+___CHOICE___
+"Are you okay?"
+"You were possessed by the sword."
+"Let's just continue. No time to waste."
+____TEXT____
+\c[7]D'arce\c[0]
+"Now I am... At least I think so..."
+____TEXT____
+\c[7]D'arce\c[0]
+"Just keep me away from that wicked sword!"
+____TEXT____
+\c[7]D'arce\c[0]
+"It is pure evil."
+____TEXT____
+\c[7]D'arce\c[0]
+"I-I'm so sorry..."
+____TEXT____
+\c[7]D'arce\c[0]
+"I couldn't control myself..."
+____TEXT____
+\c[7]D'arce\c[0]
+"How can such thing exist...?"
+____TEXT____
+\c[7]D'arce\c[0]
+"Continue, just like that?"
+____TEXT____
+\c[7]D'arce\c[0]
+"We should really consider what caused this!"
+____TEXT____
+\c[7]D'arce\c[0]
+"Otherwise it might happen again. Caution is the only thing
+keeping us alive in these dungeons!"
+____TEXT____
+Enki seems to be coming back to his senses.
+____TEXT____
+\c[7]Enki\c[0]
+"Well... That was curious..."
+___CHOICE___
+"Are you okay?"
+"You were possessed by the sword."
+"Let's just continue. No time to waste."
+____TEXT____
+\c[7]Enki\c[0]
+"As if I'd let a mere sword like that break me."
+____TEXT____
+\c[7]Enki\c[0]
+"I'm completely fine now. It was just a small miscalculation
+on my part."
+____TEXT____
+\c[7]Enki\c[0]
+"Obviously. Doesn't take a scholar to understand that much."
+____TEXT____
+\c[7]Enki\c[0]
+"I was just trying to experiment with the blade and you had
+to come and stop me."
+____TEXT____
+\c[7]Enki\c[0]
+"That blade has got great power sealed within. You have to
+take some risks to exploit that power."
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+____TEXT____
+\c[7]Enki\c[0]
+"Agreed."
+____TEXT____
+Ragnvaldr seems to be coming back to his senses.
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"..."
+___CHOICE___
+"Are you okay?"
+"You were possessed by the sword."
+"Let's just continue. No time to waste."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"I think I am now."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Thank you for stopping me."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"You are a lot stronger than what I expected. I hope you
+take that as a compliment."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"So it seems..."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"The sword is a living thing clearly. I can't quite explain
+how it managed to get a hold of me like that..."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Right. Let's do just that."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"No need to ponder what just happened as long as we learn
+from it."
+____TEXT____
+Here lies \N[1]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[3]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[4]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[5]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You hear voices inside your head.
+____TEXT____
+The voices seem to be echoing from the macabre sword in front 
+of you...
+____TEXT____
+"Chaos, pain and misery..."
+____TEXT____
+"Those are the reasons I was created..."
+____TEXT____
+"Blood is the price to wield me..."
+____TEXT____
+"Do you want me...?"
+___CHOICE___
+Yes
+No
+____TEXT____
+"Very well..."
+____TEXT____
+You take \c[2]Miasma\c[0] with you.
+____TEXT____
+You hear voices inside your head.
+____TEXT____
+The voices seem to be echoing from the macabre sword in front 
+of you...
+____TEXT____
+"Chaos, pain and misery..."
+____TEXT____
+"Those are the reasons I was created..."
+____TEXT____
+"Blood is the price to wield me..."
+____TEXT____
+"Do you want me...?"
+___CHOICE___
+Yes
+No
+____TEXT____
+"Very well..."
+____TEXT____
+You take \c[2]Miasma\c[0] with you.
+____TEXT____
+You hear voices inside your head.
+____TEXT____
+The voices seem to be echoing from the macabre sword in front 
+of you...
+____TEXT____
+"Chaos, pain and misery..."
+____TEXT____
+"Those are the reasons I was created..."
+____TEXT____
+"Blood is the price to wield me..."
+____TEXT____
+"Do you want me...?"
+___CHOICE___
+Yes
+No
+____TEXT____
+"Very well..."
+____TEXT____
+You take \c[2]Miasma\c[0] with you.
+____TEXT____
+You hear voices inside your head.
+____TEXT____
+The voices seem to be echoing from the macabre sword in front 
+of you...
+____TEXT____
+"Chaos, pain and misery..."
+____TEXT____
+"Those are the reasons I was created..."
+____TEXT____
+"Blood is the price to wield me..."
+____TEXT____
+"Do you want me...?"
+___CHOICE___
+Yes
+No
+____TEXT____
+"Very well..."
+____TEXT____
+You take \c[2]Miasma\c[0] with you.
+____TEXT____
+You hear voices inside your head.
+____TEXT____
+The voices seem to be echoing from the macabre sword in front 
+of you...
+____TEXT____
+"Chaos, pain and misery..."
+____TEXT____
+"Those are the reasons I was created..."
+____TEXT____
+"Blood is the price to wield me..."
+____TEXT____
+"Do you want me...?"
+___CHOICE___
+Yes
+No
+____TEXT____
+"Very well..."
+____TEXT____
+You take \c[2]Miasma\c[0] with you.
+____TEXT____
+Here lies \N[17]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+The girl is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+The stone has a heavy aura to it. It's almost too much
+for you to carry...
+____TEXT____
+Here lies \N[4]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[6]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[16]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[1]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[1]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[18]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[5]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Your child is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Moonless is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[3]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[3]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+The bed is in a bad shape. The dungeons feel very dingy and 
+unsafe but you could have a brief respite here if you choosed 
+to do so...
+___CHOICE___
+Tear the blanket
+Save & Rest
+Leave
+____TEXT____
+You got a \c[2]Cloth fragment\c[0]!
+____TEXT____
+Your adrenaline is running high, you can't rest at this very
+moment.
+____TEXT____
+The bed is in a bad shape. The dungeons feel very dingy and 
+unsafe, something tells you not to sleep here.
+___CHOICE___
+Tear the blanket
+Leave
+____TEXT____
+You got a \c[2]Cloth fragment\c[0]!
+____TEXT____
+The bed is in a bad shape. The dungeons feel very dingy and 
+unsafe but you could have a brief respite here if you choosed 
+to do so...
+___CHOICE___
+Save & Rest
+Leave
+____TEXT____
+Your adrenaline is running high, you can't rest at this very
+moment.
+____TEXT____
+The bed is in a bad shape. The dungeons feel very dingy and 
+unsafe, something tells you not to sleep here.
+____TEXT____
+You feel a bit rested, even though you had troubling
+dreams...
+___CHOICE___
+HEADS
+TAILS
+____TEXT____
+You feel a bit rested, even though you had troubling
+dreams...
+____TEXT____
+Your rest is interrupted. You wake up to a strong sensation
+of killing intent.
+--------
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.

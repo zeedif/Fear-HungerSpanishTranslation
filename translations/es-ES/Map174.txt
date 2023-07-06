@@ -1,0 +1,1363 @@
+____TEXT____
+It's too dark over there... There is no going back now.
+____TEXT____
+It's too dark over there... There is no going back now.
+____TEXT____
+There are bunch of books left here... None of them catch
+your interest.
+____TEXT____
+There are bunch of books left here... None of them catch
+your interest.
+____TEXT____
+There are bunch of books left here... None of them catch
+your interest.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+The crate is empty.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+The crate is empty.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+The crate is empty.
+____TEXT____
+You search the barrel for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+The crate is empty.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+The crate is empty.
+____TEXT____
+The minecart is full of rocks and rubble.
+___CHOICE___
+Take a stone
+Leave
+____TEXT____
+You take a \c[2]Stone\c[0].
+____TEXT____
+A minecart is left here...
+____TEXT____
+The minecart is full of rocks and rubble.
+___CHOICE___
+Take a stone
+Leave
+____TEXT____
+You take a \c[2]Stone\c[0].
+____TEXT____
+A minecart is left here...
+____TEXT____
+The minecart is full of rocks and rubble.
+___CHOICE___
+Take a stone
+Leave
+____TEXT____
+You take a \c[2]Stone\c[0].
+____TEXT____
+A minecart is left here...
+____TEXT____
+Leave the dungeons?
+___CHOICE___
+Leave
+Nevermind
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Another dungeon level finished! Let's go again tomorrow!"
+____TEXT____
+A sturdy chest. It doesn't seem to be locked.
+___CHOICE___
+Open
+Leave it
+____TEXT____
+You find \c[2]5 silver coins\c[0].
+____TEXT____
+There is nothing left in the chest anymore.
+____TEXT____
+There are few potions left here...
+____TEXT____
+You find an \c[2]Explosive vial\c[0]!
+____TEXT____
+Nothing interesting left here.
+____TEXT____
+Use \c[2]Tinderbox\c[0] to light the torch?
+___CHOICE___
+Yes
+No
+____TEXT____
+\c[7]Wolfmask\c[0]
+"Celebration of flesh.... I want more..."
+____TEXT____
+The masked gentleman seems to be in a very agitated state
+and is breathing heavily.
+____TEXT____
+His genitalia seem to be in an abnormally high pressure 
+erection.
+____TEXT____
+Take part in the feast?
+___CHOICE___
+Yes
+No
+___CHOICE___
+HEADS
+TAILS
+____TEXT____
+With the act, your affinity with the Gro-goroth is growing...
+____TEXT____
+With the act, your affinity with the Gro-goroth is growing...
+____TEXT____
+With the act, your affinity with the Gro-goroth is growing...
+____TEXT____
+\c[7]Wolfmask\c[0]
+"Celebration of flesh.... I want more..."
+____TEXT____
+The masked lady seems to be in a very agitated state
+and is breathing heavily.
+____TEXT____
+The victim seems to be alive in a trance-like state.
+____TEXT____
+The two are busy with each other.
+____TEXT____
+The other person is bleeding extensively and you can't help
+but wonder how much life there is still left in him.
+____TEXT____
+The two are busy with each other.
+____TEXT____
+The other person is bleeding extensively and you can't help
+but wonder how much life there is still left in him.
+____TEXT____
+The victim seems to be alive in a trance-like state.
+____TEXT____
+With \c[2]Mastery over insects\c[0] you are able to hear
+whispers...
+____TEXT____
+\} "Master... they are eating each other... humans are...
+savages..."
+____TEXT____
+The girl is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+The stone has a heavy aura to it. It's almost too much
+for you to carry...
+____TEXT____
+Moonless is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[16]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[17]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[18]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[1]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[3]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[6]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[5]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[4]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+Leave the dungeons?
+___CHOICE___
+Leave
+Nevermind
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Another dungeon level finished! Let's go again tomorrow!"
+MERCENARY
+KNIGHT
+CAPTAIN
+OUTLANDER
+MARRIAGE
+____TEXT____
+The masked woman is feeding her arm to the other one...
+____TEXT____
+He seems content.
+____TEXT____
+The masked man seems to be enjoying himself a lot.
+____TEXT____
+He seems to be alive still, even with all his guts out.
+____TEXT____
+She is chewing on the cut-off arm.
+____TEXT____
+There is a rotten corpse here...
+The body seems to be in a state of collapse.
+___CHOICE___
+Use \c[2]Necromancy\c[0]
+Leave
+____TEXT____
+Unfortunately the body is in too bad of a shape to carry
+itself.
+____TEXT____
+There is a rotten corpse here...
+The body seems to be in a state of collapse.
+____TEXT____
+There is a rotten corpse here...
+The body seems to be in a state of collapse.
+___CHOICE___
+Use \c[2]Necromancy\c[0]
+Leave
+____TEXT____
+Unfortunately the body is in too bad of a shape to carry
+itself.
+____TEXT____
+There is a rotten corpse here...
+The body seems to be in a state of collapse.
+____TEXT____
+There is a rotten corpse here...
+The body seems to be in a state of collapse.
+___CHOICE___
+Use \c[2]Necromancy\c[0]
+Leave
+____TEXT____
+Unfortunately the body is in too bad of a shape to carry
+itself.
+____TEXT____
+There is a rotten corpse here...
+The body seems to be in a state of collapse.
+____TEXT____
+There is a rotten corpse here...
+The body seems to be in a state of collapse.
+___CHOICE___
+Use \c[2]Necromancy\c[0]
+Leave
+____TEXT____
+Unfortunately the body is in too bad of a shape to carry
+itself.
+____TEXT____
+There is a rotten corpse here...
+The body seems to be in a state of collapse.
+____TEXT____
+There is a rotten corpse here...
+The body seems to be in a state of collapse.
+___CHOICE___
+Use \c[2]Necromancy\c[0]
+Leave
+____TEXT____
+Unfortunately the body is in too bad of a shape to carry
+itself.
+____TEXT____
+There is a rotten corpse here...
+The body seems to be in a state of collapse.
+____TEXT____
+There is a rotten corpse here...
+The body seems to be in a state of collapse.
+___CHOICE___
+Use \c[2]Necromancy\c[0]
+Leave
+____TEXT____
+Unfortunately the body is in too bad of a shape to carry
+itself.
+____TEXT____
+There is a rotten corpse here...
+The body seems to be in a state of collapse.
+____TEXT____
+There is a man in a wolfmask eating intestines...
+____TEXT____
+Your child is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+<follower touch>
+<follower touch>
+<follower touch>
+<follower touch>
+<follower touch>
+<follower touch>
+<follower touch>
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead guard.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead guard.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+You find \c[2]5 silver coins\c[0].
+____TEXT____
+You took \c[2]Guard skin\c[0]!
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+You find \c[2]5 silver coins\c[0].
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead guard.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead guard.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+You already searched him.
+____TEXT____
+You took \c[2]Guard skin\c[0]!
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+You already searched him.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+A pile of flesh remains here...
+<follower touch>
+<follower touch>
+<follower touch>
+<follower touch>
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead lizardman.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead lizardman.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+You find \c[2]5 silver coins\c[0].
+____TEXT____
+Skinning knife doesn't cut lizardman's skin...
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+You find \c[2]5 silver coins\c[0].
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead lizardman.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead lizardman.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+You already searched him.
+____TEXT____
+Skinning knife doesn't cut lizardman's skin...
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+You already searched him.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+A pile of flesh remains here...
+<follower touch>
+<follower touch>
+<follower touch>
+<follower touch>
+<follower touch>
+<follower touch>
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the crow.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead guard.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The Crow Mauler is down...
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+Crow Mauler only carries \c[2]Crow emblem key\c[0] with
+him.
+____TEXT____
+You see no point in skinning the Crow Mauler.
+____TEXT____
+The Crow Mauler is down...
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+Crow Mauler only carries \c[2]Crow emblem key\c[0] with
+him.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the crow.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead guard.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The Crow Mauler is down...
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+Crow Mauler has nothing of worth.
+____TEXT____
+You see no point in skinning the Crow Mauler.
+____TEXT____
+The Crow Mauler is down...
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+Crow Mauler has nothing of worth.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+A pile of flesh remains here...
+____TEXT____
+Here lies \N[19]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[20]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[21]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+MERCENARY
+KNIGHT
+CAPTAIN
+OUTLANDER
+MARRIAGE
+DARK PRIEST
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+The crate is empty.
+____TEXT____
+There are bunch of books left here... None of them catch
+your interest.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+The crate is empty.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+The crate is empty.
+____TEXT____
+You search the barrel for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the barrel for anything useful...
+____TEXT____
+Nothing left here.
+day
+____TEXT____
+Leave the dungeons?
+___CHOICE___
+Leave
+Nevermind
+____TEXT____
+You find a \c[2]Plush toy\c[0].
+____TEXT____
+The mines have caved in here.
+____TEXT____
+The minecart is full of rocks and rubble.
+___CHOICE___
+Take a stone
+Leave
+____TEXT____
+You take a \c[2]Stone\c[0].
+____TEXT____
+A minecart is left here...
+____TEXT____
+You find a \c[2]King's crown\c[0].
+____TEXT____
+The minecart is full of rocks and rubble.
+___CHOICE___
+Take a stone
+Leave
+____TEXT____
+You take a \c[2]Stone\c[0].
+____TEXT____
+A minecart is left here...
+____TEXT____
+The minecart is full of rocks and rubble.
+___CHOICE___
+Take a stone
+Leave
+____TEXT____
+You take a \c[2]Stone\c[0].
+____TEXT____
+A minecart is left here...
+<follower touch>
+____TEXT____
+The minecart is full of rocks and rubble.
+___CHOICE___
+Take a stone
+Leave
+____TEXT____
+You take a \c[2]Stone\c[0].
+____TEXT____
+A minecart is left here...
+____TEXT____
+You find a \c[2]Soul stone\c[0].
+____TEXT____
+You find a \c[2]Soul stone\c[0].
+____TEXT____
+You find a \c[2]Soul stone\c[0].
+____TEXT____
+You could open the locked door with \c[2]Lockpicking\c[0].
+___CHOICE___
+Use \c[2]Lockpicking\c[0]
+Don't
+____TEXT____
+The door seems to be locked...
+___CHOICE___
+Force the door open
+Use \c[2]Small key\c[0]
+Use \c[2]Red vial\c[0]
+Leave
+____TEXT____
+You managed to force your way through the door.
+____TEXT____
+You don't seem to be strong enough to force the door open...
+____TEXT____
+You managed to force your way through the door.
+____TEXT____
+You don't seem to be strong enough to force the door open...
+____TEXT____
+You managed to force your way through the door.
+____TEXT____
+You don't seem to be strong enough to force the door open...
+____TEXT____
+You try using \c[2]Small key\c[0].
+____TEXT____
+You try melting the lock with \c[2]Red vial\c[0].
+____TEXT____
+The door seems to be locked...
+___CHOICE___
+Force the door open
+Use \c[2]Red vial\c[0]
+Leave
+____TEXT____
+You managed to force your way through the door.
+____TEXT____
+You don't seem to be strong enough to force the door open...
+____TEXT____
+You managed to force your way through the door.
+____TEXT____
+You don't seem to be strong enough to force the door open...
+____TEXT____
+You managed to force your way through the door.
+____TEXT____
+You don't seem to be strong enough to force the door open...
+____TEXT____
+You try melting the lock with \c[2]Red vial\c[0].
+____TEXT____
+The door seems to be locked...
+___CHOICE___
+Force the door open
+Use \c[2]Small key\c[0]
+Leave it
+____TEXT____
+You managed to force your way through the door.
+____TEXT____
+You don't seem to be strong enough to force the door open...
+____TEXT____
+You managed to force your way through the door.
+____TEXT____
+You don't seem to be strong enough to force the door open...
+____TEXT____
+You managed to force your way through the door.
+____TEXT____
+You don't seem to be strong enough to force the door open...
+____TEXT____
+You try using \c[2]Small key\c[0].
+____TEXT____
+The door seems to be locked...
+___CHOICE___
+Force the door open
+Leave it
+____TEXT____
+You managed to force your way through the door.
+____TEXT____
+You don't seem to be strong enough to force the door open...
+____TEXT____
+You managed to force your way through the door.
+____TEXT____
+You don't seem to be strong enough to force the door open...
+____TEXT____
+You managed to force your way through the door.
+____TEXT____
+You don't seem to be strong enough to force the door open...
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"I was already waiting for you!"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"This one will be an interesting one!"
+____TEXT____
+You could open the locked door with \c[2]Lockpicking\c[0].
+___CHOICE___
+Use \c[2]Lockpicking\c[0]
+Don't
+____TEXT____
+The door seems to be locked...
+___CHOICE___
+Force the door open
+Use \c[2]Small key\c[0]
+Use \c[2]Red vial\c[0]
+Leave
+____TEXT____
+You managed to force your way through the door.
+____TEXT____
+You don't seem to be strong enough to force the door open...
+____TEXT____
+You managed to force your way through the door.
+____TEXT____
+You don't seem to be strong enough to force the door open...
+____TEXT____
+You managed to force your way through the door.
+____TEXT____
+You don't seem to be strong enough to force the door open...
+____TEXT____
+You try using \c[2]Small key\c[0].
+____TEXT____
+You try melting the lock with \c[2]Red vial\c[0].
+____TEXT____
+The door seems to be locked...
+___CHOICE___
+Force the door open
+Use \c[2]Red vial\c[0]
+Leave
+____TEXT____
+You managed to force your way through the door.
+____TEXT____
+You don't seem to be strong enough to force the door open...
+____TEXT____
+You managed to force your way through the door.
+____TEXT____
+You don't seem to be strong enough to force the door open...
+____TEXT____
+You managed to force your way through the door.
+____TEXT____
+You don't seem to be strong enough to force the door open...
+____TEXT____
+You try melting the lock with \c[2]Red vial\c[0].
+____TEXT____
+The door seems to be locked...
+___CHOICE___
+Force the door open
+Use \c[2]Small key\c[0]
+Leave it
+____TEXT____
+You managed to force your way through the door.
+____TEXT____
+You don't seem to be strong enough to force the door open...
+____TEXT____
+You managed to force your way through the door.
+____TEXT____
+You don't seem to be strong enough to force the door open...
+____TEXT____
+You managed to force your way through the door.
+____TEXT____
+You don't seem to be strong enough to force the door open...
+____TEXT____
+You try using \c[2]Small key\c[0].
+____TEXT____
+The door seems to be locked...
+___CHOICE___
+Force the door open
+Leave it
+____TEXT____
+You managed to force your way through the door.
+____TEXT____
+You don't seem to be strong enough to force the door open...
+____TEXT____
+You managed to force your way through the door.
+____TEXT____
+You don't seem to be strong enough to force the door open...
+____TEXT____
+You managed to force your way through the door.
+____TEXT____
+You don't seem to be strong enough to force the door open...
+____TEXT____
+The minecart is full of rocks and rubble.
+___CHOICE___
+Take a stone
+Leave
+____TEXT____
+You take a \c[2]Stone\c[0].
+____TEXT____
+A minecart is left here...
+____TEXT____
+The minecart is full of rocks and rubble.
+___CHOICE___
+Take a stone
+Leave
+____TEXT____
+You take a \c[2]Stone\c[0].
+____TEXT____
+A minecart is left here...
+____TEXT____
+The minecart is full of rocks and rubble.
+___CHOICE___
+Take a stone
+Leave
+____TEXT____
+You take a \c[2]Stone\c[0].
+____TEXT____
+A minecart is left here...
+____TEXT____
+The minecart is full of rocks and rubble.
+___CHOICE___
+Take a stone
+Leave
+____TEXT____
+You take a \c[2]Stone\c[0].
+____TEXT____
+A minecart is left here...
+____TEXT____
+A huge barrel full of rubble created from the mining activities.
+____TEXT____
+A huge barrel full of rubble created from the mining activities.
+____TEXT____
+A huge barrel full of rubble created from the mining activities.
+____TEXT____
+A huge barrel full of rubble created from the mining activities.
+____TEXT____
+A huge barrel full of rubble created from the mining activities.
+____TEXT____
+A huge barrel full of rubble created from the mining activities.
+____TEXT____
+A huge barrel full of rubble created from the mining activities.
+____TEXT____
+A huge barrel full of rubble created from the mining activities.
+____TEXT____
+A huge barrel full of rubble created from the mining activities.
+____TEXT____
+A huge barrel full of rubble created from the mining activities.
+____TEXT____
+A huge barrel full of rubble created from the mining activities.
+____TEXT____
+A huge barrel full of rubble created from the mining activities.
+____TEXT____
+A huge barrel full of rubble created from the mining activities.
+____TEXT____
+A huge barrel full of rubble created from the mining activities.
+____TEXT____
+A huge barrel full of rubble created from the mining activities.
+____TEXT____
+A huge barrel full of rubble created from the mining activities.
+____TEXT____
+A huge barrel full of rubble created from the mining activities.
+____TEXT____
+A huge barrel full of rubble created from the mining activities.
+____TEXT____
+A contraption used for mining. You have no idea about its
+purpose.
+____TEXT____
+The levers are rusty and jammed so there is no using it...
+____TEXT____
+A contraption used for mining. You have no idea about its
+purpose.
+____TEXT____
+The levers are rusty and jammed so there is no using it...
+____TEXT____
+A contraption used for mining. You have no idea about its
+purpose.
+____TEXT____
+The levers are rusty and jammed so there is no using it...
+____TEXT____
+A contraption used for mining. You have no idea about its
+purpose.
+____TEXT____
+The levers are rusty and jammed so there is no using it...
+____TEXT____
+A contraption used for mining. You have no idea about its
+purpose.
+____TEXT____
+The levers are rusty and jammed so there is no using it...
+____TEXT____
+A contraption used for mining. You have no idea about its
+purpose.
+____TEXT____
+The levers are rusty and jammed so there is no using it...
+____TEXT____
+A contraption used for mining. You have no idea about its
+purpose.
+____TEXT____
+The levers are rusty and jammed so there is no using it...
+____TEXT____
+A contraption used for mining. You have no idea about its
+purpose.
+____TEXT____
+The levers are rusty and jammed so there is no using it...
+____TEXT____
+A contraption used for mining. You have no idea about its
+purpose.
+____TEXT____
+The levers are rusty and jammed so there is no using it...
+____TEXT____
+A contraption used for mining. You have no idea about its
+purpose.
+____TEXT____
+The levers are rusty and jammed so there is no using it...
+____TEXT____
+A huge barrel full of rubble created from the mining activities.
+____TEXT____
+A huge barrel full of rubble created from the mining activities.
+____TEXT____
+A huge barrel full of rubble created from the mining activities.
+<follower touch>
+____TEXT____
+The mines have caved in here.
+<follower touch>
+____TEXT____
+The mines have caved in here.
+____TEXT____
+The mines have caved in here.
+____TEXT____
+The mines have caved in here.
+____TEXT____
+There are remains of miners from a past era who were caught
+in the cave in.
+____TEXT____
+The mines have caved in here.
+____TEXT____
+There are remains of miners from a past era who were caught
+in the cave in.
+____TEXT____
+The mines have caved in here.
+____TEXT____
+There are remains of miners from a past era who were caught
+in the cave in.
+____TEXT____
+The mines have caved in here.
+____TEXT____
+There are remains of miners from a past era who were caught
+in the cave in.
+____TEXT____
+There are few potions left here...
+____TEXT____
+You find an \c[2]Explosive vial\c[0]!
+____TEXT____
+Nothing interesting left here.
+____TEXT____
+The hallway has collapsed here. Makes you wonder
+how the rest of this old fortress holds up...
+____TEXT____
+You could use \c[2]Explosive vial\c[0] here...
+___CHOICE___
+Use \c[2]Explosive vial\c[0]
+Leave
+____TEXT____
+The hallway has collapsed here. Makes you wonder
+how the rest of this old fortress holds up...
+____TEXT____
+You could use \c[2]Explosive vial\c[0] here...
+___CHOICE___
+Use \c[2]Explosive vial\c[0]
+Leave
+____TEXT____
+The hallway has collapsed here. Makes you wonder
+how the rest of this old fortress holds up...
+____TEXT____
+You could use \c[2]Explosive vial\c[0] here...
+___CHOICE___
+Use \c[2]Explosive vial\c[0]
+Leave
+____TEXT____
+The hallway has collapsed here. Makes you wonder
+how the rest of this old fortress holds up...
+____TEXT____
+You could use \c[2]Explosive vial\c[0] here...
+___CHOICE___
+Use \c[2]Explosive vial\c[0]
+Leave
+____TEXT____
+The hallway has collapsed here. Makes you wonder
+how the rest of this old fortress holds up...
+____TEXT____
+You could use \c[2]Explosive vial\c[0] here...
+___CHOICE___
+Use \c[2]Explosive vial\c[0]
+Leave
+____TEXT____
+The hallway has collapsed here. Makes you wonder
+how the rest of this old fortress holds up...
+____TEXT____
+You could use \c[2]Explosive vial\c[0] here...
+___CHOICE___
+Use \c[2]Explosive vial\c[0]
+Leave
+____TEXT____
+The hallway has collapsed here. Makes you wonder
+how the rest of this old fortress holds up...
+____TEXT____
+You could use \c[2]Explosive vial\c[0] here...
+___CHOICE___
+Use \c[2]Explosive vial\c[0]
+Leave
+____TEXT____
+The hallway has collapsed here. Makes you wonder
+how the rest of this old fortress holds up...
+____TEXT____
+You could use \c[2]Explosive vial\c[0] here...
+___CHOICE___
+Use \c[2]Explosive vial\c[0]
+Leave
+____TEXT____
+The mines have caved in here.
+____TEXT____
+The mines have caved in here.
+____TEXT____
+The body has been cut into several pieces. Some of the 
+markings on the limbs suggest that he was cut into food.
+____TEXT____
+There is a saw blade stuck on the head...
+___CHOICE___
+Take it
+Leave
+____TEXT____
+You got \c[2]Shark teeth\c[0].
+____TEXT____
+The body has been cut into several pieces. Some of the 
+markings on the limbs suggest that he was cut into food.
+____TEXT____
+The body has been cut into several pieces. Some of the 
+markings on the limbs suggest that he was cut into food.
+____TEXT____
+There is a saw blade stuck on the head...
+___CHOICE___
+Take it
+Leave
+____TEXT____
+You got \c[2]Shark teeth\c[0].
+____TEXT____
+The body has been cut into several pieces. Some of the 
+markings on the limbs suggest that he was cut into food.
+____TEXT____
+The body has been cut into several pieces. Some of the 
+markings on the limbs suggest that he was cut into food.
+____TEXT____
+There is a saw blade stuck on the head...
+___CHOICE___
+Take it
+Leave
+____TEXT____
+You got \c[2]Shark teeth\c[0].
+____TEXT____
+The body has been cut into several pieces. Some of the 
+markings on the limbs suggest that he was cut into food.
+____TEXT____
+The body has been cut into several pieces. Some of the 
+markings on the limbs suggest that he was cut into food.
+____TEXT____
+There is a saw blade stuck on the head...
+___CHOICE___
+Take it
+Leave
+____TEXT____
+You got \c[2]Shark teeth\c[0].
+____TEXT____
+The body has been cut into several pieces. Some of the 
+markings on the limbs suggest that he was cut into food.
+____TEXT____
+The body has been cut into several pieces. Some of the 
+markings on the limbs suggest that he was cut into food.
+____TEXT____
+There is a saw blade stuck on the head...
+___CHOICE___
+Take it
+Leave
+____TEXT____
+You got \c[2]Shark teeth\c[0].
+____TEXT____
+The body has been cut into several pieces. Some of the 
+markings on the limbs suggest that he was cut into food.
+____TEXT____
+The mines have caved in here.
+____TEXT____
+The mines have caved in here.
+____TEXT____
+The mines have caved in here.
+____TEXT____
+A badly mutilated skeleton is sitting here. There are
+claw marks all over its bones and many of the bones are
+missing...
+____TEXT____
+A badly mutilated skeleton is sitting here. There are
+claw marks all over its bones and many of the bones are
+missing...
+____TEXT____
+A badly mutilated skeleton is sitting here. There are
+claw marks all over its bones and many of the bones are
+missing...
+____TEXT____
+A badly mutilated skeleton is sitting here. There are
+claw marks all over its bones and many of the bones are
+missing...
+____TEXT____
+A sturdy chest. It doesn't seem to be locked.
+___CHOICE___
+Open
+Leave it
+____TEXT____
+You find \c[2]5 silver coins\c[0].
+____TEXT____
+There is nothing left in the chest anymore.
+____TEXT____
+A cooking pot.

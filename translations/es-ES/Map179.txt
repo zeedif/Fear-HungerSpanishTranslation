@@ -1,0 +1,4665 @@
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+____TEXT____
+\c[7]Enki\c[0]
+"You're still there?"
+____TEXT____
+\c[7]Enki\c[0]
+"Can't you see I'm reading here?"
+____TEXT____
+\c[7]Enki\c[0]
+"I got no interest in wasting my time with the likes of
+you."
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+___CHOICE___
+"Isn't that a bit rude?"
+Show him the \c[2]Ancient book\c[0]
+Leave him be
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+____TEXT____
+\c[7]Enki\c[0]
+"You are nothing to me from now on."
+____TEXT____
+You seem to have angered Enki.
+____TEXT____
+\c[7]Enki\c[0]
+"Rudeness is just a man-made conception. In the end we
+are all alone in this world, so naturally I do what I
+see best."
+____TEXT____
+\c[7]Enki\c[0]
+"Now leave me be."
+____TEXT____
+\c[7]Enki\c[0]
+"W-what's that?"
+____TEXT____
+\c[7]Enki\c[0]
+"That's the rites of madness - the Necronomicon!"
+____TEXT____
+\c[7]Enki\c[0]
+"Where did you find that!?"
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+____TEXT____
+\c[7]Enki\c[0]
+"I hate to see a magnificent book like that go to waste
+in the hands of someone like you..."
+____TEXT____
+\c[7]Enki\c[0]
+"So... How about leaving it to me, so you don't accidentally
+hurt yourself using that ancient relic?"
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+___CHOICE___
+"You can have it."
+"What is there for me?"
+____TEXT____
+\c[7]Enki\c[0]
+"Hm. Good."
+____TEXT____
+\c[7]Enki\c[0]
+"Believe it or not, but it's better for you too to discard
+such potentially deadly occult materia."
+____TEXT____
+\c[7]Enki\c[0]
+"Tch. I see how where this is going..."
+____TEXT____
+\c[7]Enki\c[0]
+"Well let's make this a simple trade; I can go out with
+you for once if you let me have that book."
+____TEXT____
+\c[7]Enki\c[0]
+"I don't embarass myself like this often just so you know
+it."
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+___CHOICE___
+"It's a deal."
+"No deal."
+____TEXT____
+\c[7]Enki\c[0]
+"Well thank you."
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+____TEXT____
+\c[7]Enki\c[0]
+"I guess I owe you one, as they say..."
+____TEXT____
+\c[7]Enki\c[0]
+"Suit yourself."
+____TEXT____
+\c[7]Enki\c[0]
+"Not that I needed that book anyway."
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+____TEXT____
+\c[7]Enki\c[0]
+"You're still there?"
+____TEXT____
+\c[7]Enki\c[0]
+"Can't you see I'm reading here?"
+____TEXT____
+\c[7]Enki\c[0]
+"I got no interest in wasting my time with the likes of
+you."
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+___CHOICE___
+"Isn't that a bit rude?"
+Leave him be
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+____TEXT____
+\c[7]Enki\c[0]
+"You are nothing to me from now on."
+____TEXT____
+You seem to have angered Enki.
+____TEXT____
+\c[7]Enki\c[0]
+"Rudeness is just a man-made conception. In the end we
+are all alone in this world, so naturally I do what I
+see best."
+____TEXT____
+\c[7]Enki\c[0]
+"Now leave me be."
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+____TEXT____
+\c[7]Enki\c[0]
+"You're still there?"
+____TEXT____
+\c[7]Enki\c[0]
+"Can't you see I'm reading here?"
+____TEXT____
+\c[7]Enki\c[0]
+"I got no interest in wasting my time with the likes of
+you."
+____TEXT____
+\c[7]D'arce\c[0]
+"..."
+___CHOICE___
+"Isn't that a bit rude?"
+Show him the \c[2]Ancient book\c[0]
+Leave him be
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+____TEXT____
+\c[7]Enki\c[0]
+"You are nothing to me from now on."
+____TEXT____
+You seem to have angered Enki.
+____TEXT____
+\c[7]Enki\c[0]
+"Rudeness is just a man-made conception. In the end we
+are all alone in this world, so naturally I do what I
+see best."
+____TEXT____
+\c[7]Enki\c[0]
+"Now leave me be."
+____TEXT____
+\c[7]Enki\c[0]
+"W-what's that?"
+____TEXT____
+\c[7]Enki\c[0]
+"That's the rites of madness - the Necronomicon!"
+____TEXT____
+\c[7]Enki\c[0]
+"Where did you find that!?"
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+____TEXT____
+\c[7]Enki\c[0]
+"I hate to see a magnificent book like that go to waste
+in the hands of someone like you..."
+____TEXT____
+\c[7]Enki\c[0]
+"So... How about leaving it to me, so you don't accidentally
+hurt yourself using that ancient relic?"
+____TEXT____
+\c[7]D'arce\c[0]
+"..."
+___CHOICE___
+"You can have it."
+"What is there for me?"
+____TEXT____
+\c[7]Enki\c[0]
+"Hm. Good."
+____TEXT____
+\c[7]Enki\c[0]
+"Believe it or not, but it's better for you too to discard
+such potentially deadly occult materia."
+____TEXT____
+\c[7]Enki\c[0]
+"Tch. I see how where this is going..."
+____TEXT____
+\c[7]Enki\c[0]
+"Well let's make this a simple trade; I can go out with
+you for once if you let me have that book."
+____TEXT____
+\c[7]Enki\c[0]
+"I don't embarass myself like this often just so you know
+it."
+____TEXT____
+\c[7]D'arce\c[0]
+"..."
+___CHOICE___
+"It's a deal."
+"No deal."
+____TEXT____
+\c[7]Enki\c[0]
+"Well thank you."
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+____TEXT____
+\c[7]Enki\c[0]
+"I guess I owe you one, as they say..."
+____TEXT____
+\c[7]Enki\c[0]
+"Suit yourself."
+____TEXT____
+\c[7]Enki\c[0]
+"Not that I needed that book anyway."
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+____TEXT____
+\c[7]Enki\c[0]
+"You're still there?"
+____TEXT____
+\c[7]Enki\c[0]
+"Can't you see I'm reading here?"
+____TEXT____
+\c[7]Enki\c[0]
+"I got no interest in wasting my time with the likes of
+you."
+____TEXT____
+\c[7]D'arce\c[0]
+"..."
+___CHOICE___
+"Isn't that a bit rude?"
+Leave him be
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+____TEXT____
+\c[7]Enki\c[0]
+"You are nothing to me from now on."
+____TEXT____
+You seem to have angered Enki.
+____TEXT____
+\c[7]Enki\c[0]
+"Rudeness is just a man-made conception. In the end we
+are all alone in this world, so naturally I do what I
+see best."
+____TEXT____
+\c[7]Enki\c[0]
+"Now leave me be."
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+____TEXT____
+\c[7]Enki\c[0]
+"You're still there?"
+____TEXT____
+\c[7]Enki\c[0]
+"Can't you see I'm reading here?"
+____TEXT____
+\c[7]Enki\c[0]
+"I got no interest in wasting my time with the likes of
+you."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"..."
+___CHOICE___
+"Isn't that a bit rude?"
+Show him the \c[2]Ancient book\c[0]
+Leave him be
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+____TEXT____
+\c[7]Enki\c[0]
+"You are nothing to me from now on."
+____TEXT____
+You seem to have angered Enki.
+____TEXT____
+\c[7]Enki\c[0]
+"Rudeness is just a man-made conception. In the end we
+are all alone in this world, so naturally I do what I
+see best."
+____TEXT____
+\c[7]Enki\c[0]
+"Now leave me be."
+____TEXT____
+\c[7]Enki\c[0]
+"W-what's that?"
+____TEXT____
+\c[7]Enki\c[0]
+"That's the rites of madness - the Necronomicon!"
+____TEXT____
+\c[7]Enki\c[0]
+"Where did you find that!?"
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+____TEXT____
+\c[7]Enki\c[0]
+"I hate to see a magnificent book like that go to waste
+in the hands of someone like you..."
+____TEXT____
+\c[7]Enki\c[0]
+"So... How about leaving it to me, so you don't accidentally
+hurt yourself using that ancient relic?"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"..."
+___CHOICE___
+"You can have it."
+"What is there for me?"
+____TEXT____
+\c[7]Enki\c[0]
+"Hm. Good."
+____TEXT____
+\c[7]Enki\c[0]
+"Believe it or not, but it's better for you too to discard
+such potentially deadly occult materia."
+____TEXT____
+\c[7]Enki\c[0]
+"Tch. I see how where this is going..."
+____TEXT____
+\c[7]Enki\c[0]
+"Well let's make this a simple trade; I can go out with
+you for once if you let me have that book."
+____TEXT____
+\c[7]Enki\c[0]
+"I don't embarass myself like this often just so you know
+it."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"..."
+___CHOICE___
+"It's a deal."
+"No deal."
+____TEXT____
+\c[7]Enki\c[0]
+"Well thank you."
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+____TEXT____
+\c[7]Enki\c[0]
+"I guess I owe you one, as they say..."
+____TEXT____
+\c[7]Enki\c[0]
+"Suit yourself."
+____TEXT____
+\c[7]Enki\c[0]
+"Not that I needed that book anyway."
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+____TEXT____
+\c[7]Enki\c[0]
+"You're still there?"
+____TEXT____
+\c[7]Enki\c[0]
+"Can't you see I'm reading here?"
+____TEXT____
+\c[7]Enki\c[0]
+"I got no interest in wasting my time with the likes of
+you."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"..."
+___CHOICE___
+"Isn't that a bit rude?"
+Leave him be
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+____TEXT____
+\c[7]Enki\c[0]
+"You are nothing to me from now on."
+____TEXT____
+You seem to have angered Enki.
+____TEXT____
+\c[7]Enki\c[0]
+"Rudeness is just a man-made conception. In the end we
+are all alone in this world, so naturally I do what I
+see best."
+____TEXT____
+\c[7]Enki\c[0]
+"Now leave me be."
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+____TEXT____
+Enki is ignoring you completely.
+____TEXT____
+\c[7]Enki\c[0]
+"I guess I owe you one, as they say..."
+____TEXT____
+\c[7]Enki\c[0]
+"But only one date! And it cannot be today. I need to study
+this book now."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Hmmm..."
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+___CHOICE___
+"What's on your mind?"
+Leave
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"I lost a cavewolf fur into the dungeons the other day..."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"I can't remember where I dropped it I'm afraid..."
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+___CHOICE___
+Give him the \c[2]Cavewolf fure\c[0]
+Leave
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Oh!! What, thank you!"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"This really is the same one!"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Thanks! I owe you one!"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Hmmm..."
+____TEXT____
+\c[7]D'arce\c[0]
+"..."
+___CHOICE___
+"What's on your mind?"
+Leave
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"I lost a cavewolf fur into the dungeons the other day..."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"I can't remember where I dropped it I'm afraid..."
+____TEXT____
+\c[7]D'arce\c[0]
+"..."
+___CHOICE___
+Give him the \c[2]Cavewolf fure\c[0]
+Leave
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Oh!! What, thank you!"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"This really is the same one!"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Thanks! I owe you one!"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Hmmm..."
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+___CHOICE___
+"What's on your mind?"
+Leave
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"I lost a cavewolf fur into the dungeons the other day..."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"I can't remember where I dropped it I'm afraid..."
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+___CHOICE___
+Give him the \c[2]Cavewolf fure\c[0]
+Leave
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Oh!! What, thank you!"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"This really is the same one!"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Thanks! I owe you one!"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"It's not like me to lose things, won't be happening again!"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Hej Cahara! How are you doing?"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"I'm planning on heading out today too, you are free to
+join in if you want!"
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+___CHOICE___
+"Yes, I'm in!"
+"Maybe not today..."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Alright! Great!"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"I'll be heading to the Prisons today. See you there!"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Too much exercise and fresh air for this week already?"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Hej Cahara! How are you doing?"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"I'm planning on heading out today too, you are free to
+join in if you want!"
+____TEXT____
+\c[7]D'arce\c[0]
+"..."
+___CHOICE___
+"Yes, I'm in!"
+"Maybe not today..."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Alright! Great!"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"I'll be heading to the Prisons today. See you there!"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Too much exercise and fresh air for this week already?"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Hej Cahara! How are you doing?"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"I'm planning on heading out today too, you are free to
+join in if you want!"
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+___CHOICE___
+"Yes, I'm in!"
+"Maybe not today..."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Alright! Great!"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"I'll be heading to the Prisons today. See you there!"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Too much exercise and fresh air for this week already?"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"I slept like a log after yesterday's adventures!"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"So where to today? Are you in?"
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+___CHOICE___
+"Hell yeah!"
+"Maybe not today..."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Alright! Great!"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"So how about the Mines today?"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"I heard that place is haunted, but it's nothing we couldn't
+handle! Just bring your cursed weapons with you!"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Too much exercise and fresh air for this week already?"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"I slept like a log after yesterday's adventures!"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"So where to today? Are you in?"
+____TEXT____
+\c[7]D'arce\c[0]
+"..."
+___CHOICE___
+"Hell yeah!"
+"Maybe not today..."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Alright! Great!"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"So how about the Mines today?"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"I heard that place is haunted, but it's nothing we couldn't
+handle! Just bring your cursed weapons with you!"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Too much exercise and fresh air for this week already?"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"I slept like a log after yesterday's adventures!"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"So where to today? Are you in?"
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+___CHOICE___
+"Hell yeah!"
+"Maybe not today..."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Alright! Great!"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"So how about the Mines today?"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"I heard that place is haunted, but it's nothing we couldn't
+handle! Just bring your cursed weapons with you!"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Too much exercise and fresh air for this week already?"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Hey partner! I could use some company today too. How about
+it?"
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+___CHOICE___
+"You know it, I'm in!"
+"Maybe not today..."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"You make me happy! Eh, I mean this makes me happy!"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"This is the last day we can go this week, so how about we
+hit the Ancient city today?"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Ah well that's too bad..."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Hey partner! I could use some company today too. How about
+it?"
+____TEXT____
+\c[7]D'arce\c[0]
+"..."
+___CHOICE___
+"You know it, I'm in!"
+"Maybe not today..."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"You make me happy! Eh, I mean this makes me happy!"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"This is the last day we can go this week, so how about we
+hit the Ancient city today?"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Ah well that's too bad..."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Hey partner! I could use some company today too. How about
+it?"
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+___CHOICE___
+"You know it, I'm in!"
+"Maybe not today..."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"You make me happy! Eh, I mean this makes me happy!"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"This is the last day we can go this week, so how about we
+hit the Ancient city today?"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Ah well that's too bad..."
+____TEXT____
+\c[7]Nilvan\c[0]
+"Hmmmm.........."
+____TEXT____
+Nilvan seems to be thinking something hard..."
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+___CHOICE___
+"What are you thinking about?"
+"Are you okay?"
+Leave her be
+____TEXT____
+\c[7]Nilvan\c[0]
+"Ah... Just today's class."
+____TEXT____
+\c[7]Nilvan\c[0]
+"I'm having hard time wrapping my mind around the gods
+and religion..."
+____TEXT____
+\c[7]Nilvan\c[0]
+"A bit silly of me, being a new god and all tee hee!"
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+___CHOICE___
+"Hey gods can have flaws too!"
+"Being a god must be a burden at times..."
+Leave
+____TEXT____
+\c[7]Nilvan\c[0]
+"Oh!? What are my flaws then?"
+____TEXT____
+Nilvan gives you a coy smile.
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+___CHOICE___
+"No, I didn't mean to insult you!"
+"For starters you're pretty out there, you know?"
+____TEXT____
+\c[7]Nilvan\c[0]
+"Tee hee, no worries. No insults taken!"
+____TEXT____
+\c[7]Nilvan\c[0]
+"I don't know what you are talking about tee hee!"
+____TEXT____
+\c[7]Nilvan\c[0]
+"Mmm... Not really!"
+____TEXT____
+Nilvan gives you a wide and radiating grin.
+____TEXT____
+\c[7]Nilvan\c[0]
+"Oh...?"
+____TEXT____
+\c[7]Nilvan\c[0]
+"What...?"
+____TEXT____
+\c[7]Nilvan\c[0]
+"Yes, sure. Thank you for asking!"
+____TEXT____
+Nilvan gives you a smile.
+____TEXT____
+\c[7]Nilvan\c[0]
+"Hmmmm.........."
+____TEXT____
+Nilvan seems to be thinking something hard..."
+____TEXT____
+\c[7]D'arce\c[0]
+"..."
+___CHOICE___
+"What are you thinking about?"
+"Are you okay?"
+Leave her be
+____TEXT____
+\c[7]Nilvan\c[0]
+"Ah... Just today's class."
+____TEXT____
+\c[7]Nilvan\c[0]
+"I'm having hard time wrapping my mind around the gods
+and religion..."
+____TEXT____
+\c[7]Nilvan\c[0]
+"A bit silly of me, being a new god and all tee hee!"
+____TEXT____
+\c[7]D'arce\c[0]
+"..."
+___CHOICE___
+"Hey gods can have flaws too!"
+"Being a god must be a burden at times..."
+Leave
+____TEXT____
+\c[7]Nilvan\c[0]
+"Oh!? What are my flaws then?"
+____TEXT____
+Nilvan gives you a coy smile.
+____TEXT____
+\c[7]D'arce\c[0]
+"..."
+___CHOICE___
+"No, I didn't mean to insult you!"
+"For starters you're pretty out there, you know?"
+____TEXT____
+\c[7]Nilvan\c[0]
+"Tee hee, no worries. No insults taken!"
+____TEXT____
+\c[7]Nilvan\c[0]
+"I don't know what you are talking about tee hee!"
+____TEXT____
+\c[7]Nilvan\c[0]
+"Mmm... Not really!"
+____TEXT____
+Nilvan gives you a wide and radiating grin.
+____TEXT____
+\c[7]Nilvan\c[0]
+"Oh...?"
+____TEXT____
+\c[7]Nilvan\c[0]
+"What...?"
+____TEXT____
+\c[7]Nilvan\c[0]
+"Yes, sure. Thank you for asking!"
+____TEXT____
+Nilvan gives you a smile.
+____TEXT____
+\c[7]Nilvan\c[0]
+"Hmmmm.........."
+____TEXT____
+Nilvan seems to be thinking something hard..."
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+___CHOICE___
+"What are you thinking about?"
+"Are you okay?"
+Leave her be
+____TEXT____
+\c[7]Nilvan\c[0]
+"Ah... Just today's class."
+____TEXT____
+\c[7]Nilvan\c[0]
+"I'm having hard time wrapping my mind around the gods
+and religion..."
+____TEXT____
+\c[7]Nilvan\c[0]
+"A bit silly of me, being a new god and all tee hee!"
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+___CHOICE___
+"Hey gods can have flaws too!"
+"Being a god must be a burden at times..."
+Leave
+____TEXT____
+\c[7]Nilvan\c[0]
+"Oh!? What are my flaws then?"
+____TEXT____
+Nilvan gives you a coy smile.
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+___CHOICE___
+"No, I didn't mean to insult you!"
+"For starters you're pretty out there, you know?"
+____TEXT____
+\c[7]Nilvan\c[0]
+"Tee hee, no worries. No insults taken!"
+____TEXT____
+\c[7]Nilvan\c[0]
+"I don't know what you are talking about tee hee!"
+____TEXT____
+\c[7]Nilvan\c[0]
+"Mmm... Not really!"
+____TEXT____
+Nilvan gives you a wide and radiating grin.
+____TEXT____
+\c[7]Nilvan\c[0]
+"Oh...?"
+____TEXT____
+\c[7]Nilvan\c[0]
+"What...?"
+____TEXT____
+\c[7]Nilvan\c[0]
+"Yes, sure. Thank you for asking!"
+____TEXT____
+Nilvan gives you a smile.
+____TEXT____
+\c[7]Nilvan\c[0]
+"Hmmmm.........."
+____TEXT____
+Nilvan seems to be thinking something hard..."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"..."
+___CHOICE___
+"What are you thinking about?"
+"Are you okay?"
+Leave her be
+____TEXT____
+\c[7]Nilvan\c[0]
+"Ah... Just today's class."
+____TEXT____
+\c[7]Nilvan\c[0]
+"I'm having hard time wrapping my mind around the gods
+and religion..."
+____TEXT____
+\c[7]Nilvan\c[0]
+"A bit silly of me, being a new god and all tee hee!"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"..."
+___CHOICE___
+"Hey gods can have flaws too!"
+"Being a god must be a burden at times..."
+Leave
+____TEXT____
+\c[7]Nilvan\c[0]
+"Oh!? What are my flaws then?"
+____TEXT____
+Nilvan gives you a coy smile.
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"..."
+___CHOICE___
+"No, I didn't mean to insult you!"
+"For starters you're pretty out there, you know?"
+____TEXT____
+\c[7]Nilvan\c[0]
+"Tee hee, no worries. No insults taken!"
+____TEXT____
+\c[7]Nilvan\c[0]
+"I don't know what you are talking about tee hee!"
+____TEXT____
+\c[7]Nilvan\c[0]
+"Mmm... Not really!"
+____TEXT____
+Nilvan gives you a wide and radiating grin.
+____TEXT____
+\c[7]Nilvan\c[0]
+"Oh...?"
+____TEXT____
+\c[7]Nilvan\c[0]
+"What...?"
+____TEXT____
+\c[7]Nilvan\c[0]
+"Yes, sure. Thank you for asking!"
+____TEXT____
+Nilvan gives you a smile.
+____TEXT____
+\c[7]Nilvan\c[0]
+"Hmmmm.........."
+____TEXT____
+Nilvan is out there.... She seems to have a talent in 
+succumbing to her own dreams.
+____TEXT____
+\c[7]D'arce\c[0]
+"Oh it's you... Sorry I'm kinda in the middle of a 
+conversation here. Maybe you can see that?"
+____TEXT____
+\c[7]D'arce\c[0]
+"I can't believe this!"
+____TEXT____
+\c[7]D'arce\c[0]
+"H-how can this be possible! This is like the worst 
+nightmare!"
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+___CHOICE___
+"What is it?"
+"Yeah, serves you right!"
+Leave
+____TEXT____
+\c[7]D'arce\c[0]
+"Y-you know perfectly well!"
+____TEXT____
+\c[7]D'arce\c[0]
+"You went out with Le'garde! And now you're here to rub
+the knife in even deeper!"
+____TEXT____
+\c[7]D'arce\c[0]
+"You just bought your way to his heart with all the luxury
+armors and swords!"
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+___CHOICE___
+"No you understood it wrong!"
+"I'm sorry, but you cannot dictate where your heart takes you."
+"He chose me, deal with it."
+____TEXT____
+\c[7]D'arce\c[0]
+"W-what do you mean??"
+____TEXT____
+\c[7]D'arce\c[0]
+"You mean to tell you two are not a piece?"
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+___CHOICE___
+"That's right... There's actually someone else I like..."
+"Right, we are just friends."
+"Well... I don't know about that..."
+____TEXT____
+\c[7]D'arce\c[0]
+"O-oh...?"
+____TEXT____
+\c[7]D'arce\c[0]
+"I guess I must have overreacted a little..."
+____TEXT____
+\c[7]D'arce\c[0]
+"O-oh...?"
+____TEXT____
+\c[7]D'arce\c[0]
+"I guess I must have overreacted a little..."
+____TEXT____
+\c[7]D'arce\c[0]
+"I KNEW IT!!"
+____TEXT____
+\c[7]D'arce\c[0]
+"B-but..."
+____TEXT____
+\c[7]D'arce\c[0]
+"I've been with near him for so long... helping him in
+every turn..."
+____TEXT____
+\c[7]D'arce\c[0]
+"A-h--"
+____TEXT____
+\c[7]D'arce\c[0]
+"Ah-aaaah!"
+____TEXT____
+\c[7]D'arce\c[0]
+"Ah-aaaah!"
+____TEXT____
+\c[7]D'arce\c[0]
+"I can't believe this!"
+____TEXT____
+\c[7]D'arce\c[0]
+"H-how can this be possible! This is like the worst 
+nightmare!"
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+___CHOICE___
+"What is it?"
+"Yeah, serves you right!"
+Leave
+____TEXT____
+\c[7]D'arce\c[0]
+"Y-you know perfectly well!"
+____TEXT____
+\c[7]D'arce\c[0]
+"You went out with Le'garde! And now you're here to rub
+the knife in even deeper!"
+____TEXT____
+\c[7]D'arce\c[0]
+"You just bought your way to his heart with all the luxury
+armors and swords!"
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+___CHOICE___
+"No you understood it wrong!"
+"I'm sorry, but you cannot dictate where your heart takes you."
+"He chose me, deal with it."
+____TEXT____
+\c[7]D'arce\c[0]
+"W-what do you mean??"
+____TEXT____
+\c[7]D'arce\c[0]
+"You mean to tell you two are not a piece?"
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+___CHOICE___
+"That's right... There's actually someone else I like..."
+"Right, we are just friends."
+"Well... I don't know about that..."
+____TEXT____
+\c[7]D'arce\c[0]
+"O-oh...?"
+____TEXT____
+\c[7]D'arce\c[0]
+"I guess I must have overreacted a little..."
+____TEXT____
+\c[7]D'arce\c[0]
+"O-oh...?"
+____TEXT____
+\c[7]D'arce\c[0]
+"I guess I must have overreacted a little..."
+____TEXT____
+\c[7]D'arce\c[0]
+"I KNEW IT!!"
+____TEXT____
+\c[7]D'arce\c[0]
+"B-but..."
+____TEXT____
+\c[7]D'arce\c[0]
+"I've been with near him for so long... helping him in
+every turn..."
+____TEXT____
+\c[7]D'arce\c[0]
+"A-h--"
+____TEXT____
+\c[7]D'arce\c[0]
+"Ah-aaaah!"
+____TEXT____
+\c[7]D'arce\c[0]
+"Ah-aaaah!"
+____TEXT____
+\c[7]D'arce\c[0]
+"I can't believe this!"
+____TEXT____
+\c[7]D'arce\c[0]
+"H-how can this be possible! This is like the worst 
+nightmare!"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"..."
+___CHOICE___
+"What is it?"
+"Yeah, serves you right!"
+Leave
+____TEXT____
+\c[7]D'arce\c[0]
+"Y-you know perfectly well!"
+____TEXT____
+\c[7]D'arce\c[0]
+"You went out with Le'garde! And now you're here to rub
+the knife in even deeper!"
+____TEXT____
+\c[7]D'arce\c[0]
+"You just bought your way to his heart with all the luxury
+armors and swords!"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"..."
+___CHOICE___
+"No you understood it wrong!"
+"I'm sorry, but you cannot dictate where your heart takes you."
+"He chose me, deal with it."
+____TEXT____
+\c[7]D'arce\c[0]
+"W-what do you mean??"
+____TEXT____
+\c[7]D'arce\c[0]
+"You mean to tell you two are not a piece?"
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+___CHOICE___
+"That's right... There's actually someone else I like..."
+"Right, we are just friends."
+"Well... I don't know about that..."
+____TEXT____
+\c[7]D'arce\c[0]
+"O-oh...?"
+____TEXT____
+\c[7]D'arce\c[0]
+"I guess I must have overreacted a little..."
+____TEXT____
+\c[7]D'arce\c[0]
+"O-oh...?"
+____TEXT____
+\c[7]D'arce\c[0]
+"I guess I must have overreacted a little..."
+____TEXT____
+\c[7]D'arce\c[0]
+"I KNEW IT!!"
+____TEXT____
+\c[7]D'arce\c[0]
+"B-but..."
+____TEXT____
+\c[7]D'arce\c[0]
+"I've been with near him for so long... helping him in
+every turn..."
+____TEXT____
+\c[7]D'arce\c[0]
+"A-h--"
+____TEXT____
+\c[7]D'arce\c[0]
+"Ah-aaaah!"
+____TEXT____
+\c[7]D'arce\c[0]
+"Ah-aaaah!"
+____TEXT____
+\c[7]D'arce\c[0]
+"I guess I must have overreacted a little..."
+____TEXT____
+\c[7]D'arce\c[0]
+"Thank you so much!! I've never gotten flowers from anyone!"
+____TEXT____
+Darce smells the withered rose with a tranquil look on her
+face...
+____TEXT____
+\c[7]D'arce\c[0]
+"It's perfect. The rose reminds me of myself."
+____TEXT____
+\c[7]D'arce\c[0]
+"Just as it is a bit withered, I might not be the most
+girly girl out there... But that doesn't mean I wouldn't
+appreciate beauty."
+____TEXT____
+\c[7]D'arce\c[0]
+"Hey... I'm glad we got things straight..."
+____TEXT____
+\c[7]D'arce\c[0]
+"I was acting a bit foolish there..."
+____TEXT____
+\c[7]D'arce\c[0]
+"If there only was something to make me feel better..."
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+___CHOICE___
+Give her the \c[2]Withered rose\c[0]
+Leave
+____TEXT____
+\c[7]D'arce\c[0]
+"Ah! What!!? Really for me??"
+____TEXT____
+\c[7]D'arce\c[0]
+"Thank you so much!! I've never gotten flowers from anyone!"
+____TEXT____
+\c[7]D'arce\c[0]
+"They are so pretty! I'll take good care of them!"
+____TEXT____
+\c[7]D'arce\c[0]
+"Hey... I'm glad we got things straight..."
+____TEXT____
+\c[7]D'arce\c[0]
+"I was acting a bit foolish there..."
+____TEXT____
+\c[7]D'arce\c[0]
+"I guess I got a bit jealous at Le'garde too. Seeing how
+he got all those presents from you..."
+____TEXT____
+\c[7]D'arce\c[0]
+"It reminded me of my parents. They used to pamper when
+I was a child... That was before my training to become a
+knight started of course..."
+____TEXT____
+\c[7]D'arce\c[0]
+"It's all a bit silly, don't mind me rambling."
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+___CHOICE___
+"Is there anything I could get for you?""
+"I'm glad we are okay now"
+Leave
+____TEXT____
+\c[7]D'arce\c[0]
+"Hmmm... It's a bit silly really..."
+____TEXT____
+\c[7]D'arce\c[0]
+"I... I guess there is a bit of a traditional girl in me
+after all... I really like flowers you see..."
+____TEXT____
+\c[7]D'arce\c[0]
+"Yeah, I was acting really stupid. Let's just forget it
+alright?"
+____TEXT____
+\c[7]D'arce\c[0]
+"Thank you so much!! I've never gotten flowers from anyone!"
+____TEXT____
+Darce smells the withered rose with a tranquil look on her
+face...
+____TEXT____
+\c[7]D'arce\c[0]
+"It's perfect. The rose reminds me of myself."
+____TEXT____
+\c[7]D'arce\c[0]
+"Just as it is a bit withered, I might not be the most
+girly girl out there... But that doesn't mean I wouldn't
+appreciate beauty."
+____TEXT____
+\c[7]D'arce\c[0]
+"Hey... I'm glad we got things straight..."
+____TEXT____
+\c[7]D'arce\c[0]
+"I was acting a bit foolish there..."
+____TEXT____
+\c[7]D'arce\c[0]
+"If there only was something to make me feel better..."
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+___CHOICE___
+Give her the \c[2]Withered rose\c[0]
+Leave
+____TEXT____
+\c[7]D'arce\c[0]
+"Ah! What!!? Really for me??"
+____TEXT____
+\c[7]D'arce\c[0]
+"Thank you so much!! I've never gotten flowers from anyone!"
+____TEXT____
+\c[7]D'arce\c[0]
+"They are so pretty! I'll take good care of them!"
+____TEXT____
+\c[7]D'arce\c[0]
+"Hey... I'm glad we got things straight..."
+____TEXT____
+\c[7]D'arce\c[0]
+"I was acting a bit foolish there..."
+____TEXT____
+\c[7]D'arce\c[0]
+"I guess I got a bit jealous at Le'garde too. Seeing how
+he got all those presents from you..."
+____TEXT____
+\c[7]D'arce\c[0]
+"It reminded me of my parents. They used to pamper when
+I was a child... That was before my training to become a
+knight started of course..."
+____TEXT____
+\c[7]D'arce\c[0]
+"It's all a bit silly, don't mind me rambling."
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+___CHOICE___
+"Is there anything I could get for you?""
+"I'm glad we are okay now"
+Leave
+____TEXT____
+\c[7]D'arce\c[0]
+"Hmmm... It's a bit silly really..."
+____TEXT____
+\c[7]D'arce\c[0]
+"I... I guess there is a bit of a traditional girl in me
+after all... I really like flowers you see..."
+____TEXT____
+\c[7]D'arce\c[0]
+"Yeah, I was acting really stupid. Let's just forget it
+alright?"
+____TEXT____
+\c[7]D'arce\c[0]
+"Thank you so much!! I've never gotten flowers from anyone!"
+____TEXT____
+Darce smells the withered rose with a tranquil look on her
+face...
+____TEXT____
+\c[7]D'arce\c[0]
+"It's perfect. The rose reminds me of myself."
+____TEXT____
+\c[7]D'arce\c[0]
+"Just as it is a bit withered, I might not be the most
+girly girl out there... But that doesn't mean I wouldn't
+appreciate beauty."
+____TEXT____
+\c[7]D'arce\c[0]
+"Hey... I'm glad we got things straight..."
+____TEXT____
+\c[7]D'arce\c[0]
+"I was acting a bit foolish there..."
+____TEXT____
+\c[7]D'arce\c[0]
+"If there only was something to make me feel better..."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"..."
+___CHOICE___
+Give her the \c[2]Withered rose\c[0]
+Leave
+____TEXT____
+\c[7]D'arce\c[0]
+"Ah! What!!? Really for me??"
+____TEXT____
+\c[7]D'arce\c[0]
+"Thank you so much!! I've never gotten flowers from anyone!"
+____TEXT____
+\c[7]D'arce\c[0]
+"They are so pretty! I'll take good care of them!"
+____TEXT____
+\c[7]D'arce\c[0]
+"Hey... I'm glad we got things straight..."
+____TEXT____
+\c[7]D'arce\c[0]
+"I was acting a bit foolish there..."
+____TEXT____
+\c[7]D'arce\c[0]
+"I guess I got a bit jealous at Le'garde too. Seeing how
+he got all those presents from you..."
+____TEXT____
+\c[7]D'arce\c[0]
+"It reminded me of my parents. They used to pamper when
+I was a child... That was before my training to become a
+knight started of course..."
+____TEXT____
+\c[7]D'arce\c[0]
+"It's all a bit silly, don't mind me rambling."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"..."
+___CHOICE___
+"Is there anything I could get for you?""
+"I'm glad we are okay now"
+Leave
+____TEXT____
+\c[7]D'arce\c[0]
+"Hmmm... It's a bit silly really..."
+____TEXT____
+\c[7]D'arce\c[0]
+"I... I guess there is a bit of a traditional girl in me
+after all... I really like flowers you see..."
+____TEXT____
+\c[7]D'arce\c[0]
+"Yeah, I was acting really stupid. Let's just forget it
+alright?"
+____TEXT____
+\c[7]D'arce\c[0]
+"*sniff* *sniff*"
+____TEXT____
+\c[7]D'arce\c[0]
+"I can't believe he chose someone else..."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Hi. How's it going?"
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+___CHOICE___
+"I'm doing fine thanks for asking."
+"Alright, you?"
+"Could be better..."
+"Surviving..."
+____TEXT____
+\c[7]Le'garde\c[0]
+"That's nice..."
+____TEXT____
+\c[7]Le'garde\c[0]
+"..."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Okay."
+____TEXT____
+\c[7]Le'garde\c[0]
+"I'm doing fine, thank you for asking. I've been thinking 
+about the future a lot lately."
+____TEXT____
+\c[7]Le'garde\c[0]
+"It's important to choose your path early on, even if we
+are only in high school."
+____TEXT____
+\c[7]Le'garde\c[0]
+"I think this is the only way to discipline yourself and
+eventually reach greater heights."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Too many students think the life only begins after the
+school ends and they end up wasting a lot of precious time."
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+___CHOICE___
+"What are your goals then?"
+"I understand..."
+"I think we should enjoy life instead while we still can."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Well my first step is to become a knight. I want to rule
+my own army one day, but you have to start somewhere, right?"
+____TEXT____
+\c[7]Le'garde\c[0]
+"You should really think about your goals too."
+____TEXT____
+\c[7]Le'garde\c[0]
+"But don't take too much stress though... We still got
+time."
+____TEXT____
+\c[7]Le'garde\c[0]
+"You do that then. I do what I see best."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Everyone is a self-made man. Don't forget that. You make
+your own happiness."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Everyone is a self-made man. Don't forget that. You make
+your own happiness."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Hi. How's it going?"
+____TEXT____
+\c[7]D'arce\c[0]
+"..."
+___CHOICE___
+"I'm doing fine thanks for asking."
+"Alright, you?"
+"Could be better..."
+"Surviving..."
+____TEXT____
+\c[7]Le'garde\c[0]
+"That's nice..."
+____TEXT____
+\c[7]Le'garde\c[0]
+"..."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Okay."
+____TEXT____
+\c[7]Le'garde\c[0]
+"I'm doing fine, thank you for asking. I've been thinking 
+about the future a lot lately."
+____TEXT____
+\c[7]Le'garde\c[0]
+"It's important to choose your path early on, even if we
+are only in high school."
+____TEXT____
+\c[7]Le'garde\c[0]
+"I think this is the only way to discipline yourself and
+eventually reach greater heights."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Too many students think the life only begins after the
+school ends and they end up wasting a lot of precious time."
+____TEXT____
+\c[7]D'arce\c[0]
+"..."
+___CHOICE___
+"What are your goals then?"
+"I understand..."
+"I think we should enjoy life instead while we still can."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Well my first step is to become a knight. I want to rule
+my own army one day, but you have to start somewhere, right?"
+____TEXT____
+\c[7]Le'garde\c[0]
+"You should really think about your goals too."
+____TEXT____
+\c[7]Le'garde\c[0]
+"But don't take too much stress though... We still got
+time."
+____TEXT____
+\c[7]Le'garde\c[0]
+"You do that then. I do what I see best."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Everyone is a self-made man. Don't forget that. You make
+your own happiness."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Everyone is a self-made man. Don't forget that. You make
+your own happiness."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Hi. How's it going?"
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+___CHOICE___
+"I'm doing fine thanks for asking."
+"Alright, you?"
+"Could be better..."
+"Surviving..."
+____TEXT____
+\c[7]Le'garde\c[0]
+"That's nice..."
+____TEXT____
+\c[7]Le'garde\c[0]
+"..."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Okay."
+____TEXT____
+\c[7]Le'garde\c[0]
+"I'm doing fine, thank you for asking. I've been thinking 
+about the future a lot lately."
+____TEXT____
+\c[7]Le'garde\c[0]
+"It's important to choose your path early on, even if we
+are only in high school."
+____TEXT____
+\c[7]Le'garde\c[0]
+"I think this is the only way to discipline yourself and
+eventually reach greater heights."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Too many students think the life only begins after the
+school ends and they end up wasting a lot of precious time."
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+___CHOICE___
+"What are your goals then?"
+"I understand..."
+"I think we should enjoy life instead while we still can."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Well my first step is to become a knight. I want to rule
+my own army one day, but you have to start somewhere, right?"
+____TEXT____
+\c[7]Le'garde\c[0]
+"You should really think about your goals too."
+____TEXT____
+\c[7]Le'garde\c[0]
+"But don't take too much stress though... We still got
+time."
+____TEXT____
+\c[7]Le'garde\c[0]
+"You do that then. I do what I see best."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Everyone is a self-made man. Don't forget that. You make
+your own happiness."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Everyone is a self-made man. Don't forget that. You make
+your own happiness."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Hi. How's it going?"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"..."
+___CHOICE___
+"I'm doing fine thanks for asking."
+"Alright, you?"
+"Could be better..."
+"Surviving..."
+____TEXT____
+\c[7]Le'garde\c[0]
+"That's nice..."
+____TEXT____
+\c[7]Le'garde\c[0]
+"..."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Okay."
+____TEXT____
+\c[7]Le'garde\c[0]
+"I'm doing fine, thank you for asking. I've been thinking 
+about the future a lot lately."
+____TEXT____
+\c[7]Le'garde\c[0]
+"It's important to choose your path early on, even if we
+are only in high school."
+____TEXT____
+\c[7]Le'garde\c[0]
+"I think this is the only way to discipline yourself and
+eventually reach greater heights."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Too many students think the life only begins after the
+school ends and they end up wasting a lot of precious time."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"..."
+___CHOICE___
+"What are your goals then?"
+"I understand..."
+"I think we should enjoy life instead while we still can."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Well my first step is to become a knight. I want to rule
+my own army one day, but you have to start somewhere, right?"
+____TEXT____
+\c[7]Le'garde\c[0]
+"You should really think about your goals too."
+____TEXT____
+\c[7]Le'garde\c[0]
+"But don't take too much stress though... We still got
+time."
+____TEXT____
+\c[7]Le'garde\c[0]
+"You do that then. I do what I see best."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Everyone is a self-made man. Don't forget that. You make
+your own happiness."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Everyone is a self-made man. Don't forget that. You make
+your own happiness."
+____TEXT____
+\c[7]Le'garde\c[0]
+"If I am to become a knight, I'd really need the proper
+gear... I'm still missing a sword that would fit a true
+knight."
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+___CHOICE___
+Show him the \c[2]Claymore\c[0]
+Leave
+____TEXT____
+\c[7]Le'garde\c[0]
+"Oh that sword..."
+____TEXT____
+\c[7]Le'garde\c[0]
+"That would certainly do!"
+____TEXT____
+\c[7]Le'garde\c[0]
+"Could I have it?"
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+___CHOICE___
+"Sure!"
+"No."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Woah, thanks!"
+____TEXT____
+\c[7]Le'garde\c[0]
+"I need to repay this to you one day."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Ah... What's the idea of bragging about it in that case?"
+____TEXT____
+\c[7]Le'garde\c[0]
+"If I am to become a knight, I'd really need the proper
+gear... I'm still missing a sword that would fit a true
+knight."
+____TEXT____
+\c[7]Le'garde\c[0]
+"If I am to become a knight, I'd really need the proper
+gear... I'm still missing a sword that would fit a true
+knight."
+____TEXT____
+\c[7]D'arce\c[0]
+"..."
+___CHOICE___
+Show him the \c[2]Claymore\c[0]
+Leave
+____TEXT____
+\c[7]Le'garde\c[0]
+"Oh that sword..."
+____TEXT____
+\c[7]Le'garde\c[0]
+"That would certainly do!"
+____TEXT____
+\c[7]Le'garde\c[0]
+"Could I have it?"
+____TEXT____
+\c[7]D'arce\c[0]
+"..."
+___CHOICE___
+"Sure!"
+"No."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Woah, thanks!"
+____TEXT____
+\c[7]Le'garde\c[0]
+"I need to repay this to you one day."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Ah... What's the idea of bragging about it in that case?"
+____TEXT____
+\c[7]Le'garde\c[0]
+"If I am to become a knight, I'd really need the proper
+gear... I'm still missing a sword that would fit a true
+knight."
+____TEXT____
+\c[7]Le'garde\c[0]
+"If I am to become a knight, I'd really need the proper
+gear... I'm still missing a sword that would fit a true
+knight."
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+___CHOICE___
+Show him the \c[2]Claymore\c[0]
+Leave
+____TEXT____
+\c[7]Le'garde\c[0]
+"Oh that sword..."
+____TEXT____
+\c[7]Le'garde\c[0]
+"That would certainly do!"
+____TEXT____
+\c[7]Le'garde\c[0]
+"Could I have it?"
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+___CHOICE___
+"Sure!"
+"No."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Woah, thanks!"
+____TEXT____
+\c[7]Le'garde\c[0]
+"I need to repay this to you one day."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Ah... What's the idea of bragging about it in that case?"
+____TEXT____
+\c[7]Le'garde\c[0]
+"If I am to become a knight, I'd really need the proper
+gear... I'm still missing a sword that would fit a true
+knight."
+____TEXT____
+\c[7]Le'garde\c[0]
+"If I am to become a knight, I'd really need the proper
+gear... I'm still missing a sword that would fit a true
+knight."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"..."
+___CHOICE___
+Show him the \c[2]Claymore\c[0]
+Leave
+____TEXT____
+\c[7]Le'garde\c[0]
+"Oh that sword..."
+____TEXT____
+\c[7]Le'garde\c[0]
+"That would certainly do!"
+____TEXT____
+\c[7]Le'garde\c[0]
+"Could I have it?"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"..."
+___CHOICE___
+"Sure!"
+"No."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Woah, thanks!"
+____TEXT____
+\c[7]Le'garde\c[0]
+"I need to repay this to you one day."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Ah... What's the idea of bragging about it in that case?"
+____TEXT____
+\c[7]Le'garde\c[0]
+"If I am to become a knight, I'd really need the proper
+gear... I'm still missing a sword that would fit a true
+knight."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Thanks for the sword! It's really magnificent!"
+____TEXT____
+\c[7]Le'garde\c[0]
+"Thanks for the sword! It's really magnificent! I'll be
+polishing it at the dorm every night!"
+____TEXT____
+\c[7]Le'garde\c[0]
+"Now I still need a proper plate mail to apply for the
+knight academy. But luckily there's still plenty of time
+before the applications have to be sent."
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+___CHOICE___
+Show him the \c[2]Plate mail\c[0]
+Leave
+____TEXT____
+\c[7]Le'garde\c[0]
+"That armor!"
+____TEXT____
+\c[7]Le'garde\c[0]
+"Don't tell me you got it for me??"
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+___CHOICE___
+"That's right!"
+"No."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Woah, thanks!"
+____TEXT____
+\c[7]Le'garde\c[0]
+"This is really amazing!"
+____TEXT____
+\c[7]Le'garde\c[0]
+"Oh... Well it's a really impressive looking armor!"
+____TEXT____
+\c[7]Le'garde\c[0]
+"Thanks for the sword! It's really magnificent! I've been
+polishing it at the dorm every moment possible."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Now I still need a proper plate mail to apply for the
+knight academy. But luckily there's still plenty of time
+before the applications have to be sent."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Thanks for the sword! It's really magnificent! I'll be
+polishing it at the dorm every night!"
+____TEXT____
+\c[7]Le'garde\c[0]
+"Now I still need a proper plate mail to apply for the
+knight academy. But luckily there's still plenty of time
+before the applications have to be sent."
+____TEXT____
+\c[7]D'arce\c[0]
+"..."
+___CHOICE___
+Show him the \c[2]Plate mail\c[0]
+Leave
+____TEXT____
+\c[7]Le'garde\c[0]
+"That armor!"
+____TEXT____
+\c[7]Le'garde\c[0]
+"Don't tell me you got it for me??"
+____TEXT____
+\c[7]D'arce\c[0]
+"..."
+___CHOICE___
+"That's right!"
+"No."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Woah, thanks!"
+____TEXT____
+\c[7]Le'garde\c[0]
+"This is really amazing!"
+____TEXT____
+\c[7]Le'garde\c[0]
+"Oh... Well it's a really impressive looking armor!"
+____TEXT____
+\c[7]Le'garde\c[0]
+"Thanks for the sword! It's really magnificent! I've been
+polishing it at the dorm every moment possible."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Now I still need a proper plate mail to apply for the
+knight academy. But luckily there's still plenty of time
+before the applications have to be sent."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Thanks for the sword! It's really magnificent! I'll be
+polishing it at the dorm every night!"
+____TEXT____
+\c[7]Le'garde\c[0]
+"Now I still need a proper plate mail to apply for the
+knight academy. But luckily there's still plenty of time
+before the applications have to be sent."
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+___CHOICE___
+Show him the \c[2]Plate mail\c[0]
+Leave
+____TEXT____
+\c[7]Le'garde\c[0]
+"That armor!"
+____TEXT____
+\c[7]Le'garde\c[0]
+"Don't tell me you got it for me??"
+____TEXT____
+\c[7]D'arce\c[0]
+"..."
+___CHOICE___
+"That's right!"
+"No."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Woah, thanks!"
+____TEXT____
+\c[7]Le'garde\c[0]
+"This is really amazing!"
+____TEXT____
+\c[7]Le'garde\c[0]
+"Oh... Well it's a really impressive looking armor!"
+____TEXT____
+\c[7]Le'garde\c[0]
+"Thanks for the sword! It's really magnificent! I've been
+polishing it at the dorm every moment possible."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Now I still need a proper plate mail to apply for the
+knight academy. But luckily there's still plenty of time
+before the applications have to be sent."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Thanks for the sword! It's really magnificent! I'll be
+polishing it at the dorm every night!"
+____TEXT____
+\c[7]Le'garde\c[0]
+"Now I still need a proper plate mail to apply for the
+knight academy. But luckily there's still plenty of time
+before the applications have to be sent."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"..."
+___CHOICE___
+Show him the \c[2]Plate mail\c[0]
+Leave
+____TEXT____
+\c[7]Le'garde\c[0]
+"That armor!"
+____TEXT____
+\c[7]Le'garde\c[0]
+"Don't tell me you got it for me??"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"..."
+___CHOICE___
+"That's right!"
+"No."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Woah, thanks!"
+____TEXT____
+\c[7]Le'garde\c[0]
+"This is really amazing!"
+____TEXT____
+\c[7]Le'garde\c[0]
+"Oh... Well it's a really impressive looking armor!"
+____TEXT____
+\c[7]Le'garde\c[0]
+"Thanks for the sword! It's really magnificent! I've been
+polishing it at the dorm every moment possible."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Now I still need a proper plate mail to apply for the
+knight academy. But luckily there's still plenty of time
+before the applications have to be sent."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Thanks for the armor and the sword! I'm ready to tackle
+the knight academy of Rondon now!"
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+___CHOICE___
+"Do you want to go out on a date?"
+"I'm glad you like them."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Oh...? Hmmm...."
+____TEXT____
+\c[7]Le'garde\c[0]
+"I guess it could be fun."
+____TEXT____
+Where do you want to take Le'garde on a date?
+___CHOICE___
+The Caverns
+The Bloodpits
+The Tombs
+Nevermind
+____TEXT____
+\c[7]Le'garde\c[0]
+"Yeah okay! I like that!"
+____TEXT____
+\c[7]Le'garde\c[0]
+"Yyhh.. Okay. That place is going to taint my new armor
+though..."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Oh yeah! I've been meaning to explore that place!"
+____TEXT____
+\c[7]Le'garde\c[0]
+"Thanks for the armor and the sword! I'm ready to tackle
+the knight academy of Rondon now!"
+____TEXT____
+\c[7]D'arce\c[0]
+"..."
+___CHOICE___
+"Do you want to go out on a date?"
+"I'm glad you like them."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Oh...? Hmmm...."
+____TEXT____
+\c[7]Le'garde\c[0]
+"I guess it could be fun."
+____TEXT____
+Where do you want to take Le'garde on a date?
+___CHOICE___
+The Caverns
+The Bloodpits
+The Tombs
+Nevermind
+____TEXT____
+\c[7]Le'garde\c[0]
+"Yeah okay! I like that!"
+____TEXT____
+\c[7]Le'garde\c[0]
+"Yyhh.. Okay. That place is going to taint my new armor
+though..."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Oh yeah! I've been meaning to explore that place!"
+____TEXT____
+\c[7]Le'garde\c[0]
+"Thanks for the armor and the sword! I'm ready to tackle
+the knight academy of Rondon now!"
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+___CHOICE___
+"Do you want to go out on a date?"
+"I'm glad you like them."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Oh...? Hmmm...."
+____TEXT____
+\c[7]Le'garde\c[0]
+"I guess it could be fun."
+____TEXT____
+Where do you want to take Le'garde on a date?
+___CHOICE___
+The Caverns
+The Bloodpits
+The Tombs
+Nevermind
+____TEXT____
+\c[7]Le'garde\c[0]
+"Yeah okay! I like that!"
+____TEXT____
+\c[7]Le'garde\c[0]
+"Yyhh.. Okay. That place is going to taint my new armor
+though..."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Oh yeah! I've been meaning to explore that place!"
+____TEXT____
+\c[7]Le'garde\c[0]
+"Thanks for the armor and the sword! I'm ready to tackle
+the knight academy of Rondon now!"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"..."
+___CHOICE___
+"Do you want to go out on a date?"
+"I'm glad you like them."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Oh...? Hmmm...."
+____TEXT____
+\c[7]Le'garde\c[0]
+"I guess it could be fun."
+____TEXT____
+Where do you want to take Le'garde on a date?
+___CHOICE___
+The Caverns
+The Bloodpits
+The Tombs
+Nevermind
+____TEXT____
+\c[7]Le'garde\c[0]
+"Yeah okay! I like that!"
+____TEXT____
+\c[7]Le'garde\c[0]
+"Yyhh.. Okay. That place is going to taint my new armor
+though..."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Oh yeah! I've been meaning to explore that place!"
+____TEXT____
+The door is locked.
+____TEXT____
+You hear heavy breathing echoing from inside the beak.
+____TEXT____
+Seems like the Crow Mauler is stalking Nilvan the endless 
+one...
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+___CHOICE___
+"Are you stalking Nilvan?"
+"What's up Crow?"
+Leave
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"KAAW!"
+____TEXT____
+The Crow Mauler is mad at you because of your accusations!
+____TEXT____
+It might be best not to anger him further...
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"Kueh...?"
+____TEXT____
+The Crow Mauler is surprised to see you talking to him.
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+___CHOICE___
+"It's a nice weather tonight, right?"
+"School sure can be boring, huh?"
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"Kueh! Kaaw!"
+____TEXT____
+The Crow Mauler agrees with you! He seems to be excited at
+making friends with you.
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"Kaaw kaaw!"
+____TEXT____
+The Crow Mauler agrees with you totally! From his kaaw'ing
+you understand that school really isn't for birds like him.
+____TEXT____
+You hear heavy breathing echoing from inside the beak.
+____TEXT____
+Seems like the Crow Mauler is stalking Nilvan the endless 
+one...
+____TEXT____
+\c[7]D'arce\c[0]
+"..."
+___CHOICE___
+"Are you stalking Nilvan?"
+"What's up Crow?"
+Leave
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"KAAW!"
+____TEXT____
+The Crow Mauler is mad at you because of your accusations!
+____TEXT____
+It might be best not to anger him further...
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"Kueh...?"
+____TEXT____
+The Crow Mauler is surprised to see you talking to him.
+____TEXT____
+\c[7]D'arce\c[0]
+"..."
+___CHOICE___
+"It's a nice weather tonight, right?"
+"School sure can be boring, huh?"
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"Kueh! Kaaw!"
+____TEXT____
+The Crow Mauler agrees with you! He seems to be excited at
+making friends with you.
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"Kaaw kaaw!"
+____TEXT____
+The Crow Mauler agrees with you totally! From his kaaw'ing
+you understand that school really isn't for birds like him.
+____TEXT____
+You hear heavy breathing echoing from inside the beak.
+____TEXT____
+Seems like the Crow Mauler is stalking Nilvan the endless 
+one...
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+___CHOICE___
+"Are you stalking Nilvan?"
+"What's up Crow?"
+Leave
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"KAAW!"
+____TEXT____
+The Crow Mauler is mad at you because of your accusations!
+____TEXT____
+It might be best not to anger him further...
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"Kueh...?"
+____TEXT____
+The Crow Mauler is surprised to see you talking to him.
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+___CHOICE___
+"It's a nice weather tonight, right?"
+"School sure can be boring, huh?"
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"Kueh! Kaaw!"
+____TEXT____
+The Crow Mauler agrees with you! He seems to be excited at
+making friends with you.
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"Kaaw kaaw!"
+____TEXT____
+The Crow Mauler agrees with you totally! From his kaaw'ing
+you understand that school really isn't for birds like him.
+____TEXT____
+You hear heavy breathing echoing from inside the beak.
+____TEXT____
+Seems like the Crow Mauler is stalking Nilvan the endless 
+one...
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"..."
+___CHOICE___
+"Are you stalking Nilvan?"
+"What's up Crow?"
+Leave
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"KAAW!"
+____TEXT____
+The Crow Mauler is mad at you because of your accusations!
+____TEXT____
+It might be best not to anger him further...
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"Kueh...?"
+____TEXT____
+The Crow Mauler is surprised to see you talking to him.
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"..."
+___CHOICE___
+"It's a nice weather tonight, right?"
+"School sure can be boring, huh?"
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"Kueh! Kaaw!"
+____TEXT____
+The Crow Mauler agrees with you! He seems to be excited at
+making friends with you.
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"Kaaw kaaw!"
+____TEXT____
+The Crow Mauler agrees with you totally! From his kaaw'ing
+you understand that school really isn't for birds like him.
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"Kaw kaw!"
+____TEXT____
+The crow man is excited about you. Seems like you made a
+friend of him already.
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"!!"
+____TEXT____
+The Crow Mauler noticed your \c[2]Pinecone pig\c[0].
+____TEXT____
+He seems to want it really bad!
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+___CHOICE___
+"You want this? You can have it."
+"This is mine!"
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"Kueeh!"
+____TEXT____
+The crow seems to be happy. He embraces the pinecone pig
+with great passion.
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"KAW KAW KAW!"
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"KAW KAW KAW!"
+____TEXT____
+The Crow Mauler show furious passion upon seeing you. It
+does intimidate you a little, but it seems like he means
+well.
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+___CHOICE___
+"How's it going?"
+"How did you become a crow anyway?"
+Ignore him
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"Kueeeh!"
+____TEXT____
+It appears Crow Mauler's day has been good so far.
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"Ka-kaaw ka-kaaw kueh! Kueh! Kueeeh! Ka kaaw!"
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"Kaaw! Kaaw! Kaaw! KAAW!"
+____TEXT____
+The story seems long. Unfortunately you don't speak crow.
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"!!"
+____TEXT____
+The Crow Mauler noticed your \c[2]Pinecone pig\c[0].
+____TEXT____
+He seems to want it really bad!
+____TEXT____
+\c[7]D'arce\c[0]
+"..."
+___CHOICE___
+"You want this? You can have it."
+"This is mine!"
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"Kueeh!"
+____TEXT____
+The crow seems to be happy. He embraces the pinecone pig
+with great passion.
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"KAW KAW KAW!"
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"KAW KAW KAW!"
+____TEXT____
+The Crow Mauler show furious passion upon seeing you. It
+does intimidate you a little, but it seems like he means
+well.
+____TEXT____
+\c[7]D'arce\c[0]
+"..."
+___CHOICE___
+"How's it going?"
+"How did you become a crow anyway?"
+Ignore him
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"Kueeeh!"
+____TEXT____
+It appears Crow Mauler's day has been good so far.
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"Ka-kaaw ka-kaaw kueh! Kueh! Kueeeh! Ka kaaw!"
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"Kaaw! Kaaw! Kaaw! KAAW!"
+____TEXT____
+The story seems long. Unfortunately you don't speak crow.
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"!!"
+____TEXT____
+The Crow Mauler noticed your \c[2]Pinecone pig\c[0].
+____TEXT____
+He seems to want it really bad!
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+___CHOICE___
+"You want this? You can have it."
+"This is mine!"
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"Kueeh!"
+____TEXT____
+The crow seems to be happy. He embraces the pinecone pig
+with great passion.
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"KAW KAW KAW!"
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"KAW KAW KAW!"
+____TEXT____
+The Crow Mauler show furious passion upon seeing you. It
+does intimidate you a little, but it seems like he means
+well.
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+___CHOICE___
+"How's it going?"
+"How did you become a crow anyway?"
+Ignore him
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"Kueeeh!"
+____TEXT____
+It appears Crow Mauler's day has been good so far.
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"Ka-kaaw ka-kaaw kueh! Kueh! Kueeeh! Ka kaaw!"
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"Kaaw! Kaaw! Kaaw! KAAW!"
+____TEXT____
+The story seems long. Unfortunately you don't speak crow.
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"!!"
+____TEXT____
+The Crow Mauler noticed your \c[2]Pinecone pig\c[0].
+____TEXT____
+He seems to want it really bad!
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"..."
+___CHOICE___
+"You want this? You can have it."
+"This is mine!"
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"Kueeh!"
+____TEXT____
+The crow seems to be happy. He embraces the pinecone pig
+with great passion.
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"KAW KAW KAW!"
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"KAW KAW KAW!"
+____TEXT____
+The Crow Mauler show furious passion upon seeing you. It
+does intimidate you a little, but it seems like he means
+well.
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"..."
+___CHOICE___
+"How's it going?"
+"How did you become a crow anyway?"
+Ignore him
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"Kueeeh!"
+____TEXT____
+It appears Crow Mauler's day has been good so far.
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"Ka-kaaw ka-kaaw kueh! Kueh! Kueeeh! Ka kaaw!"
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"Kaaw! Kaaw! Kaaw! KAAW!"
+____TEXT____
+The story seems long. Unfortunately you don't speak crow.
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"Kaw kaw!"
+____TEXT____
+The Crow Mauler is happy with the gift you gave him.
+____TEXT____
+The Crow Mauler is killed. It was a school bout, so no
+one needs to be disciplined.
+____TEXT____
+\c[7]Cahara\c[0]
+"Sheesh... bored..."
+____TEXT____
+\c[7]Cahara\c[0]
+"Hey... What do you got there?"
+____TEXT____
+Cahara points at your \c[2]Dirty magazine\c[0].
+____TEXT____
+\c[7]D'arce\c[0]
+"..."
+___CHOICE___
+"You can have it!"
+"It's a dirty magazine, why would you need it?"
+____TEXT____
+\c[7]Cahara\c[0]
+"Oh really? How nice!"
+____TEXT____
+\c[7]Cahara\c[0]
+"Let me see that..."
+____TEXT____
+\c[7]Cahara\c[0]
+"Ah... haha, well now that you put it like that. I guess
+I don't."
+____TEXT____
+\c[7]Cahara\c[0]
+"Those magazines are for the old folks and people who don't
+get company otherwise!"
+____TEXT____
+\c[7]Cahara\c[0]
+"God... This such a waste of time... I can't believe how
+easy these western dungeon academies really are!"
+____TEXT____
+\c[7]Cahara\c[0]
+"It's VERY different back where I come from."
+____TEXT____
+\c[7]Cahara\c[0]
+"Eastern Sanctuaries man... They're cruel."
+____TEXT____
+Cahara doesn't show any interest in you.
+____TEXT____
+\c[7]Cahara\c[0]
+"Sheesh... bored..."
+____TEXT____
+\c[7]Cahara\c[0]
+"Hey... What do you got there?"
+____TEXT____
+Cahara points at your \c[2]Dirty magazine\c[0].
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+___CHOICE___
+"You can have it!"
+"It's a dirty magazine, why would you need it?"
+____TEXT____
+\c[7]Cahara\c[0]
+"Oh really? How nice!"
+____TEXT____
+\c[7]Cahara\c[0]
+"Let me see that..."
+____TEXT____
+\c[7]Cahara\c[0]
+"Ah... haha, well now that you put it like that. I guess
+I don't."
+____TEXT____
+\c[7]Cahara\c[0]
+"Those magazines are for the old folks and people who don't
+get company otherwise!"
+____TEXT____
+\c[7]Cahara\c[0]
+"God... This such a waste of time... I can't believe how
+easy these western dungeon academies really are!"
+____TEXT____
+\c[7]Cahara\c[0]
+"It's VERY different back where I come from."
+____TEXT____
+\c[7]Cahara\c[0]
+"Eastern Sanctuaries man... They're cruel."
+____TEXT____
+Cahara doesn't show any interest in you.
+____TEXT____
+\c[7]Cahara\c[0]
+"Sheesh... bored..."
+____TEXT____
+\c[7]Cahara\c[0]
+"Hey... What do you got there?"
+____TEXT____
+Cahara points at your \c[2]Dirty magazine\c[0].
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"..."
+___CHOICE___
+"You can have it!"
+"It's a dirty magazine, why would you need it?"
+____TEXT____
+\c[7]Cahara\c[0]
+"Oh really? How nice!"
+____TEXT____
+\c[7]Cahara\c[0]
+"Let me see that..."
+____TEXT____
+\c[7]Cahara\c[0]
+"Ah... haha, well now that you put it like that. I guess
+I don't."
+____TEXT____
+\c[7]Cahara\c[0]
+"Those magazines are for the old folks and people who don't
+get company otherwise!"
+____TEXT____
+\c[7]Cahara\c[0]
+"God... This such a waste of time... I can't believe how
+easy these western dungeon academies really are!"
+____TEXT____
+\c[7]Cahara\c[0]
+"It's VERY different back where I come from."
+____TEXT____
+\c[7]Cahara\c[0]
+"Eastern Sanctuaries man... They're cruel."
+____TEXT____
+Cahara doesn't show any interest in you.
+____TEXT____
+\c[7]Cahara\c[0]
+"Hey D'arce! I got something I'd like to talk to you about."
+____TEXT____
+\c[7]D'arce\c[0]
+"..."
+___CHOICE___
+"What is it?"
+"Sorry I'm kind of busy at the moment..."
+____TEXT____
+\c[7]Cahara\c[0]
+"Don't you just hate Naz? He's such a cocky son of a bitch."
+____TEXT____
+\c[7]Cahara\c[0]
+"It pisses me off to no end. I mean we are his pupils here
+and he treats us like trash."
+____TEXT____
+\c[7]Cahara\c[0]
+"Although... his trash talking is pretty decent every now
+n' then. I'll give him that..."
+____TEXT____
+\c[7]Cahara\c[0]
+"But yeah, I actually got a plan on how to get back at
+him..."
+____TEXT____
+\c[7]Cahara\c[0]
+"I don't want to say anything, unless you're 100% in?"
+____TEXT____
+\c[7]D'arce\c[0]
+"..."
+___CHOICE___
+"I'm in."
+"I don't want to get burned to ashes, sorry."
+____TEXT____
+\c[7]Cahara\c[0]
+"Okay..."
+____TEXT____
+\c[7]Cahara\c[0]
+"You know how Naz keeps all those spare bodies in his 
+office?"
+____TEXT____
+\c[7]Cahara\c[0]
+"How about we sneak in tonight and make some adjustments
+to them? The age is already starting to show on Naz's face
+so maybe a tiny facelift would be in order." 
+____TEXT____
+\c[7]Cahara\c[0]
+"I'll come knocking on your dorm door tonight. Be ready!"
+____TEXT____
+\c[7]Cahara\c[0]
+"Oh yeah, there's always that possibility..."
+____TEXT____
+\c[7]Cahara\c[0]
+"No worries, I understand."
+____TEXT____
+\c[7]Cahara\c[0]
+"Oh, okay. that's cool..."
+____TEXT____
+\c[7]Cahara\c[0]
+"Hey Enki! I got something I'd like to talk to you about."
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+___CHOICE___
+"What is it?"
+"Sorry I'm kind of busy at the moment..."
+____TEXT____
+\c[7]Cahara\c[0]
+"Don't you just hate Naz? He's such a cocky son of a bitch."
+____TEXT____
+\c[7]Cahara\c[0]
+"It pisses me off to no end. I mean we are his pupils here
+and he treats us like trash."
+____TEXT____
+\c[7]Cahara\c[0]
+"Although... his trash talking is pretty decent every now
+n' then. I'll give him that..."
+____TEXT____
+\c[7]Cahara\c[0]
+"But yeah, I actually got a plan on how to get back at
+him..."
+____TEXT____
+\c[7]Cahara\c[0]
+"I don't want to say anything, unless you're 100% in?"
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+___CHOICE___
+"I'm in."
+"I don't want to get burned to ashes, sorry."
+____TEXT____
+\c[7]Cahara\c[0]
+"Okay..."
+____TEXT____
+\c[7]Cahara\c[0]
+"You know how Naz keeps all those spare bodies in his 
+office?"
+____TEXT____
+\c[7]Cahara\c[0]
+"How about we sneak in tonight and make some adjustments
+to them? The age is already starting to show on Naz's face
+so maybe a tiny facelift would be in order." 
+____TEXT____
+\c[7]Cahara\c[0]
+"I'll come knocking on your dorm door tonight. Be ready!"
+____TEXT____
+\c[7]Cahara\c[0]
+"Oh yeah, there's always that possibility..."
+____TEXT____
+\c[7]Cahara\c[0]
+"No worries, I understand."
+____TEXT____
+\c[7]Cahara\c[0]
+"Oh, okay. that's cool..."
+____TEXT____
+\c[7]Cahara\c[0]
+"Hey Ragn! I got something I'd like to talk to you about."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"..."
+___CHOICE___
+"What is it?"
+"Sorry I'm kind of busy at the moment..."
+____TEXT____
+\c[7]Cahara\c[0]
+"Don't you just hate Naz? He's such a cocky son of a bitch."
+____TEXT____
+\c[7]Cahara\c[0]
+"It pisses me off to no end. I mean we are his pupils here
+and he treats us like trash."
+____TEXT____
+\c[7]Cahara\c[0]
+"Although... his trash talking is pretty decent every now
+n' then. I'll give him that..."
+____TEXT____
+\c[7]Cahara\c[0]
+"But yeah, I actually got a plan on how to get back at
+him..."
+____TEXT____
+\c[7]Cahara\c[0]
+"I don't want to say anything, unless you're 100% in?"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"..."
+___CHOICE___
+"I'm in."
+"I don't want to get burned to ashes, sorry."
+____TEXT____
+\c[7]Cahara\c[0]
+"Okay..."
+____TEXT____
+\c[7]Cahara\c[0]
+"You know how Naz keeps all those spare bodies in his 
+office?"
+____TEXT____
+\c[7]Cahara\c[0]
+"How about we sneak in tonight and make some adjustments
+to them? The age is already starting to show on Naz's face
+so maybe a tiny facelift would be in order." 
+____TEXT____
+\c[7]Cahara\c[0]
+"I'll come knocking on your dorm door tonight. Be ready!"
+____TEXT____
+\c[7]Cahara\c[0]
+"Oh yeah, there's always that possibility..."
+____TEXT____
+\c[7]Cahara\c[0]
+"No worries, I understand."
+____TEXT____
+\c[7]Cahara\c[0]
+"Oh, okay. that's cool..."
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+____TEXT____
+Cahara is deeply concentrated on the magazine you gave
+him...
+____TEXT____
+He seems to be completely oblivious about the rest of the
+world...
+____TEXT____
+\c[7]Cahara\c[0]
+"Stay quiet about our little plan, yeah?"
+____TEXT____
+\c[7]Cahara\c[0]
+"Unless you want to get vaporized of course..."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Hi again! I had fun last time! Let's do it again some
+time!"
+____TEXT____
+\c[7]Le'garde\c[0]
+"Hey... I'm kind of busy with the coming knight academy
+tasks, so sorry..."
+____TEXT____
+\c[7]D'arce\c[0]
+"Hey you... ..."
+____TEXT____
+\c[7]D'arce\c[0]
+"I had something I wanted to ask you... That's why-- That's
+why I was waiting out here, in case you were wondering."
+____TEXT____
+\c[7]D'arce\c[0]
+"B-but... Ah... Maybe I'm making a fool of myself once 
+again..."
+____TEXT____
+\c[7]D'arce\c[0]
+"But here goes - WOULD YOU LIKE TO GO OUT WITH ME some day,
+maybe?"
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+___CHOICE___
+"Yes, I would love to!"
+"Maybe it's not such a good idea..."
+____TEXT____
+\c[7]D'arce\c[0]
+"Oh!? That's great!"
+____TEXT____
+\c[7]D'arce\c[0]
+"I was thinking it might-- Ah, I'm really glad!"
+____TEXT____
+Where do you want to take D'arce on a date?
+___CHOICE___
+The Caverns
+The Bloodpits
+The Tombs
+Nevermind
+____TEXT____
+\c[7]D'arce\c[0]
+"Oh yes! I'm so excited!"
+____TEXT____
+\c[7]D'arce\c[0]
+"Oh... You want to go there... Okay!"
+____TEXT____
+\c[7]D'arce\c[0]
+"That might be interesting!"
+____TEXT____
+\c[7]D'arce\c[0]
+"Oh..."
+____TEXT____
+\c[7]D'arce\c[0]
+"Right..."
+____TEXT____
+\c[7]D'arce\c[0]
+"Yes..."
+____TEXT____
+D'arce's eyes start to tear up...
+____TEXT____
+\c[7]D'arce\c[0]
+"Hey you... ..."
+____TEXT____
+\c[7]D'arce\c[0]
+"I had something I wanted to ask you... That's why-- That's
+why I was waiting out here, in case you were wondering."
+____TEXT____
+\c[7]D'arce\c[0]
+"B-but... Ah... Maybe I'm making a fool of myself once 
+again..."
+____TEXT____
+\c[7]D'arce\c[0]
+"But here goes - WOULD YOU LIKE TO GO OUT WITH ME some day,
+maybe?"
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+___CHOICE___
+"Yes, I would love to!"
+"Maybe it's not such a good idea..."
+____TEXT____
+\c[7]D'arce\c[0]
+"Oh!? That's great!"
+____TEXT____
+\c[7]D'arce\c[0]
+"I was thinking it might-- Ah, I'm really glad!"
+____TEXT____
+Where do you want to take D'arce on a date?
+___CHOICE___
+The Caverns
+The Bloodpits
+The Tombs
+Nevermind
+____TEXT____
+\c[7]D'arce\c[0]
+"Oh yes! I'm so excited!"
+____TEXT____
+\c[7]D'arce\c[0]
+"Oh... You want to go there... Okay!"
+____TEXT____
+\c[7]D'arce\c[0]
+"That might be interesting!"
+____TEXT____
+\c[7]D'arce\c[0]
+"Oh..."
+____TEXT____
+\c[7]D'arce\c[0]
+"Right..."
+____TEXT____
+\c[7]D'arce\c[0]
+"Yes..."
+____TEXT____
+D'arce's eyes start to tear up...
+____TEXT____
+\c[7]D'arce\c[0]
+"Hey you... ..."
+____TEXT____
+\c[7]D'arce\c[0]
+"I had something I wanted to ask you... That's why-- That's
+why I was waiting out here, in case you were wondering."
+____TEXT____
+\c[7]D'arce\c[0]
+"B-but... Ah... Maybe I'm making a fool of myself once 
+again..."
+____TEXT____
+\c[7]D'arce\c[0]
+"But here goes - WOULD YOU LIKE TO GO OUT WITH ME some day,
+maybe?"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"..."
+___CHOICE___
+"Yes, I would love to!"
+"Maybe it's not such a good idea..."
+____TEXT____
+\c[7]D'arce\c[0]
+"Oh!? That's great!"
+____TEXT____
+\c[7]D'arce\c[0]
+"I was thinking it might-- Ah, I'm really glad!"
+____TEXT____
+Where do you want to take D'arce on a date?
+___CHOICE___
+The Caverns
+The Bloodpits
+The Tombs
+Nevermind
+____TEXT____
+\c[7]D'arce\c[0]
+"Oh yes! I'm so excited!"
+____TEXT____
+\c[7]D'arce\c[0]
+"Oh... You want to go there... Okay!"
+____TEXT____
+\c[7]D'arce\c[0]
+"That might be interesting!"
+____TEXT____
+\c[7]D'arce\c[0]
+"Oh..."
+____TEXT____
+\c[7]D'arce\c[0]
+"Right..."
+____TEXT____
+\c[7]D'arce\c[0]
+"Yes..."
+____TEXT____
+D'arce's eyes start to tear up...
+____TEXT____
+\c[7]D'arce\c[0]
+"..."
+____TEXT____
+\c[7]D'arce\c[0]
+"Sorry... If you don't mind... I'd like to be by myself
+now."
+____TEXT____
+\c[7]D'arce\c[0]
+"That was really a blast! Thank you so much!"
+____TEXT____
+\c[7]D'arce\c[0]
+"Hmmm... Maybe I'm not into boys that much after all."
+____TEXT____
+\c[7]D'arce\c[0]
+"I mean I've suspected as much, but Le'garde had me thinking
+otherwise..."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"You ready to listen me now!? KUEH KUEH!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"You ready to listen me now!? KUEH KUEH!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"You ready to listen me now!? KUEH KUEH!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"You ready to listen me now!? KUEH KUEH!"
+____TEXT____
+Class 1B-13
+____TEXT____
+Class 1B-14
+____TEXT____
+There is something written on the notice board...
+The writing seems to have been written in a hurry.
+____TEXT____
+"My apologies for rushing the [Dungeon Nights] out in
+this update."
+____TEXT____
+"The mode was supposed to be a really small easter egg,
+but as I'm writing this note, the mode seems to grow
+bigger and bigger every day... It's out of control is what
+I'm trying to say."
+____TEXT____
+"I haven't had enough time to test it out, nor did I ever
+really plan its mechanics so the [Dungeon Nights] was born
+in chaos pretty much."
+____TEXT____
+"I blame the discord channel for coming up with this!"
+____TEXT____
+"P.S - Join the discord channel if you haven't yet!"
+____TEXT____
+There is something written on the notice board...
+The writing seems to have been written in a hurry.
+____TEXT____
+"My apologies for rushing the [Dungeon Nights] out in
+this update."
+____TEXT____
+"The mode was supposed to be a really small easter egg,
+but as I'm writing this note, the mode seems to grow
+bigger and bigger every day... It's out of control is what
+I'm trying to say."
+____TEXT____
+"I haven't had enough time to test it out, nor did I ever
+really plan its mechanics so the [Dungeon Nights] was born
+in chaos pretty much."
+____TEXT____
+"I blame the discord channel for coming up with this!"
+____TEXT____
+"P.S - Join the discord channel if you haven't yet!"
+____TEXT____
+\c[7]The tormented one\c[0]
+"..."
+____TEXT____
+The tormented one is observing and investigating the 
+painting on the wall...
+____TEXT____
+The painting is very dark, you can barely make out anything
+from it. Upon closer investigation you notice an old crooked
+lady harvesting hay with a sickle.
+____TEXT____
+The crooked lady seems to have three arms! With an extra
+arm extending from her back.
+____TEXT____
+You are not sure, but it almost seems like the old lady
+has got a grin on her face...
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+___CHOICE___
+"I think I know who this painting depicts!"
+"I love expressionist painting like these!"
+"This reminds me of pop art."
+____TEXT____
+The tormented one seems to raise his eyebrow when you mention
+this. He is clearly curious, but his cool attitude prevents
+him from showing this too much.
+____TEXT____
+The tormented one clearly agrees you with nods. He places
+his fingers on his chin and observes the painting with
+a dignified and academic look again.
+____TEXT____
+You clearly gave him something to think about.
+____TEXT____
+The tormented one sighs and looks at you under his brow
+with a clear distaste for your words.
+____TEXT____
+\c[7]The tormented one\c[0]
+"..."
+____TEXT____
+The tormented one is observing and investigating the 
+painting on the wall...
+____TEXT____
+The painting is very dark, you can barely make out anything
+from it. Upon closer investigation you notice an old crooked
+lady harvesting hay with a sickle.
+____TEXT____
+The crooked lady seems to have three arms! With an extra
+arm extending from her back.
+____TEXT____
+You are not sure, but it almost seems like the old lady
+has got a grin on her face...
+____TEXT____
+\c[7]D'arce\c[0]
+"..."
+___CHOICE___
+"I think I know who this painting depicts!"
+"I love expressionist painting like these!"
+"This reminds me of pop art."
+____TEXT____
+The tormented one seems to raise his eyebrow when you mention
+this. He is clearly curious, but his cool attitude prevents
+him from showing this too much.
+____TEXT____
+The tormented one clearly agrees you with nods. He places
+his fingers on his chin and observes the painting with
+a dignified and academic look again.
+____TEXT____
+You clearly gave him something to think about.
+____TEXT____
+The tormented one sighs and looks at you under his brow
+with a clear distaste for your words.
+____TEXT____
+\c[7]The tormented one\c[0]
+"..."
+____TEXT____
+The tormented one is observing and investigating the 
+painting on the wall...
+____TEXT____
+The painting is very dark, you can barely make out anything
+from it. Upon closer investigation you notice an old crooked
+lady harvesting hay with a sickle.
+____TEXT____
+The crooked lady seems to have three arms! With an extra
+arm extending from her back.
+____TEXT____
+You are not sure, but it almost seems like the old lady
+has got a grin on her face...
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+___CHOICE___
+"I think I know who this painting depicts!"
+"I love expressionist painting like these!"
+"This reminds me of pop art."
+____TEXT____
+The tormented one seems to raise his eyebrow when you mention
+this. He is clearly curious, but his cool attitude prevents
+him from showing this too much.
+____TEXT____
+The tormented one clearly agrees you with nods. He places
+his fingers on his chin and observes the painting with
+a dignified and academic look again.
+____TEXT____
+You clearly gave him something to think about.
+____TEXT____
+The tormented one sighs and looks at you under his brow
+with a clear distaste for your words.
+____TEXT____
+\c[7]The tormented one\c[0]
+"..."
+____TEXT____
+The tormented one is observing and investigating the 
+painting on the wall...
+____TEXT____
+The painting is very dark, you can barely make out anything
+from it. Upon closer investigation you notice an old crooked
+lady harvesting hay with a sickle.
+____TEXT____
+The crooked lady seems to have three arms! With an extra
+arm extending from her back.
+____TEXT____
+You are not sure, but it almost seems like the old lady
+has got a grin on her face...
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"..."
+___CHOICE___
+"I think I know who this painting depicts!"
+"I love expressionist painting like these!"
+"This reminds me of pop art."
+____TEXT____
+The tormented one seems to raise his eyebrow when you mention
+this. He is clearly curious, but his cool attitude prevents
+him from showing this too much.
+____TEXT____
+The tormented one clearly agrees you with nods. He places
+his fingers on his chin and observes the painting with
+a dignified and academic look again.
+____TEXT____
+You clearly gave him something to think about.
+____TEXT____
+The tormented one sighs and looks at you under his brow
+with a clear distaste for your words.
+____TEXT____
+\c[7]The tormented one\c[0]
+"..."
+____TEXT____
+The tormented one is glued to the art depicted here...
+day
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"The class in now in session!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Today we'll be talking about the older gods."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Religion in general seems to go on deaf ears these days
+with you youngsters."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"I understand the ancient rites and sunday churches must
+seem ridiculous, but at the same time there is a lot of
+cultural history buried in what we call religion."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Many everyday tasks are given a proper time thanks to
+those ancient rituals."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Be it meditating under the guise of praying or sending off
+our friends and family to the beyond with funeral rituals."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Of course I'm not saying you should believe that bullshit
+past kings and sultans wrote on all those holy books."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Those texts are mostly just for crowd control and getting
+peasants to behave in fear of greater powers."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"But let's get to the topic - Gro-goroth and Sylvian."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Destruction and Creation. They say one could not exist 
+without the other... What do you weasels think?"
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+___CHOICE___
+"They go hand in hand."
+"I don't believe in such balance."
+"What about the Moon god?"
+"..."
+____TEXT____
+\c[7]Cahara\c[0]
+"Yeah, they co-exist in perfect balance. That's why they
+are the most famous older gods to exist."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"..."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"I say there are no stupid answers..."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"...Only stupid people. You are wrong, you imbecil."
+____TEXT____
+\c[7]Cahara\c[0]
+"I think that balance is make-belief!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"..."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Well whatdya know, kueh kueh. Sometimes you manage to 
+spew some words of wisdom too by accident."
+____TEXT____
+\c[7]Cahara\c[0]
+"'By accident?'"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Shut it while you're still ahead of the game!"
+____TEXT____
+\c[7]Cahara\c[0]
+"In the grand scheme of things, where does the Moon god 
+fit in?"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Were you dropped on your head as a baby? NO! I bet you 
+were thrown into a wall! That's what you'd deserve at 
+least."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"I said we talk about the Gro-goroth and Sylvian! WHY 
+THE HELL WOULD YOU BRING UP THE MOON GOD!?"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"No answers? Well that's for the better. No one wants to
+hear you miserable worms utter words."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"The idea that destruction and creation depend on each
+other is absurd."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"You can always destroy without giving anything back!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"I'VE DESTROYED ENTIRE ARMIES DURING THE GREAT 
+WARS OF THE PAST..."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"And I've never created anything in return. I take what is
+mine and that is the rule of the nature."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"So no matter what anyone else might say, if you study the
+ways of the Gro-goroth, you will increase your chances for
+survival in this wicked world by a shit-ton."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"That is probably the best advice I can give you as your
+teacher."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"So that about settles it. I'm off."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"The class in now in session!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Today we'll be talking about the older gods."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Religion in general seems to go on deaf ears these days
+with you youngsters."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"I understand the ancient rites and sunday churches must
+seem ridiculous, but at the same time there is a lot of
+cultural history buried in what we call religion."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Many everyday tasks are given a proper time thanks to
+those ancient rituals."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Be it meditating under the guise of praying or sending off
+our friends and family to the beyond with funeral rituals."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Of course I'm not saying you should believe that bullshit
+past kings and sultans wrote on all those holy books."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Those texts are mostly just for crowd control and getting
+peasants to behave in fear of greater powers."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"But let's get to the topic - Gro-goroth and Sylvian."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Destruction and Creation. They say one could not exist 
+without the other... What do you weasels think?"
+____TEXT____
+\c[7]D'arce\c[0]
+"..."
+___CHOICE___
+"They go hand in hand."
+"I don't believe in such balance."
+"What about the Moon god?"
+"..."
+____TEXT____
+\c[7]D'arce\c[0]
+"Yeah, they co-exist in perfect balance. That's why they
+are the most famous older gods to exist."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"..."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"I say there are no stupid answers..."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"...Only stupid people. You are wrong, you imbecil."
+____TEXT____
+\c[7]D'arce\c[0]
+"I think that balance is make-belief!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"..."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Well whatdya know, kueh kueh. Sometimes you manage to 
+spew some words of wisdom too by accident."
+____TEXT____
+\c[7]D'arce\c[0]
+"'By accident?'"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Shut it while you're still ahead of the game!"
+____TEXT____
+\c[7]D'arce\c[0]
+"In the grand scheme of things, where does the Moon god 
+fit in?"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Were you dropped on your head as a baby? NO! I bet you 
+were thrown into a wall! That's what you'd deserve at 
+least."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"I said we talk about the Gro-goroth and Sylvian! WHY 
+THE HELL WOULD YOU BRING UP THE MOON GOD!?"
+____TEXT____
+\c[7]Cahara\c[0]
+"Haa! This is priceless!"
+____TEXT____
+You notice Cahara laughing at you from the back row."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"No answers? Well that's for the better. No one wants to
+hear you miserable worms utter words."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"The idea that destruction and creation depend on each
+other is absurd."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"You can always destroy without giving anything back!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"I'VE DESTROYED ENTIRE ARMIES DURING THE GREAT 
+WARS OF THE PAST..."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"And I've never created anything in return. I take what is
+mine and that is the rule of the nature."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"So no matter what anyone else might say, if you study the
+ways of the Gro-goroth, you will increase your chances for
+survival in this wicked world by a shit-ton."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"That is probably the best advice I can give you as your
+teacher."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"So that about settles it. I'm off."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"The class in now in session!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Today we'll be talking about the older gods."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Religion in general seems to go on deaf ears these days
+with you youngsters."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"I understand the ancient rites and sunday churches must
+seem ridiculous, but at the same time there is a lot of
+cultural history buried in what we call religion."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Many everyday tasks are given a proper time thanks to
+those ancient rituals."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Be it meditating under the guise of praying or sending off
+our friends and family to the beyond with funeral rituals."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Of course I'm not saying you should believe that bullshit
+past kings and sultans wrote on all those holy books."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Those texts are mostly just for crowd control and getting
+peasants to behave in fear of greater powers."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"But let's get to the topic - Gro-goroth and Sylvian."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Destruction and Creation. They say one could not exist 
+without the other... What do you weasels think?"
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+___CHOICE___
+"They go hand in hand."
+"I don't believe in such balance."
+"What about the Moon god?"
+"..."
+____TEXT____
+\c[7]Enki\c[0]
+"Yeah, they co-exist in perfect balance. That's why they
+are the most famous older gods to exist."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"..."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"I say there are no stupid answers..."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"...Only stupid people. You are wrong, you imbecil."
+____TEXT____
+\c[7]Enki\c[0]
+"I think that balance is make-belief!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"..."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Well whatdya know, kueh kueh. Sometimes you manage to 
+spew some words of wisdom too by accident."
+____TEXT____
+\c[7]Enki\c[0]
+"'By accident?'"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Shut it while you're still ahead of the game!"
+____TEXT____
+\c[7]Enki\c[0]
+"In the grand scheme of things, where does the Moon god 
+fit in?"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Were you dropped on your head as a baby? NO! I bet you 
+were thrown into a wall! That's what you'd deserve at 
+least."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"I said we talk about the Gro-goroth and Sylvian! WHY 
+THE HELL WOULD YOU BRING UP THE MOON GOD!?"
+____TEXT____
+\c[7]Cahara\c[0]
+"Haa! This is priceless!"
+____TEXT____
+You notice Cahara laughing at you from the back row."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"No answers? Well that's for the better. No one wants to
+hear you miserable worms utter words."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"The idea that destruction and creation depend on each
+other is absurd."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"You can always destroy without giving anything back!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"I'VE DESTROYED ENTIRE ARMIES DURING THE GREAT 
+WARS OF THE PAST..."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"And I've never created anything in return. I take what is
+mine and that is the rule of the nature."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"So no matter what anyone else might say, if you study the
+ways of the Gro-goroth, you will increase your chances for
+survival in this wicked world by a shit-ton."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"That is probably the best advice I can give you as your
+teacher."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"So that about settles it. I'm off."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"The class in now in session!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Today we'll be talking about the older gods."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Religion in general seems to go on deaf ears these days
+with you youngsters."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"I understand the ancient rites and sunday churches must
+seem ridiculous, but at the same time there is a lot of
+cultural history buried in what we call religion."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Many everyday tasks are given a proper time thanks to
+those ancient rituals."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Be it meditating under the guise of praying or sending off
+our friends and family to the beyond with funeral rituals."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Of course I'm not saying you should believe that bullshit
+past kings and sultans wrote on all those holy books."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Those texts are mostly just for crowd control and getting
+peasants to behave in fear of greater powers."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"But let's get to the topic - Gro-goroth and Sylvian."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Destruction and Creation. They say one could not exist 
+without the other... What do you weasels think?"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"..."
+___CHOICE___
+"They go hand in hand."
+"I don't believe in such balance."
+"What about the Moon god?"
+"..."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Yeah, they co-exist in perfect balance. That's why they
+are the most famous older gods to exist."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"..."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"I say there are no stupid answers..."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"...Only stupid people. You are wrong, you imbecil."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"I think that balance is make-belief!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"..."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Well whatdya know, kueh kueh. Sometimes you manage to 
+spew some words of wisdom too by accident."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"'By accident?'"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Shut it while you're still ahead of the game!"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"In the grand scheme of things, where does the Moon god 
+fit in?"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Were you dropped on your head as a baby? NO! I bet you 
+were thrown into a wall! That's what you'd deserve at 
+least."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"I said we talk about the Gro-goroth and Sylvian! WHY 
+THE HELL WOULD YOU BRING UP THE MOON GOD!?"
+____TEXT____
+\c[7]Cahara\c[0]
+"Haa! This is priceless!"
+____TEXT____
+You notice Cahara laughing at you from the back row."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"No answers? Well that's for the better. No one wants to
+hear you miserable worms utter words."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"The idea that destruction and creation depend on each
+other is absurd."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"You can always destroy without giving anything back!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"I'VE DESTROYED ENTIRE ARMIES DURING THE GREAT 
+WARS OF THE PAST..."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"And I've never created anything in return. I take what is
+mine and that is the rule of the nature."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"So no matter what anyone else might say, if you study the
+ways of the Gro-goroth, you will increase your chances for
+survival in this wicked world by a shit-ton."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"That is probably the best advice I can give you as your
+teacher."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"So that about settles it. I'm off."
+____TEXT____
+Teacher's room
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+A spare body of Nas'hrah...
+____TEXT____
+A spare body of Nas'hrah...
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+The lever is stuck.
+____TEXT____
+The lever is stuck.
+____TEXT____
+A spare body of Nas'hrah...
+____TEXT____
+A spare body of Nas'hrah...
+____TEXT____
+A spare body of Nas'hrah...
+____TEXT____
+A spare body of Nas'hrah...
+____TEXT____
+A spare body of Nas'hrah...
+____TEXT____
+A spare body of Nas'hrah...
+____TEXT____
+Headmaster's office
+____TEXT____
+The door is locked.
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"The class is over. SCRAM!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Oh it's you again..."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"What do you want?"
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+___CHOICE___
+"I heard Cahara was planning to prank you!"
+"Nevermind."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Is that so...?"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"We will see about that."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Thank for letting me know. They say snitches are the
+lowest on the feces ladder, but for this once I won't be
+burning you crisp."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Oh it's you again..."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"What do you want?"
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+___CHOICE___
+"It was a really great class today!"
+"Where could I learn more about the gods?"
+"See you later."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Now this has to stop!! I don't know if you have a crush
+on me or something, but you cannot come here chatting 
+whenever you feel like it!!"
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+___CHOICE___
+"No, you misunderstood..."
+"But, but..."
+"..."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"I don't care!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"NOW PISS OFF YOU LITTLE YOGURT STAIN!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"I don't care!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"NOW PISS OFF YOU LITTLE YOGURT STAIN!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Now this has to stop!! I don't know if you have a crush
+on me or something, but you cannot come here chatting 
+whenever you feel like it!!"
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+___CHOICE___
+"No, you misunderstood..."
+"But, but..."
+"..."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"I don't care!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"NOW PISS OFF YOU LITTLE YOGURT STAIN!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"I don't care!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"NOW PISS OFF YOU LITTLE YOGURT STAIN!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Hopefully not."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Oh it's you again..."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"What do you want?"
+____TEXT____
+\c[7]D'arce\c[0]
+"..."
+___CHOICE___
+"I heard Cahara was planning to prank you!"
+"Nevermind."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Is that so...?"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"We will see about that."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Thank for letting me know. They say snitches are the
+lowest on the feces ladder, but for this once I won't be
+burning you crisp."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Oh it's you again..."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"What do you want?"
+____TEXT____
+\c[7]D'arce\c[0]
+"..."
+___CHOICE___
+"It was a really great class today!"
+"Where could I learn more about the gods?"
+"See you later."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Now this has to stop!! I don't know if you have a crush
+on me or something, but you cannot come here chatting 
+whenever you feel like it!!"
+____TEXT____
+\c[7]D'arce\c[0]
+"..."
+___CHOICE___
+"No, you misunderstood..."
+"But, but..."
+"..."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"I don't care!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"NOW PISS OFF YOU LITTLE YOGURT STAIN!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"I don't care!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"NOW PISS OFF YOU LITTLE YOGURT STAIN!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Now this has to stop!! I don't know if you have a crush
+on me or something, but you cannot come here chatting 
+whenever you feel like it!!"
+____TEXT____
+\c[7]D'arce\c[0]
+"..."
+___CHOICE___
+"No, you misunderstood..."
+"But, but..."
+"..."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"I don't care!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"NOW PISS OFF YOU LITTLE YOGURT STAIN!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"I don't care!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"NOW PISS OFF YOU LITTLE YOGURT STAIN!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Hopefully not."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Oh it's you again..."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"What do you want?"
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+___CHOICE___
+"I heard Cahara was planning to prank you!"
+"Nevermind."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Is that so...?"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"We will see about that."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Thank for letting me know. They say snitches are the
+lowest on the feces ladder, but for this once I won't be
+burning you crisp."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Oh it's you again..."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"What do you want?"
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+___CHOICE___
+"It was a really great class today!"
+"Where could I learn more about the gods?"
+"See you later."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Now this has to stop!! I don't know if you have a crush
+on me or something, but you cannot come here chatting 
+whenever you feel like it!!"
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+___CHOICE___
+"No, you misunderstood..."
+"But, but..."
+"..."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"I don't care!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"NOW PISS OFF YOU LITTLE YOGURT STAIN!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"I don't care!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"NOW PISS OFF YOU LITTLE YOGURT STAIN!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Now this has to stop!! I don't know if you have a crush
+on me or something, but you cannot come here chatting 
+whenever you feel like it!!"
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+___CHOICE___
+"No, you misunderstood..."
+"But, but..."
+"..."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"I don't care!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"NOW PISS OFF YOU LITTLE YOGURT STAIN!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"I don't care!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"NOW PISS OFF YOU LITTLE YOGURT STAIN!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Hopefully not."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Oh it's you again..."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"What do you want?"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"..."
+___CHOICE___
+"I heard Cahara was planning to prank you!"
+"Nevermind."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Is that so...?"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"We will see about that."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Thank for letting me know. They say snitches are the
+lowest on the feces ladder, but for this once I won't be
+burning you crisp."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Oh it's you again..."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"What do you want?"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"..."
+___CHOICE___
+"It was a really great class today!"
+"Where could I learn more about the gods?"
+"See you later."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Now this has to stop!! I don't know if you have a crush
+on me or something, but you cannot come here chatting 
+whenever you feel like it!!"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"..."
+___CHOICE___
+"No, you misunderstood..."
+"But, but..."
+"..."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"I don't care!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"NOW PISS OFF YOU LITTLE YOGURT STAIN!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"I don't care!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"NOW PISS OFF YOU LITTLE YOGURT STAIN!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Now this has to stop!! I don't know if you have a crush
+on me or something, but you cannot come here chatting 
+whenever you feel like it!!"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"..."
+___CHOICE___
+"No, you misunderstood..."
+"But, but..."
+"..."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"I don't care!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"NOW PISS OFF YOU LITTLE YOGURT STAIN!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"I don't care!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"NOW PISS OFF YOU LITTLE YOGURT STAIN!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Hopefully not."
+____TEXT____
+Teacher's room
+____TEXT____
+Headmaster's office
+____TEXT____
+Casual spikes.
+day
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Well hello you little strangers~!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Nice weather today, isn't it? All dark and misty like it
+should be."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Today's subject is a nice one. Let's talk about fear and
+horror~!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Fear is one of the principal emotions humans can feel and 
+it has been very much necessary to our survival since the
+dawn of time."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"The feeling of fear shows its beautiful head in situations 
+where survival or personal goals might be compromised."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"The threat might be either physical or mental in its form."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Physical threat is often more straightforward and its 
+usually directly linked to our survival. Or it might
+otherwise be a more concrete obstacle."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Whereas mental/psychological fear deals with the possible
+loss of our social roles, destruction of our identity or
+seclusion from the communities we associate ourselves in.
+____TEXT____
+\c[7]Pocketcat\c[0]
+"One of the core elements of fear is the feeling of disgust
+or a possibility of contamination."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"As examples - A physical fear of contamination might come
+from things that are rotten andor alien to us, where there
+is a chance for diseases or it otherwise risks our survival."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"And psychological contamination might be something that
+causes moral decline or corruption in us."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Oh~ One thing to note!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Of course in this talk it's easy to mix the psychological
+fear with what is considered psychological horror in books
+and novels."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"That term refers more to how those previously mentioned
+forms of fear are suggested on a psychological level."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"In horror it doesn't exclude either of the forms. Getting
+confused haha?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"All apologies, I get so carried away with this subject
+that the text just keeps on flowing from my mouth!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Look at the time! It's almost the end of our class!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Let's recap quickly!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"What were the two main forms of fear?"
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+___CHOICE___
+"Fear and hunger!"
+"Physical and mental!"
+"Contamination and diseases!"
+"Weren't you talking about depression the other day?"
+"..."
+____TEXT____
+\c[7]Cahara\c[0]
+"Fear and hunger!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Cahara, my love~"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Not quite, but they could be!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I can add those into my notes, so that will be a right
+answer too next time!"
+____TEXT____
+\c[7]Cahara\c[0]
+"Physical and mental!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Right-o!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I love it when you actually listen to my monologies."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"It is nice to have an audience after all, no?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Close but not quite my old chap."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Those are sure to cause some fear too, but it's not exactly
+what I asked."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Oh right, you remember!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"That alone makes me happy."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"But that subject is a heavy one and since I have no real
+knowledge on that area, maybe it's better left alone."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"No answers?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Hm. Well I don't mind putting up a monology here either."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Talking and teaching is a nice form of expression! It's
+like I got a thetre stage all to myself!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"But that's all folks! I don't want to bore you with too
+much text, so let's keep these classes light, shall we?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Once again, it was an honor~!"
+day
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"THE DEATH AND TERROR OF THE MODERN MAN!! THE SLAUGHTERER
+FROM THE EAST!! THE YELLOW DEATH!!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"YES! Today's topic is..."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"NAS'HRAH THE GREAT!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Religion in general seems to go on deaf ears these days
+with you youngsters."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"I understand the ancient rites and sunday churches must
+seem ridiculous, but at the same time there is a lot of
+cultural history buried in what we call religion."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Many everyday tasks are given a proper time thanks to
+those ancient rituals."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Be it meditating under the guise of praying or sending off
+our friends and family to the beyond with funeral rituals."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Of course I'm not saying you should believe that bullshit
+past kings and sultans wrote on all those holy books."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Those texts are mostly just for crowd control and getting
+peasants to behave in fear of greater powers."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"But let's get to the topic - Gro-goroth and Sylvian."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Destruction and Creation. They say one could not exist 
+without the other... What do you weasels think?"
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+___CHOICE___
+"They go hand in hand."
+"I don't believe in such balance."
+"What about the Moon god?"
+"..."
+____TEXT____
+\c[7]Cahara\c[0]
+"Yeah, they co-exist in perfect balance. That's why they
+are the most famous older gods to exist."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"..."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"I say there are no stupid answers..."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"...Only stupid people. You are wrong, you imbecil."
+____TEXT____
+\c[7]Cahara\c[0]
+"I think that balance is make-belief!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"..."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Well whatdya know. Sometimes you manage to spew some 
+words of wisdom too by accident."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Well whatdya know, kueh kueh. Sometimes you manage to spew 
+some words of wisdom too by accident."
+____TEXT____
+\c[7]Cahara\c[0]
+"'By accident?'"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Shut it while you're still ahead of the game!"
+____TEXT____
+\c[7]Cahara\c[0]
+"In the grand scheme of things, where does the Moon god 
+fit in?"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Were you dropped on your head as a baby? NO! I bet you 
+were thrown into a wall! That's what you'd deserve at least."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"I said we talk about the Gro-goroth and Sylvian! WHY THE
+HELL WOULD YOU BRING UP THE MOON GOD!?"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"No answers? Well that's for the better. No one wants to
+hear you miserable worms utter words."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"The idea that destruction and creation depend on each
+other is absurd."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"You can always destroy without giving anything back!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"I'VE DESTROYED ENTIRE ARMIES DURING THE GREAT WARS OF THE
+PAST..."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"And I've never created anything in return. I take what is
+mine and that is the rule of the nature."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"So no matter what anyone else might say, if you study the
+ways of the Gro-goroth, you will increase your chances for
+survival in this wicked world by a shit-ton."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"That is probably the best advice I can give you as your
+teacher."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"So that about settles it. I'm off."
+____TEXT____
+A spare body of Nas'hrah...
+____TEXT____
+A spare body of Nas'hrah...
+____TEXT____
+A spare body of Nas'hrah...
+____TEXT____
+A spare body of Nas'hrah...
+____TEXT____
+\c[7]Cahara\c[0]
+"Haha! This is going to be amazing!"
+____TEXT____
+\c[7]Cahara\c[0]
+"This is a good outlet for my artistic talents."
+____TEXT____
+\c[7]Cahara\c[0]
+"Oh hey! That's good too! Awesome job!"
+____TEXT____
+\c[7]Cahara\c[0]
+"All done! Beautiful!"
+____TEXT____
+\c[7]Cahara\c[0]
+"Haha Nas'hrah is going to be so happy! Ahahaha, I can't 
+stop laughing!"
+____TEXT____
+\c[7]Cahara\c[0]
+"Haha! This is going to be amazing!"
+____TEXT____
+\c[7]Cahara\c[0]
+"This is a good outlet for my artistic talents."
+____TEXT____
+\c[7]Cahara\c[0]
+"Oh hey! That's good too! Awesome job!"
+____TEXT____
+\c[7]Cahara\c[0]
+"All done! Beautiful!"
+____TEXT____
+\c[7]Cahara\c[0]
+"Haha Nas'hrah is going to be so happy! Ahahaha, I can't 
+stop laughing!"
+____TEXT____
+\c[7]Cahara\c[0]
+"Haha! This is going to be amazing!"
+____TEXT____
+\c[7]Cahara\c[0]
+"This is a good outlet for my artistic talents."
+____TEXT____
+\c[7]Cahara\c[0]
+"Oh hey! That's good too! Awesome job!"
+____TEXT____
+\c[7]Cahara\c[0]
+"All done! Beautiful!"
+____TEXT____
+\c[7]Cahara\c[0]
+"Haha Nas'hrah is going to be so happy! Ahahaha, I can't 
+stop laughing!"
+____TEXT____
+\c[7]Enki\c[0]
+"...*sigh*"
+____TEXT____
+\c[7]Enki\c[0]
+"I can't believe I'm going through this. But a vow is a vow
+I'm afraid."
+____TEXT____
+\c[7]Enki\c[0]
+"So we can go on our date whenever you're ready."
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+___CHOICE___
+"Let's go on a date!"
+"Not right now..."
+____TEXT____
+Where do you want to take Enki on a date?
+___CHOICE___
+The Caverns
+The Bloodpits
+The Tombs
+Nevermind
+____TEXT____
+\c[7]Enki\c[0]
+"... How troublesome."
+____TEXT____
+\c[7]Enki\c[0]
+"Hm. I guess I can study some test subject there at least..."
+____TEXT____
+\c[7]Enki\c[0]
+"... How troublesome."
+____TEXT____
+\c[7]Enki\c[0]
+"...*sigh*"
+____TEXT____
+\c[7]Enki\c[0]
+"I can't believe I'm going through this. But a vow is a vow
+I'm afraid."
+____TEXT____
+\c[7]Enki\c[0]
+"So we can go on our date whenever you're ready."
+____TEXT____
+\c[7]D'arce\c[0]
+"..."
+___CHOICE___
+"Let's go on a date!"
+"Not right now..."
+____TEXT____
+Where do you want to take Enki on a date?
+___CHOICE___
+The Caverns
+The Bloodpits
+The Tombs
+Nevermind
+____TEXT____
+\c[7]Enki\c[0]
+"... How troublesome."
+____TEXT____
+\c[7]Enki\c[0]
+"Hm. I guess I can study some test subject there at least..."
+____TEXT____
+\c[7]Enki\c[0]
+"... How troublesome."
+____TEXT____
+\c[7]Enki\c[0]
+"...*sigh*"
+____TEXT____
+\c[7]Enki\c[0]
+"I can't believe I'm going through this. But a vow is a vow
+I'm afraid."
+____TEXT____
+\c[7]Enki\c[0]
+"So we can go on our date whenever you're ready."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"..."
+___CHOICE___
+"Let's go on a date!"
+"Not right now..."
+____TEXT____
+Where do you want to take Enki on a date?
+___CHOICE___
+The Caverns
+The Bloodpits
+The Tombs
+Nevermind
+____TEXT____
+\c[7]Enki\c[0]
+"... How troublesome."
+____TEXT____
+\c[7]Enki\c[0]
+"Hm. I guess I can study some test subject there at least..."
+____TEXT____
+\c[7]Enki\c[0]
+"... How troublesome."
+____TEXT____
+\c[7]Enki\c[0]
+"That was actually really fun now that I look back at the
+experience..."
+____TEXT____
+\c[7]Enki\c[0]
+"I'm not used to all this dating and going out business,
+so I'm kind of baffled by the effect it has on me..."
+____TEXT____
+\c[7]Enki\c[0]
+"For some reason... My cheeks feel rosier and warm(?)"
+____TEXT____
+\c[7]Enki\c[0]
+"Listen, we had our date. That was the deal. I don't want
+to have anything to do with you anymore."
+____TEXT____
+A map of the known world.
+____TEXT____
+This looks just like Le'garde...?
+____TEXT____
+There is something written on the notice board...
+____TEXT____
+"Did you know that you can just hold down [ENTER] to speed
+things up during those long classes?"
+____TEXT____
+There is something written on the notice board...
+____TEXT____
+"Did you know that you can just hold down [ENTER] to speed
+things up during those long classes?"
+____TEXT____
+There is something written on the notice board...
+____TEXT____
+"Did you know that you can just hold down [ENTER] to speed
+things up during those long classes?"
+____TEXT____
+There is something written on the notice board...
+____TEXT____
+"Did you know that you can just hold down [ENTER] to speed
+things up during those long classes?"

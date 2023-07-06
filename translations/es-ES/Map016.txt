@@ -1,0 +1,4317 @@
+____TEXT____
+The minecart is full of rocks and rubble.
+___CHOICE___
+Take a stone
+Leave
+____TEXT____
+You take a \c[2]Stone\c[0].
+____TEXT____
+A minecart is left here...
+____TEXT____
+The cavedweller notices your crown...
+____TEXT____
+The cavedweller just stands sits looking at the distance.
+___CHOICE___
+"Hello."
+"What is this place?"
+"Who are you?"
+Attack the dweller
+Leave
+____TEXT____
+The cavedweller tilts its head sideways.
+____TEXT____
+The cavedweller is looking at the ground and is pointing
+it in a way...
+____TEXT____
+The cavedweller is tapping its chest.
+<follower touch>
+____TEXT____
+The cavedweller is kneeling before you.
+___CHOICE___
+"There is no need for this."
+"Acknowledge your king."
+<follower touch>
+<follower touch>
+<follower touch>
+<follower touch>
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead dweller.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead cavedweller.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The dweller is down...
+___CHOICE___
+Beat him
+Search him
+Leave
+____TEXT____
+No reaction. The creature appears to be surprisingly
+muscular...
+____TEXT____
+The dweller has nothing of value.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead dweller.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead cavedweller.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The dweller is down...
+___CHOICE___
+Beat him
+Search him
+Leave
+____TEXT____
+No reaction. The creature appears to be surprisingly
+muscular...
+____TEXT____
+The dweller has nothing of value.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead dweller.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead cavedweller.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The dweller is down...
+___CHOICE___
+Beat him
+Search him
+Leave
+____TEXT____
+No reaction. The creature appears to be surprisingly
+muscular...
+____TEXT____
+The dweller has nothing of value.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+A pile of flesh remains here...
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Only empty sack of clothing remains here.
+____TEXT____
+There is something underneath the pile...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Only empty sack of clothing remains here...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+A pile of flesh remains here...
+____TEXT____
+The girl is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+The stone has a heavy aura to it. It's almost too much
+for you to carry...
+____TEXT____
+Moonless is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[16]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[17]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[18]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[1]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[3]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[6]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[5]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[4]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+MERCENARY
+KNIGHT
+CAPTAIN
+OUTLANDER
+MARRIAGE
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the barrel for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the barrel for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the barrel for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the barrel for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the barrel for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+Your child is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+A smell of gore eminates from below. You can hear faint sounds
+of growling and moaning too...
+___CHOICE___
+Investigate
+Throw a \c[2]Stone\c[0] to the pit
+Jump down
+Use the \c[2]Rope\c[0]
+Leave
+____TEXT____
+It's pitch black down there. There is definitely something
+living in the close proximity judging from the growls and
+moans.
+____TEXT____
+The stone hits something fairly close-by. But the drop
+does seem a bit daunting...
+____TEXT____
+You tie the rope tightly on the wooden beams.
+____TEXT____
+A smell of gore eminates from below. You can hear faint sounds
+of growling and moaning too...
+___CHOICE___
+Investigate
+Jump down
+Use the \c[2]Rope\c[0]
+Leave
+____TEXT____
+It's pitch black down there. There is definitely something
+living in the close proximity judging from the growls and
+moans.
+____TEXT____
+You tie the rope tightly on the wooden beams.
+____TEXT____
+A smell of gore eminates from below. You can hear faint sounds
+of growling and moaning too...
+___CHOICE___
+Investigate
+Throw a \c[2]Stone\c[0] to the pit
+Jump down
+Leave
+____TEXT____
+It's pitch black down there. There is definitely something
+living in the close proximity judging from the growls and
+moans.
+____TEXT____
+The stone hits something fairly close-by. But the drop
+does seem a bit daunting...
+____TEXT____
+A smell of gore eminates from below. You can hear faint sounds
+of growling and moaning too...
+___CHOICE___
+Investigate
+Jump down
+Leave
+____TEXT____
+It's pitch black down there. There is definitely something
+living in the close proximity judging from the growls and
+moans.
+____TEXT____
+A smell of gore eminates from below. You can hear faint sounds
+of growling and moaning too...
+___CHOICE___
+Investigate
+Throw a \c[2]Stone\c[0] to the pit
+Climb down
+Leave
+____TEXT____
+It's pitch black down there. There is definitely something
+living in the close proximity judging from the growls and
+moans.
+____TEXT____
+The stone hits something fairly close-by. But the drop
+does seem a bit daunting...
+____TEXT____
+A smell of gore eminates from below. You can hear faint sounds
+of growling and moaning too...
+___CHOICE___
+Investigate
+Climb down
+Leave
+____TEXT____
+It's pitch black down there. There is definitely something
+living in the close proximity judging from the growls and
+moans.
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+The minecart is full of rocks and rubble.
+___CHOICE___
+Take a stone
+Leave
+____TEXT____
+You take a \c[2]Stone\c[0].
+____TEXT____
+\c[7]Knight\c[0]
+"Ah thank goodness!"
+____TEXT____
+\c[7]Knight\c[0]
+"D-do you know what they d-did to ME!?"
+____TEXT____
+\c[7]Knight\c[0]
+"Ah..."
+____TEXT____
+\c[7]Knight\c[0]
+"I cannot talk about it. No..."
+____TEXT____
+\c[7]Knight\c[0]
+"..."
+____TEXT____
+\c[7]Knight\c[0]
+"Le'garde! Oh my god!"
+____TEXT____
+\c[7]Knight\c[0]
+"You are still alive!"
+____TEXT____
+\c[7]Le'garde\c[0]
+"Uh... Do I know you?"
+____TEXT____
+\c[7]D'arce\c[0]
+"What do you mean!? It's me D'arce!"
+____TEXT____
+\c[7]Le'garde\c[0]
+"Sorry..."
+____TEXT____
+\c[7]Le'garde\c[0]
+"I can't remember a thing..."
+____TEXT____
+\c[7]D'arce\c[0]
+"Ah!"
+____TEXT____
+\c[7]D'arce\c[0]
+"..."
+____TEXT____
+\c[7]D'arce\c[0]
+"I'm a part of your army. The Knights of the Midnight Sun.
+Does that ring any bells?"
+____TEXT____
+\c[7]Le'garde\c[0]
+"Sorry."
+____TEXT____
+\c[7]D'arce\c[0]
+"..."
+____TEXT____
+D'arce faces you.
+____TEXT____
+\c[7]D'arce\c[0]
+"Where did you meet?"
+___CHOICE___
+"I found him from imprisoned."
+"Can we trust you?"
+____TEXT____
+\c[7]D'arce\c[0]
+"Ah I see! I'm glad you helped him out!"
+____TEXT____
+\c[7]D'arce\c[0]
+"I knew the Kingdom of Rondon kept him here. He was 
+sentenced to death, so I hurried for him as fast as possible."
+____TEXT____
+\c[7]Le'garde\c[0]
+"..."
+____TEXT____
+\c[7]D'arce\c[0]
+"Wha-- What!? Of course you can!"
+____TEXT____
+\c[7]D'arce\c[0]
+"Le'garde, you must remember me!"
+____TEXT____
+\c[7]D'arce\c[0]
+"We've been through so many failures and triumphs together!"
+____TEXT____
+\c[7]Le'garde\c[0]
+"..."
+____TEXT____
+Le'garde faces you.
+____TEXT____
+\c[7]Le'garde\c[0]
+"She does seem sincere. I don't remember or know her, but
+I don't suspect her from anything."
+____TEXT____
+Le'garde smiles to D'arce.
+____TEXT____
+\c[7]Le'garde\c[0]
+"No worries. I'm sure my memories will come back."
+____TEXT____
+There is a tear drop in the relieved face of D'arce.
+____TEXT____
+\c[7]D'arce\c[0]
+"Listen, I've promised to protect him with my life, just
+as he has done for me in the past."
+____TEXT____
+\c[7]D'arce\c[0]
+"I want to join your party."
+___CHOICE___
+"Yes."
+"Not right now."
+____TEXT____
+\c[7]D'arce\c[0]
+"Great!"
+____TEXT____
+\c[7]D'arce\c[0]
+"I will be a valuable asset to your party, rest assured!"
+____TEXT____
+\c[7]D'arce\c[0]
+"Ah, your party seems full already..."
+____TEXT____
+\c[7]D'arce\c[0]
+"I'll be waiting here if you need me!"
+____TEXT____
+\c[7]D'arce\c[0]
+"Ah, right. Well..."
+____TEXT____
+\c[7]D'arce\c[0]
+"...I'll be waiting here if you need me..."
+____TEXT____
+\c[7]Knight\c[0]
+"Thank you for your help for a thousand times! 
+Without you I'd be dead by now!"
+___CHOICE___
+"What happened here?"
+"Glad I could help."
+"I just wanted to kill those dwellers."
+____TEXT____
+\c[7]Knight\c[0]
+"I found this underground village full of those-- things!
+They live in savage ways. They are but a pack of heretics."
+____TEXT____
+\c[7]Knight\c[0]
+"..."
+____TEXT____
+\c[7]Knight\c[0]
+"The things they did to me..."
+____TEXT____
+\c[7]Knight\c[0]
+"..."
+____TEXT____
+\c[7]Knight\c[0]
+"When I got to see one of their primitive rituals, I had
+to step in!"
+____TEXT____
+\c[7]Knight\c[0]
+"I cut down a couple of them and they chased me here..."
+____TEXT____
+\c[7]Knight\c[0]
+"I'm so relieved there are still good people in this 
+world. To be honest I'm just surprised to see a sane
+person in these dungeons!"
+____TEXT____
+\c[7]Knight\c[0]
+"If there is anything I can do for you, let me
+know! I'm in a debt to you."
+____TEXT____
+\c[7]Knight\c[0]
+"Oh... Well thank you..."
+____TEXT____
+\c[7]Knight\c[0]
+"You did well. Those MONSTERS deserve to be massacred!"
+____TEXT____
+\c[7]Knight\c[0]
+"..."
+____TEXT____
+\c[7]Knight\c[0]
+"The things they did..."
+___CHOICE___
+"Who are you?"
+"What gods do you serve?"
+"What are you doing down here?"
+Leave
+____TEXT____
+\c[7]D'arce\c[0]
+"My name is D'arce Cataliss. I am part of the Knights
+of the Midnight Sun!"
+____TEXT____
+Her face starts to radiate the moment she started talking
+about the knights.
+____TEXT____
+\c[7]D'arce\c[0]
+"I apologize in advance. My manners might seem a bit strict
+for lowly commoners."
+____TEXT____
+\c[7]D'arce\c[0]
+"I originally had an uprising in the Kingdom of Rondon as 
+a royal knight, before leaving with the Knights of the 
+Mignight Sun."
+____TEXT____
+\c[7]Knight\c[0]
+"I serve Alll-Mer as my primary god. Like most people that
+come from Rondon."
+____TEXT____
+\c[7]Knight\c[0]
+"I tried to teach Alll-Mer's teaching to those cave 
+dwelling savages too, but they didn't seem to understand 
+a thing I said."
+____TEXT____
+\c[7]Knight\c[0]
+"I stepped down to this darkness to save my captain.
+The captain of the Knights of the Midnight Sun."
+____TEXT____
+\c[7]Knight\c[0]
+"Maybe you've heard his name. It's L'garde. If you ever
+met him, you would surely remember him."
+____TEXT____
+\c[7]D'arce\c[0]
+"Le'garde! Oh my god!"
+____TEXT____
+\c[7]D'arce\c[0]
+"You are still alive!"
+____TEXT____
+\c[7]Le'garde\c[0]
+"Uh... Do I know you?"
+____TEXT____
+\c[7]D'arce\c[0]
+"What do you mean!? It's me D'arce!"
+____TEXT____
+\c[7]Le'garde\c[0]
+"Sorry..."
+____TEXT____
+\c[7]Le'garde\c[0]
+"I can't remember a thing..."
+____TEXT____
+\c[7]D'arce\c[0]
+"Ah!"
+____TEXT____
+\c[7]D'arce\c[0]
+"..."
+____TEXT____
+\c[7]D'arce\c[0]
+"I'm a part of your army. The Knights of the Midnight Sun.
+Does that ring any bells?"
+____TEXT____
+\c[7]Le'garde\c[0]
+"Sorry."
+____TEXT____
+\c[7]D'arce\c[0]
+"..."
+____TEXT____
+D'arce faces you.
+____TEXT____
+\c[7]D'arce\c[0]
+"Where did you meet?"
+___CHOICE___
+"I found him imprisoned."
+"Can we trust you?"
+____TEXT____
+\c[7]D'arce\c[0]
+"Ah I see! I'm glad you helped him out!"
+____TEXT____
+\c[7]D'arce\c[0]
+"I knew the Kingdom of Rondon kept him here. He was 
+sentenced to death, so I hurried for him as fast as possible."
+____TEXT____
+\c[7]Le'garde\c[0]
+"..."
+____TEXT____
+\c[7]D'arce\c[0]
+"Wha-- What!? Of course you can!"
+____TEXT____
+\c[7]D'arce\c[0]
+"Le'garde, you must remember me!"
+____TEXT____
+\c[7]D'arce\c[0]
+"We've been through so many failures and triumphs together!"
+____TEXT____
+\c[7]Le'garde\c[0]
+"..."
+____TEXT____
+Le'garde faces you.
+____TEXT____
+\c[7]Le'garde\c[0]
+"She does seem sincere. I don't remember or know her, but
+I don't suspect her from anything."
+____TEXT____
+Le'garde smiles to D'arce.
+____TEXT____
+\c[7]Le'garde\c[0]
+"No worries. I'm sure my memories will come back."
+____TEXT____
+There is a tear drop on the relieved face of D'arce.
+____TEXT____
+\c[7]D'arce\c[0]
+"Listen, I've promised to protect him with my life, just
+as he has done for me in the past."
+____TEXT____
+\c[7]D'arce\c[0]
+"I want to join your party."
+___CHOICE___
+"Yes."
+"Not right now."
+Attack her
+____TEXT____
+\c[7]D'arce\c[0]
+"Great!"
+____TEXT____
+\c[7]D'arce\c[0]
+"I will be a valuable asset to your party, rest assured!"
+____TEXT____
+\c[7]D'arce\c[0]
+"Ah, your party seems full already..."
+____TEXT____
+\c[7]D'arce\c[0]
+"I'll be waiting here if you need me!"
+____TEXT____
+\c[7]D'arce\c[0]
+"Ah, right. Well..."
+____TEXT____
+\c[7]D'arce\c[0]
+"...I'll be waiting here if you need me..."
+____TEXT____
+\c[7]D'arce\c[0]
+"What-- Where is this coming from!?"
+____TEXT____
+\c[7]D'arce\c[0]
+"My name is D'arce. Do you think you can remember that?"
+___CHOICE___
+"Who are you?"
+"What gods do you serve?"
+"What are you doing down here?"
+"Would you like to travel together?"
+Attack her
+Leave
+____TEXT____
+\c[7]D'arce\c[0]
+"My name is D'arce Cataliss. I am part of the Knights
+of the Midnight Sun!"
+____TEXT____
+Her face starts to radiate the moment she started talking
+about the knights.
+____TEXT____
+\c[7]D'arce\c[0]
+"I apologize in advance. My manners might seem a bit strict
+for lowly commoners."
+____TEXT____
+\c[7]D'arce\c[0]
+"I originally had an uprising in the Kingdom of Rondon as 
+a royal knight, before leaving with the Knights of the 
+Mignight Sun."
+____TEXT____
+\c[7]D'arce\c[0]
+"I serve Alll-Mer as my primary god. Like most people that
+come from Rondon."
+____TEXT____
+\c[7]D'arce\c[0]
+"I tried to teach Alll-Mer's teaching to those cave 
+dwelling savages too, but they didn't seem to understand 
+a thing I said."
+____TEXT____
+\c[7]D'arce\c[0]
+"I stepped down to this darkness to save my captain.
+The captain of the Knights of the Midnight Sun."
+____TEXT____
+\c[7]D'arce\c[0]
+"Maybe you've heard his name. It's L'garde. If you ever
+met him, you would surely remember him!"
+____TEXT____
+\c[7]D'arce\c[0]
+"Y-yes please!"
+____TEXT____
+\c[7]D'arce\c[0]
+"Uh, I mean that would be the wisest thing to do obviously."
+____TEXT____
+\c[7]D'arce\c[0]
+"I would gladly join your party until I can fulfill my
+mission here."
+____TEXT____
+\c[7]D'arce\c[0]
+"There are already so many people in your party that it
+would not suit me well to travel that big."
+____TEXT____
+\c[7]D'arce\c[0]
+"Come back later and maybe things will be different."
+____TEXT____
+\c[7]D'arce\c[0]
+"What-- Where is this coming from!?"
+____TEXT____
+\c[7]D'arce\c[0]
+"Hi Le'garde! You're still fine."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Likewise."
+____TEXT____
+Le'garde smiles to D'arce.
+____TEXT____
+\c[7]D'arce\c[0]
+"Listen, I've promised to protect him with my life, just
+as he has done for me in the past."
+____TEXT____
+\c[7]D'arce\c[0]
+"I want to join your party."
+___CHOICE___
+"Yes."
+"Not right now."
+Attack her
+____TEXT____
+\c[7]D'arce\c[0]
+"Great!"
+____TEXT____
+\c[7]D'arce\c[0]
+"I will be a valuable asset to your party, rest assured!"
+____TEXT____
+\c[7]D'arce\c[0]
+"Ah, your party is still full..."
+____TEXT____
+\c[7]D'arce\c[0]
+"I'll be waiting here if you need me!"
+____TEXT____
+\c[7]D'arce\c[0]
+"Ah, right. Well..."
+____TEXT____
+\c[7]D'arce\c[0]
+"...I'll be waiting here if you need me..."
+____TEXT____
+\c[7]D'arce\c[0]
+"What-- Where is this coming from!?"
+____TEXT____
+\c[7]D'arce\c[0]
+"It's you!"
+____TEXT____
+\c[7]D'arce\c[0]
+"Where is Le'garde!?"
+___CHOICE___
+Tell the truth.
+"He had some other business..."
+____TEXT____
+\c[7]D'arce\c[0]
+"..."
+____TEXT____
+\c[7]D'arce\c[0]
+"Ah..."
+____TEXT____
+D'arce is clearly devastated by the news...
+____TEXT____
+The sadness in D'arce's eyes change into determination.
+____TEXT____
+\c[7]D'arce\c[0]
+"I've made my mind."
+____TEXT____
+\c[7]D'arce\c[0]
+"Le'garde trusted you. So I will do."
+____TEXT____
+\c[7]D'arce\c[0]
+"Sounds like the Le'garde I know."
+____TEXT____
+\c[7]D'arce\c[0]
+"I know he is planning something. He studied these dungeons
+long before getting trapped here."
+____TEXT____
+\c[7]D'arce\c[0]
+"I discovered some documents about this place from his 
+quarters."
+____TEXT____
+\c[7]D'arce\c[0]
+"I want to find him and prevent anything bad from happening.
+I have a bad feeling..."
+____TEXT____
+\c[7]D'arce\c[0]
+"I want to join your party."
+___CHOICE___
+"Yes."
+"Not right now."
+Attack her
+____TEXT____
+\c[7]D'arce\c[0]
+"Great!"
+____TEXT____
+\c[7]D'arce\c[0]
+"I will be a valuable asset to your party, rest assured!"
+____TEXT____
+\c[7]D'arce\c[0]
+"Ah, your party is still full..."
+____TEXT____
+\c[7]D'arce\c[0]
+"I'll be waiting here if you need me!"
+____TEXT____
+\c[7]D'arce\c[0]
+"Ah, right. Well..."
+____TEXT____
+\c[7]D'arce\c[0]
+"...I'll be waiting here if you need me..."
+____TEXT____
+\c[7]D'arce\c[0]
+"What-- Where is this coming from!?"
+____TEXT____
+\c[7]D'arce\c[0]
+"I want to join your party."
+___CHOICE___
+"Yes."
+"Not right now."
+Attack her
+____TEXT____
+\c[7]D'arce\c[0]
+"Great!"
+____TEXT____
+\c[7]D'arce\c[0]
+"I will be a valuable asset to your party, rest assured!"
+____TEXT____
+\c[7]D'arce\c[0]
+"Ah, your party is still full..."
+____TEXT____
+\c[7]D'arce\c[0]
+"I'll be waiting here if you need me!"
+____TEXT____
+\c[7]D'arce\c[0]
+"Ah, right. Well..."
+____TEXT____
+\c[7]D'arce\c[0]
+"...I'll be waiting here if you need me..."
+____TEXT____
+\c[7]D'arce\c[0]
+"What-- Where is this coming from!?"
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+A knight is dead here.
+___CHOICE___
+Search her
+Leave
+____TEXT____
+You take knight's \c[2]Plate mail\c[0], \c[2]Long sword\c[0]
+and her \c[2]Eagle crest shield\c[0].
+____TEXT____
+In addition you find \c[2]Blue vial\c[0] and 20
+\c[2]Silver coins\c[0]!
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+A knight is dead here.
+___CHOICE___
+Search her
+Leave
+____TEXT____
+You already searched her.
+____TEXT____
+The cavedweller notices your crown...
+____TEXT____
+The cavedweller just stands there looking at you.
+___CHOICE___
+"Hello."
+"What is this place?"
+"Who are you?"
+Attack the dweller
+Leave
+____TEXT____
+The cavedweller tilts its head sideways.
+____TEXT____
+The cavedweller is looking at the ground and is pointing
+it in a way...
+____TEXT____
+The cavedweller is tapping its chest.
+<follower touch>
+____TEXT____
+The cavedweller is kneeling before you.
+___CHOICE___
+"There is no need for this."
+"Acknowledge your king."
+<follower touch>
+<follower touch>
+<follower touch>
+<follower touch>
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead dweller.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead cavedweller.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The dweller is down...
+___CHOICE___
+Beat her
+Search her
+Leave
+____TEXT____
+No reaction. The creature appears to be surprisingly
+muscular...
+____TEXT____
+The dweller has nothing of value.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead dweller.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead cavedweller.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The dweller is down...
+___CHOICE___
+Beat her
+Search her
+Leave
+____TEXT____
+No reaction. The creature appears to be surprisingly
+muscular...
+____TEXT____
+The dweller has nothing of value.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead dweller.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead cavedweller.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The dweller is down...
+___CHOICE___
+Beat her
+Search her
+Leave
+____TEXT____
+No reaction. The creature appears to be surprisingly
+muscular...
+____TEXT____
+The dweller has nothing of value.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+A pile of flesh remains here...
+____TEXT____
+The cavedweller notices your crown...
+____TEXT____
+The cavedweller just stands there looking at you.
+___CHOICE___
+"Hello."
+"What is this place?"
+"Who are you?"
+Attack the dweller
+Leave
+____TEXT____
+The cavedweller tilts its head sideways.
+____TEXT____
+The cavedweller is looking at the ground and is pointing
+it in a way...
+____TEXT____
+The cavedweller is tapping its chest.
+<follower touch>
+____TEXT____
+The cavedweller is kneeling before you.
+___CHOICE___
+"There is no need for this."
+"Acknowledge your king."
+<follower touch>
+<follower touch>
+<follower touch>
+<follower touch>
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead dweller.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead cavedweller.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The dweller is down...
+___CHOICE___
+Beat him
+Search him
+Leave
+____TEXT____
+No reaction. The creature appears to be surprisingly
+muscular...
+____TEXT____
+The dweller has nothing of value.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead dweller.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead cavedweller.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The dweller is down...
+___CHOICE___
+Beat him
+Search him
+Leave
+____TEXT____
+No reaction. The creature appears to be surprisingly
+muscular...
+____TEXT____
+The dweller has nothing of value.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+A pile of flesh remains here...
+____TEXT____
+The cavedweller just stands there looking at you.
+___CHOICE___
+"Hello."
+"What is this place?"
+"Who are you?"
+Attack the dweller
+Leave
+____TEXT____
+The cavedweller tilts its head sideways.
+____TEXT____
+The cavedweller is looking at the ground and is pointing
+it in a way...
+____TEXT____
+The cavedweller is tapping its chest.
+<follower touch>
+<follower touch>
+<follower touch>
+<follower touch>
+<follower touch>
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead cavedweller.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The dweller is down...
+___CHOICE___
+Beat him
+Search him
+Leave
+____TEXT____
+No reaction. The creature appears to be surprisingly
+muscular...
+____TEXT____
+The dweller has nothing of value.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead cavedweller.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The dweller is down...
+___CHOICE___
+Beat him
+Search him
+Leave
+____TEXT____
+No reaction. The creature appears to be surprisingly
+muscular...
+____TEXT____
+The dweller has nothing of value.
+____TEXT____
+A pile of flesh remains here...
+____TEXT____
+Use \c[2]Tinderbox\c[0] to light the torch?
+___CHOICE___
+Light the \c[2]Torch\c[0]
+Take the \c[2]Torch\c[0]
+Leave
+____TEXT____
+There's a \c[2]Torch\c[0] on the wall.
+___CHOICE___
+Take the \c[2]Torch\c[0]
+Leave
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+An empty minecart. It's gathering rust in the humidity of
+these mines...
+____TEXT____
+An empty minecart. It's gathering rust in the humidity of
+these mines...
+____TEXT____
+An empty minecart. It's gathering rust in the humidity of
+these mines...
+____TEXT____
+An empty minecart. It's gathering rust in the humidity of
+these mines...
+____TEXT____
+An empty minecart. It's gathering rust in the humidity of
+these mines...
+____TEXT____
+An empty minecart. It's gathering rust in the humidity of
+these mines...
+____TEXT____
+An empty minecart. It's gathering rust in the humidity of
+these mines...
+____TEXT____
+An empty minecart. It's gathering rust in the humidity of
+these mines...
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+The cavedweller just stands there looking at you.
+___CHOICE___
+"Hello."
+"What is this place?"
+"Who are you?"
+Attack the dweller
+Leave
+____TEXT____
+The cavedweller tilts its head sideways.
+____TEXT____
+The cavedweller is looking at the ground and is pointing
+it in a way...
+____TEXT____
+The cavedweller is tapping its chest.
+____TEXT____
+The cavedweller notices your crown...
+____TEXT____
+The cavedweller just stands there looking at you.
+___CHOICE___
+"Hello."
+"What is this place?"
+"Who are you?"
+Attack the dweller
+Leave
+____TEXT____
+The cavedweller tilts its head sideways.
+____TEXT____
+The cavedweller is looking at the ground and is pointing
+it in a way...
+____TEXT____
+The cavedweller is tapping its chest.
+____TEXT____
+The cavedweller is kneeling before you.
+___CHOICE___
+"There is no need for this."
+"Acknowledge your king."
+<follower touch>
+<follower touch>
+<follower touch>
+<follower touch>
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead dweller.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead cavedweller.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The dweller is down...
+___CHOICE___
+Beat him
+Search him
+Leave
+____TEXT____
+No reaction. The creature appears to be surprisingly
+muscular...
+____TEXT____
+The dweller has nothing of value.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead dweller.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead cavedweller.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The dweller is down...
+___CHOICE___
+Beat him
+Search him
+Leave
+____TEXT____
+No reaction. The creature appears to be surprisingly
+muscular...
+____TEXT____
+The dweller has nothing of value.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+A pile of flesh remains here...
+____TEXT____
+You search the barrel for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+Use \c[2]Tinderbox\c[0] to light the torch?
+___CHOICE___
+Light the \c[2]Torch\c[0]
+Take the \c[2]Torch\c[0]
+Leave
+____TEXT____
+There's a \c[2]Torch\c[0] on the wall.
+___CHOICE___
+Take the \c[2]Torch\c[0]
+Leave
+____TEXT____
+Use \c[2]Tinderbox\c[0] to light the torch?
+___CHOICE___
+Light the \c[2]Torch\c[0]
+Take the \c[2]Torch\c[0]
+Leave
+____TEXT____
+There's a \c[2]Torch\c[0] on the wall.
+___CHOICE___
+Take the \c[2]Torch\c[0]
+Leave
+____TEXT____
+Use \c[2]Tinderbox\c[0] to light the torch?
+___CHOICE___
+Light the \c[2]Torch\c[0]
+Take the \c[2]Torch\c[0]
+Leave
+____TEXT____
+There's a \c[2]Torch\c[0] on the wall.
+___CHOICE___
+Take the \c[2]Torch\c[0]
+Leave
+CHEST
+____TEXT____
+A sturdy chest. It doesn't seem to be locked.
+___CHOICE___
+Open
+Leave
+___CHOICE___
+HEADS
+TAILS
+CHEST
+____TEXT____
+There is nothing left in the chest anymore.
+CHEST
+____TEXT____
+A sturdy chest. It doesn't seem to be locked.
+___CHOICE___
+Open
+Leave
+___CHOICE___
+HEADS
+TAILS
+CHEST
+____TEXT____
+There is nothing left in the chest anymore.
+____TEXT____
+You search the barrel for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+There are human heads impaled on a tribal spear. The heads
+are aligned in a way that is meant to intimidate passerbys.
+____TEXT____
+The cavedweller notices your crown...
+____TEXT____
+The cavedweller seems busy at work.
+___CHOICE___
+"Hello."
+"What is this place?"
+"Who are you?"
+Attack the dweller
+Leave
+____TEXT____
+The cavedweller completely ignores you.
+____TEXT____
+The cavedweller seems to be fixated in building this wall.
+____TEXT____
+The cavedweller doesn't react to you at all.
+<follower touch>
+____TEXT____
+The cavedweller is kneeling before you.
+___CHOICE___
+"There is no need for this."
+"Acknowledge your king."
+<follower touch>
+<follower touch>
+<follower touch>
+<follower touch>
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead dweller.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead cavedweller.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The dweller is down...
+___CHOICE___
+Beat him
+Search him
+Leave
+____TEXT____
+No reaction. The creature appears to be surprisingly
+muscular...
+____TEXT____
+The dweller has nothing of value.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead dweller.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead cavedweller.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The dweller is down...
+___CHOICE___
+Beat him
+Search him
+Leave
+____TEXT____
+No reaction. The creature appears to be surprisingly
+muscular...
+____TEXT____
+The dweller has nothing of value.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+The dweller is down...
+___CHOICE___
+Beat him
+Search him
+Leave
+____TEXT____
+No reaction. The creature appears to be surprisingly
+muscular...
+____TEXT____
+The dweller has nothing of value.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+A pile of flesh remains here...
+____TEXT____
+The cavedweller seems to be trying to communicate with 
+you...
+____TEXT____
+It's pointing it's finger up and making motions with her
+mouth.
+___CHOICE___
+"Yes, I came from the surface."
+"I don't understand you."
+"What is this place?"
+____TEXT____
+The cavedweller just stands there looking at you.
+___CHOICE___
+"Hello."
+"What is this place?"
+"Who are you?"
+Attack the dweller
+Leave
+____TEXT____
+The cavedweller tilts its head sideways.
+____TEXT____
+The cavedweller is looking at the ground and is pointing
+it in a way...
+____TEXT____
+The cavedweller is tapping its chest.
+<follower touch>
+<follower touch>
+<follower touch>
+<follower touch>
+<follower touch>
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead dweller.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead cavedweller.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The dweller is down...
+___CHOICE___
+Beat her
+Search her
+Leave
+____TEXT____
+No reaction. The creature appears to be surprisingly
+muscular...
+____TEXT____
+The dweller has nothing of value.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead dweller.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead cavedweller.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The dweller is down...
+___CHOICE___
+Beat her
+Search her
+Leave
+____TEXT____
+No reaction. The creature appears to be surprisingly
+muscular...
+____TEXT____
+The dweller has nothing of value.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead dweller.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead cavedweller.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The dweller is down...
+___CHOICE___
+Beat her
+Search her
+Leave
+____TEXT____
+No reaction. The creature appears to be surprisingly
+muscular...
+____TEXT____
+The dweller has nothing of value.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+A pile of flesh remains here...
+____TEXT____
+The cavedweller notices your crown...
+____TEXT____
+The cavedweller just stands there looking at you.
+___CHOICE___
+"Hello."
+"What is this place?"
+"Who are you?"
+Attack the dweller
+Leave
+____TEXT____
+The cavedweller tilts its head sideways.
+____TEXT____
+The cavedweller is looking at the ground and is pointing
+it in a way...
+____TEXT____
+The cavedweller is tapping its chest.
+<follower touch>
+____TEXT____
+The cavedweller is kneeling before you.
+___CHOICE___
+"There is no need for this."
+"Acknowledge your king."
+<follower touch>
+<follower touch>
+<follower touch>
+<follower touch>
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead dweller.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead cavedweller.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The dweller is down...
+___CHOICE___
+Beat her
+Search her
+Leave
+____TEXT____
+No reaction. The creature appears to be surprisingly
+muscular...
+____TEXT____
+The dweller has nothing of value.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead dweller.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead cavedweller.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The dweller is down...
+___CHOICE___
+Beat her
+Search her
+Leave
+____TEXT____
+No reaction. The creature appears to be surprisingly
+muscular...
+____TEXT____
+The dweller has nothing of value.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+The dweller is down...
+___CHOICE___
+Beat her
+Search her
+Leave
+____TEXT____
+No reaction. The creature appears to be surprisingly
+muscular...
+____TEXT____
+The dweller has nothing of value.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+A pile of flesh remains here...
+____TEXT____
+The cavedweller seems to suggest a transaction of sorts...
+She seems to have boxes full of goodies.
+____TEXT____
+You have \c[2]\v[0096] Silver coins\c[0]. What do you want to trade them for?
+___CHOICE___
+\i[180]Blue vial \c[2][10]\c[0]
+\i[177]Dried meat \c[2][5]\c[0]
+\i[226]Explosive vial \c[2][15]\c[0]
+\i[240]Opium powder \c[2][10]\c[0]
+\i[237]Iron arrow \c[2][20]\c[0]
+Leave
+____TEXT____
+You trade 10 \c[2]Silver coins\c[0] for a \c[2]Blue vial\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 5 \c[2]Silver coins\c[0] for a \c[2]Dried meat\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 15 \c[2]Silver coins\c[0] for an \c[2]Explosive vial\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 10 \c[2]Silver coins\c[0] for \c[2]Opium powder\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 20 \c[2]Silver coins\c[0] for an \c[2]Iron arrow\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+The cavedweller seems to suggest a transaction of sorts...
+She seems to have boxes full of goodies.
+____TEXT____
+You have \c[2]\v[0096] Silver coins\c[0]. What do you want to trade them for?
+___CHOICE___
+\i[180]Blue vial \c[2][10]\c[0]
+\i[225]Light blue vial \c[2][20]\c[0]
+\i[226]Explosive vial \c[2][15]\c[0]
+\i[208]Bottle of whiskey \c[2][10]\c[0]
+\i[250]Quill \c[2][5]\c[0]
+Leave
+____TEXT____
+You trade 10 \c[2]Silver coins\c[0] for a \c[2]Blue vial\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 20 \c[2]Silver coins\c[0] for a \c[2]Light blue vial\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 15 \c[2]Silver coins\c[0] for an \c[2]Explosive vial\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 10 \c[2]Silver coins\c[0] for a \c[2]Bottle of whiskey\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+____TEXT____
+You trade 5 \c[2]Silver coins\c[0] for a \c[2]Quill\c[0]!
+____TEXT____
+Unfortunately you do not have enough silver.
+<follower touch>
+<follower touch>
+<follower touch>
+<follower touch>
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead dweller.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead cavedweller.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The dweller is down...
+___CHOICE___
+Beat her
+Search her
+Leave
+____TEXT____
+No reaction. The creature appears to be surprisingly
+muscular...
+____TEXT____
+The dweller has nothing of value.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead dweller.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead cavedweller.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The dweller is down...
+___CHOICE___
+Beat her
+Search her
+Leave
+____TEXT____
+No reaction. The creature appears to be surprisingly
+muscular...
+____TEXT____
+The dweller has nothing of value.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead dweller.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead cavedweller.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The dweller is down...
+___CHOICE___
+Beat her
+Search her
+Leave
+____TEXT____
+No reaction. The creature appears to be surprisingly
+muscular...
+____TEXT____
+The dweller has nothing of value.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+A pile of flesh remains here...
+____TEXT____
+With \c[2]Mastery over insects\c[0] you are able to hear
+whispers...
+____TEXT____
+\} "Master... the hole... it's a vile place..."
+____TEXT____
+\} "Vile... for the likes of you..."
+____TEXT____
+\} "Paradise... for the likes of me..."
+____TEXT____
+A smell of gore eminates from below. You can hear faint sounds
+of growling and moaning too...
+___CHOICE___
+Investigate
+Throw a \c[2]Stone\c[0] to the pit
+Jump down
+Use the \c[2]Rope\c[0]
+Leave
+____TEXT____
+It's pitch black down there. There is definitely something
+living in the close proximity judging from the growls and
+moans.
+____TEXT____
+The stone hits something fairly close-by. But the drop
+does seem a bit daunting...
+____TEXT____
+You tie the rope tightly on the wooden beams.
+____TEXT____
+A smell of gore eminates from below. You can hear faint sounds
+of growling and moaning too...
+___CHOICE___
+Investigate
+Jump down
+Use the \c[2]Rope\c[0]
+Leave
+____TEXT____
+It's pitch black down there. There is definitely something
+living in the close proximity judging from the growls and
+moans.
+____TEXT____
+You tie the rope tightly on the wooden beams.
+____TEXT____
+A smell of gore eminates from below. You can hear faint sounds
+of growling and moaning too...
+___CHOICE___
+Investigate
+Throw a \c[2]Stone\c[0] to the pit
+Jump down
+Leave
+____TEXT____
+It's pitch black down there. There is definitely something
+living in the close proximity judging from the growls and
+moans.
+____TEXT____
+The stone hits something fairly close-by. But the drop
+does seem a bit daunting...
+____TEXT____
+A smell of gore eminates from below. You can hear faint sounds
+of growling and moaning too...
+___CHOICE___
+Investigate
+Jump down
+Leave
+____TEXT____
+It's pitch black down there. There is definitely something
+living in the close proximity judging from the growls and
+moans.
+____TEXT____
+A smell of gore eminates from below. You can hear faint sounds
+of growling and moaning too...
+___CHOICE___
+Investigate
+Throw a \c[2]Stone\c[0] to the pit
+Climb down
+Leave
+____TEXT____
+It's pitch black down there. There is definitely something
+living in the close proximity judging from the growls and
+moans.
+____TEXT____
+The stone hits something fairly close-by. But the drop
+does seem a bit daunting...
+____TEXT____
+A smell of gore eminates from below. You can hear faint sounds
+of growling and moaning too...
+___CHOICE___
+Investigate
+Climb down
+Leave
+____TEXT____
+It's pitch black down there. There is definitely something
+living in the close proximity judging from the growls and
+moans.
+____TEXT____
+A smell of gore eminates from below. You can hear faint sounds
+of growling and moaning too...
+___CHOICE___
+Investigate
+Throw a \c[2]Stone\c[0] to the pit
+Jump down
+Use the \c[2]Rope\c[0]
+Leave
+____TEXT____
+It's pitch black down there. There is definitely something
+living in the close proximity judging from the growls and
+moans.
+____TEXT____
+The stone hits something fairly close-by. But the drop
+does seem a bit daunting...
+____TEXT____
+You tie the rope tightly on the wooden beams.
+____TEXT____
+A smell of gore eminates from below. You can hear faint sounds
+of growling and moaning too...
+___CHOICE___
+Investigate
+Jump down
+Use the \c[2]Rope\c[0]
+Leave
+____TEXT____
+It's pitch black down there. There is definitely something
+living in the close proximity judging from the growls and
+moans.
+____TEXT____
+You tie the rope tightly on the wooden beams.
+____TEXT____
+A smell of gore eminates from below. You can hear faint sounds
+of growling and moaning too...
+___CHOICE___
+Investigate
+Throw a \c[2]Stone\c[0] to the pit
+Jump down
+Leave
+____TEXT____
+It's pitch black down there. There is definitely something
+living in the close proximity judging from the growls and
+moans.
+____TEXT____
+The stone hits something fairly close-by. But the drop
+does seem a bit daunting...
+____TEXT____
+A smell of gore eminates from below. You can hear faint sounds
+of growling and moaning too...
+___CHOICE___
+Investigate
+Jump down
+Leave
+____TEXT____
+It's pitch black down there. There is definitely something
+living in the close proximity judging from the growls and
+moans.
+____TEXT____
+A smell of gore eminates from below. You can hear faint sounds
+of growling and moaning too...
+___CHOICE___
+Investigate
+Throw a \c[2]Stone\c[0] to the pit
+Climb down
+Leave
+____TEXT____
+It's pitch black down there. There is definitely something
+living in the close proximity judging from the growls and
+moans.
+____TEXT____
+The stone hits something fairly close-by. But the drop
+does seem a bit daunting...
+____TEXT____
+A smell of gore eminates from below. You can hear faint sounds
+of growling and moaning too...
+___CHOICE___
+Investigate
+Climb down
+Leave
+____TEXT____
+It's pitch black down there. There is definitely something
+living in the close proximity judging from the growls and
+moans.
+____TEXT____
+A smell of gore eminates from below. You can hear faint sounds
+of growling and moaning too...
+___CHOICE___
+Investigate
+Throw a \c[2]Stone\c[0] to the pit
+Jump down
+Use the \c[2]Rope\c[0]
+Leave
+____TEXT____
+It's pitch black down there. There is definitely something
+living in the close proximity judging from the growls and
+moans.
+____TEXT____
+The stone hits something fairly close-by. But the drop
+does seem a bit daunting...
+____TEXT____
+You tie the rope tightly on the wooden beams.
+____TEXT____
+A smell of gore eminates from below. You can hear faint sounds
+of growling and moaning too...
+___CHOICE___
+Investigate
+Jump down
+Use the \c[2]Rope\c[0]
+Leave
+____TEXT____
+It's pitch black down there. There is definitely something
+living in the close proximity judging from the growls and
+moans.
+____TEXT____
+You tie the rope tightly on the wooden beams.
+____TEXT____
+A smell of gore eminates from below. You can hear faint sounds
+of growling and moaning too...
+___CHOICE___
+Investigate
+Throw a \c[2]Stone\c[0] to the pit
+Jump down
+Leave
+____TEXT____
+It's pitch black down there. There is definitely something
+living in the close proximity judging from the growls and
+moans.
+____TEXT____
+The stone hits something fairly close-by. But the drop
+does seem a bit daunting...
+____TEXT____
+A smell of gore eminates from below. You can hear faint sounds
+of growling and moaning too...
+___CHOICE___
+Investigate
+Jump down
+Leave
+____TEXT____
+It's pitch black down there. There is definitely something
+living in the close proximity judging from the growls and
+moans.
+____TEXT____
+A smell of gore eminates from below. You can hear faint sounds
+of growling and moaning too...
+___CHOICE___
+Investigate
+Throw a \c[2]Stone\c[0] to the pit
+Climb down
+Leave
+____TEXT____
+It's pitch black down there. There is definitely something
+living in the close proximity judging from the growls and
+moans.
+____TEXT____
+The stone hits something fairly close-by. But the drop
+does seem a bit daunting...
+____TEXT____
+A smell of gore eminates from below. You can hear faint sounds
+of growling and moaning too...
+___CHOICE___
+Investigate
+Climb down
+Leave
+____TEXT____
+It's pitch black down there. There is definitely something
+living in the close proximity judging from the growls and
+moans.
+____TEXT____
+The minecart is full of rocks and rubble.
+___CHOICE___
+Take a stone
+Leave
+____TEXT____
+You take a \c[2]Stone\c[0].
+____TEXT____
+A smell of gore eminates from below. You can hear faint sounds
+of growling and moaning too...
+___CHOICE___
+Investigate
+Throw a \c[2]Stone\c[0] to the pit
+Jump down
+Use the \c[2]Rope\c[0]
+Leave
+____TEXT____
+It's pitch black down there. There is definitely something
+living in the close proximity judging from the growls and
+moans.
+____TEXT____
+The stone hits something fairly close-by. But the drop
+does seem a bit daunting...
+____TEXT____
+You tie the rope tightly on the wooden beams.
+____TEXT____
+A smell of gore eminates from below. You can hear faint sounds
+of growling and moaning too...
+___CHOICE___
+Investigate
+Jump down
+Use the \c[2]Rope\c[0]
+Leave
+____TEXT____
+It's pitch black down there. There is definitely something
+living in the close proximity judging from the growls and
+moans.
+____TEXT____
+You tie the rope tightly on the wooden beams.
+____TEXT____
+A smell of gore eminates from below. You can hear faint sounds
+of growling and moaning too...
+___CHOICE___
+Investigate
+Throw a \c[2]Stone\c[0] to the pit
+Jump down
+Leave
+____TEXT____
+It's pitch black down there. There is definitely something
+living in the close proximity judging from the growls and
+moans.
+____TEXT____
+The stone hits something fairly close-by. But the drop
+does seem a bit daunting...
+____TEXT____
+A smell of gore eminates from below. You can hear faint sounds
+of growling and moaning too...
+___CHOICE___
+Investigate
+Jump down
+Leave
+____TEXT____
+It's pitch black down there. There is definitely something
+living in the close proximity judging from the growls and
+moans.
+____TEXT____
+A smell of gore eminates from below. You can hear faint sounds
+of growling and moaning too...
+___CHOICE___
+Investigate
+Throw a \c[2]Stone\c[0] to the pit
+Climb down
+Leave
+____TEXT____
+It's pitch black down there. There is definitely something
+living in the close proximity judging from the growls and
+moans.
+____TEXT____
+The stone hits something fairly close-by. But the drop
+does seem a bit daunting...
+____TEXT____
+A smell of gore eminates from below. You can hear faint sounds
+of growling and moaning too...
+___CHOICE___
+Investigate
+Climb down
+Leave
+____TEXT____
+It's pitch black down there. There is definitely something
+living in the close proximity judging from the growls and
+moans.
+____TEXT____
+A smell of gore eminates from below. You can hear faint sounds
+of growling and moaning too...
+___CHOICE___
+Investigate
+Throw a \c[2]Stone\c[0] to the pit
+Jump down
+Use the \c[2]Rope\c[0]
+Leave
+____TEXT____
+It's pitch black down there. There is definitely something
+living in the close proximity judging from the growls and
+moans.
+____TEXT____
+The stone hits something fairly close-by. But the drop
+does seem a bit daunting...
+____TEXT____
+You tie the rope tightly on the wooden beams.
+____TEXT____
+A smell of gore eminates from below. You can hear faint sounds
+of growling and moaning too...
+___CHOICE___
+Investigate
+Jump down
+Use the \c[2]Rope\c[0]
+Leave
+____TEXT____
+It's pitch black down there. There is definitely something
+living in the close proximity judging from the growls and
+moans.
+____TEXT____
+You tie the rope tightly on the wooden beams.
+____TEXT____
+A smell of gore eminates from below. You can hear faint sounds
+of growling and moaning too...
+___CHOICE___
+Investigate
+Throw a \c[2]Stone\c[0] to the pit
+Jump down
+Leave
+____TEXT____
+It's pitch black down there. There is definitely something
+living in the close proximity judging from the growls and
+moans.
+____TEXT____
+The stone hits something fairly close-by. But the drop
+does seem a bit daunting...
+____TEXT____
+A smell of gore eminates from below. You can hear faint sounds
+of growling and moaning too...
+___CHOICE___
+Investigate
+Jump down
+Leave
+____TEXT____
+It's pitch black down there. There is definitely something
+living in the close proximity judging from the growls and
+moans.
+____TEXT____
+A smell of gore eminates from below. You can hear faint sounds
+of growling and moaning too...
+___CHOICE___
+Investigate
+Throw a \c[2]Stone\c[0] to the pit
+Climb down
+Leave
+____TEXT____
+It's pitch black down there. There is definitely something
+living in the close proximity judging from the growls and
+moans.
+____TEXT____
+The stone hits something fairly close-by. But the drop
+does seem a bit daunting...
+____TEXT____
+A smell of gore eminates from below. You can hear faint sounds
+of growling and moaning too...
+___CHOICE___
+Investigate
+Climb down
+Leave
+____TEXT____
+It's pitch black down there. There is definitely something
+living in the close proximity judging from the growls and
+moans.
+____TEXT____
+A smell of gore eminates from below. You can hear faint sounds
+of growling and moaning too...
+___CHOICE___
+Investigate
+Throw a \c[2]Stone\c[0] to the pit
+Jump down
+Use the \c[2]Rope\c[0]
+Leave
+____TEXT____
+It's pitch black down there. There is definitely something
+living in the close proximity judging from the growls and
+moans.
+____TEXT____
+The stone hits something fairly close-by. But the drop
+does seem a bit daunting...
+____TEXT____
+You tie the rope tightly on the wooden beams.
+____TEXT____
+A smell of gore eminates from below. You can hear faint sounds
+of growling and moaning too...
+___CHOICE___
+Investigate
+Jump down
+Use the \c[2]Rope\c[0]
+Leave
+____TEXT____
+It's pitch black down there. There is definitely something
+living in the close proximity judging from the growls and
+moans.
+____TEXT____
+You tie the rope tightly on the wooden beams.
+____TEXT____
+A smell of gore eminates from below. You can hear faint sounds
+of growling and moaning too...
+___CHOICE___
+Investigate
+Throw a \c[2]Stone\c[0] to the pit
+Jump down
+Leave
+____TEXT____
+It's pitch black down there. There is definitely something
+living in the close proximity judging from the growls and
+moans.
+____TEXT____
+The stone hits something fairly close-by. But the drop
+does seem a bit daunting...
+____TEXT____
+A smell of gore eminates from below. You can hear faint sounds
+of growling and moaning too...
+___CHOICE___
+Investigate
+Jump down
+Leave
+____TEXT____
+It's pitch black down there. There is definitely something
+living in the close proximity judging from the growls and
+moans.
+____TEXT____
+A smell of gore eminates from below. You can hear faint sounds
+of growling and moaning too...
+___CHOICE___
+Investigate
+Throw a \c[2]Stone\c[0] to the pit
+Climb down
+Leave
+____TEXT____
+It's pitch black down there. There is definitely something
+living in the close proximity judging from the growls and
+moans.
+____TEXT____
+The stone hits something fairly close-by. But the drop
+does seem a bit daunting...
+____TEXT____
+A smell of gore eminates from below. You can hear faint sounds
+of growling and moaning too...
+___CHOICE___
+Investigate
+Climb down
+Leave
+____TEXT____
+It's pitch black down there. There is definitely something
+living in the close proximity judging from the growls and
+moans.
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Well hello again stranger~!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"It hasn't even been that long, has it my friend?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"There has been something bothering me lately. You 
+wouldn't mind if we had a little one-on-one time together, 
+would you?"
+___CHOICE___
+"Not at all. What is bothering you?"
+"Actually I would rather not."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I have been thinking about happiness."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Tell me - Are you happy?"
+___CHOICE___
+"Yes."
+"No."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Hooo~ you do? This is the most surprising!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I feel like so many people lose the sight of happiness
+once they grow out of their naive little views of the world
+they had as younglings."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"But perhaps it is possible to feel like that, even as 
+someone as old as you."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Hmmm... Yes. That is unfortunately the typical answer."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Every day we strive to make our lives better, but almost
+as a curse, we are destined to repeat the same cycle of
+doom and gloom."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I don't want to sound too cold or anything, my friend,
+but..."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I would like to say I feel sorry for you. I would LIKE TO.
+But that's what everyone keeps saying so no use going that
+path."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Personally I find happiness almost unreachable.
+As depressing as that may sound haha."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Hah - that's just my nervous laughter. Please ignore it.
+I just mask my true feelings with it. Kinda like with this
+wooden mask of mine as well."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Happiness sounds like a state that stays with you.
+It's not just a fleeting moment."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"If you are truly happy - You should feel it lingering in
+the background, even in your darkest hour."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"At least that's what I believe really."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Many mistake happiness with joy."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Joy is something you might feel briefly when you kiss
+a boy or a girl for the first time."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"You can feel joy when you are spending an evening with
+a close friend - drinking wine in the candlelight. Slowly
+one of you reaches out with his leg under the table..."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"But joy is just temporary. It's just a faint light in the
+darkness to remind you that not everything is necessarily
+surrounded by bleak emptiness."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"That is the difference between happiness and joy."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Since you were a child of light, I imagine that you might
+actually be able to feel true happiness too."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I envy you. Believe me, old chap. I really envy you."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Since you were a child of darkness, I imagine you agree
+when I say that we don't get the luxury of happiness."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"We only know brief joy every now and then, but even that
+is getting more rare every day."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"But yeah! That's just my two cents. It's good to say
+these things out loud every now and then."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Makes it easier to process all these mixed feelings and
+voices inside the head, you know?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Anyways, let's get back to business! This has been very
+unprofessional of me, I apologise!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Oh I see! It's totally fine!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I mean, even if I already feel this deep connection 
+between us - It doesn't necessarily mean you share the 
+same emotions."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Don't worry, I'm not hurt or anything. It's good you're
+so straight and honest with me."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Well hello stranger~!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"..."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"And hello~ little one!!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"What a pretty little face you are! I like your hips
+and ankles especially!"
+____TEXT____
+\c[7]Girl\c[0]
+"..."
+____TEXT____
+The girl seems to be scared of Pocketcat.
+____TEXT____
+\c[7]Pocketcat\c[0]
+"How about I make an offer you cannot refuse!
+Just for you, my special customer~"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I will trade the little girl to an item of your
+choosing!"
+___CHOICE___
+\c[2]Claymore\c[0]
+\c[2]Book of enlightment\c[0]
+No deal
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade the little girl for \c[2]Claymore\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade the little girl for \c[2]Book of enlightment\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"O-oh. How disapointing. Y-you sure about this?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"The offer lasts! Come back if you change your mind!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I will trade the little girl to an item of your
+choosing!"
+___CHOICE___
+\c[2]Claymore\c[0]
+\c[2]Book of forgotten memories\c[0]
+\c[2]Book of enlightment\c[0]
+No deal
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade the little girl for \c[2]Claymore\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade the little girl for \c[2]Book of the forgotten
+memories\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade the little girl for \c[2]Book of enlightment\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"O-oh. How disapointing. Y-you sure about this?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"The offer lasts! Come back if you change your mind!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I will trade the little girl to an item of your
+choosing!"
+___CHOICE___
+\c[2]Claymore\c[0]
+\c[2]Necronomicon\c[0]
+\c[2]Book of enlightment\c[0]
+No deal
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade the little girl for \c[2]Claymore\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade the little girl for \c[2]Ancient book\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade the little girl for \c[2]Book of enlightment\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"O-oh. How disapointing. Y-you sure about this?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"The offer lasts! Come back if you change your mind!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I will trade the little girl to an item of your
+choosing!"
+___CHOICE___
+\c[2]Claymore\c[0]
+\c[2]Necronomicon\c[0]
+\c[2]Book of forgotten memories\c[0]
+\c[2]Book of enlightment\c[0]
+No deal
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade the little girl for \c[2]Claymore\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade the little girl for \c[2]Ancient book\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade the little girl for \c[2]Book of the forgotten
+memories\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade the little girl for \c[2]Book of enlightment\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"O-oh. How disapointing. Y-you sure about this?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"The offer lasts! Come back if you change your mind!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Well hello stranger~!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"..."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"And hello~ little one!!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"What a peculiar little creature you are!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Am I imagining things or do you share features with this
+caretaker of yours?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Is she your momma by any chance?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Is he your daddy by any chance?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I'd like to be your daddy too..."
+____TEXT____
+\N[8] doesn't seem to react to Pocketcat in any way.
+____TEXT____
+\c[7]Pocketcat\c[0]
+"How about I make an offer you cannot refuse!
+Just for you, my special customer~"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I will trade the little rascal to an item of your
+choosing!"
+___CHOICE___
+\c[2]Claymore\c[0]
+\c[2]Book of enlightment\c[0]
+No deal
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade \N[8] for \c[2]Claymore\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade \N[8] for \c[2]Book of enlightment\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"O-oh. How disapointing. Y-you sure about this?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"The offer lasts! Come back if you change your mind!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I will trade the little rascal to an item of your
+choosing!"
+___CHOICE___
+\c[2]Claymore\c[0]
+\c[2]Book of forgotten memories\c[0]
+\c[2]Book of enlightment\c[0]
+No deal
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade \N[8] for \c[2]Claymore\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade \N[8] for \c[2]Book of the forgotten
+memories\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade \N[8] for \c[2]Book of enlightment\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"O-oh. How disapointing. Y-you sure about this?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"The offer lasts! Come back if you change your mind!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I will trade the little rascal to an item of your
+choosing!"
+___CHOICE___
+\c[2]Claymore\c[0]
+\c[2]Necronomicon\c[0]
+\c[2]Book of enlightment\c[0]
+No deal
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade \N[8] for \c[2]Claymore\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade \N[8] for \c[2]Ancient book\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade \N[8] for \c[2]Book of enlightment\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"O-oh. How disapointing. Y-you sure about this?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"The offer lasts! Come back if you change your mind!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I will trade the little rascal to an item of your
+choosing!"
+___CHOICE___
+\c[2]Claymore\c[0]
+\c[2]Necronomicon\c[0]
+\c[2]Book of forgotten memories\c[0]
+\c[2]Book of enlightment\c[0]
+No deal
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade \N[8] for \c[2]Claymore\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade \N[8] for \c[2]Ancient book\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade \N[8] for \c[2]Book of the forgotten
+memories\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade \N[8] for \c[2]Book of enlightment\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"O-oh. How disapointing. Y-you sure about this?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"The offer lasts! Come back if you change your mind!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Well hello stranger~!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"..."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I'm not seeing any children with you..."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Well hello stranger~!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"..."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"And hello~ little one!!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"What a peculiar little creature you are!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Am I imagining things or do you share features with this
+caretaker of yours?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Is she your momma by any chance?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Is he your daddy by any chance?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I'd like to be your daddy too..."
+____TEXT____
+\N[8] doesn't seem to react to Pocketcat in any way.
+____TEXT____
+\c[7]Pocketcat\c[0]
+"How about I make an offer you cannot refuse!
+Just for you, my special customer~"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I will trade the little rascal to an item of your
+choosing!"
+___CHOICE___
+\c[2]Claymore\c[0]
+\c[2]Book of enlightment\c[0]
+No deal
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade \N[8] for \c[2]Claymore\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade \N[8] for \c[2]Book of enlightment\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"O-oh. How disapointing. Y-you sure about this?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"The offer lasts! Come back if you change your mind!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I will trade the little rascal to an item of your
+choosing!"
+___CHOICE___
+\c[2]Claymore\c[0]
+\c[2]Book of forgotten memories\c[0]
+\c[2]Book of enlightment\c[0]
+No deal
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade \N[8] for \c[2]Claymore\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade \N[8] for \c[2]Book of the forgotten
+memories\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade \N[8] for \c[2]Book of enlightment\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"O-oh. How disapointing. Y-you sure about this?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"The offer lasts! Come back if you change your mind!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I will trade the little rascal to an item of your
+choosing!"
+___CHOICE___
+\c[2]Claymore\c[0]
+\c[2]Necronomicon\c[0]
+\c[2]Book of enlightment\c[0]
+No deal
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade \N[8] for \c[2]Claymore\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade \N[8] for \c[2]Ancient book\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade \N[8] for \c[2]Book of enlightment\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"O-oh. How disapointing. Y-you sure about this?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"The offer lasts! Come back if you change your mind!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I will trade the little rascal to an item of your
+choosing!"
+___CHOICE___
+\c[2]Claymore\c[0]
+\c[2]Necronomicon\c[0]
+\c[2]Book of forgotten memories\c[0]
+\c[2]Book of enlightment\c[0]
+No deal
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade \N[8] for \c[2]Claymore\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade \N[8] for \c[2]Ancient book\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade \N[8] for \c[2]Book of the forgotten
+memories\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade \N[8] for \c[2]Book of enlightment\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"O-oh. How disapointing. Y-you sure about this?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"The offer lasts! Come back if you change your mind!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Well hello stranger~!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I'm enjoying our little deal. I really am, believe me~"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"If you find any other children, please let's make
+business again, yes?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"My pockets are real deep, you see."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Well hello stranger~!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"..."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"And hello~ little one!!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"What a pretty little face you are! I like your hips
+and ankles especially!"
+____TEXT____
+\c[7]Girl\c[0]
+"..."
+____TEXT____
+The girl seems to be scared of Pocketcat.
+____TEXT____
+\c[7]Pocketcat\c[0]
+"How about I make an offer you cannot refuse!
+Just for you, my special customer~"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I will trade the little girl to an item of your
+choosing!"
+___CHOICE___
+\c[2]Claymore\c[0]
+\c[2]Book of enlightment\c[0]
+No deal
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade the little girl for \c[2]Claymore\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade the little girl for \c[2]Book of enlightment\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"O-oh. How disapointing. Y-you sure about this?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"The offer lasts! Come back if you change your mind!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I will trade the little girl to an item of your
+choosing!"
+___CHOICE___
+\c[2]Claymore\c[0]
+\c[2]Book of forgotten memories\c[0]
+\c[2]Book of enlightment\c[0]
+No deal
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade the little girl for \c[2]Claymore\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade the little girl for \c[2]Book of the forgotten
+memories\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade the little girl for \c[2]Book of enlightment\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"O-oh. How disapointing. Y-you sure about this?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"The offer lasts! Come back if you change your mind!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I will trade the little girl to an item of your
+choosing!"
+___CHOICE___
+\c[2]Claymore\c[0]
+\c[2]Necronomicon\c[0]
+\c[2]Book of enlightment\c[0]
+No deal
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade the little girl for \c[2]Claymore\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade the little girl for \c[2]Ancient book\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade the little girl for \c[2]Book of enlightment\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"O-oh. How disapointing. Y-you sure about this?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"The offer lasts! Come back if you change your mind!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I will trade the little girl to an item of your
+choosing!"
+___CHOICE___
+\c[2]Claymore\c[0]
+\c[2]Necronomicon\c[0]
+\c[2]Book of forgotten memories\c[0]
+\c[2]Book of enlightment\c[0]
+No deal
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade the little girl for \c[2]Claymore\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade the little girl for \c[2]Ancient book\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade the little girl for \c[2]Book of the forgotten
+memories\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Excellent!"
+____TEXT____
+You trade the little girl for \c[2]Book of enlightment\c[0]!
+____TEXT____
+\c[7]Pocketcat\c[0]
+"O-oh. How disapointing. Y-you sure about this?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"The offer lasts! Come back if you change your mind!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Well hello stranger~!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I'm enjoying our little deal. I really am, believe me~"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"If you find any other children, please let's make
+business again, yes?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"My pockets are real deep, you see."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"You drive a hard bargain my friend. But so do I. So do I~"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"If you find any other children, please let's make
+business again, yes?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"My pockets are real deep, you see."
+____TEXT____
+\c[7]Girl\c[0]
+"...."
+____TEXT____
+The girl is trembling...
+____TEXT____
+\c[7]\N[8]\c[0]
+"...."
+____TEXT____
+\N[8] seems more distant than before. As if he's trying
+to supress some memories...
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+You already searched this crate.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+You already searched this crate.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+You already searched this crate.
+____TEXT____
+You search the barrel for anything useful...
+____TEXT____
+You already searched this barrel.
+____TEXT____
+You search the barrel for anything useful...
+____TEXT____
+You already searched this barrel.
+____TEXT____
+You could just turn away and not take part in this...
+____TEXT____
+You could just turn away and not take part in this...
+____TEXT____
+You could jump down from here...
+___CHOICE___
+Jump
+Leave
+____TEXT____
+You could jump down from here...
+___CHOICE___
+Jump
+Leave
+<follower touch>
+<follower touch>
+<follower touch>
+<follower touch>
+<follower touch>
+<follower touch>
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the crow.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead guard.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The Crow Mauler is down...
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+Crow Mauler only carries \c[2]Crow emblem key\c[0] with
+him.
+____TEXT____
+You see no point in skinning the Crow Mauler.
+____TEXT____
+The Crow Mauler is down...
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+Crow Mauler only carries \c[2]Crow emblem key\c[0] with
+him.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the crow.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead guard.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The Crow Mauler is down...
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+Crow Mauler has nothing of worth.
+____TEXT____
+You see no point in skinning the Crow Mauler.
+____TEXT____
+The Crow Mauler is down...
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+Crow Mauler has nothing of worth.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+A pile of flesh remains here...
+____TEXT____
+Here lies \N[19]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[20]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[21]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+The minecart is full of rocks and rubble.
+___CHOICE___
+Take a stone
+Leave
+____TEXT____
+You take a \c[2]Stone\c[0].
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+An empty minecart. It's gathering rust in the humidity of
+these mines...
+____TEXT____
+An empty minecart. It's gathering rust in the humidity of
+these mines...
+____TEXT____
+The cavedweller notices your crown...
+____TEXT____
+The cavedweller just stands here guarding the area.
+It's eyes seem especially vigilant. It's acting very
+suspiciously next to you.
+___CHOICE___
+"Hello."
+"What is this place?"
+"Who are you?"
+Attack the dweller
+Leave
+____TEXT____
+The cavedweller doesn't react to your talk.
+____TEXT____
+The cavedweller doesn't react to your talk.
+____TEXT____
+The cavedweller doesn't react to your talk.
+<follower touch>
+____TEXT____
+The cavedweller is kneeling before you.
+___CHOICE___
+"There is no need for this."
+"Acknowledge your king."
+<follower touch>
+<follower touch>
+<follower touch>
+<follower touch>
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead dweller.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead cavedweller.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The dweller is down...
+___CHOICE___
+Beat him
+Search him
+Leave
+____TEXT____
+No reaction. The creature appears to be surprisingly
+muscular...
+____TEXT____
+You take dweller's \c[2]Ritual spear\c[0] with you.
+The hilt of the spear is marked with primal carvings.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead dweller.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead cavedweller.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The dweller is down...
+___CHOICE___
+Beat him
+Search him
+Leave
+____TEXT____
+No reaction. The creature appears to be surprisingly
+muscular...
+____TEXT____
+The dweller has nothing of value.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead dweller.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead cavedweller.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The dweller is down...
+___CHOICE___
+Beat him
+Search him
+Leave
+____TEXT____
+No reaction. The creature appears to be surprisingly
+muscular...
+____TEXT____
+The dweller has nothing of value.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+A pile of flesh remains here...
+____TEXT____
+You could plant \c[2]Small seeds\c[0] in the soil here.
+___CHOICE___
+Plant \c[2]Small seeds\c[0]
+Leave
+____TEXT____
+There is something growing in the soil...
+____TEXT____
+There is \c[2]Cave moss\c[0] growing here.
+____TEXT____
+You take \c[2]Cave moss\c[0] growing here.
+____TEXT____
+You could plant \c[2]Small seeds\c[0] in the soil here.
+___CHOICE___
+Plant \c[2]Small seeds\c[0]
+Leave
+____TEXT____
+There is something growing in the soil...
+____TEXT____
+There is \c[2]Cave moss\c[0] growing here.
+____TEXT____
+You take \c[2]Cave moss\c[0] growing here.
+____TEXT____
+You could plant \c[2]Small seeds\c[0] in the soil here.
+___CHOICE___
+Plant \c[2]Small seeds\c[0]
+Leave
+____TEXT____
+There is something growing in the soil...
+____TEXT____
+There is \c[2]Cave moss\c[0] growing here.
+____TEXT____
+You take \c[2]Cave moss\c[0] growing here.
+____TEXT____
+You could plant \c[2]Small seeds\c[0] in the soil here.
+___CHOICE___
+Plant \c[2]Small seeds\c[0]
+Leave
+____TEXT____
+There is something growing in the soil...
+____TEXT____
+There is \c[2]Cave moss\c[0] growing here.
+____TEXT____
+You take \c[2]Cave moss\c[0] growing here.
+____TEXT____
+You could plant \c[2]Small seeds\c[0] in the soil here.
+___CHOICE___
+Plant \c[2]Small seeds\c[0]
+Leave
+____TEXT____
+There is something growing in the soil...
+____TEXT____
+There is \c[2]Cave moss\c[0] growing here.
+____TEXT____
+You take \c[2]Cave moss\c[0] growing here.
+____TEXT____
+You could plant \c[2]Small seeds\c[0] in the soil here.
+___CHOICE___
+Plant \c[2]Small seeds\c[0]
+Leave
+____TEXT____
+There is something growing in the soil...
+____TEXT____
+There is \c[2]Cave moss\c[0] growing here.
+____TEXT____
+You take \c[2]Cave moss\c[0] growing here.
+____TEXT____
+You could plant \c[2]Small seeds\c[0] in the soil here.
+___CHOICE___
+Plant \c[2]Small seeds\c[0]
+Leave
+____TEXT____
+There is something growing in the soil...
+____TEXT____
+There is \c[2]Cave moss\c[0] growing here.
+____TEXT____
+You take \c[2]Cave moss\c[0] growing here.
+____TEXT____
+You could plant \c[2]Small seeds\c[0] in the soil here.
+___CHOICE___
+Plant \c[2]Small seeds\c[0]
+Leave
+____TEXT____
+There is something growing in the soil...
+____TEXT____
+There is \c[2]Cave moss\c[0] growing here.
+____TEXT____
+You take \c[2]Cave moss\c[0] growing here.
+____TEXT____
+You could plant \c[2]Small seeds\c[0] in the soil here.
+___CHOICE___
+Plant \c[2]Small seeds\c[0]
+Leave
+____TEXT____
+There is something growing in the soil...
+____TEXT____
+There is \c[2]Cave moss\c[0] growing here.
+____TEXT____
+You take \c[2]Cave moss\c[0] growing here.
+____TEXT____
+You could plant \c[2]Small seeds\c[0] in the soil here.
+___CHOICE___
+Plant \c[2]Small seeds\c[0]
+Leave
+____TEXT____
+There is something growing in the soil...
+____TEXT____
+There is \c[2]Cave moss\c[0] growing here.
+____TEXT____
+You take \c[2]Cave moss\c[0] growing here.
+____TEXT____
+You could plant \c[2]Small seeds\c[0] in the soil here.
+___CHOICE___
+Plant \c[2]Small seeds\c[0]
+Leave
+____TEXT____
+There is something growing in the soil...
+____TEXT____
+There is \c[2]Cave moss\c[0] growing here.
+____TEXT____
+You take \c[2]Cave moss\c[0] growing here.
+____TEXT____
+You could plant \c[2]Small seeds\c[0] in the soil here.
+___CHOICE___
+Plant \c[2]Small seeds\c[0]
+Leave
+____TEXT____
+There is something growing in the soil...
+____TEXT____
+There is \c[2]Cave moss\c[0] growing here.
+____TEXT____
+You take \c[2]Cave moss\c[0] growing here.
+____TEXT____
+You could plant \c[2]Small seeds\c[0] in the soil here.
+___CHOICE___
+Plant \c[2]Small seeds\c[0]
+Leave
+____TEXT____
+There is something growing in the soil...
+____TEXT____
+There is \c[2]Cave moss\c[0] growing here.
+____TEXT____
+You take \c[2]Cave moss\c[0] growing here.
+____TEXT____
+You could plant \c[2]Small seeds\c[0] in the soil here.
+___CHOICE___
+Plant \c[2]Small seeds\c[0]
+Leave
+____TEXT____
+There is something growing in the soil...
+____TEXT____
+There is \c[2]Cave moss\c[0] growing here.
+____TEXT____
+You take \c[2]Cave moss\c[0] growing here.
+____TEXT____
+There are human heads impaled on a tribal spear. The heads
+are aligned in a way that is meant to intimidate passerbys.
+____TEXT____
+There are human heads impaled on a tribal spear. The heads
+are aligned in a way that is meant to intimidate passerbys.
+____TEXT____
+There is a human head impaled on a tribal spear. The head
+is aligned in a way that is meant to intimidate passerbys.
+____TEXT____
+There is a human head impaled on a tribal spear. The head
+is aligned in a way that is meant to intimidate passerbys.
+____TEXT____
+There are human heads impaled on a tribal spear. The heads
+are aligned in a way that is meant to intimidate passerbys.
+____TEXT____
+There are human heads impaled on a tribal spear. The heads
+are aligned in a way that is meant to intimidate passerbys.
+____TEXT____
+There are human heads impaled on a tribal spear. The heads
+are aligned in a way that is meant to intimidate passerbys.
+____TEXT____
+There is a human head impaled on a tribal spear. The head
+is aligned in a way that is meant to intimidate passerbys.
+____TEXT____
+There is a human head impaled on a tribal spear. The head
+is aligned in a way that is meant to intimidate passerbys.
+____TEXT____
+There is a human head impaled on a tribal spear. The head
+is aligned in a way that is meant to intimidate passerbys.
+____TEXT____
+There is a human head impaled on a tribal spear. The head
+is aligned in a way that is meant to intimidate passerbys.
+____TEXT____
+There is a human head impaled on a tribal spear. The head
+is aligned in a way that is meant to intimidate passerbys.
+____TEXT____
+There is a human head impaled on a tribal spear. The head
+is aligned in a way that is meant to intimidate passerbys.
+____TEXT____
+There is a human head impaled on a tribal spear. The head
+is aligned in a way that is meant to intimidate passerbys.
+____TEXT____
+There is a human head impaled on a tribal spear. The head
+is aligned in a way that is meant to intimidate passerbys.
+____TEXT____
+There are human heads impaled on a tribal spear. The heads
+are aligned in a way that is meant to intimidate passerbys.
+____TEXT____
+There are human heads impaled on a tribal spear. The heads
+are aligned in a way that is meant to intimidate passerbys.
+<follower touch>
+<follower touch>
+<follower touch>
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead guard.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead guard.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+You take moonless guard's \c[2]Meat cleaver\c[0] with you. 
+It's still sweaty and damp.
+____TEXT____
+You took \c[2]Pale skin\c[0]!
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+You take moonless guard's \c[2]Meat cleaver\c[0] with you. 
+It's still sweaty and damp.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead guard.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead guard.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+You already searched him.
+____TEXT____
+You took \c[2]Pale skin\c[0]!
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+You already searched him.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+A pile of flesh remains here...
+<follower touch>
+<follower touch>
+<follower touch>
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead guard.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead guard.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+You take moonless guard's \c[2]Meat cleaver\c[0] with you. 
+It's still sweaty and damp.
+____TEXT____
+You took \c[2]Pale skin\c[0]!
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+You take moonless guard's \c[2]Meat cleaver\c[0] with you. 
+It's still sweaty and damp.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead guard.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead guard.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+You already searched him.
+____TEXT____
+You took \c[2]Pale skin\c[0]!
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+You already searched him.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed it's appearance.
+The stone is radiating faint blue light.
+____TEXT____
+A pile of flesh remains here...
