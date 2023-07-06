@@ -1,38 +1,34 @@
 import 'dart:convert';
 import 'dart:io';
 
-void main() {
-  final specificFileName = ''; // Specify the file name if you only want to run a specific file`
-  final translationCode = 'en'; // ISO 639-1 codes
+Future<void> main() async {
+  final specificFileName = ''; // Specify the file name if you only want to run a specific file
+  final translationCode = 'en-US'; // ISO 639-1 codes
   final generateTranslationsFile = true;
 
   final translationsDirectory = 'translations/$translationCode';
   final outputDirectory = 'output';
 
-  void processFile(String fileName) {
-    final filePath = 'data/$fileName.json';
-    final translationsFile = '$translationsDirectory/$fileName.txt';
-    final outputFilePath = '$outputDirectory/$fileName.json';
-
-    final messageProcessor = MessageProcessor(
-      generateTranslationsFile,
-      translationsFile,
-      outputFilePath,
-    );
-    messageProcessor.processJsonFile(filePath);
-  }
-
-  Directory(translationsDirectory).createSync(recursive: true);
-  Directory(outputDirectory).createSync(recursive: true);
+  await Directory(translationsDirectory).create(recursive: true);
+  await Directory(outputDirectory).create(recursive: true);
 
   if (specificFileName.isEmpty) {
     final nameFiles = List.generate(186, (index) => 'Map${(index + 1).toString().padLeft(3, '0')}');
-    for (final nameFile in nameFiles) {
-      processFile(nameFile);
-    }
+    await Future.forEach(nameFiles, (nameFile) async {
+      await processFile(nameFile, generateTranslationsFile, translationsDirectory, outputDirectory);
+    });
   } else {
-    processFile(specificFileName);
+    await processFile(specificFileName, generateTranslationsFile, translationsDirectory, outputDirectory);
   }
+}
+
+Future<void> processFile(String fileName, bool generateTranslationsFile, String translationsDirectory, String outputDirectory) async {
+  final filePath = 'data2/$fileName.json';
+  final translationsFile = '$translationsDirectory/$fileName.txt';
+  final outputFilePath = '$outputDirectory/$fileName.json';
+
+  final messageProcessor = MessageProcessor(generateTranslationsFile, translationsFile, outputFilePath);
+  await messageProcessor.processJsonFile(filePath);
 }
 
 class MessageProcessor {
@@ -40,23 +36,19 @@ class MessageProcessor {
   final String translationsFile;
   final String outputDirectory;
   int translationIndex = 0;
-  bool emptyTranslationFile = false;
+  bool emptyTranslationFile = true;
   List<String> translatedStrings = [];
 
-  MessageProcessor(
-    this.generateTranslationsFile,
-    this.translationsFile,
-    this.outputDirectory,
-  );
+  MessageProcessor(this.generateTranslationsFile, this.translationsFile, this.outputDirectory);
 
-  void processJsonFile(String filePath) {
+  Future<void> processJsonFile(String filePath) async {
     final file = File(filePath);
-    if (!file.existsSync()) {
+    if (!await file.exists()) {
       print('The file $filePath does not exist.');
       return;
     }
 
-    final fileContent = file.readAsStringSync();
+    final fileContent = await file.readAsString();
     final jsonData = json.decode(fileContent);
 
     if (jsonData is Map<String, dynamic>) {
@@ -64,7 +56,7 @@ class MessageProcessor {
       final updatedJsonContent = json.encode(jsonData);
       if (generateTranslationsFile && !emptyTranslationFile) {
         final outputFile = File(outputDirectory);
-        outputFile.writeAsStringSync(updatedJsonContent);
+        await outputFile.writeAsString(updatedJsonContent);
       }
     }
   }
@@ -161,14 +153,12 @@ class MessageProcessor {
         final translationsFile = File(this.translationsFile);
         if (!translationsFile.existsSync()) {
           translationsFile.createSync(recursive: true);
-          emptyTranslationFile = true;
         } else {
           final existingTranslations = translationsFile.readAsStringSync();
           if (existingTranslations.isNotEmpty) {
             final existingLines = existingTranslations.split('\n');
             translatedStrings.addAll(existingLines);
-          } else {
-            emptyTranslationFile = true;
+            emptyTranslationFile = false;
           }
         }
       }
