@@ -1,0 +1,635 @@
+____TEXT____
+Moonless is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[6]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[5]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[4]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[3]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[1]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Your child is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"This is the god of the depths."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"She loves those rejected and forsaken as she is herself
+very different from the rest of the older gods."
+____TEXT____
+The girl is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+The stone has a heavy aura to it. It's almost too much
+for you to carry...
+____TEXT____
+Here lies \N[16]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[17]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[18]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+MERCENARY
+KNIGHT
+CAPTAIN
+OUTLANDER
+MARRIAGE
+____TEXT____
+Here lies \N[19]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[20]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[21]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+There are human heads impaled on a tribal spear. The heads
+are aligned in a way that is meant to intimidate passerbys.
+____TEXT____
+There is a human head impaled on a tribal spear. The head
+is aligned in a way that is meant to intimidate passerbys.
+____TEXT____
+There is a human head impaled on a tribal spear. The head
+is aligned in a way that is meant to intimidate passerbys.
+____TEXT____
+There is a human head impaled on a tribal spear. The head
+is aligned in a way that is meant to intimidate passerbys.
+____TEXT____
+There is a human head impaled on a tribal spear. The head
+is aligned in a way that is meant to intimidate passerbys.
+____TEXT____
+There is a human head impaled on a tribal spear. The head
+is aligned in a way that is meant to intimidate passerbys.
+____TEXT____
+There is a human head impaled on a tribal spear. The head
+is aligned in a way that is meant to intimidate passerbys.
+____TEXT____
+There is a human head impaled on a tribal spear. The head
+is aligned in a way that is meant to intimidate passerbys.
+____TEXT____
+There is a human head impaled on a tribal spear. The head
+is aligned in a way that is meant to intimidate passerbys.
+____TEXT____
+There is a human head impaled on a tribal spear. The head
+is aligned in a way that is meant to intimidate passerbys.
+____TEXT____
+There is a human head impaled on a tribal spear. The head
+is aligned in a way that is meant to intimidate passerbys.
+____TEXT____
+A huge creature is lying here dormant...
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"This is the god of the depths."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"She loves those rejected and forsaken as she is herself
+very different from the rest of the older gods."
+____TEXT____
+The huge creature is lying here with its mouth gaping
+open.
+____TEXT____
+It looks like there are ladders set here...
+___CHOICE___
+Climb down
+Investigate
+Leave
+____TEXT____
+It's pitch black down there. The smell is repulsive in a
+way you cannot even begin to describe.
+____TEXT____
+A huge creature is lying here dormant...
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"This is the god of the depths."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"She loves those rejected and forsaken as she is herself
+very different from the rest of the older gods."
+____TEXT____
+The huge creature is lying here with its mouth gaping
+open.
+____TEXT____
+It looks like there are ladders set here...
+___CHOICE___
+Climb down
+Investigate
+Leave
+____TEXT____
+It's pitch black down there. The smell is repulsive in a
+way you cannot even begin to describe.
+____TEXT____
+A huge creature is lying here dormant...
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"This is the god of the depths."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"She loves those rejected and forsaken as she is herself
+very different from the rest of the older gods."
+____TEXT____
+The huge creature is lying here with its mouth gaping
+open.
+____TEXT____
+It looks like there are ladders set here...
+___CHOICE___
+Climb down
+Investigate
+Leave
+____TEXT____
+It's pitch black down there. The smell is repulsive in a
+way you cannot even begin to describe.
+____TEXT____
+A huge creature is lying here dormant...
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"This is the god of the depths."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"She loves those rejected and forsaken as she is herself
+very different from the rest of the older gods."
+____TEXT____
+A huge creature is lying here dormant...
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"This is the god of the depths."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"She loves those rejected and forsaken as she is herself
+very different from the rest of the older gods."
+____TEXT____
+The huge creature is lying here with its mouth gaping
+open.
+____TEXT____
+It looks like there are ladders set here...
+___CHOICE___
+Climb down
+Investigate
+Leave
+____TEXT____
+It's pitch black down there. The smell is repulsive in a
+way you cannot even begin to describe.
+____TEXT____
+A huge creature is lying here dormant...
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"This is the god of the depths."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"She loves those rejected and forsaken as she is herself
+very different from the rest of the older gods."
+____TEXT____
+A huge creature is lying here dormant...
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"This is the god of the depths."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"She loves those rejected and forsaken as she is herself
+very different from the rest of the older gods."
+____TEXT____
+The huge creature is lying here with its mouth gaping
+open.
+____TEXT____
+It looks like there are ladders set here...
+___CHOICE___
+Climb down
+Investigate
+Leave
+____TEXT____
+It's pitch black down there. The smell is repulsive in a
+way you cannot even begin to describe.
+____TEXT____
+A huge creature is lying here dormant...
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"This is the god of the depths."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"She loves those rejected and forsaken as she is herself
+very different from the rest of the older gods."
+____TEXT____
+The huge creature is lying here with its mouth gaping
+open.
+____TEXT____
+It looks like there are ladders set here...
+___CHOICE___
+Climb down
+Investigate
+Leave
+____TEXT____
+It's pitch black down there. The smell is repulsive in a
+way you cannot even begin to describe.
+____TEXT____
+A huge creature is lying here dormant...
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"This is the god of the depths."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"She loves those rejected and forsaken as she is herself
+very different from the rest of the older gods."
+____TEXT____
+The huge creature is lying here with its mouth gaping
+open.
+____TEXT____
+It looks like there are ladders set here...
+___CHOICE___
+Climb down
+Investigate
+Leave
+____TEXT____
+It's pitch black down there. The smell is repulsive in a
+way you cannot even begin to describe.
+____TEXT____
+A huge creature is lying here dormant...
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"This is the god of the depths."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"She loves those rejected and forsaken as she is herself
+very different from the rest of the older gods."
+____TEXT____
+The huge creature is lying here with its mouth gaping
+open.
+____TEXT____
+It looks like there are ladders set here...
+___CHOICE___
+Climb down
+Investigate
+Leave
+____TEXT____
+It's pitch black down there. The smell is repulsive in a
+way you cannot even begin to describe.
+____TEXT____
+A huge creature is lying here dormant...
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"This is the god of the depths."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"She loves those rejected and forsaken as she is herself
+very different from the rest of the older gods."
+____TEXT____
+The huge creature is lying here with its mouth gaping
+open.
+____TEXT____
+It looks like there are ladders set here...
+___CHOICE___
+Climb down
+Investigate
+Leave
+____TEXT____
+It's pitch black down there. The smell is repulsive in a
+way you cannot even begin to describe.
+____TEXT____
+A huge creature is lying here dormant...
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"This is the god of the depths."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"She loves those rejected and forsaken as she is herself
+very different from the rest of the older gods."
+____TEXT____
+The huge creature is lying here with its mouth gaping
+open.
+____TEXT____
+It looks like there are ladders set here...
+___CHOICE___
+Climb down
+Investigate
+Leave
+____TEXT____
+It's pitch black down there. The smell is repulsive in a
+way you cannot even begin to describe.
+____TEXT____
+A huge creature is lying here dormant...
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"This is the god of the depths."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"She loves those rejected and forsaken as she is herself
+very different from the rest of the older gods."
+____TEXT____
+The huge creature is lying here with its mouth gaping
+open.
+____TEXT____
+It looks like there are ladders set here...
+___CHOICE___
+Climb down
+Investigate
+Leave
+____TEXT____
+It's pitch black down there. The smell is repulsive in a
+way you cannot even begin to describe.
+____TEXT____
+A huge creature is lying here dormant...
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"This is the god of the depths."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"She loves those rejected and forsaken as she is herself
+very different from the rest of the older gods."
+____TEXT____
+The huge creature is lying here with its mouth gaping
+open.
+____TEXT____
+It looks like there are ladders set here...
+___CHOICE___
+Climb down
+Investigate
+Leave
+____TEXT____
+It's pitch black down there. The smell is repulsive in a
+way you cannot even begin to describe.
+____TEXT____
+A huge creature is lying here dormant...
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"This is the god of the depths."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"She loves those rejected and forsaken as she is herself
+very different from the rest of the older gods."
+____TEXT____
+The huge creature is lying here with its mouth gaping
+open.
+____TEXT____
+It looks like there are ladders set here...
+___CHOICE___
+Climb down
+Investigate
+Leave
+____TEXT____
+It's pitch black down there. The smell is repulsive in a
+way you cannot even begin to describe.
+____TEXT____
+A huge creature is lying here dormant...
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"This is the god of the depths."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"She loves those rejected and forsaken as she is herself
+very different from the rest of the older gods."
+____TEXT____
+The huge creature is lying here with its mouth gaping
+open.
+____TEXT____
+It looks like there are ladders set here...
+___CHOICE___
+Climb down
+Investigate
+Leave
+____TEXT____
+It's pitch black down there. The smell is repulsive in a
+way you cannot even begin to describe.
+____TEXT____
+A huge creature is lying here dormant...
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"This is the god of the depths."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"She loves those rejected and forsaken as she is herself
+very different from the rest of the older gods."
+____TEXT____
+The huge creature is lying here with its mouth gaping
+open.
+____TEXT____
+It looks like there are ladders set here...
+___CHOICE___
+Climb down
+Investigate
+Leave
+____TEXT____
+It's pitch black down there. The smell is repulsive in a
+way you cannot even begin to describe.
+____TEXT____
+A huge creature is lying here dormant...
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"This is the god of the depths."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"She loves those rejected and forsaken as she is herself
+very different from the rest of the older gods."
+____TEXT____
+The huge creature is lying here with its mouth gaping
+open.
+____TEXT____
+It looks like there are ladders set here...
+___CHOICE___
+Climb down
+Investigate
+Leave
+____TEXT____
+It's pitch black down there. The smell is repulsive in a
+way you cannot even begin to describe.
+____TEXT____
+A huge creature is lying here dormant...
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"This is the god of the depths."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"She loves those rejected and forsaken as she is herself
+very different from the rest of the older gods."
+____TEXT____
+The huge creature is lying here with its mouth gaping
+open.
+____TEXT____
+It looks like there are ladders set here...
+___CHOICE___
+Climb down
+Investigate
+Leave
+____TEXT____
+It's pitch black down there. The smell is repulsive in a
+way you cannot even begin to describe.
+____TEXT____
+A huge creature is lying here dormant...
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"This is the god of the depths."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"She loves those rejected and forsaken as she is herself
+very different from the rest of the older gods."
+____TEXT____
+The huge creature is lying here with its mouth gaping
+open.
+____TEXT____
+It looks like there are ladders set here...
+___CHOICE___
+Climb down
+Investigate
+Leave
+____TEXT____
+It's pitch black down there. The smell is repulsive in a
+way you cannot even begin to describe.

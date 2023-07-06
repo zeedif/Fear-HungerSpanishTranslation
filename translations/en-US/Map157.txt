@@ -1,0 +1,51 @@
+____TEXT____
+Use \c[2]Tinderbox\c[0] to light the bonfire?
+___CHOICE___
+Yes
+No
+____TEXT____
+The warmth of the bonfire soothes you...
+____TEXT____
+Grill the \c[2]Salmonsnake meat\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+Grill the \c[2]Raw meat\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+Use \c[2]Tinderbox\c[0] to light the bonfire?
+___CHOICE___
+Yes
+No
+____TEXT____
+The warmth of the bonfire soothes you...
+____TEXT____
+Grill the \c[2]Salmonsnake meat\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+Grill the \c[2]Raw meat\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+Use \c[2]Tinderbox\c[0] to light the bonfire?
+___CHOICE___
+Yes
+No
+____TEXT____
+The warmth of the bonfire soothes you...
+____TEXT____
+Grill the \c[2]Salmonsnake meat\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+Grill the \c[2]Raw meat\c[0]?
+___CHOICE___
+Yes
+No

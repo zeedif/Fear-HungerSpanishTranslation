@@ -1,0 +1,501 @@
+unused
+//// PHOBIAS
+____TEXT____
+You were born with the soul of the endless, and you
+yearn for freedom to push your creativity to
+its limits.
+____TEXT____
+Your cunning was put to the test in the harshest possible
+enviroment. You were born and soon abandoned in the capital 
+of the Eastern Sanctuaries - Jettaiah.
+____TEXT____
+You had to choose at a very young age to either become a
+pickpocket, a burglar or try to struggle and lead an honest 
+life...
+___CHOICE___
+Become a pickpocket
+Become a burglar
+Lead an honest life
+____TEXT____
+Your life spent learning thievery certainly didn't go to
+waste. You learned to live with the constant fear and danger
+around you. The crude streets of Jettaiah taught you
+valuable lessons.
+____TEXT____
+You learn \c[2]Steal\c[0].
+____TEXT____
+Your life spent learning thievery certainly didn't go to
+waste. You learned to live with the constant fear and danger
+The crude streets of Jettaiah taught you
+valuable lessons.
+____TEXT____
+You learn \c[2]Lockpicking\c[0].
+____TEXT____
+You struggled through your early life, but managed to get
+by as a merchant of sorts. Your skills of haggling and
+speech improved over the years and you also managed to
+gather some savings.
+____TEXT____
+You get \c[2]30 Silver coins\c[0].
+____TEXT____
+However your endless soul yearned for more...
+You couldn't just become a family man, grow fat and make
+a living as a mere merchant. You were destined for more.
+____TEXT____
+As you grew older you joined up with various mercenary armies
+and learned the dirtiest tricks to stay alive. You were taken
+in by a notorious veteran highwayman and you joined his little
+band of criminals and ex-soldiers.
+____TEXT____
+During one of your many raids, your brigade got ambushed.
+The odds were seriously against you. You could have just 
+abandoned your comrades and kept you life, or you could have
+fought to your last breath...
+___CHOICE___
+Abandon your comrades
+Fight to the last breath
+____TEXT____
+You learn \c[2]Escape plan\c[0].
+____TEXT____
+Not many survived the ambush, but that just meant a bigger cut
+of the mission rewards. You were one of the lucky
+ones.
+____TEXT____
+You get \c[2]30 Silver coins\c[0].
+____TEXT____
+You traveled across the land in your raids and eventually
+settled down in the Kingdom of Rondon where silver was
+loose as long as you were up for getting your knife dirty.
+____TEXT____
+One day you got an ominous task from the officials of the
+kingdom. You are to be paid well in silver if you get the
+captain of a fabled mercenary army out of the dungeons
+of Rondon itself.
+____TEXT____
+From the dungeons of Fear and Hunger. The morbid place has
+been used as a wartime prison by the kingdom and for some
+reason they need an outside sword like yourself to infiltrate
+their very own stronghold.
+____TEXT____
+Something is clearly not right about this mission and you
+have felt nauseua since the the moment you agreed to
+take the job. But you are short on silver and
+the reward is all that matters in the end.
+____TEXT____
+You spent your last night in the kingdom...
+___CHOICE___
+Go drinking and get laid at the brothel
+Stock up food for the mission
+Stock up healing items for the mission
+Rush straight for the mission
+____TEXT____
+You get a \c[2]Wine vial\c[0], a \c[2]Bottle of whiskey\c[0]
+and an \c[2]Ale\c[0].
+____TEXT____
+You also get an itch in your groin area...
+____TEXT____
+You get 3 \c[2]Dried meat\c[0], a \c[2]Moldy bread\c[0] and
+a \c[2]Cheese\c[0].
+____TEXT____
+You get a \c[2]Blue vial\c[0] and 2 \c[2]Cloth fragments\c[0].
+____TEXT____
+You learn \c[2]Dash\c[0].
+____TEXT____
+This really is your biggest job ever. There is a person
+back in the city relying on you to return with riches. You 
+have heard rumors about this place and you are sure that
+there are great treasures hidden somewhere in these ruins...
+____TEXT____
+So even if the mission were to go south for some reason,
+you are not going to return empty handed.
+____TEXT____
+You were born with the soul of the tormented. You are
+destined to struggle in every step you take in life.
+Ultimately this makes you stronger physically and tempers
+your iron will until it rivals that of the gods themselves.
+____TEXT____
+You had a normal childhood in the city of Oldegård with 
+both of your parents always present. Your father taught you 
+in the art of war. The very first step was to choose your 
+weapon...
+___CHOICE___
+Choose bow & arrows
+Choose an axe and shield
+____TEXT____
+You get a \c[2]Short bow\c[0] and 5 \c[2]arrows\c[0].
+____TEXT____
+You get an \c[2]Axe\c[0] and a \c[2]Wooden buckler\c[0].
+____TEXT____
+Winters grew colder and summers shorter, causing
+a great hunger in the north. The fine men of the Oldegård 
+set sails to the unknown west in a desperate attempt to 
+find food and riches to feed their people.
+____TEXT____
+You had grown into your manhood and boarded the ship.
+After months of sailing, the sea saw no end and the crew
+was struggling. Some laid weak under the deck while some
+embraced the cold dark sea.
+____TEXT____
+As the weak met their fate, the rest indulged in the greatest
+sin...
+___CHOICE___
+Devour your fallen comrades
+Don't give in
+____TEXT____
+You learn \c[2]Devour\c[0].
+____TEXT____
+Eventually you lost your mind to the hunger. While the 
+others feasted on the fallen, you cried the night on the 
+deck like a raging wolf.
+____TEXT____
+You learn \c[2]Bloodlust\c[0].
+____TEXT____
+As if the trip wasn't gloomy enough, when you finally found
+land it was something no one in the civilized world could've
+ever imagined. On the very edge of the world you found
+the dark continent of Vinland.
+____TEXT____
+A continent never touched by civilized man.
+The land was tainted by ancient deities and gods you had
+never even heard of. The things you witnessed there left a
+mark on you that could never be washed away.
+____TEXT____
+Some of your comrades lost their minds while others tried to
+pillage anything worthwhile before leaving the macabre place.
+___CHOICE___
+Take souveniers from Vinland
+Don't touch anything and flee back to your ship
+___CHOICE___
+HEADS
+TAILS
+____TEXT____
+You get a \c[2]Soul stone\c[0].
+____TEXT____
+You get a \c[2]Soul stone\c[0].
+____TEXT____
+Unfortunately the relics you brought from the trip were tainted
+and you became fearful of everything around you.
+____TEXT____
+You get a \c[2]Soul stone\c[0].
+____TEXT____
+You get a \c[2]Soul stone\c[0].
+____TEXT____
+Unfortunately the relics you brought from the trip were tainted
+and you became afraid of everything around you.
+____TEXT____
+One artefact taken from the dark continent was different.
+You knew it was a mistake to bring along, but the choice wasn't 
+yours. You knew something bad would follow sooner or 
+later...
+____TEXT____
+The bad omens would soon reveal themselves, as one week after
+your return, after one of your many hunting trips, you came
+back to your village only to witness your worst fears come
+to life.
+____TEXT____
+A mercenary army had raided your village.
+____TEXT____
+You witnessed your home burning, your family slain, 
+and the artefact stolen. Those who survived the raid 
+described the army and its captain.
+____TEXT____
+He was commander of the fabled mercenary army,
+the Knights of the Midnight Sun. You immediately grabbed
+your weapon and began after him.
+____TEXT____
+The man would witness an iron will tempered both in the
+freezing north and the dark continent of Vinland.
+___CHOICE___
+Stock up on equipment
+Stock up on food
+Stock up on healing items
+Rush straight after him
+____TEXT____
+You get 3 \c[2]Iron arrows\c[0] and a \c[2]Bear trap\c[0].
+____TEXT____
+You get a \c[2]Dried meat\c[0], a \c[2]Moldy bread\c[0] and
+3 \c[2]Carrots\c[0].
+____TEXT____
+You get \c[2]4 Blue herbs\c[0], a \c[2]White vial\c[0] and 
+\c[2]2 Cloth fragments\c[0].
+____TEXT____
+You learn \c[2]Dash\c[0].
+____TEXT____
+You learned that the man had since been taken captive by the
+King of Rondon. He was sent to the notorious
+dungeons of Fear & Hunger.
+____TEXT____
+You set your mind - You will kill everything that carries
+a dark soul in the dungeons. You will have your revenge, 
+and the dark artefact will be yours again. There is no
+other way.
+____TEXT____
+You were born with the soul of domination that
+bends others to your will. You are a natural leader,
+but are often blind to your own flaws.
+____TEXT____
+If your birth sign wasn't enough to warrant a future of
+greatness, you were also born into a wealthy noble family.
+At an early age you were sent away to become
+a Holy Knight of the Kingdom of Rondon.
+____TEXT____
+The training was bitterly harsh, and spared no one.
+It did not matter if you were of noble origin.
+____TEXT____
+A practice sparring match between you and a well-seasoned
+squire took place at the central training grounds.
+____TEXT____
+It is said that a fighter shows their true colors in their
+first fight. This applied to you too. When you saw the
+sword coming your way, you...
+___CHOICE___
+Quickly stepped aside and dodged it
+Raised your buckler in defense
+____TEXT____
+You learned \c[2]Fast stance\c[0].
+____TEXT____
+You learned \c[2]Defensive stance\c[0].
+____TEXT____
+As time went on, you proved to be a gifted fighter and
+a valuable asset to the kingdom. However...
+____TEXT____
+The Kingdom of Rondon claimed to follow the will of the
+gods in its many campaigns. But all the rewards
+seemed to fall into the laps of the elites and the nobles
+sitting comfortably behind their castle walls.
+____TEXT____
+Ruthlessly, the kingdom expanded its reach.
+Reducing feeble citadels to ashes and blood stains.
+Enslaving the poor women, killing the men,
+and only sparing children for sport.
+____TEXT____
+Your devotion was shaken. You were all but ready to retire
+from the army, but your family insisted - no, demanded
+you stay a holy knight, lest you bring great
+shame to your noble house.
+___CHOICE___
+Break ties with your family and run away.
+Listen to your family and stay a holy knight.
+____TEXT____
+You don't need your family. 
+You realize they're strangers to you, and you cut
+ties with your family without hesitation.
+____TEXT____
+Just as you were about to flee from the army, things took
+an unexpected turn for you. You met a captain of a small
+mercenary army who seemed to share the same ill-will towards
+the Kingdom of Rondon as you did.
+____TEXT____
+You swallowed your grief and doubt and decided to stay
+a holy knight. You could fix the army's conduct
+from the inside, you naively thought.
+____TEXT____
+Your family thanks you with a gift of \c[2]20 Silver coins\c[0].
+____TEXT____
+Just as things seemed too dark, you saw light in the
+darkness. You met a captain of a small mercenary army who
+seemed to share the same ill-will towards the Kingdom of 
+Rondon as you did.
+____TEXT____
+The common folk were starting to gather around the 
+charismatic leader Le'garde, who shared their humble origin.
+He was hero to farmers and villagers alike. There was
+definitely something otherworldy in his stature.
+____TEXT____
+Le'garde saw potential in you, and with warm words, he
+seduced you into joining his band of mercenaries.
+Thanks to your rigorous discipline, you took a high position 
+in his army, in the Knights of the Midnight Sun.
+____TEXT____
+Your army was quickly growing in both size and influence. 
+At first, the Kingdom of Rondon hired your
+band for their own ends, but before long, they saw you as
+a possible threat to their sovereignty.
+____TEXT____
+Something changed with Le'garde as well. He kept more to
+himself, studying ancient texts and the occult. He became
+obsessed with relics and artefacts that gave you ominous
+feelings and terrible nightmares.
+____TEXT____
+Things would only spiral further towards madness when
+Le'garde decided to raid the northern capital, Oldegård.
+____TEXT____
+Without warning or negotiation, Le'garde ordered the attack.
+All who stood between him and a peculiar, mysterious 
+ancient relic were slaughtered.
+____TEXT____
+It was this final act that was used by 
+the Kingdom of Rondon to turn the commoners against 
+Le'garde and justify his imprisonment.
+____TEXT____
+As the troops of Rondon marched towards your
+clearly smaller army, you had to choose a position
+to take in the coming encounter.
+___CHOICE___
+Take the rear and manage defenses.
+Spearhead the coming assault.
+____TEXT____
+You get a \c[2]Long sword\c[0] and an \c[2]Eagle crest shield\c[0].
+____TEXT____
+You get also get a \c[2]Plate mail\c[0] and \c[2]Leg guards\c[0].
+____TEXT____
+You get an \c[2]Iron spear\c[0].
+____TEXT____
+You get also get a \c[2]Iron cuirass\c[0] and \c[2]Arm guards\c[0].
+____TEXT____
+The Knights of the Midnight Sun lost the fight.
+____TEXT____
+Many of your comrades were slain, but you managed to escape
+the battlefield.
+____TEXT____
+Le'garde was taken captive to be summarily tortured
+and executed as propaganda for the state.
+____TEXT____
+You knew you didn't have much time before he would be
+sentenced to death, so you had to act fast.
+____TEXT____
+Even if it seemed like a suicide mission, you decided to
+save Le'garde from the prisons he was held in.
+____TEXT____
+Before leaving for your desperate journey, you decided
+to stock up on equipment and items...
+___CHOICE___
+Stock up on equipment
+Stock up on food
+Rush straight after him
+____TEXT____
+You get a \c[2]7 Tinderboxes\c[0], a \c[2]Quill\c[0]
+and a \c[2]Blue vial\c[0].
+____TEXT____
+You get 3 \c[2]Dried meat\c[0], a \c[2]Moldy bread\c[0] and
+a \c[2]Cheese\c[0].
+____TEXT____
+You learn \c[2]Dash\c[0].
+____TEXT____
+The dungeons open before you. You won't leave these ruins
+without Le'garde. One way or another, you two will be
+reunited. Even if it requires you to give up
+your principles...or your life.
+____TEXT____
+You were born with the soul of the enlightened. You are
+always seeking restlessly for new knowledge and secrets 
+hidden from the common folk.
+____TEXT____
+You were born one of two twins, and recognizing an omen,
+you were both chosen to become dark priests
+at a young age.
+____TEXT____
+As part of an occult rite, you were pitted against your
+sibling with ritual daggers and challenged to fight each
+other to the very last breath.
+____TEXT____
+Unfortunately for you, you were born with a fragile body
+and your sister easily overpowered you, her dagger
+on your neck waiting for the final blow.
+____TEXT____
+She, however, showed mercy and withdrew her dagger.
+She stepped away from you as your high priest masters glared
+at the event unfolding before their eyes.
+___CHOICE___
+Strike your dagger into her spine while she walks away
+Accept your defeat
+____TEXT____
+You struck your dagger into the spine of your sister and she
+collapsed to the ground. The high priests seemed especially
+pleased with this and prepared you for your ascension 
+ceremony.
+____TEXT____
+In the ascension ceremony you were to resurrect your
+deceased sister with necromancy and use her as a ghoul.
+You did this, and the cold corpse of your sister brought
+a smile to your otherwise emotionless face.
+____TEXT____
+You learn \c[2]Necromancy\c[0].
+____TEXT____
+After your ascension to dark priesthood, you were to leave
+the temple grounds and learn the occult on your own
+in your dark pilgrimage.
+____TEXT____
+The dark priests had no pity for the weak, so you were
+thrown down an underground well. There you were meant
+to quietly wither away. Instead you fed on insects and other
+creatures that shared your fate down in the darkness.
+____TEXT____
+With time you learned to understand the language they
+spoke. You learned \c[2]Mastery over insects\c[0].
+____TEXT____
+With the aid of your new slaves, you eventually grew strong
+enough to climb up the well. You crept upstairs to the
+temple and found it quiet as the night above.
+___CHOICE___
+Set fire to the temple
+Quietly leave and run away without revenge
+____TEXT____
+Vengefully, you strike back at your caretakers. You set the temple on 
+fire, jam the exit door so no one can escape and then 
+vanish. Only muffled screams can be heard coming from
+the temple.
+____TEXT____
+You learn \c[2]Pyromancy trick\c[0].
+____TEXT____
+You quietly left the temple area. After all, revenge
+wouldn't solve anything. But in order to make sure you'd
+survive on your own, you took a few precious tomes with you.
+Your path forward had been laid.
+____TEXT____
+You get \c[2]Alchemillia vol. 1\c[0].
+____TEXT____
+After leaving the temple grounds, you vowed to become a
+dark priest on your own merits and prove the elders wrong.
+____TEXT____
+Like all priests, you first had to choose
+the god you'd dedicate your life to.
+___CHOICE___
+Pray to Gro-goroth
+Pray to Sylvian
+Pray to Alll-Mer
+Pray to God of the Depths
+____TEXT____
+You traveled across the western continent, learning about
+different gods, demons, blood magic, and all known sciences.
+Your studies didn't come without their merits. You were 
+acknowledged by the top scholars in the world.
+____TEXT____
+You were finally granted a pass to the great libraries
+of the Kingdom of Rondon. You now had the collection of
+all human history and science at your grasp.
+____TEXT____
+There, you learned of a prophecy: a man would soon ascend,
+signalling the birth of a new era for mankind. But why?
+Why this meaningless mortal? What did the fates intend?
+In the end, it hardly mattered.
+____TEXT____
+Prophecies are only for those weak enough to bend the knee
+to the mocking fates. You will find this man and claim
+your destiny. You set off towards your destination:
+The notorious Dungeons of Fear & Hunger.
+____TEXT____
+You decided to stock up before your travels.
+___CHOICE___
+Stock up on magical items
+Stock up on intoxicants
+Stock up on healing items
+Rush to the dungeon
+____TEXT____
+You get a \c[2]Soul stone\c[0].
+____TEXT____
+You get a \c[2]Pipe\c[0] and \c[2]Opium powder\c[0].
+____TEXT____
+You get a \c[2]Blue vial\c[0] and 2 \c[2]Cloth fragments\c[0].
+____TEXT____
+You learn \c[2]Dash\c[0].
+____TEXT____
+This is it. Your stairway to enlightenment. You will
+discover the ancient secrets this stronghold keeps and
+attain the ultimate understanding of the cosmos
+and challenge the gods themselves.
+____TEXT____
+Save your character info before starting the game?
+___CHOICE___
+Yes
+No

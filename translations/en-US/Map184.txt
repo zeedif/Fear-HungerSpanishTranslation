@@ -1,0 +1,3529 @@
+____TEXT____
+The minecart is full of rocks and rubble.
+___CHOICE___
+Take a stone
+Leave
+____TEXT____
+You take a \c[2]Stone\c[0].
+____TEXT____
+A minecart is left here...
+____TEXT____
+A sturdy chest. It doesn't seem to be locked.
+___CHOICE___
+Open
+Leave it
+___CHOICE___
+HEADS
+TAILS
+____TEXT____
+There is nothing left in the chest anymore.
+____TEXT____
+A sturdy chest. It doesn't seem to be locked.
+____TEXT____
+\c[7]Nosramus\c[0]
+"I would appreciate if you didn't take anything from there."
+___CHOICE___
+Open anyway
+Leave it
+____TEXT____
+\c[7]Nosramus\c[0]
+"..."
+____TEXT____
+\c[7]Nosramus\c[0]
+"Thank you."
+____TEXT____
+A sturdy chest. It doesn't seem to be locked.
+___CHOICE___
+Open the chest
+Leave it
+____TEXT____
+There is nothing left in the chest anymore.
+____TEXT____
+The girl is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+The stone has a heavy aura to it. It's almost too much
+for you to carry...
+____TEXT____
+Moonless is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[16]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[17]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[18]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[1]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[3]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[6]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[5]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[4]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+\c[7]Nosramus\c[0]
+"Oh...? You seem to have gotten through my servant."
+____TEXT____
+\c[7]Nosramus\c[0]
+"It's good to see you well."
+____TEXT____
+\c[7]Nosramus\c[0]
+"Oh... We haven't met before, have we?"
+____TEXT____
+\c[7]Nosramus\c[0]
+"My name is Nosramus. I'm an alchemist living down here.
+Pleased to meet you."
+____TEXT____
+You cannot quite tell if the alchemist is a woman or a man.
+Something in their stature seems almost otherwordly or
+ancient...
+____TEXT____
+\c[7]Nosramus\c[0]
+"Oh... We haven't met before, have we?"
+____TEXT____
+\c[7]Nosramus\c[0]
+"My name is Nosramus. I'm an alchemist living down here.
+Pleased to meet you."
+____TEXT____
+You cannot quite tell if the alchemist is a woman or a man.
+Something in their stature seems almost otherwordly or
+ancient...
+____TEXT____
+\c[7]Nosramus\c[0]
+"Oh you are the one creeping in the shadows earlier."
+____TEXT____
+\c[7]Nosramus\c[0]
+"My name is Nosramus. I'm an alchemist living down here.
+Pleased to meet you."
+____TEXT____
+You cannot quite tell if the alchemist is a woman or a man.
+Something in their stature seems almost otherwordly or
+ancient...
+____TEXT____
+\c[7]Nosramus\c[0]
+"My apologies."
+____TEXT____
+\c[7]Nosramus\c[0]
+"Having to resort to brute force like that...
+My studies here are hundreds of years of old you see, and I
+cannot let just anyone pass down here."
+___CHOICE___
+"I'm looking for a person..."
+"How long have you been here?"
+"What are you studying?"
+"Why are you staying here?"
+____TEXT____
+\c[7]Nosramus\c[0]
+"Right. I think I know who you mean..."
+____TEXT____
+\c[7]Nosramus\c[0]
+"I don't meddle with anything that happens in the upper
+floors, but I think the person you are looking for is 
+located in the dungeons just a few floors down."
+____TEXT____
+\c[7]Nosramus\c[0]
+"I'd hurry if I was you. He seems to be an incredible
+person, but his time is running short..."
+____TEXT____
+\c[7]Nosramus\c[0]
+"Oh, I've been here for so long..."
+____TEXT____
+\c[7]Nosramus\c[0]
+"Feels like an eternity haha!"
+____TEXT____
+\c[7]Nosramus\c[0]
+"My studies? I study all fields of knowledge, just like 
+all scientists should."
+____TEXT____
+\c[7]Nosramus\c[0]
+"My studies have taught me much about blood magic, deities,
+gods and other such obvious subjects."
+____TEXT____
+\c[7]Nosramus\c[0]
+"At the moment I'm the most interested in nature and
+the heartbeat of the earth." 
+____TEXT____
+\c[7]Nosramus\c[0]
+"People in this age don't notice that nature is being lost 
+and that they're heading for extinction." 
+____TEXT____
+\c[7]Nosramus\c[0]
+"That is one reason I ventured down into this darkness.
+The primal rules of nature are still very much alive here." 
+____TEXT____
+\c[7]Nosramus\c[0]
+"Why? What a silly question haha."
+____TEXT____
+\c[7]Nosramus\c[0]
+"This place is actually very crucial to my studies. In all
+of my years, I have not found a place where you could still
+feel the presence of the gods so vividly as here."
+____TEXT____
+\c[7]Nosramus\c[0]
+"As far as the inconveniece of having a laboratory 
+underground..."
+____TEXT____
+\c[7]Nosramus\c[0]
+"Well, people are suckers for convinience. They think the
+more convenient - the better, and they end up throwing away
+what's truly good."
+____TEXT____
+\c[7]Nosramus\c[0]
+"Limitations force creativivity."
+___CHOICE___
+"How do you stay sane in this darkness?"
+"Are you all alone down here?"
+____TEXT____
+\c[7]Nosramus\c[0]
+"It's supposed to be dark here."
+____TEXT____
+\c[7]Nosramus\c[0]
+"We'd be in trouble if these dungeons were as bright as 
+day haha!"
+____TEXT____
+\c[7]Nosramus\c[0]
+"Well, I did have a servant with me. Until a moment ago..."
+____TEXT____
+\c[7]Nosramus\c[0]
+"But you took care of him... He - you noticed it was a
+he, didn't you? haha!"
+____TEXT____
+\c[7]Nosramus\c[0]
+"He was no one anymore. He was but a soul bound to 
+some armor."
+____TEXT____
+\c[7]Nosramus\c[0]
+"I would appreciate some working peace, if you don't mind."
+____TEXT____
+\c[7]Nosramus\c[0]
+"What is it?"
+___CHOICE___
+"I'm looking for a person..."
+"How long have you been here?"
+"What are you studying?"
+"Why are you staying here?"
+____TEXT____
+\c[7]Nosramus\c[0]
+"Right. I think I know who you mean..."
+____TEXT____
+\c[7]Nosramus\c[0]
+"I don't meddle with anything that happens in the upper
+floors, but I think the person you are looking for is 
+located in the dungeons just a few floors down."
+____TEXT____
+\c[7]Nosramus\c[0]
+"I'd hurry if I was you. He seems to be an incredible
+person, but his time is running short..."
+____TEXT____
+\c[7]Nosramus\c[0]
+"Oh, I've been here for so long..."
+____TEXT____
+\c[7]Nosramus\c[0]
+"Feels like an eternity haha!"
+____TEXT____
+\c[7]Nosramus\c[0]
+"My studies? I study all fields of knowledge, just like 
+all scientists should."
+____TEXT____
+\c[7]Nosramus\c[0]
+"My studies have taught me much about blood magic, deities,
+gods and other such obvious subjects."
+____TEXT____
+\c[7]Nosramus\c[0]
+"At the moment I'm the most interested in nature and
+the heartbeat of the earth." 
+____TEXT____
+\c[7]Nosramus\c[0]
+"People in this age don't notice that nature is being lost 
+and that they're heading for extinction." 
+____TEXT____
+\c[7]Nosramus\c[0]
+"That is one reason I ventured down into this darkness. There is
+The primal rules of nature are still very much alive here." 
+____TEXT____
+\c[7]Nosramus\c[0]
+"Why? What a silly question haha."
+____TEXT____
+\c[7]Nosramus\c[0]
+"This place is actually very crucial to my studies. In all
+of my years, I have not found a place where you could still
+feel the presence of the gods so vividly as here."
+____TEXT____
+\c[7]Nosramus\c[0]
+"As far as the inconveniece of having a laboratory 
+underground..."
+____TEXT____
+\c[7]Nosramus\c[0]
+"Well, people are suckers for convinience. They think the
+more convenient - the better, and they end up throwing away
+what's truly good."
+____TEXT____
+\c[7]Nosramus\c[0]
+"Limitations force creativivity."
+___CHOICE___
+"How do you stay sane in this darkness?"
+"Are you all alone down here?"
+____TEXT____
+\c[7]Nosramus\c[0]
+"It's supposed to be dark here."
+____TEXT____
+\c[7]Nosramus\c[0]
+"We'd be in trouble if these dungeons were as bright as 
+day haha!"
+____TEXT____
+\c[7]Nosramus\c[0]
+"Well I did have a servant with me. Until a moment ago..."
+____TEXT____
+\c[7]Nosramus\c[0]
+"But you took care of him... He - you noticed it was a
+he, didn't you? haha!"
+____TEXT____
+\c[7]Nosramus\c[0]
+"He was no one anymore. He was but a soul bound to 
+an armor."
+____TEXT____
+\c[7]Nosramus\c[0]
+"I have nothing to say to you anymore."
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Only an empty sack of clothing remains here.
+____TEXT____
+There is something underneath the pile...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Only an empty sack of clothing remains here...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+A pile of flesh remains here...
+____TEXT____
+Use \c[2]Tinderbox\c[0] to light the torch?
+___CHOICE___
+Light the \c[2]Torch\c[0]
+Take the \c[2]Torch\c[0]
+Leave
+____TEXT____
+There's a \c[2]Torch\c[0] on the wall.
+___CHOICE___
+Take the \c[2]Torch\c[0]
+Leave
+____TEXT____
+Use \c[2]Tinderbox\c[0] to light the torch?
+___CHOICE___
+Light the \c[2]Torch\c[0]
+Take the \c[2]Torch\c[0]
+Leave
+____TEXT____
+There's a \c[2]Torch\c[0] on the wall.
+___CHOICE___
+Take the \c[2]Torch\c[0]
+Leave
+____TEXT____
+Use \c[2]Tinderbox\c[0] to light the torch?
+___CHOICE___
+Light the \c[2]Torch\c[0]
+Take the \c[2]Torch\c[0]
+Leave
+____TEXT____
+There's a \c[2]Torch\c[0] on the wall.
+___CHOICE___
+Take the \c[2]Torch\c[0]
+Leave
+MERCENARY
+KNIGHT
+CAPTAIN
+OUTLANDER
+MARRIAGE
+<follower touch>
+<follower touch>
+<follower touch>
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead lurch.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead night lurch.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The pale creature is down...
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+Night lurch seems to be holding something shiny
+tightly in his palms...
+___CHOICE___
+Take it
+Leave it
+____TEXT____
+You find \c[2]5 Silver coins\c[0] from the palm of
+night lurch's hand. It was holding them very tight.
+____TEXT____
+You took \c[2]Pale skin\c[0]!
+____TEXT____
+The pale creature is down...
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+Night lurch seems to be holding something shiny
+tightly in his palms...
+___CHOICE___
+Take it
+Leave it
+____TEXT____
+You find \c[2]5 Silver coins\c[0] from the palm of
+night lurch's hand. It was holding them very tight.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead lurch.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead night lurch.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The pale creature is down...
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+You already searched him.
+____TEXT____
+You took \c[2]Pale skin\c[0]!
+____TEXT____
+The pale creature is down...
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+You already searched him.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+A pile of flesh remains here...
+____TEXT____
+Use \c[2]Tinderbox\c[0] to light the torch?
+___CHOICE___
+Light the \c[2]Torch\c[0]
+Take the \c[2]Torch\c[0]
+Leave
+____TEXT____
+There's a \c[2]Torch\c[0] on the wall.
+___CHOICE___
+Take the \c[2]Torch\c[0]
+Leave
+____TEXT____
+An empty minecart. It's gathering rust in the humidity of
+these mines...
+____TEXT____
+An empty minecart. It's gathering rust in the humidity of
+these mines...
+____TEXT____
+An empty minecart. It's gathering rust in the humidity of
+these mines...
+____TEXT____
+An empty minecart. It's gathering rust in the humidity of
+these mines...
+____TEXT____
+An empty minecart. It's gathering rust in the humidity of
+these mines...
+____TEXT____
+The minecart is full of rocks and rubble.
+___CHOICE___
+Take a stone
+Leave
+____TEXT____
+You take a \c[2]Stone\c[0].
+____TEXT____
+A minecart is left here...
+____TEXT____
+The hallway has collapsed here. Makes you wonder
+how the rest of this old fortress stays standing...
+____TEXT____
+You could use \c[2]Explosive vial\c[0] here...
+___CHOICE___
+Use \c[2]Explosive vial\c[0]
+Leave
+____TEXT____
+The hallway has collapsed here. Makes you wonder
+how the rest of this old fortress stays standing...
+____TEXT____
+You could use \c[2]Explosive vial\c[0] here...
+___CHOICE___
+Use \c[2]Explosive vial\c[0]
+Leave
+____TEXT____
+The hallway has collapsed here. Makes you wonder
+how the rest of this old fortress stays standing...
+____TEXT____
+The hallway has collapsed here. Makes you wonder
+how the rest of this old fortress stays standing...
+____TEXT____
+The hallway has collapsed here. Makes you wonder
+how the rest of this old fortress stays standing...
+____TEXT____
+The hallway has collapsed here. Makes you wonder
+how the rest of this old fortress stays standing...
+____TEXT____
+The hallway has collapsed here. Makes you wonder
+how the rest of this old fortress stays standing...
+____TEXT____
+The hallway has collapsed here. Makes you wonder
+how the rest of this old fortress stays standing...
+____TEXT____
+The hallway has collapsed here. Makes you wonder
+how the rest of this old fortress stays standing...
+____TEXT____
+The hallway has collapsed here. Makes you wonder
+how the rest of this old fortress stays standing...
+____TEXT____
+The hallway has collapsed here. Makes you wonder
+how the rest of this old fortress stays standing...
+____TEXT____
+The hallway has collapsed here. Makes you wonder
+how the rest of this old fortress stays standing...
+____TEXT____
+There is an old armor lying here.
+___CHOICE___
+Examine
+Attack
+Leave
+____TEXT____
+There seems to be something underneath the armor...
+____TEXT____
+You search the barrel for anything useful...
+____TEXT____
+Nothing left here.
+<follower touch>
+____TEXT____
+There is an old armor lying here.
+___CHOICE___
+Examine
+Attack
+Leave
+____TEXT____
+There seems to be something underneath the armor...
+____TEXT____
+There is an old armor lying here.
+___CHOICE___
+Examine
+Attack
+Leave
+____TEXT____
+There seems to be something underneath the armor...
+____TEXT____
+There is an old armor lying here.
+___CHOICE___
+Examine
+Attack
+Leave
+____TEXT____
+There seems to be something underneath the armor...
+<follower touch>
+<follower touch>
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+An empty set of armor is lying on the ground.
+___CHOICE___
+Beat it
+Search it
+Leave it
+____TEXT____
+No reaction. It hurt your shin a little.
+____TEXT____
+The armor and the equipment of the old knight are too
+heavy for you to use.
+____TEXT____
+You search the barrel for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You managed to defeat the spectre that was after your sword.
+____TEXT____
+Like distant winds carried from from the far-away lands 
+you hear whispers...
+____TEXT____
+\c[7]Assassin spectre\c[0]
+"Finish... my...task..."
+____TEXT____
+\c[7]Assassin spectre\c[0]
+"O... worthy..."
+____TEXT____
+The \c[2]Eastern sword\c[0] was purified!
+____TEXT____
+The engraving on the hilt becomes clear to you now.
+\c[2]Eastern sword\c[0] was purified and it revealed its
+true name to you - the Black Steel of the East.
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+Your child is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+"Sacrificial circle for the older gods."
+____TEXT____
+"To appease gods or gain favors from them - 
+this is the place to offer your gratitude."
+____TEXT____
+"Gro-goroth, the destroyer of men, yearns for 
+human sacrifices."
+____TEXT____
+"Sylvian, the god of fertility and love, wishes nothing
+more than an act of love in her name."
+____TEXT____
+The minecart is full of rocks and rubble.
+___CHOICE___
+Take a stone
+Leave
+____TEXT____
+You take a \c[2]Stone\c[0].
+____TEXT____
+The minecart is left here.
+____TEXT____
+The minecart is full of rocks and rubble.
+___CHOICE___
+Take a stone
+Leave
+____TEXT____
+You take a \c[2]Stone\c[0].
+____TEXT____
+The minecart is left here.
+____TEXT____
+Use \c[2]Tinderbox\c[0] to light the candle?
+___CHOICE___
+Yes
+No
+____TEXT____
+Use \c[2]Tinderbox\c[0] to light the candle?
+___CHOICE___
+Yes
+No
+____TEXT____
+There are miscellaneous alchemy potions on the shelf.
+____TEXT____
+You also find an additional \c[2]Explosive vial\c[0]!
+____TEXT____
+Nothing left here.
+____TEXT____
+The Hexen table stands here ominously.
+___CHOICE___
+Use the Hexen
+Curse equipment
+Leave
+---
+---
+---
+others
+GEMS
+GEMS
+gro-goroth
+---
+sylvian
+---
+Alll-mer
+---
+depths
+---
+endless
+---
+domination
+---
+tormented
+---
+enlightenment
+---
+---
+---
+GEMS
+gro-goroth
+---
+sylvian
+---
+Alll-mer
+---
+depths
+---
+endless
+---
+domination
+---
+tormented
+---
+enlightenment
+---
+____TEXT____
+A pile of books, ranging from from all fields of studies
+you can imagine...
+____TEXT____
+None of the catch your interest especially, however there
+are some separate pages left here as well...
+____TEXT____
+You find \c[2]Book pages II\c[0].
+____TEXT____
+A pile of books, ranging from from all fields of studies
+you can imagine...
+____TEXT____
+There are few potions left here...
+____TEXT____
+Nothing interesting left here.
+____TEXT____
+Books here are kept in great condition and they are
+arranged with alphabetical order.
+___CHOICE___
+Search
+Leave it be
+___CHOICE___
+HEADS
+TAILS
+____TEXT____
+Like a siren's call - the book is calling to you.
+Its macabre leather coverings look irresistable.
+____TEXT____
+You find nothing of interest.
+____TEXT____
+Like a siren's call - the book is calling to you.
+Its macabre leather coverings look irresistable.
+____TEXT____
+You find nothing of interest.
+____TEXT____
+You already searched this bookshelf.
+BOOKSHELF
+____TEXT____
+Books here are kept in great condition and they are
+arranged with alphabetical order.
+___CHOICE___
+Search
+Leave
+___CHOICE___
+HEADS
+TAILS
+____TEXT____
+The book feels very special and has a hefty weight to it.
+____TEXT____
+Like a siren's call, the book is calling to you. Its
+ macabre leather coverings look irresistable.
+____TEXT____
+You find nothing of interest.
+BOOKSHELF
+____TEXT____
+You already searched this bookshelf.
+BOOKSHELF
+____TEXT____
+Books here are kept in great condition and they are
+arranged with alphabetical order.
+___CHOICE___
+Search
+Leave
+___CHOICE___
+HEADS
+TAILS
+____TEXT____
+The book feels very special and has a hefty weight to it.
+____TEXT____
+Like a siren's call, the book is calling to you. Its
+ macabre leather coverings look irresistable.
+____TEXT____
+You find nothing of interest.
+BOOKSHELF
+____TEXT____
+You already searched this bookshelf.
+BOOKSHELF
+____TEXT____
+Books here are kept in great condition and they are
+arranged with alphabetical order.
+___CHOICE___
+Search
+Leave
+___CHOICE___
+HEADS
+TAILS
+____TEXT____
+You find nothing of interest.
+BOOKSHELF
+____TEXT____
+You already searched this bookshelf.
+____TEXT____
+An empty minecart. It's gathering rust in the humidity of
+these mines...
+____TEXT____
+An empty minecart. It's gathering rust in the humidity of
+these mines...
+____TEXT____
+An empty minecart. It's gathering rust in the humidity of
+these mines...
+____TEXT____
+An empty minecart. It's gathering rust in the humidity of
+these mines...
+____TEXT____
+An empty minecart. It's gathering rust in the humidity of
+these mines...
+____TEXT____
+An empty minecart. It's gathering rust in the humidity of
+these mines...
+____TEXT____
+Create a \c[2]Blood portal\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The girl was killed here already.
+____TEXT____
+Create a \c[2]Blood portal\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+Your child was killed here.
+____TEXT____
+Create a \c[2]Blood portal\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+A ghoul was killed here already.
+____TEXT____
+Create a \c[2]Blood portal\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+\N[7] was killed here already.
+____TEXT____
+Create a \c[2]Blood portal\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+Things didn't go as planned...
+____TEXT____
+Things didn't go as planned...
+____TEXT____
+Things didn't go as planned...
+____TEXT____
+Things didn't go as planned...
+____TEXT____
+Things didn't go as planned...
+____TEXT____
+Things didn't go as planned...
+____TEXT____
+Things didn't go as planned...
+____TEXT____
+Things didn't go as planned...
+____TEXT____
+Things didn't go as planned...
+____TEXT____
+Things didn't go as planned...
+____TEXT____
+Things didn't go as planned...
+____TEXT____
+Things didn't go as planned...
+____TEXT____
+Things didn't go as planned...
+____TEXT____
+This ritual circle is exhausted already.
+____TEXT____
+Create a \c[2]Blood portal\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+A skeleton was killed here already.
+____TEXT____
+Create a \c[2]Blood portal\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+Create a \c[2]Blood portal\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The girl was killed here already.
+____TEXT____
+Create a \c[2]Blood portal\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+Your child was killed here.
+____TEXT____
+Create a \c[2]Blood portal\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+Your child was killed here.
+____TEXT____
+Create a \c[2]Blood portal\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+A ghoul was killed here already.
+____TEXT____
+Create a \c[2]Blood portal\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+\N[7] was killed here already.
+____TEXT____
+Create a \c[2]Blood portal\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+This ritual circle is exhausted already.
+____TEXT____
+Create a \c[2]Blood portal\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+A skeleton was killed here already.
+____TEXT____
+Create a \c[2]Blood portal\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+Create a \c[2]Blood portal\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The girl was killed here already.
+____TEXT____
+Create a \c[2]Blood portal\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+Your child was killed here.
+____TEXT____
+Create a \c[2]Blood portal\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+A ghoul was killed here already.
+____TEXT____
+Create a \c[2]Blood portal\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+\N[7] was killed here already.
+____TEXT____
+Create a \c[2]Blood portal\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+This ritual circle is exhausted already.
+____TEXT____
+Create a \c[2]Blood portal\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+A skeleton was killed here already.
+____TEXT____
+Create a \c[2]Blood portal\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+Create a \c[2]Blood portal\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The girl was killed here already.
+____TEXT____
+Create a \c[2]Blood portal\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+Your child was killed here.
+____TEXT____
+Create a \c[2]Blood portal\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+A ghoul was killed here already.
+____TEXT____
+Create a \c[2]Blood portal\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+\N[7] was killed here already.
+____TEXT____
+Create a \c[2]Blood portal\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+This ritual circle is exhausted already.
+____TEXT____
+Create a \c[2]Blood portal\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+A skeleton was killed here already.
+____TEXT____
+Create a \c[2]Blood portal\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+Create a \c[2]Blood portal\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The girl was killed here already.
+____TEXT____
+Create a \c[2]Blood portal\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+Your child was killed here.
+____TEXT____
+Create a \c[2]Blood portal\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+A ghoul was killed here already.
+____TEXT____
+Create a \c[2]Blood portal\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+\N[7] was killed here already.
+____TEXT____
+Create a \c[2]Blood portal\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+This ritual circle is exhausted already.
+____TEXT____
+Create a \c[2]Blood portal\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+A skeleton was killed here already.
+____TEXT____
+Create a \c[2]Blood portal\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+There is a rotten corpse here...
+The body seems to be in a state of collapse.
+___CHOICE___
+Use \c[2]Necromancy\c[0]
+Leave
+____TEXT____
+Unfortunately the body is in too bad of a shape to carry
+itself.
+____TEXT____
+There is a rotten corpse here...
+The body seems to be in a state of collapse.
+____TEXT____
+There is a rotten corpse here...
+The body seems to be in a state of collapse.
+___CHOICE___
+Use \c[2]Necromancy\c[0]
+Leave
+____TEXT____
+Unfortunately the body is in too bad of a shape to carry
+itself.
+____TEXT____
+There is a rotten corpse here...
+The body seems to be in a state of collapse.
+____TEXT____
+There is a rotten corpse here...
+The body seems to be in a state of collapse.
+___CHOICE___
+Use \c[2]Necromancy\c[0]
+Leave
+____TEXT____
+Unfortunately the body is in too bad of a shape to carry
+itself.
+____TEXT____
+There is a rotten corpse here...
+The body seems to be in a state of collapse.
+____TEXT____
+There is an underground pond here. The water looks dark, 
+ominous, and too still to your liking...
+____TEXT____
+You could use \c[2]Walk on water\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+You could fill up your empty \c[2]Glass vial\c[0] with water...
+___CHOICE___
+Use \c[2]Glass vial\c[0]
+Leave
+____TEXT____
+You scoop up the water and get a \c[2]Water vial\c[0]!
+____TEXT____
+There is an underground pond here. The water looks dark, 
+ominous, and too still to your liking...
+____TEXT____
+You could use \c[2]Walk on water\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+You could fill up your empty \c[2]Glass vial\c[0] with water...
+___CHOICE___
+Use \c[2]Glass vial\c[0]
+Leave
+____TEXT____
+You scoop up the water and get a \c[2]Water vial\c[0]!
+____TEXT____
+There is an underground pond here. The water looks dark, 
+ominous, and too still to your liking...
+____TEXT____
+You could use \c[2]Walk on water\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+You could fill up your empty \c[2]Glass vial\c[0] with water...
+___CHOICE___
+Use \c[2]Glass vial\c[0]
+Leave
+____TEXT____
+You scoop up the water and get a \c[2]Water vial\c[0]!
+____TEXT____
+There is something shining underwater...
+___CHOICE___
+Reach for it
+Leave
+____TEXT____
+The shining object was a \c[2]Stone crown\c[0]!
+The crown is made of some finer quality stone which makes
+it shiny, but the crude design suggests it's not worth much.
+____TEXT____
+There is an underground pond here. The water looks dark, 
+ominous, and too still to your liking...
+____TEXT____
+You could use \c[2]Walk on water\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+You could fill up your empty \c[2]Glass vial\c[0] with water...
+___CHOICE___
+Use \c[2]Glass vial\c[0]
+Leave
+____TEXT____
+You scoop up the water and get a \c[2]Water vial\c[0]!
+____TEXT____
+There is an underground pond here. The water looks dark, 
+ominous, and too still to your liking...
+____TEXT____
+You could use \c[2]Walk on water\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+You could fill up your empty \c[2]Glass vial\c[0] with water...
+___CHOICE___
+Use \c[2]Glass vial\c[0]
+Leave
+____TEXT____
+You scoop up the water and get a \c[2]Water vial\c[0]!
+____TEXT____
+There is an underground pond here. The water looks dark, 
+ominous, and too still to your liking...
+____TEXT____
+You could use \c[2]Walk on water\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+You could fill up your empty \c[2]Glass vial\c[0] with water...
+___CHOICE___
+Use \c[2]Glass vial\c[0]
+Leave
+____TEXT____
+You scoop up the water and get a \c[2]Water vial\c[0]!
+____TEXT____
+There is an underground pond here. The water looks dark, 
+ominous, and too still to your liking...
+____TEXT____
+You could use \c[2]Walk on water\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+You could fill up your empty \c[2]Glass vial\c[0] with water...
+___CHOICE___
+Use \c[2]Glass vial\c[0]
+Leave
+____TEXT____
+You scoop up the water and get a \c[2]Water vial\c[0]!
+____TEXT____
+Salmonsnake is slain. Its dead torso reeks of the sea.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Use \c[2]Skinning knife\c[0] on salmonsnake?
+___CHOICE___
+Use \c[2]Skinning knife\c[0]
+Leave
+____TEXT____
+Use take some \c[2]Salmonsnake meat\c[0] with you.
+It smells delicious!
+____TEXT____
+Salmonsnake is slain. Its dead torso reeks of the sea.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Salmonsnake is slain. Its dead torso reeks of the sea.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Use \c[2]Skinning knife\c[0] on salmonsnake?
+___CHOICE___
+Use \c[2]Skinning knife\c[0]
+Leave
+____TEXT____
+Use take some \c[2]Salmonsnake meat\c[0] with you.
+It smells delicious!
+____TEXT____
+Salmonsnake is slain. Its dead torso reeks of the sea.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Salmonsnake is slain. Its dead torso reeks of the sea.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Use \c[2]Skinning knife\c[0] on salmonsnake?
+___CHOICE___
+Use \c[2]Skinning knife\c[0]
+Leave
+____TEXT____
+Use take some \c[2]Salmonsnake meat\c[0] with you.
+It smells delicious!
+____TEXT____
+Salmonsnake is slain. Its dead torso reeks of the sea.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Salmonsnake is slain. Its dead torso reeks of the sea.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Use \c[2]Skinning knife\c[0] on salmonsnake?
+___CHOICE___
+Use \c[2]Skinning knife\c[0]
+Leave
+____TEXT____
+Use take some \c[2]Salmonsnake meat\c[0] with you.
+It smells delicious!
+____TEXT____
+Salmonsnake is slain. Its dead torso reeks of the sea.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+There is an underground pond here. The water looks dark, 
+ominous, and too still to your liking...
+____TEXT____
+You could use \c[2]Walk on water\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+You could fill up your empty \c[2]Glass vial\c[0] with water...
+___CHOICE___
+Use \c[2]Glass vial\c[0]
+Leave
+____TEXT____
+You scoop up the water and get a \c[2]Water vial\c[0]!
+____TEXT____
+There is an underground pond here. The water looks dark, 
+ominous, and too still to your liking...
+____TEXT____
+You could use \c[2]Walk on water\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+You could fill up your empty \c[2]Glass vial\c[0] with water...
+___CHOICE___
+Use \c[2]Glass vial\c[0]
+Leave
+____TEXT____
+You scoop up the water and get a \c[2]Water vial\c[0]!
+____TEXT____
+There is an underground pond here. The water looks dark, 
+ominous, and too still to your liking...
+____TEXT____
+You could use \c[2]Walk on water\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+You could fill up your empty \c[2]Glass vial\c[0] with water...
+___CHOICE___
+Use \c[2]Glass vial\c[0]
+Leave
+____TEXT____
+You scoop up the water and get a \c[2]Water vial\c[0]!
+____TEXT____
+Salmonsnake is slain. Its dead torso reeks of the sea.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Use \c[2]Skinning knife\c[0] on salmonsnake?
+___CHOICE___
+Use \c[2]Skinning knife\c[0]
+Leave
+____TEXT____
+Use take some \c[2]Salmonsnake meat\c[0] with you.
+It smells delicious!
+____TEXT____
+Salmonsnake is slain. Its dead torso reeks of the sea.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Salmonsnake is slain. Its dead torso reeks of the sea.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Use \c[2]Skinning knife\c[0] on salmonsnake?
+___CHOICE___
+Use \c[2]Skinning knife\c[0]
+Leave
+____TEXT____
+Use take some \c[2]Salmonsnake meat\c[0] with you.
+It smells delicious!
+____TEXT____
+Salmonsnake is slain. Its dead torso reeks of the sea.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+There is an underground pond here. The water looks dark, 
+ominous, and too still to your liking...
+____TEXT____
+You could use \c[2]Walk on water\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+You could fill up your empty \c[2]Glass vial\c[0] with water...
+___CHOICE___
+Use \c[2]Glass vial\c[0]
+Leave
+____TEXT____
+You scoop up the water and get a \c[2]Water vial\c[0]!
+____TEXT____
+You could open the locked door with \c[2]Lockpicking\c[0].
+___CHOICE___
+Use \c[2]Lockpicking\c[0]
+Don't
+____TEXT____
+A cold draft can be felt coming from behind the door...
+____TEXT____
+The door seems to be locked...
+___CHOICE___
+Force the door open
+Use \c[2]Small key\c[0]
+Use \c[2]Red vial\c[0]
+Leave
+____TEXT____
+You managed to force your way through the door.
+____TEXT____
+You don't seem to be strong enough to force the door open...
+____TEXT____
+You managed to force your way through the door.
+____TEXT____
+You don't seem to be strong enough to force the door open...
+____TEXT____
+You managed to force your way through the door.
+____TEXT____
+You don't seem to be strong enough to force the door open...
+____TEXT____
+You try using \c[2]Small key\c[0].
+____TEXT____
+You try melting the lock with \c[2]Red vial\c[0].
+____TEXT____
+A cold draft can be felt coming from behind the door...
+____TEXT____
+The door seems to be locked...
+___CHOICE___
+Force the door open
+Use \c[2]Red vial\c[0]
+Leave
+____TEXT____
+You managed to force your way through the door.
+____TEXT____
+You don't seem to be strong enough to force the door open...
+____TEXT____
+You managed to force your way through the door.
+____TEXT____
+You don't seem to be strong enough to force the door open...
+____TEXT____
+You managed to force your way through the door.
+____TEXT____
+You don't seem to be strong enough to force the door open...
+____TEXT____
+You try melting the lock with \c[2]Red vial\c[0].
+____TEXT____
+A cold draft can be felt coming from behind the door...
+____TEXT____
+The door seems to be locked...
+___CHOICE___
+Force the door open
+Use \c[2]Small key\c[0]
+Leave it
+____TEXT____
+You managed to force your way through the door.
+____TEXT____
+You don't seem to be strong enough to force the door open...
+____TEXT____
+You managed to force your way through the door.
+____TEXT____
+You don't seem to be strong enough to force the door open...
+____TEXT____
+You managed to force your way through the door.
+____TEXT____
+You don't seem to be strong enough to force the door open...
+____TEXT____
+You try using \c[2]Small key\c[0].
+____TEXT____
+A cold draft can be felt coming from behind the door...
+____TEXT____
+The door seems to be locked...
+___CHOICE___
+Force the door open
+Leave it
+____TEXT____
+You managed to force your way through the door.
+____TEXT____
+You don't seem to be strong enough to force the door open...
+____TEXT____
+You managed to force your way through the door.
+____TEXT____
+You don't seem to be strong enough to force the door open...
+____TEXT____
+You managed to force your way through the door.
+____TEXT____
+You don't seem to be strong enough to force the door open...
+<follower touch>
+<follower touch>
+<follower touch>
+<follower touch>
+<follower touch>
+<follower touch>
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the crow.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead guard.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The Crow Mauler is down...
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+Crow Mauler only carries \c[2]Crow emblem key\c[0] with
+him.
+____TEXT____
+You see no point in skinning the Crow Mauler.
+____TEXT____
+The Crow Mauler is down...
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+Crow Mauler only carries \c[2]Crow emblem key\c[0] with
+him.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the crow.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead guard.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The Crow Mauler is down...
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+Crow Mauler has nothing of worth.
+____TEXT____
+You see no point in skinning the Crow Mauler.
+____TEXT____
+The Crow Mauler is down...
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+Crow Mauler has nothing of worth.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+A pile of flesh remains here...
+____TEXT____
+Here lies \N[19]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+BOOKSHELF
+____TEXT____
+Books here are kept in great condition and they are
+arranged with alphabetical order.
+___CHOICE___
+Search
+Leave
+___CHOICE___
+HEADS
+TAILS
+____TEXT____
+You find nothing of interest.
+BOOKSHELF
+____TEXT____
+You already searched this bookshelf.
+____TEXT____
+You find an \c[2]Empty scroll\c[0] on the table.
+____TEXT____
+You already searched the table.
+____TEXT____
+Here lies \N[20]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[21]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+The mercenary is dead...
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+You undress the mercenary and take the
+\c[2]Leather vest\c[0] with you.
+____TEXT____
+You also find 25 \c[2]Silver coins\c[0]!
+____TEXT____
+The mercenary is dead...
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+There is nothing left here.
+____TEXT____
+Use \c[2]Lesser soul\c[0] to learn \c[2]Lockpicking\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The skill of \c[2]Lockpicking\c[0] is engraved in your
+head!
+____TEXT____
+Use \c[2]Lesser soul\c[0] to learn \c[2]Steal\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The skill of \c[2]Steal\c[0] is engraved in your
+head!
+____TEXT____
+Use \c[2]Lesser soul\c[0] to learn \c[2]Necromancy\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The skill of \c[2]Necromancy\c[0] is engraved in your
+head!
+____TEXT____
+Use \c[2]Lesser soul\c[0] to learn \c[2]Blood golem\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The skill of \c[2]Blood golem\c[0] is engraved in your
+head!
+____TEXT____
+Use \c[2]Lesser soul\c[0] to learn \c[2]En garde\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The skill of \c[2]En garde\c[0] is engraved in your
+head!
+____TEXT____
+Use \c[2]Lesser soul\c[0] to learn \c[2]Dash\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The skill of \c[2]Dash\c[0] is engraved in your
+head!
+____TEXT____
+Use \c[2]Lesser soul\c[0] to learn \c[2]Dash\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The skill of \c[2]Dash\c[0] is engraved in your
+head!
+____TEXT____
+Use \c[2]Lesser soul\c[0] to learn \c[2]Hurting\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The skill of \c[2]Hurting\c[0] is engraved in your
+head!
+____TEXT____
+Use \c[2]Lesser soul\c[0] to learn \c[2]Hurting\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The skill of \c[2]Hurting\c[0] is engraved in your
+head!
+____TEXT____
+Use \c[2]Lesser soul\c[0] to learn \c[2]Pyromancy trick\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The skill of \c[2]Pyromancy trick\c[0] is engraved in your
+head!
+____TEXT____
+Use \c[2]Lesser soul\c[0] to learn \c[2]Fast attack\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The skill of \c[2]Fast attack\c[0] is engraved in your
+head!
+____TEXT____
+Use \c[2]Lesser soul\c[0] to learn \c[2]Defensive Stance\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The skill of \c[2]Defensive Stance\c[0] is engraved in your
+head!
+____TEXT____
+Use \c[2]Lesser soul\c[0] to learn \c[2]Counter\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The skill of \c[2]Counter\c[0] is engraved in your mind!
+____TEXT____
+Use \c[2]Lesser soul\c[0] to learn \c[2]Black orb\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The skill of \c[2]Black orb\c[0] is engraved in your mind!
+____TEXT____
+Use \c[2]Lesser soul\c[0] to learn \c[2]Pheromones\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The skill of \c[2]Pheromones\c[0] is engraved in your
+head!
+____TEXT____
+Use \c[2]Lesser soul\c[0] to learn \c[2]Leg sweep\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The skill of \c[2]Leg sweep\c[0] is engraved in your
+head!
+____TEXT____
+Use \c[2]Lesser soul\c[0] to learn \c[2]Leg sweep\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The skill of \c[2]Leg sweep\c[0] is engraved in your
+head!
+____TEXT____
+Use \c[2]Lesser soul\c[0] to learn \c[2]Healing whispers\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The skill of \c[2]Healing whispers\c[0] is engraved in your
+head!
+____TEXT____
+Use \c[2]Lesser soul\c[0] to learn \c[2]Healing whispers\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The skill of \c[2]Healing whispers\c[0] is engraved in your
+head!
+____TEXT____
+Use \c[2]Lesser soul\c[0] to learn \c[2]Loving whispers\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The skill of \c[2]Loving whispers\c[0] is engraved in
+your head!
+____TEXT____
+There is a person here skinned alive by crude equipment.
+____TEXT____
+The expression on the face is that of torment, suggesting
+he was still alive during the process of skinning...
+____TEXT____
+There is a person here skinned alive by crude equipment.
+____TEXT____
+The expression on the face is that of torment, suggesting
+she was still alive during the process of skinning...
+____TEXT____
+There is a person here skinned alive by crude equipment.
+____TEXT____
+The expression on the face is that of torment, suggesting
+he was still alive during the process of skinning...
+____TEXT____
+There is a person here skinned alive by crude equipment.
+____TEXT____
+The expression on the face is that of torment, suggesting
+he was still alive during the process of skinning...
+____TEXT____
+There is a person here skinned alive by crude equipment.
+____TEXT____
+The expression on the face is that of torment, suggesting
+she was still alive during the process of skinning...
+____TEXT____
+There is a person here skinned alive by crude equipment.
+____TEXT____
+The expression on the face is that of torment, suggesting
+he was still alive during the process of skinning...
+____TEXT____
+There is a person here skinned alive by crude equipment.
+____TEXT____
+The expression on the face is that of torment, suggesting
+he was still alive during the process of skinning...
+____TEXT____
+A huge slab door blocks the doorway. There doesn't seem
+to be any way to force through it...
+____TEXT____
+\c[7]Nosramus\c[0]
+"Oh, hello again."
+___CHOICE___
+"Le'garde..."
+"Hello and goodbye."
+____TEXT____
+\c[7]Nosramus\c[0]
+"Right, that man... He sure was an interesting person."
+____TEXT____
+\c[7]Nosramus\c[0]
+"His fame overground reached even these dark dungeons and I 
+followed the treatment he got here closely as well."
+____TEXT____
+\c[7]Nosramus\c[0]
+"Not that I'm a part of the whole torturing-imprisonment deal
+going on here these days haha."
+____TEXT____
+\c[7]Nosramus\c[0]
+"I was just observing events from the shadows."
+____TEXT____
+\c[7]Nosramus\c[0]
+"Did you know that he planned his imprisonment?"
+____TEXT____
+\c[7]Nosramus\c[0]
+"Everything that led to him getting caught, taken down
+to this darkness and even the torture he experienced here..."
+____TEXT____
+\c[7]Nosramus\c[0]
+"It was all part of his plan."
+____TEXT____
+\c[7]Nosramus\c[0]
+"This dungeon..."
+____TEXT____
+\c[7]Nosramus\c[0]
+"It's a special place. There is no other place in the western
+world where you could get as close to the gods as we are now."
+____TEXT____
+\c[7]Nosramus\c[0]
+"Like many before him, he wanted to use the power that dwells 
+here..."
+____TEXT____
+\c[7]Nosramus\c[0]
+"But he knew more..."
+____TEXT____
+\c[7]Nosramus\c[0]
+"He already achieved the state of dominance overground. He
+achieved the enlightenment with the cube he brought here with
+him..."
+____TEXT____
+\c[7]Nosramus\c[0]
+"His dreams would soar endlessly with the new goddess
+visiting him in his dreams every night."
+____TEXT____
+\c[7]Nosramus\c[0]
+"And finally, the darkness and the torture he experienced
+here would rival that of the gods."
+____TEXT____
+\c[7]Nosramus\c[0]
+"He got all the keys to become something greater."
+____TEXT____
+\c[7]Nosramus\c[0]
+"Not that it would necessarily be the right path for him,
+but it did make an interesting event to unfold..."
+____TEXT____
+\c[7]Nosramus\c[0]
+"You got the doors to the ancient city open it seems..."
+___CHOICE___
+"What is the ancient city?"
+"Goodbye."
+____TEXT____
+\c[7]Nosramus\c[0]
+"The ancient city is what remains of the city of the gods
+Ma'habre."
+____TEXT____
+\c[7]Nosramus\c[0]
+"The presence of the gods is fading. Even the presence of
+the new gods is questionable."
+____TEXT____
+\c[7]Nosramus\c[0]
+"It was always just a matter of time."
+___CHOICE___
+"What do you know about the new gods?"
+"You seem to know a lot..."
+____TEXT____
+\c[7]Nosramus\c[0]
+"They attained their position in order to rebel
+against the old gods and the old order."
+____TEXT____
+\c[7]Nosramus\c[0]
+"But they are barking up the wrong tree."
+____TEXT____
+\c[7]Nosramus\c[0]
+"How can the older gods be responsible, if they haven't
+been around for millenia? If they ever even existed...?"
+____TEXT____
+\c[7]Nosramus\c[0]
+"The truth is - Gods come and go. Humanity itself is the
+cause of the misery and the dreadful state of the world
+over the past few hundred years."
+____TEXT____
+\c[7]Nosramus\c[0]
+"Humans should blame themselves."
+____TEXT____
+\c[7]Nosramus\c[0]
+"Humans should take responsibility for themselves."
+____TEXT____
+\c[7]Nosramus\c[0]
+"I guess so haha."
+____TEXT____
+\c[7]Nosramus\c[0]
+"Hundreds of years here, in the darkness, with nothing else
+to do but study and read has its benefits."
+____TEXT____
+\c[7]Nosramus\c[0]
+"..."
+____TEXT____
+Nosramus seems suspicious. Feels like he isn't telling the
+whole truth.
+____TEXT____
+\c[7]Nosramus\c[0]
+"Oh, hello again."
+____TEXT____
+\c[7]Nosramus\c[0]
+"You got the doors to the ancient city open it seems..."
+___CHOICE___
+"What is the ancient city?"
+"Goodbye."
+____TEXT____
+\c[7]Nosramus\c[0]
+"The ancient city is what remains of the city of the gods
+Ma'habre."
+____TEXT____
+\c[7]Nosramus\c[0]
+"The presence of the gods is fading. Even the presence of
+the new gods is questionable."
+____TEXT____
+\c[7]Nosramus\c[0]
+"It was always just a matter of time."
+___CHOICE___
+"What do you know about the new gods?"
+"You seem to know a lot..."
+____TEXT____
+\c[7]Nosramus\c[0]
+"They attained their position in order to rebel
+against the old gods and the old order."
+____TEXT____
+\c[7]Nosramus\c[0]
+"But they are barking up the wrong tree."
+____TEXT____
+\c[7]Nosramus\c[0]
+"How can the older gods be responsible, if they haven't
+been around for millenia? If they ever even existed...?"
+____TEXT____
+\c[7]Nosramus\c[0]
+"The truth is - Gods come and go. Humanity itself is the
+cause of the misery and the dreadful state of the world
+over the past few hundred years."
+____TEXT____
+\c[7]Nosramus\c[0]
+"Humans should blame themselves."
+____TEXT____
+\c[7]Nosramus\c[0]
+"Humans should take responsibility for themselves."
+____TEXT____
+\c[7]Nosramus\c[0]
+"I guess so haha."
+____TEXT____
+\c[7]Nosramus\c[0]
+"Hundreds of years here, in the darkness, with nothing else
+to do but study and read has its benefits."
+____TEXT____
+\c[7]Nosramus\c[0]
+"..."
+____TEXT____
+Nosramus seems suspicious. Feels like he isn't telling the
+whole truth.
+____TEXT____
+\c[7]Nosramus\c[0]
+"I really rather wouldn't waste my time on you."
+____TEXT____
+\c[7]Nosramus\c[0]
+"..."
+____TEXT____
+\c[7]Nosramus\c[0]
+"I take it that you talked to Valteil."
+____TEXT____
+\c[7]Nosramus\c[0]
+"How is he these days?"
+___CHOICE___
+"He's hanging on a rope and waiting to rot."
+"He seems to be regretting his past actions..."
+____TEXT____
+\c[7]Nosramus\c[0]
+"Hm..."
+____TEXT____
+Nosramus seems to show empathy for the enlightened one
+that has seen his end.
+____TEXT____
+\c[7]Nosramus\c[0]
+"Well it's an end of an era in that case. It was inevitable."
+____TEXT____
+\c[7]Nosramus\c[0]
+"Hooo. Is that so?"
+____TEXT____
+\c[7]Nosramus\c[0]
+"That's a first! He takes a lot of pride in his knowledge
+and I have yet to see him admit his mistakes."
+____TEXT____
+\c[7]Nosramus\c[0]
+"..."
+____TEXT____
+\c[7]Nosramus\c[0]
+"Ah, I don't want to be stuck in nostalgia. Sorry about 
+my absent mind!"
+___CHOICE___
+"He said you were on the path to enlightenment..."
+"He did mention that you were on a correct path..."
+____TEXT____
+\c[7]Nosramus\c[0]
+"Too bad I wasn't there to hear that."
+____TEXT____
+\c[7]Nosramus\c[0]
+"Really out-of-character for him to say that."
+____TEXT____
+\c[7]Nosramus\c[0]
+"Too bad I wasn't there to hear that."
+____TEXT____
+\c[7]Nosramus\c[0]
+"Really out-of-character for him to say that."
+____TEXT____
+\c[7]Nosramus\c[0]
+"He believed ascension was the key. That he could somehow
+achieve enlightenment with a snap of fingers."
+____TEXT____
+\c[7]Nosramus\c[0]
+"That was a ridiculous idea. I cannot understand how a scholar
+like him could believe there was such an easy way."
+____TEXT____
+\c[7]Nosramus\c[0]
+"The thing is..."
+____TEXT____
+\c[7]Nosramus\c[0]
+"There is no end on the path to enlightenment."
+____TEXT____
+\c[7]Nosramus\c[0]
+"New information, new forms of science, new people, new worlds...
+The knowledge of the universe keeps on increasing."
+____TEXT____
+\c[7]Nosramus\c[0]
+"How could you settle down thinking you are the end of it
+all?"
+____TEXT____
+\c[7]Nosramus\c[0]
+"If you are on a path of enlightenment... Seek all knowledge."
+____TEXT____
+\c[7]Nosramus\c[0]
+"Even the knowledge of the new gods. I wholeheartedly
+recommend that you sit on that golden throne and meet your
+reflection."
+____TEXT____
+\c[7]Nosramus\c[0]
+"But if you truly are a scholar of sciences - only observe.
+Do not surrender yourself to the lust of power."
+____TEXT____
+\c[7]Nosramus\c[0]
+"I know it is not an easy task. So that's why you can have
+this..."
+____TEXT____
+You get the \c[2]Spirit anchor\c[0] from Nosramus.
+____TEXT____
+\c[7]Nosramus\c[0]
+"That should keep you grounded, haha..."
+___CHOICE___
+"Why help me?"
+"Thank you."
+____TEXT____
+\c[7]Nosramus\c[0]
+"It's clearly the end of an era. So I'm just giving a little 
+helping hand to the new generation..."
+____TEXT____
+\c[7]Nosramus\c[0]
+"You're welcome."
+____TEXT____
+\c[7]Nosramus\c[0]
+"Take care!"
+____TEXT____
+Use \c[2]Lesser soul\c[0] to learn \c[2]Devour\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The skill of \c[2]Devour\c[0] is engraved in your mind!
+____TEXT____
+Use \c[2]Lesser soul\c[0] to learn \c[2]Marksmanship\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The skill of \c[2]Marksmanship\c[0] is engraved in your mind!
+____TEXT____
+Use \c[2]Lesser soul\c[0] to learn \c[2]Marksmanship\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The skill of \c[2]Marksmanship\c[0] is engraved in your mind!
+____TEXT____
+Use \c[2]Lesser soul\c[0] to learn \c[2]War cry\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The skill of \c[2]War cry\c[0] is engraved in your mind!
+____TEXT____
+Use \c[2]Lesser soul\c[0] to learn \c[2]Locust swarm\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The skill of \c[2]Locust swarm\c[0] is engraved in your mind!
+____TEXT____
+Use \c[2]Lesser soul\c[0] to learn \c[2]Locust swarm\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The skill of \c[2]Locust swarm\c[0] is engraved in your mind!
+____TEXT____
+Use \c[2]Lesser soul\c[0] to learn \c[2]Blood portal\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The skill of \c[2]Blood portal\c[0] is engraved in your mind!
+____TEXT____
+Use \c[2]Lesser soul\c[0] to learn \c[2]Counter-magic\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The skill of \c[2]Counter-magic\c[0] is engraved in your mind!
+____TEXT____
+Use \c[2]Lesser soul\c[0] to learn \c[2]Greater blood magic\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The skill of \c[2]Greater blood magic\c[0] is engraved in 
+your head!
+____TEXT____
+Use \c[2]Lesser soul\c[0] to learn \c[2]Flock of crows\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The skill of \c[2]Flock of crows\c[0] is engraved in your 
+head!
+____TEXT____
+Use \c[2]Lesser soul\c[0] to learn \c[2]Mastery over insects\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The skill of \c[2]Mastery over insects\c[0] is engraved 
+in your mind!
+____TEXT____
+Use \c[2]Lesser soul\c[0] to learn \c[2]Needle worms\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The skill of \c[2]Needle worms\c[0] is engraved in your 
+head!
+____TEXT____
+The person disappeared into the darkness. The echoes of
+their footsteps sound distant before vanishing completely
+into the thin moist air.
+____TEXT____
+You notice a person kneeling in the darkness.
+____TEXT____
+The person doesn't seem to radiate immediate danger or 
+aggression and your presence seems to remain hidden...
+___CHOICE___
+Wait for the person to walk away
+Show yourself
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+You step out of the shadows.
+____TEXT____
+\c[7]Nosramus\c[0]
+"Oh... New visitors?"
+____TEXT____
+\c[7]Nosramus\c[0]
+"My name is Nosramus. I'm an alchemist living down here.
+Pleased to meet you."
+____TEXT____
+You cannot quite tell if the alchemist is a woman or a man.
+Something in their stature seems almost otherwordly or
+ancient...
+___CHOICE___
+"Nice to meet you too."
+Stay cautious and say nothing.
+____TEXT____
+The white-haired alchemist gives you a smile that seems
+almost too genuine.
+____TEXT____
+The white-haired alchemist seems to measure you with
+squinty eyes...
+____TEXT____
+\c[7]Nosramus\c[0]
+"My apologies, I left a kettle on and I'm in a bit of a
+hurry. Let's meet again!"
+____TEXT____
+The minecart is full of rocks and rubble.
+___CHOICE___
+Take a stone
+Leave
+____TEXT____
+You take a \c[2]Stone\c[0].
+____TEXT____
+A minecart is left here...
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You feel a presence of a minor curse attached to the door.
+____TEXT____
+You could cancel its effects with your \c[2]Counter-magic\c[0].
+___CHOICE___
+Use \c[2]Counter-magic\c[0]
+Leave
+____TEXT____
+\c[2]Counter-magic\c[0] was succesful.
+____TEXT____
+You try to open the door but it doesn't budge.
+___CHOICE___
+Investigate
+Leave
+____TEXT____
+\c[2]Purifying talisman\c[0] seems to react to the markings
+on the door.
+___CHOICE___
+Use \c[2]Purifying talisman\c[0]
+Leave
+____TEXT____
+\c[2]Purifying talisman\c[0] burned brightly.
+____TEXT____
+An unknown force is keeping the door shut. There doesn't
+seem to be anything you could do.
+____TEXT____
+There are markings on the door that look similar to the
+text found around Eastern Sanctuaries.
+____TEXT____
+There are ancient alchemy tools left here. It looks like
+the room has been in constant use for ages.
+____TEXT____
+There are ancient alchemy tools left here. It looks like
+the room has been in constant use for ages.
+____TEXT____
+There are few potions left here...
+____TEXT____
+Nothing interesting left here.
+____TEXT____
+Use \c[2]Tinderbox\c[0] to light the candle?
+___CHOICE___
+Yes
+No
+____TEXT____
+A dusty globe made of marble. It seems to depict the world
+map, but some of these continents are unknown to you and
+to the rest of civilized world...
+____TEXT____
+A dusty globe made of marble. It seems to depict the world
+map, but some of these continents are unknown to you and
+to the rest of civilized world...
+____TEXT____
+A dusty globe made of marble. It seems to depict the world
+map, but some of these continents are unknown to you and
+to the rest of civilized world...
+____TEXT____
+There is a map of the known world carved on the wall. The
+map completely lacks the continent of Vinland, that was
+discovered in the modern times.
+____TEXT____
+There is a map of the known world carved on the wall. The
+map completely lacks the continent of Vinland, that was
+discovered in the modern times.
+____TEXT____
+A sturdy chest. It doesn't seem to be locked.
+___CHOICE___
+Open
+Leave it
+____TEXT____
+You find the \c[2]Scroll of pyromancy trick\c[0] and the
+\c[2]Scroll of combustion\c[0]!
+____TEXT____
+There is nothing left in the chest anymore.
+____TEXT____
+A sturdy chest. It doesn't seem to be locked.
+___CHOICE___
+Open
+Leave it
+____TEXT____
+You find the \c[2]Scroll of pyromancy trick\c[0] and the
+\c[2]Scroll of combustion\c[0]!
+____TEXT____
+There is nothing left in the chest anymore.
+____TEXT____
+There is an underground pond here. The water looks dark, 
+ominous, and too still to your liking...
+____TEXT____
+You could use \c[2]Walk on water\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+You could fill up your empty \c[2]Glass vial\c[0] with water...
+___CHOICE___
+Use \c[2]Glass vial\c[0]
+Leave
+____TEXT____
+You scoop up the water and get a \c[2]Water vial\c[0]!
+____TEXT____
+There is an underground pond here. The water looks dark, 
+ominous, and too still to your liking...
+____TEXT____
+You could use \c[2]Walk on water\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+You could fill up your empty \c[2]Glass vial\c[0] with water...
+___CHOICE___
+Use \c[2]Glass vial\c[0]
+Leave
+____TEXT____
+You scoop up the water and get a \c[2]Water vial\c[0]!
+____TEXT____
+There is an underground pond here. The water looks dark, 
+ominous, and too still to your liking...
+____TEXT____
+You could use \c[2]Walk on water\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+You could fill up your empty \c[2]Glass vial\c[0] with water...
+___CHOICE___
+Use \c[2]Glass vial\c[0]
+Leave
+____TEXT____
+You scoop up the water and get a \c[2]Water vial\c[0]!
+<follower touch>
+<follower touch>
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead lizardman.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead lizardman.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+Skinning knife doesn't cut lizardman's skin...
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead lizardman.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead lizardman.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+You already searched him.
+____TEXT____
+Skinning knife doesn't cut lizardman's skin...
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+You already searched him.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+A pile of flesh remains here...
+____TEXT____
+A pile of dead bodies is rotting in the water.
+____TEXT____
+A pile of dead bodies is rotting in the water.
+____TEXT____
+A pile of dead bodies is rotting in the water.
+____TEXT____
+A pile of dead bodies is rotting in the water.
+____TEXT____
+A pile of dead bodies is rotting in the water.
+____TEXT____
+A pile of dead bodies is rotting in the water.
+____TEXT____
+A pile of dead bodies is rotting in the water.
+____TEXT____
+A pile of dead bodies is rotting in the water.
+____TEXT____
+A pile of dead bodies is rotting in the water.
+____TEXT____
+A pile of dead bodies is rotting in the water.
+____TEXT____
+A pile of dead bodies is rotting in the water.
+____TEXT____
+A pile of dead bodies is rotting in the water.
+____TEXT____
+A pile of dead bodies is rotting in the water.
+____TEXT____
+A pile of dead bodies is rotting in the water.
+____TEXT____
+A pile of dead bodies is rotting in the water.
+____TEXT____
+A pile of dead bodies is rotting in the water.
+____TEXT____
+A pile of dead bodies is rotting in the water.
+____TEXT____
+A pile of dead bodies is rotting in the water.
+____TEXT____
+A pile of dead bodies is rotting in the water.
+____TEXT____
+A pile of dead bodies is rotting in the water.
+____TEXT____
+A pile of dead bodies is rotting in the water.
+____TEXT____
+A pile of dead bodies is rotting in the water.
+<follower touch>
+<follower touch>
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead lizardman.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead lizardman.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+Skinning knife doesn't cut lizardman's skin...
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead lizardman.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead lizardman.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+You already searched him.
+____TEXT____
+Skinning knife doesn't cut lizardman's skin...
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+You already searched him.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+A pile of flesh remains here...
+____TEXT____
+Someone has written notes here on an empty scroll:
+____TEXT____
+"O LORD
+GIVE
+ENLIGHTENMENT"
+____TEXT____
+There are ancient alchemy tools left here. It looks like
+the room has been in constant use for ages.
+____TEXT____
+There are ancient alchemy tools left here. It looks like
+the room has been in constant use for ages.
+____TEXT____
+There are ancient alchemy tools left here. It looks like
+the room has been in constant use for ages.
+____TEXT____
+You managed to defeat the spectre that was after your sword.
+____TEXT____
+Like distant winds carried from from the far-away lands 
+you hear whispers...
+____TEXT____
+\c[7]Assassin spectre\c[0]
+"Finish... my...task..."
+____TEXT____
+\c[7]Assassin spectre\c[0]
+"O... worthy..."
+____TEXT____
+The \c[2]Eastern sword\c[0] was purified!
+____TEXT____
+The engraving on the hilt becomes clear to you now.
+\c[2]Eastern sword\c[0] was purified and it revealed its
+true name to you - the Black Steel of the East.
+____TEXT____
+You managed to defeat the spectre that was after your sword.
+____TEXT____
+Like distant winds carried from from the far-away lands 
+you hear whispers...
+____TEXT____
+\c[7]Assassin spectre\c[0]
+"Finish... my...task..."
+____TEXT____
+\c[7]Assassin spectre\c[0]
+"O... worthy..."
+____TEXT____
+The \c[2]Eastern sword\c[0] was purified!
+____TEXT____
+The engraving on the hilt becomes clear to you now.
+\c[2]Eastern sword\c[0] was purified and it revealed its
+true name to you - the Black Steel of the East.
+____TEXT____
+You managed to defeat the spectre that was after your sword.
+____TEXT____
+Like distant winds carried from from the far-away lands 
+you hear whispers...
+____TEXT____
+\c[7]Assassin spectre\c[0]
+"Finish... my...task..."
+____TEXT____
+\c[7]Assassin spectre\c[0]
+"O... worthy..."
+____TEXT____
+The \c[2]Eastern sword\c[0] was purified!
+____TEXT____
+The engraving on the hilt becomes clear to you now.
+\c[2]Eastern sword\c[0] was purified and it revealed its
+true name to you - the Black Steel of the East.
+____TEXT____
+You notice a person kneeling in the darkness.
+____TEXT____
+The person doesn't seem to radiate immediate danger or 
+aggression and your presence seems to remain hidden...
+___CHOICE___
+Wait for the person to walk away
+Show yourself
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+You step out of the shadows.
+____TEXT____
+\c[7]Nosramus\c[0]
+"Oh... New visitors?"
+____TEXT____
+\c[7]Nosramus\c[0]
+"My name is Nosramus. I'm an alchemist living down here.
+Pleased to meet you."
+____TEXT____
+You cannot quite tell if the alchemist is a woman or a man.
+Something in their stature seems almost otherwordly or
+ancient...
+___CHOICE___
+"Nice to meet you too."
+Stay cautious and say nothing.
+____TEXT____
+The white-haired alchemist gives you a smile that seems
+almost too genuine.
+____TEXT____
+The white-haired alchemist seems to measure you with
+squinty eyes...
+____TEXT____
+\c[7]Nosramus\c[0]
+"My apologies, I left a kettle on and I'm in a bit of a
+hurry. Let's meet again!"
+____TEXT____
+The minecarts are blocking the way. It seems too tight to
+climb over them...
+____TEXT____
+The minecart is full of rocks and rubble though...
+___CHOICE___
+Take a stone
+Leave
+____TEXT____
+You take a \c[2]Stone\c[0].
+____TEXT____
+The minecarts are blocking the way. It seems too tight to
+climb over them...
+____TEXT____
+The minecarts are blocking the way. It seems too tight to
+climb over them...
+____TEXT____
+The minecarts are blocking the way. It seems too tight to
+climb over them...
+____TEXT____
+The minecarts are blocking the way. It seems too tight to
+climb over them...
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+The minecarts are blocking the way. It seems too tight to
+climb over them...
+____TEXT____
+The minecart is full of rocks and rubble though...
+___CHOICE___
+Take a stone
+Leave
+____TEXT____
+You take a \c[2]Stone\c[0].
+____TEXT____
+The minecarts are blocking the way. It seems too tight to
+climb over them...
+____TEXT____
+An empty minecart. It's gathering rust in the humidity of
+these mines...
+____TEXT____
+An empty minecart. It's gathering rust in the humidity of
+these mines...
+____TEXT____
+You search the barrel for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the barrel for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the barrel for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the barrel for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+There is some old writing here, but it has faded because
+of the time and the moist air.
+____TEXT____
+There is some old writing here, but it has faded because
+of the time and the moist air.
+____TEXT____
+You could open the locked door with \c[2]Lockpicking\c[0].
+___CHOICE___
+Use \c[2]Lockpicking\c[0]
+Don't
+____TEXT____
+The door seems to be locked...
+___CHOICE___
+Force the door open
+Use \c[2]Small key\c[0]
+Use \c[2]Red vial\c[0]
+Leave
+____TEXT____
+You managed to force your way through the door.
+____TEXT____
+You don't seem to be strong enough to force the door open...
+____TEXT____
+You managed to force your way through the door.
+____TEXT____
+You don't seem to be strong enough to force the door open...
+____TEXT____
+You managed to force your way through the door.
+____TEXT____
+You don't seem to be strong enough to force the door open...
+____TEXT____
+You try using \c[2]Small key\c[0].
+____TEXT____
+You try melting the lock with \c[2]Red vial\c[0].
+____TEXT____
+The door seems to be locked...
+___CHOICE___
+Force the door open
+Use \c[2]Red vial\c[0]
+Leave
+____TEXT____
+You managed to force your way through the door.
+____TEXT____
+You don't seem to be strong enough to force the door open...
+____TEXT____
+You managed to force your way through the door.
+____TEXT____
+You don't seem to be strong enough to force the door open...
+____TEXT____
+You managed to force your way through the door.
+____TEXT____
+You don't seem to be strong enough to force the door open...
+____TEXT____
+You try melting the lock with \c[2]Red vial\c[0].
+____TEXT____
+The door seems to be locked...
+___CHOICE___
+Force the door open
+Use \c[2]Small key\c[0]
+Leave it
+____TEXT____
+You managed to force your way through the door.
+____TEXT____
+You don't seem to be strong enough to force the door open...
+____TEXT____
+You managed to force your way through the door.
+____TEXT____
+You don't seem to be strong enough to force the door open...
+____TEXT____
+You managed to force your way through the door.
+____TEXT____
+You don't seem to be strong enough to force the door open...
+____TEXT____
+You try using \c[2]Small key\c[0].
+____TEXT____
+The door seems to be locked...
+___CHOICE___
+Force the door open
+Leave it
+____TEXT____
+You managed to force your way through the door.
+____TEXT____
+You don't seem to be strong enough to force the door open...
+____TEXT____
+You managed to force your way through the door.
+____TEXT____
+You don't seem to be strong enough to force the door open...
+____TEXT____
+You managed to force your way through the door.
+____TEXT____
+You don't seem to be strong enough to force the door open...
+____TEXT____
+You search the barrel for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+\c[7]Cahara\c[0]
+"I don't know what got into me..."
+____TEXT____
+\c[7]Cahara\c[0]
+"I'm feeling a lot better now though."
+____TEXT____
+\c[7]Cahara\c[0]
+"That helped a lot. Thanks..."
+____TEXT____
+\c[7]Cahara\c[0]
+"I don't know what got into me."
+____TEXT____
+\c[7]Cahara\c[0]
+"Let's just pretend that never happened."
+____TEXT____
+\c[7]Cahara\c[0]
+"Looks like you got a full party already. I think I'll wait
+here for just a little while longer in that case."
+____TEXT____
+\c[7]Cahara\c[0]
+"Don't worry. I'm fine now. Thanks again."
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+He... seems dead.
+___CHOICE___
+Search him
+Investigate
+Leave
+____TEXT____
+You undress the mercenary and take the
+\c[2]Leather vest\c[0] with you.
+____TEXT____
+He has nothing of value anymore...
+____TEXT____
+There's no sign of anyone or anything attacking him. He does 
+have an expression of terror on his face though.
+____TEXT____
+His hands seem to be grasping his chest... Was it a heart 
+attack?
+____TEXT____
+\c[7]Girl\c[0]
+"..."
+____TEXT____
+The girl is looking shaken, but your presence seems to calm
+her down.
+____TEXT____
+\c[7]Girl\c[0]
+"..."
+____TEXT____
+The girl is looking shaken, but your presence seems to calm
+her down.
+____TEXT____
+The girl ponders whether she can join your party or not...
+____TEXT____
+Looks like your party is a bit too full for new members.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+The stone has a heavy aura to it. It's almost too much
+for you to carry...
+____TEXT____
+She... seems dead.
+___CHOICE___
+Beat her
+Search her
+Investigate
+Leave
+____TEXT____
+No reaction...
+____TEXT____
+She has nothing of value...
+____TEXT____
+There's no sign of anyone or anything attacking her. She does 
+have an expression of terror on her face though.
+____TEXT____
+Her hands seem to be grasping her chest... Was it a heart 
+attack?
+____TEXT____
+\c[7]D'arce\c[0]
+"This is the second time of you saving me already! I owe 
+you the deepest gratitude!"
+____TEXT____
+\c[7]D'arce\c[0]
+"This is the second time of you saving me already! I owe 
+you the deepest gratitude!"
+____TEXT____
+\c[7]D'arce\c[0]
+"Thank you! I don't know how deep I would've succumbed 
+without you looking after me."
+____TEXT____
+\c[7]D'arce\c[0]
+"... Your party seems full already. Maybe it's better for
+me to stay here for a moment."
+____TEXT____
+\c[7]D'arce\c[0]
+"Don't worry. This place seems as safe as it can get in 
+these dungeons."
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+She... seems dead.
+___CHOICE___
+Search her
+Investigate
+Leave
+____TEXT____
+She has nothing of value anymore.
+____TEXT____
+You take knight's \c[2]Plate mail\c[0], \c[2]Long sword\c[0]
+and her \c[2]Eagle crest shield\c[0].
+____TEXT____
+In addition you find \c[2]Blue vial\c[0] and 20
+\c[2]Silver coins\c[0]!
+____TEXT____
+There's no sign of anyone or anything attacking her. She does 
+have an expression of terror on her face though.
+____TEXT____
+Her hands seem to be grasping her chest... Was it a heart 
+attack?
+____TEXT____
+\c[7]Le'garde\c[0]
+"A moment of weakness..."
+____TEXT____
+\c[7]Le'garde\c[0]
+"I'm sorry you had to see me that way..."
+____TEXT____
+\c[7]Le'garde\c[0]
+"A moment of weakness..."
+____TEXT____
+\c[7]Le'garde\c[0]
+"I'm sorry you had to see me that way..."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Thank you for your help. I must repay this one day... 
+Remind me that I owe you one."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Five is a crowd in these dungeons. Maybe scout ahead in that
+party? I'll wait here for a while."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Don't worry. I won't show such weakness anymore."
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+He... seems dead.
+___CHOICE___
+Search him
+Investigate
+Leave
+____TEXT____
+You take his \c[2]Plate mail\c[0], \c[2]Long sword\c[0]
+and her \c[2]Eagle crest shield\c[0].
+____TEXT____
+He has nothing of value anymore...
+____TEXT____
+There's no sign of anyone or anything attacking him. He does 
+have an expression of terror on his face though.
+____TEXT____
+His hands seem to be grasping his chest... Was it a heart 
+attack?
+____TEXT____
+\c[7]Enki\c[0]
+"That was pitiful of me... Have I underestimated the strength 
+of these dungeons...?"
+____TEXT____
+\c[7]Enki\c[0]
+"No."
+____TEXT____
+\c[7]Enki\c[0]
+"I've climbed up from deeper depths before..."
+____TEXT____
+\c[7]Enki\c[0]
+"That was pitiful of me... Have I underestimated the strength 
+of these dungeons...?"
+____TEXT____
+\c[7]Enki\c[0]
+"No."
+____TEXT____
+\c[7]Enki\c[0]
+"I've climbed up from deeper depths before..."
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+____TEXT____
+\c[7]Enki\c[0]
+"You are not expecting my gratitude, are you?"
+____TEXT____
+\c[7]Enki\c[0]
+"Are you asking me to join your party?"
+____TEXT____
+\c[7]Enki\c[0]
+"Marching these hallways in such a big party would attract
+every little murderous critter from a kilometers radius..."
+____TEXT____
+\c[7]Enki\c[0]
+"Instead. I will collect my thoughts here for a moment. Come
+back when one of you has perished or fled the horrors."
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+He... seems dead.
+___CHOICE___
+Search him
+Investigate
+Leave
+____TEXT____
+You undress the dark priest and take the
+\c[2]High priest's robe\c[0] with you.
+____TEXT____
+You also find a talisman hanging from Enki's neck. 
+You take the \c[2]Everwatching talisman\c[0] with you.
+____TEXT____
+He has nothing of value anymore...
+____TEXT____
+There's no sign of anyone or anything attacking him. He does 
+have an expression of terror on his face though.
+____TEXT____
+His hands seem to be grasping his chest... Was it a heart 
+attack?
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"It's terrifying how big of a grasp our mind has over our 
+bodies..."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Without your aid... I'm sure I'd be fighting my battles in
+afterlife by now."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"That helped a lot. Thank you my friend."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"It's terrifying how big of a grasp our mind has over our 
+bodies..."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Without your aid... I'm sure I'd be fighting my battles in
+afterlife by now."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Your party seems rather large already. I don't feel 
+comfortable moving in such a large packs in these narrow
+hallways."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"If you don't mind, I'll stay here for a brief moment. Come
+back if you need my assistance!""
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+He... seems dead.
+___CHOICE___
+Search him
+Investigate
+Leave
+____TEXT____
+You undress the outlander and take the \c[2]Fur armor\c[0]
+with you.
+____TEXT____
+You also find \c[2]8 iron arrows\c[0].
+____TEXT____
+He has nothing of value anymore.
+____TEXT____
+There's no sign of anyone or anything attacking him. He does 
+have an expression of terror on his face though.
+____TEXT____
+His hands seem to be grasping his chest... Was it a heart 
+attack?

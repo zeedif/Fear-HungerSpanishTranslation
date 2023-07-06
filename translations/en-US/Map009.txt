@@ -1,0 +1,1225 @@
+____TEXT____
+Not even a slight moan can be heard from them.
+Everything is happening in complete silence.
+____TEXT____
+The act looks painful to the submissive one.
+____TEXT____
+They don't even seem to notice you, let alone be 
+bothered by your presence...
+____TEXT____
+It's hard to tell whether they are enjoying the act
+or not...
+____TEXT____
+They seem busy... best not interrupt.
+____TEXT____
+They are in a trance-like state.
+____TEXT____
+Even if they seem distant, you feel the love they're
+emitting to their surroundings.
+____TEXT____
+\c[7]Naked bunnymask\c[0]
+"Welcome to the meadows o' traveller!"
+____TEXT____
+\c[7]Naked bunnymask\c[0]
+"Let us ease your suffering..."
+____TEXT____
+\c[7]Naked bunnymask\c[0]
+"The first one is free."
+____TEXT____
+\c[7]Naked bunnymask\c[0]
+"Are you looking for a partner?"
+___CHOICE___
+Yes
+No
+____TEXT____
+\c[7]Naked bunnymask\c[0]
+"Just take off your clothes and put on this mask."
+____TEXT____
+\c[7]Naked bunnymask\c[0]
+"Hmmm...."
+____TEXT____
+\c[7]Naked bunnymask\c[0]
+"Love... That armor isn't coming off, is it?"
+____TEXT____
+\c[7]Naked bunnymask\c[0]
+"I'm afraid there is not much we do in that case..."
+____TEXT____
+\c[7]Naked bunnymask\c[0]
+"Hmmm...."
+____TEXT____
+\c[7]Naked bunnymask\c[0]
+"Love, unfortunately your parts don't seem operational
+anymore..."
+___CHOICE___
+HEADS
+TAILS
+___CHOICE___
+HEADS
+TAILS
+___CHOICE___
+HEADS
+TAILS
+___CHOICE___
+HEADS
+TAILS
+___CHOICE___
+HEADS
+TAILS
+___CHOICE___
+HEADS
+TAILS
+____TEXT____
+With the act, your affinity with the Sylvian is growing...
+____TEXT____
+Both of them are staring to the far-distance.
+____TEXT____
+The woman on top is doing all the work.
+____TEXT____
+They are completely focused on each other.
+____TEXT____
+They are in a trance-like state.
+____TEXT____
+Partly decomposed body is hanging here.
+____TEXT____
+Partly decomposed body is hanging here.
+____TEXT____
+Partly decomposed body is hanging here.
+____TEXT____
+Partly decomposed body is hanging here.
+____TEXT____
+An ancient statue stands here.
+____TEXT____
+Do you want to pray?
+___CHOICE___
+Pray to Gro-goroth
+Pray to Sylvian
+Pray to Alll-mer
+Leave
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+You finish praying.
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+You finish praying.
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+You finish praying.
+____TEXT____
+An ancient statue stands here.
+____TEXT____
+Do you want to pray?
+___CHOICE___
+Pray to Gro-goroth
+Pray to Sylvian
+Pray to Alll-mer
+Leave
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+You finish praying.
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+You finish praying.
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+You finish praying.
+____TEXT____
+An ancient statue stands here.
+____TEXT____
+Do you want to pray?
+___CHOICE___
+Pray to Gro-goroth
+Pray to Sylvian
+Pray to Alll-mer
+Leave
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+You finish praying.
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+You finish praying.
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+You finish praying.
+____TEXT____
+An ancient statue stands here.
+____TEXT____
+Do you want to pray?
+___CHOICE___
+Pray to Gro-goroth
+Pray to Sylvian
+Pray to Alll-mer
+Leave
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+You finish praying.
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+You finish praying.
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+You finish praying.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the barrel for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the barrel for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+A simple dagger is laying on the ground...
+____TEXT____
+It reminds you of your childhood, when your father
+used to teach you swordsmanship with a similar dagger.
+____TEXT____
+It might be a suitable weapon for children, but
+for adults it's too small.
+____TEXT____
+You could give it to the girl or \N[8]...
+___CHOICE___
+Give it to the girl
+Give it to \N[8]
+Leave
+____TEXT____
+You give it to the girl and she seems surprised to
+get a gift such as this dagger.
+____TEXT____
+Seems like she is not used to kindness of any kind.
+____TEXT____
+In any case, the girl seems excited about the dagger.
+____TEXT____
+Girl got a \c[2]Dagger\c[0]!
+____TEXT____
+You give it to \N[8] and he seems puzzled. But he
+quickly realizes it's potential as something to enhance
+his damage output.
+____TEXT____
+\N[8] seems to tremble in excitement...
+____TEXT____
+\N[8] got a \c[2]Dagger\c[0]!
+____TEXT____
+You could give it to the girl...
+___CHOICE___
+Give
+No
+____TEXT____
+You give it to the girl and she seems surprised to
+get a gift such as this dagger.
+____TEXT____
+Seems like she is not used to kindness of any kind.
+____TEXT____
+In any case, the girl seems excited about the dagger.
+____TEXT____
+Girl got a \c[2]Dagger\c[0]!
+____TEXT____
+You could give it to \N[8]...
+___CHOICE___
+Give
+No
+____TEXT____
+You give it to \N[8] and he seems puzzled. But he
+quickly realizes it's potential as something to enhance
+his damage output.
+____TEXT____
+\N[8] seems to tremble in excitement...
+____TEXT____
+\N[8] got a \c[2]Dagger\c[0]!
+____TEXT____
+\c[7]Thin creature\c[0]
+"L-leave me be, please."
+____TEXT____
+\c[7]Thin creature\c[0]
+"I'm turning into a butterfly!"
+___CHOICE___
+Attack
+Talk
+Leave
+____TEXT____
+\c[7]Thin creature\c[0]
+"L-listen, I'm not asking much..."
+____TEXT____
+\c[7]Thin creature\c[0]
+"Just let me turn into a butterfly."
+____TEXT____
+\c[7]Thin creature\c[0]
+"I'm going to be a pretty butterfly!"
+____TEXT____
+You find a \c[2]Butterfly soul\c[0] from the ground.
+____TEXT____
+It might be just your imagination, but you think you saw
+a giant butterfly soar the sky in the corner of your eye...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead creature.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains. There wasn't much...
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the thin creature.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The creature is slain.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+A pile of flesh remains here...
+____TEXT____
+The girl is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+The stone has a heavy aura to it. It's almost too much
+for you to carry...
+____TEXT____
+Here lies \N[16]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[17]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[18]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Moonless is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[1]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[3]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[6]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[5]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[4]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+MERCENARY
+KNIGHT
+CAPTAIN
+OUTLANDER
+MARRIAGE
+____TEXT____
+You search the barrel for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+The hallway has collapsed here. Makes you wonder
+how the rest of this old fortress stays standing...
+____TEXT____
+You could use \c[2]Explosive vial\c[0] here...
+___CHOICE___
+Use \c[2]Explosive vial\c[0]
+Leave
+____TEXT____
+The hallway has collapsed here. Makes you wonder
+how the rest of this old fortress stays standing...
+____TEXT____
+You could use \c[2]Explosive vial\c[0] here...
+___CHOICE___
+Use \c[2]Explosive vial\c[0]
+Leave
+____TEXT____
+The hallway has collapsed here. Makes you wonder
+how the rest of this old fortress stays standing...
+____TEXT____
+Your child is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+The hallway has collapsed here. Makes you wonder
+how the rest of this old fortress stays standing...
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+The hallway has collapsed here. Makes you wonder
+how the rest of this old fortress stays standing...
+____TEXT____
+The hallway has collapsed here. Makes you wonder
+how the rest of this old fortress stays standing...
+____TEXT____
+\c[7]Outlander\c[0]
+"Stay cautious in the dungeons."
+____TEXT____
+\c[7]Outlander\c[0]
+"The evil in this place is of pure kind."
+____TEXT____
+\c[7]Outlander\c[0]
+"It's not here just to torment us, it's not here to spread
+its roots into surrounding world."
+____TEXT____
+\c[7]Outlander\c[0]
+"Even if the dungeon's vile traps and decrepit monsters would
+lead you to believe otherwise."
+____TEXT____
+\c[7]Outlander\c[0]
+"Its interests are already past this world and this place
+is a mere relic from its long history."
+___CHOICE___
+"You seem familiar with this evil."
+"Who are you?"
+"Why are you here?"
+Attack him
+____TEXT____
+\c[7]Outlander\c[0]
+"Ja, yes. My kind, the northern people of Oldegård...
+We found the dark continent of Vinland from the far-reaches
+of the west."
+____TEXT____
+\c[7]Outlander\c[0]
+"The moment you lay your eyes on the crooked mountains
+and the twisted forests of those lands - You feel the 
+presence of a greater evil."
+____TEXT____
+\c[7]Outlander\c[0]
+"It's that same evil that resides here."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"You can call me Ragnvaldr. I'm an outlander."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"I am here to find a relic that a certain person took from
+my people."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"This man is imprisoned somewhere deep down below."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Tch. So you got a dead wish after all."
+____TEXT____
+\c[7]Outlander\c[0]
+"What is it?"
+___CHOICE___
+"You seem familiar with this evil."
+"Who are you?"
+"Why are you here?"
+Attack him
+Leave
+____TEXT____
+\c[7]Outlander\c[0]
+"Ja, yes. My kind, the northern people of Oldegård...
+We found the dark continent of Vinland from the far-reaches
+of the west."
+____TEXT____
+\c[7]Outlander\c[0]
+"The moment you lay your eyes on the crooked mountains
+and the twisted forests of those lands - You feel the 
+presence of a greater evil."
+____TEXT____
+\c[7]Outlander\c[0]
+"It's that same evil that resides here."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"You can call me Ragnvaldr. I'm from the north, from
+the kingdom of Oldegård."
+____TEXT____
+\c[7]Outlander\c[0]
+"I am here to find a relic that a certain person took from
+my people."
+____TEXT____
+\c[7]Outlander\c[0]
+"This man is imprisoned somewhere deep down below."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Tch. So you got a dead wish after all."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"What is it?"
+___CHOICE___
+"You seem familiar with this evil."
+"Can you tell more about the Oldegård?"
+"Why are you here?"
+"Maybe it's safer together?"
+Attack him
+Leave
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Ja, yes. My kind, the northern people of Oldegård...
+We found the dark continent of Vinland from the far-reaches
+of the west."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"The moment you lay your eyes on the crooked mountains
+and the twisted forests of those lands - You feel the 
+presence of a greater evil."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"It's that same evil that resides here."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Ja, would love to. Oldegård is the kingdom of all the
+warrior tribes of the north."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Oldengård breeds the finest, the strongest and the bravest
+men and women known in this age." 
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"We also have a long history in sailing and as traveling
+merchants."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"I am here to find a relic that a certain person took from
+my people."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"This man is imprisoned somewhere deep down below."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"No doubt it would be for you."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"But for the time being, I won't be traveling with you."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Tch. So you got a dead wish after all."
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+The outlander is down...
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+You undress the outlander and take the \c[2]Fur armor\c[0]
+with you.
+____TEXT____
+You also find \c[2]8 iron arrows\c[0].
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+The outlander is down...
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+The outlander has nothing of value anymore.
+____TEXT____
+The hallway has collapsed here. Makes you wonder
+how the rest of this old fortress stays standing...
+____TEXT____
+The hallway has collapsed here. Makes you wonder
+how the rest of this old fortress stays standing...
+____TEXT____
+"Hold it!"
+____TEXT____
+\c[7]Outlander\c[0]
+"..."
+____TEXT____
+\c[7]Outlander\c[0]
+"I see..."
+____TEXT____
+\c[7]Outlander\c[0]
+"Seems like you still retain your sanity."
+____TEXT____
+\c[7]Outlander\c[0]
+"In a way it's reassuring to see that I'm not completely
+alone here."
+____TEXT____
+\c[7]Outlander\c[0]
+"Tell me - are you evil?"
+___CHOICE___
+"Yes."
+"No."
+____TEXT____
+\c[7]Outlander\c[0]
+"Hmm... Is that so?"
+____TEXT____
+\c[7]Outlander\c[0]
+"Well I suppose no one in these dungeons can call
+themselves saints exactly."
+____TEXT____
+\c[7]Outlander\c[0]
+"Hmm... Only time will tell."
+____TEXT____
+\c[7]Outlander\c[0]
+"You'd be surprised what you truly are capable of, once 
+you stay long enough here."
+____TEXT____
+\c[7]Outlander\c[0]
+"But your presence here just means these dungeons will
+claim one more victim."
+____TEXT____
+\c[7]Outlander\c[0]
+"...And the evil residing here will grow that 
+much stronger."
+____TEXT____
+\c[7]Outlander\c[0]
+"If I were you, I'd try to escape these ancient walls by
+any means necessary."
+____TEXT____
+"Hold it!"
+____TEXT____
+\c[7]Outlander\c[0]
+"..."
+____TEXT____
+\c[7]Outlander\c[0]
+"I see..."
+____TEXT____
+\c[7]Outlander\c[0]
+"Seems like you still retain your sanity."
+____TEXT____
+\c[7]Outlander\c[0]
+"In a way it's reassuring to see that I'm not completely
+alone here."
+____TEXT____
+\c[7]Outlander\c[0]
+"Tell me - are you evil?"
+___CHOICE___
+"Yes."
+"No."
+____TEXT____
+\c[7]Outlander\c[0]
+"Hmm... Is that so?"
+____TEXT____
+\c[7]Outlander\c[0]
+"Well I suppose no one in these dungeons can call
+themselves saints exactly."
+____TEXT____
+\c[7]Outlander\c[0]
+"Hmm... Only time will tell."
+____TEXT____
+\c[7]Outlander\c[0]
+"You'd be surprised what you truly are capable of, once 
+you stay long enough here."
+____TEXT____
+\c[7]Outlander\c[0]
+"But your presence here just means these dungeons will
+claim one more victim."
+____TEXT____
+\c[7]Outlander\c[0]
+"...And the evil residing here will grow that 
+much stronger."
+____TEXT____
+\c[7]Outlander\c[0]
+"If I were you, I'd try to escape these ancient walls by
+any means necessary."
+____TEXT____
+\c[7]Outlander\c[0]
+"For your sake, I hope our paths don't cross again here."
+____TEXT____
+"Hold it!"
+____TEXT____
+\c[7]Outlander\c[0]
+"..."
+____TEXT____
+\c[7]Outlander\c[0]
+"I see..."
+____TEXT____
+\c[7]Outlander\c[0]
+"Seems like you still retain your sanity."
+____TEXT____
+\c[7]Outlander\c[0]
+"In a way it's reassuring to see that I'm not completely
+alone here."
+____TEXT____
+\c[7]Outlander\c[0]
+"Tell me - are you evil?"
+___CHOICE___
+"Yes."
+"No."
+____TEXT____
+\c[7]Outlander\c[0]
+"Hmm... Is that so?"
+____TEXT____
+\c[7]Outlander\c[0]
+"Well I suppose no one in these dungeons can call
+themselves saints exactly."
+____TEXT____
+\c[7]Outlander\c[0]
+"Hmm... Only time will tell."
+____TEXT____
+\c[7]Outlander\c[0]
+"You'd be surprised what you truly are capable of, once 
+you stay long enough here."
+____TEXT____
+\c[7]Outlander\c[0]
+"But your presence here just means these dungeons will
+claim one more victim."
+____TEXT____
+\c[7]Outlander\c[0]
+"...And the evil residing here will grow that 
+much stronger."
+____TEXT____
+\c[7]Outlander\c[0]
+"If I were you, I'd try to escape these ancient walls by
+any means necessary."
+____TEXT____
+\c[7]Outlander\c[0]
+"For your sake, I hope our paths don't cross again here."
+____TEXT____
+"Hold it!"
+____TEXT____
+\c[7]Outlander\c[0]
+"..."
+____TEXT____
+\c[7]Outlander\c[0]
+"I see..."
+____TEXT____
+\c[7]Outlander\c[0]
+"Seems like you still retain your sanity."
+____TEXT____
+\c[7]Outlander\c[0]
+"In a way it's reassuring to see that I'm not completely
+alone here."
+____TEXT____
+\c[7]Outlander\c[0]
+"Tell me - are you evil?"
+___CHOICE___
+"Yes."
+"No."
+____TEXT____
+\c[7]Outlander\c[0]
+"Hmm... Is that so?"
+____TEXT____
+\c[7]Outlander\c[0]
+"Well I suppose no one in these dungeons can call
+themselves saints exactly."
+____TEXT____
+\c[7]Outlander\c[0]
+"Hmm... Only time will tell."
+____TEXT____
+\c[7]Outlander\c[0]
+"You'd be surprised what you truly are capable of, once 
+you stay long enough here."
+____TEXT____
+\c[7]Outlander\c[0]
+"But your presence here just means these dungeons will
+claim one more victim."
+____TEXT____
+\c[7]Outlander\c[0]
+"...And the evil residing here will grow that 
+much stronger."
+____TEXT____
+\c[7]Outlander\c[0]
+"If I were you, I'd try to escape these ancient walls by
+any means necessary."
+____TEXT____
+\c[7]Outlander\c[0]
+"For your sake, I hope our paths don't cross again here."
+____TEXT____
+"Hold it!"
+____TEXT____
+\c[7]Outlander\c[0]
+"..."
+____TEXT____
+\c[7]Outlander\c[0]
+"I see..."
+____TEXT____
+\c[7]Outlander\c[0]
+"Seems like you still retain your sanity."
+____TEXT____
+\c[7]Outlander\c[0]
+"In a way it's reassuring to see that I'm not completely
+alone here."
+____TEXT____
+\c[7]Outlander\c[0]
+"Tell me - are you evil?"
+___CHOICE___
+"Yes."
+"No."
+____TEXT____
+\c[7]Outlander\c[0]
+"Hmm... Is that so?"
+____TEXT____
+\c[7]Outlander\c[0]
+"Well I suppose no one in these dungeons can call
+themselves saints exactly."
+____TEXT____
+\c[7]Outlander\c[0]
+"Hmm... Only time will tell."
+____TEXT____
+\c[7]Outlander\c[0]
+"You'd be surprised what you truly are capable of, once 
+you stay long enough here."
+____TEXT____
+\c[7]Outlander\c[0]
+"But your presence here just means these dungeons will
+claim one more victim."
+____TEXT____
+\c[7]Outlander\c[0]
+"...And the evil residing here will grow that 
+much stronger."
+____TEXT____
+\c[7]Outlander\c[0]
+"If I were you, I'd try to escape these ancient walls by
+any means necessary."
+____TEXT____
+\c[7]Outlander\c[0]
+"For your sake, I hope our paths don't cross again here."
+____TEXT____
+"Hold it!"
+____TEXT____
+\c[7]Outlander\c[0]
+"..."
+____TEXT____
+\c[7]Outlander\c[0]
+"I see..."
+____TEXT____
+\c[7]Outlander\c[0]
+"Seems like you still retain your sanity."
+____TEXT____
+\c[7]Outlander\c[0]
+"In a way it's reassuring to see that I'm not completely
+alone here."
+____TEXT____
+\c[7]Outlander\c[0]
+"Tell me - are you evil?"
+___CHOICE___
+"Yes."
+"No."
+____TEXT____
+\c[7]Outlander\c[0]
+"Hmm... Is that so?"
+____TEXT____
+\c[7]Outlander\c[0]
+"Well I suppose no one in these dungeons can call
+themselves saints exactly."
+____TEXT____
+\c[7]Outlander\c[0]
+"Hmm... Only time will tell."
+____TEXT____
+\c[7]Outlander\c[0]
+"You'd be surprised what you truly are capable of, once 
+you stay long enough here."
+____TEXT____
+\c[7]Outlander\c[0]
+"But your presence here just means these dungeons will
+claim one more victim."
+____TEXT____
+\c[7]Outlander\c[0]
+"...And the evil residing here will grow that 
+much stronger."
+____TEXT____
+\c[7]Outlander\c[0]
+"If I were you, I'd try to escape these ancient walls by
+any means necessary."
+____TEXT____
+\c[7]Outlander\c[0]
+"For your sake, I hope our paths don't cross again here."
+____TEXT____
+"Hold it!"
+____TEXT____
+\c[7]Outlander\c[0]
+"..."
+____TEXT____
+\c[7]Outlander\c[0]
+"I see..."
+____TEXT____
+\c[7]Outlander\c[0]
+"Seems like you still retain your sanity."
+____TEXT____
+\c[7]Outlander\c[0]
+"In a way it's reassuring to see that I'm not completely
+alone here."
+____TEXT____
+\c[7]Outlander\c[0]
+"Tell me - are you evil?"
+___CHOICE___
+"Yes."
+"No."
+____TEXT____
+\c[7]Outlander\c[0]
+"Hmm... Is that so?"
+____TEXT____
+\c[7]Outlander\c[0]
+"Well I suppose no one in these dungeons can call
+themselves saints exactly."
+____TEXT____
+\c[7]Outlander\c[0]
+"Hmm... Only time will tell."
+____TEXT____
+\c[7]Outlander\c[0]
+"You'd be surprised what you truly are capable of, once 
+you stay long enough here."
+____TEXT____
+\c[7]Outlander\c[0]
+"But your presence here just means these dungeons will
+claim one more victim."
+____TEXT____
+\c[7]Outlander\c[0]
+"...And the evil residing here will grow that 
+much stronger."
+____TEXT____
+\c[7]Outlander\c[0]
+"If I were you, I'd try to escape these ancient walls by
+any means necessary."
+____TEXT____
+\c[7]Outlander\c[0]
+"For your sake, I hope our paths don't cross again here."
+____TEXT____
+"Hold it!"
+____TEXT____
+\c[7]Outlander\c[0]
+"..."
+____TEXT____
+\c[7]Outlander\c[0]
+"I see..."
+____TEXT____
+\c[7]Outlander\c[0]
+"Seems like you still retain your sanity."
+____TEXT____
+\c[7]Outlander\c[0]
+"In a way it's reassuring to see that I'm not completely
+alone here."
+____TEXT____
+\c[7]Outlander\c[0]
+"Tell me - are you evil?"
+___CHOICE___
+"Yes."
+"No."
+____TEXT____
+\c[7]Outlander\c[0]
+"Hmm... Is that so?"
+____TEXT____
+\c[7]Outlander\c[0]
+"Well I suppose no one in these dungeons can call
+themselves saints exactly."
+____TEXT____
+\c[7]Outlander\c[0]
+"Hmm... Only time will tell."
+____TEXT____
+\c[7]Outlander\c[0]
+"You'd be surprised what you truly are capable of, once 
+you stay long enough here."
+____TEXT____
+\c[7]Outlander\c[0]
+"But your presence here just means these dungeons will
+claim one more victim."
+____TEXT____
+\c[7]Outlander\c[0]
+"...And the evil residing here will grow that 
+much stronger."
+____TEXT____
+\c[7]Outlander\c[0]
+"If I were you, I'd try to escape these ancient walls by
+any means necessary."
+____TEXT____
+\c[7]Outlander\c[0]
+"For your sake, I hope our paths don't cross again here."
+____TEXT____
+"Hold it!"
+____TEXT____
+\c[7]Outlander\c[0]
+"..."
+____TEXT____
+\c[7]Outlander\c[0]
+"I see..."
+____TEXT____
+\c[7]Outlander\c[0]
+"Seems like you still retain your sanity."
+____TEXT____
+\c[7]Outlander\c[0]
+"In a way it's reassuring to see that I'm not completely
+alone here."
+____TEXT____
+\c[7]Outlander\c[0]
+"Tell me - are you evil?"
+___CHOICE___
+"Yes."
+"No."
+____TEXT____
+\c[7]Outlander\c[0]
+"Hmm... Is that so?"
+____TEXT____
+\c[7]Outlander\c[0]
+"Well I suppose no one in these dungeons can call
+themselves saints exactly."
+____TEXT____
+\c[7]Outlander\c[0]
+"Hmm... Only time will tell."
+____TEXT____
+\c[7]Outlander\c[0]
+"You'd be surprised what you truly are capable of, once 
+you stay long enough here."
+____TEXT____
+\c[7]Outlander\c[0]
+"But your presence here just means these dungeons will
+claim one more victim."
+____TEXT____
+\c[7]Outlander\c[0]
+"...And the evil residing here will grow that 
+much stronger."
+____TEXT____
+\c[7]Outlander\c[0]
+"If I were you, I'd try to escape these ancient walls by
+any means necessary."
+____TEXT____
+\c[7]Outlander\c[0]
+"For your sake, I hope our paths don't cross again here."
+____TEXT____
+"Hold it!"
+____TEXT____
+\c[7]Outlander\c[0]
+"..."
+____TEXT____
+\c[7]Outlander\c[0]
+"I see..."
+____TEXT____
+\c[7]Outlander\c[0]
+"Seems like you still retain your sanity."
+____TEXT____
+\c[7]Outlander\c[0]
+"In a way it's reassuring to see that I'm not completely
+alone here."
+____TEXT____
+\c[7]Outlander\c[0]
+"Tell me - are you evil?"
+___CHOICE___
+"Yes."
+"No."
+____TEXT____
+\c[7]Outlander\c[0]
+"Hmm... Is that so?"
+____TEXT____
+\c[7]Outlander\c[0]
+"Well I suppose no one in these dungeons can call
+themselves saints exactly."
+____TEXT____
+\c[7]Outlander\c[0]
+"Hmm... Only time will tell."
+____TEXT____
+\c[7]Outlander\c[0]
+"You'd be surprised what you truly are capable of, once 
+you stay long enough here."
+____TEXT____
+\c[7]Outlander\c[0]
+"But your presence here just means these dungeons will
+claim one more victim."
+____TEXT____
+\c[7]Outlander\c[0]
+"...And the evil residing here will grow that 
+much stronger."
+____TEXT____
+\c[7]Outlander\c[0]
+"If I were you, I'd try to escape these ancient walls by
+any means necessary."
+____TEXT____
+\c[7]Outlander\c[0]
+"For your sake, I hope our paths don't cross again here."
+____TEXT____
+You pick up a \c[2]Green herb\c[0].
+____TEXT____
+You pick up a \c[2]Blue herb\c[0].
+____TEXT____
+You pick up a \c[2]Blue herb\c[0].
+____TEXT____
+Here lies \N[19]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[20]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[21]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+You pick up a \c[2]Red herb\c[0].
+____TEXT____
+You find a \c[2]Stick\c[0]!
+____TEXT____
+You find a \c[2]Stick\c[0]!

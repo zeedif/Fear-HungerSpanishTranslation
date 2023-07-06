@@ -1,0 +1,599 @@
+____TEXT____
+Moonless is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[6]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[5]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[4]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[3]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[1]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+There is a pit of torment here...
+___CHOICE___
+Investigate
+Throw a \c[2]Stone\c[0] to the pit
+Jump down
+Leave
+____TEXT____
+It reeks of death and dried blood...
+____TEXT____
+The stone makes a faint sound. There seems to be something
+down there, but the drop seems long...
+____TEXT____
+There is a pit of torment here...
+___CHOICE___
+Investigate
+Jump down
+Leave
+____TEXT____
+It reeks of death and dried blood...
+____TEXT____
+The girl is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+The stone has a heavy aura to it. It's almost too much
+for you to carry...
+____TEXT____
+Here lies \N[16]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[17]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[18]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+MERCENARY
+KNIGHT
+CAPTAIN
+OUTLANDER
+MARRIAGE
+____TEXT____
+Your child is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+There is a pit of torment here...
+___CHOICE___
+Investigate
+Throw a \c[2]Stone\c[0] to the pit
+Jump down
+Leave
+____TEXT____
+It reeks of death and dried blood...
+____TEXT____
+The stone makes a faint sound. There seems to be something
+down there, but the drop seems long...
+____TEXT____
+There is a pit of torment here...
+___CHOICE___
+Investigate
+Jump down
+Leave
+____TEXT____
+It reeks of death and dried blood...
+____TEXT____
+There is a pit of torment here...
+___CHOICE___
+Investigate
+Throw a \c[2]Stone\c[0] to the pit
+Jump down
+Leave
+____TEXT____
+It reeks of death and dried blood...
+____TEXT____
+The stone makes a faint sound. There seems to be something
+down there, but the drop seems long...
+____TEXT____
+There is a pit of torment here...
+___CHOICE___
+Investigate
+Jump down
+Leave
+____TEXT____
+It reeks of death and dried blood...
+____TEXT____
+There is a pit of torment here...
+___CHOICE___
+Investigate
+Throw a \c[2]Stone\c[0] to the pit
+Jump down
+Leave
+____TEXT____
+It reeks of death and dried blood...
+____TEXT____
+The stone makes a faint sound. There seems to be something
+down there, but the drop seems long...
+____TEXT____
+There is a pit of torment here...
+___CHOICE___
+Investigate
+Jump down
+Leave
+____TEXT____
+It reeks of death and dried blood...
+____TEXT____
+There is a pit of torment here...
+___CHOICE___
+Investigate
+Throw a \c[2]Stone\c[0] to the pit
+Jump down
+Leave
+____TEXT____
+It reeks of death and dried blood...
+____TEXT____
+The stone makes a faint sound. There seems to be something
+down there, but the drop seems long...
+____TEXT____
+There is a pit of torment here...
+___CHOICE___
+Investigate
+Jump down
+Leave
+____TEXT____
+It reeks of death and dried blood...
+____TEXT____
+There is a pit of torment here...
+___CHOICE___
+Investigate
+Throw a \c[2]Stone\c[0] to the pit
+Jump down
+Leave
+____TEXT____
+It reeks of death and dried blood...
+____TEXT____
+The stone makes a faint sound. There seems to be something
+down there, but the drop seems long...
+____TEXT____
+There is a pit of torment here...
+___CHOICE___
+Investigate
+Jump down
+Leave
+____TEXT____
+It reeks of death and dried blood...
+____TEXT____
+There is a pit of torment here...
+___CHOICE___
+Investigate
+Throw a \c[2]Stone\c[0] to the pit
+Jump down
+Leave
+____TEXT____
+It reeks of death and dried blood...
+____TEXT____
+The stone makes a faint sound. There seems to be something
+down there, but the drop seems long...
+____TEXT____
+There is a pit of torment here...
+___CHOICE___
+Investigate
+Jump down
+Leave
+____TEXT____
+It reeks of death and dried blood...
+____TEXT____
+There is a pit of torment here...
+___CHOICE___
+Investigate
+Throw a \c[2]Stone\c[0] to the pit
+Jump down
+Leave
+____TEXT____
+It reeks of death and dried blood...
+____TEXT____
+The stone makes a faint sound. There seems to be something
+down there, but the drop seems long...
+____TEXT____
+There is a pit of torment here...
+___CHOICE___
+Investigate
+Jump down
+Leave
+____TEXT____
+It reeks of death and dried blood...
+____TEXT____
+There is a pit of torment here...
+___CHOICE___
+Investigate
+Throw a \c[2]Stone\c[0] to the pit
+Jump down
+Leave
+____TEXT____
+It reeks of death and dried blood...
+____TEXT____
+The stone makes a faint sound. There seems to be something
+down there, but the drop seems long...
+____TEXT____
+There is a pit of torment here...
+___CHOICE___
+Investigate
+Jump down
+Leave
+____TEXT____
+It reeks of death and dried blood...
+____TEXT____
+There is a pit of torment here...
+___CHOICE___
+Investigate
+Throw a \c[2]Stone\c[0] to the pit
+Jump down
+Leave
+____TEXT____
+It reeks of death and dried blood...
+____TEXT____
+The stone makes a faint sound. There seems to be something
+down there, but the drop seems long...
+____TEXT____
+There is a pit of torment here...
+___CHOICE___
+Investigate
+Jump down
+Leave
+____TEXT____
+It reeks of death and dried blood...
+____TEXT____
+There is a pit of torment here...
+___CHOICE___
+Investigate
+Throw a \c[2]Stone\c[0] to the pit
+Jump down
+Leave
+____TEXT____
+It reeks of death and dried blood...
+____TEXT____
+The stone makes a faint sound. There seems to be something
+down there, but the drop seems long...
+____TEXT____
+There is a pit of torment here...
+___CHOICE___
+Investigate
+Jump down
+Leave
+____TEXT____
+It reeks of death and dried blood...
+____TEXT____
+There is a pit of torment here...
+___CHOICE___
+Investigate
+Throw a \c[2]Stone\c[0] to the pit
+Jump down
+Leave
+____TEXT____
+It reeks of death and dried blood...
+____TEXT____
+The stone makes a faint sound. There seems to be something
+down there, but the drop seems long...
+____TEXT____
+There is a pit of torment here...
+___CHOICE___
+Investigate
+Jump down
+Leave
+____TEXT____
+It reeks of death and dried blood...
+____TEXT____
+There is a pit of torment here...
+___CHOICE___
+Investigate
+Throw a \c[2]Stone\c[0] to the pit
+Jump down
+Leave
+____TEXT____
+It reeks of death and dried blood...
+____TEXT____
+The stone makes a faint sound. There seems to be something
+down there, but the drop seems long...
+____TEXT____
+There is a pit of torment here...
+___CHOICE___
+Investigate
+Jump down
+Leave
+____TEXT____
+It reeks of death and dried blood...
+____TEXT____
+There is a pit of torment here...
+___CHOICE___
+Investigate
+Throw a \c[2]Stone\c[0] to the pit
+Jump down
+Leave
+____TEXT____
+It reeks of death and dried blood...
+____TEXT____
+The stone makes a faint sound. There seems to be something
+down there, but the drop seems long...
+____TEXT____
+There is a pit of torment here...
+___CHOICE___
+Investigate
+Jump down
+Leave
+____TEXT____
+It reeks of death and dried blood...
+____TEXT____
+There is a pit of torment here...
+___CHOICE___
+Investigate
+Throw a \c[2]Stone\c[0] to the pit
+Jump down
+Leave
+____TEXT____
+It reeks of death and dried blood...
+____TEXT____
+The stone makes a faint sound. There seems to be something
+down there, but the drop seems long...
+____TEXT____
+There is a pit of torment here...
+___CHOICE___
+Investigate
+Jump down
+Leave
+____TEXT____
+It reeks of death and dried blood...
+____TEXT____
+Here lies \N[19]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[20]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[21]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+<follower touch>
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the maneba.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead ghoul.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+What do you want to do with the body?
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave
+____TEXT____
+The body of the maneba is jellyfish, so your kicks sink
+in deep.
+____TEXT____
+The maneba has nothing of value.
+____TEXT____
+You took \c[2]Pale skin\c[0]!
+____TEXT____
+What do you want to do with the body?
+___CHOICE___
+Beat him
+Search him
+Leave
+____TEXT____
+The body of the maneba is jellyfish, so your kicks sink
+in deep.
+____TEXT____
+The maneba has nothing of value.
+____TEXT____
+A pile of flesh remains here...
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+<follower touch>
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the maneba.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead ghoul.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+What do you want to do with the body?
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave
+____TEXT____
+The body of the maneba is jellyfish, so your kicks sink
+in deep.
+____TEXT____
+The maneba has nothing of value.
+____TEXT____
+You took \c[2]Pale skin\c[0]!
+____TEXT____
+What do you want to do with the body?
+___CHOICE___
+Beat him
+Search him
+Leave
+____TEXT____
+The body of the maneba is jellyfish, so your kicks sink
+in deep.
+____TEXT____
+The maneba has nothing of value.
+____TEXT____
+A pile of flesh remains here...
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.

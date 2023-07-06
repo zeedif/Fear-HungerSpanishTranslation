@@ -1,0 +1,965 @@
+____TEXT____
+You pick up a \c[2]Dried mushroom\c[0].
+____TEXT____
+Moonless is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[6]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[5]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[4]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[3]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[1]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+<follower touch>
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the maneba.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead ghoul.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+What do you want to do with the body?
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave
+____TEXT____
+The body of the maneba is jellyfish, so your kicks sink
+in deep.
+____TEXT____
+The maneba has nothing of value.
+____TEXT____
+You took \c[2]Pale skin\c[0]!
+____TEXT____
+What do you want to do with the body?
+___CHOICE___
+Beat him
+Search him
+Leave
+____TEXT____
+The body of the maneba is jellyfish, so your kicks sink
+in deep.
+____TEXT____
+The maneba has nothing of value.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+A pile of flesh remains here...
+<follower touch>
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the maneba.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead ghoul.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+What do you want to do with the body?
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave
+____TEXT____
+The body of the maneba is jellyfish, so your kicks sink
+in deep.
+____TEXT____
+The maneba has nothing of value.
+____TEXT____
+You took \c[2]Pale skin\c[0]!
+____TEXT____
+What do you want to do with the body?
+___CHOICE___
+Beat him
+Search him
+Leave
+____TEXT____
+The body of the maneba is jellyfish, so your kicks sink
+in deep.
+____TEXT____
+The maneba has nothing of value.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+A pile of flesh remains here...
+____TEXT____
+The girl is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+The stone has a heavy aura to it. It's almost too much
+for you to carry...
+____TEXT____
+Here lies \N[16]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[17]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[18]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+MERCENARY
+KNIGHT
+CAPTAIN
+OUTLANDER
+MARRIAGE
+____TEXT____
+Your child is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You pick up a \c[2]Dried mushroom\c[0].
+____TEXT____
+You pick up a \c[2]Dried mushroom\c[0].
+____TEXT____
+You pick up a \c[2]Dried mushroom\c[0].
+____TEXT____
+You pick up a \c[2]Green herb\c[0].
+____TEXT____
+You pick up a \c[2]Blue herb\c[0].
+____TEXT____
+You pick up a \c[2]Green herb\c[0].
+____TEXT____
+You pick up a \c[2]Green herb\c[0].
+____TEXT____
+You pick up a \c[2]Blue herb\c[0].
+____TEXT____
+Here lies \N[19]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[20]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[21]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+You search the barrel for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the barrel for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the barrel for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the barrel for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the barrel for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the barrel for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the barrel for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+There is a tombstone here...
+____TEXT____
+"Here lies \N[1]
+1564-1590"
+____TEXT____
+"Here lies \N[3]
+1566-1590"
+____TEXT____
+"Here lies \N[4]
+1561-1590"
+____TEXT____
+"Here lies \N[5]
+1559-1590"
+____TEXT____
+Do you want to dig the grave?
+___CHOICE___
+Yes
+No
+____TEXT____
+There is a tombstone here...
+____TEXT____
+"Here lies \N[1]
+1564-1590"
+____TEXT____
+"Here lies \N[3]
+1566-1590"
+____TEXT____
+"Here lies \N[4]
+1561-1590"
+____TEXT____
+"Here lies \N[5]
+1559-1590"
+____TEXT____
+There is a tombstone here...
+____TEXT____
+"Here lies \N[1]
+1564-1590"
+____TEXT____
+"Here lies \N[3]
+1566-1590"
+____TEXT____
+"Here lies \N[4]
+1561-1590"
+____TEXT____
+"Here lies \N[5]
+1559-1590"
+____TEXT____
+There is a tombstone here...
+____TEXT____
+"Here lies \N[1]
+1564-1590"
+____TEXT____
+"Here lies \N[3]
+1566-1590"
+____TEXT____
+"Here lies \N[4]
+1561-1590"
+____TEXT____
+"Here lies \N[5]
+1559-1590"
+____TEXT____
+There is a tombstone here...
+____TEXT____
+"Here lies \N[1]
+1564-1590"
+____TEXT____
+"Here lies \N[3]
+1566-1590"
+____TEXT____
+"Here lies \N[4]
+1561-1590"
+____TEXT____
+"Here lies \N[5]
+1559-1590"
+____TEXT____
+There is a tombstone here...
+____TEXT____
+"Here lies \N[1]
+1564-1590"
+____TEXT____
+"Here lies \N[3]
+1566-1590"
+____TEXT____
+"Here lies \N[4]
+1561-1590"
+____TEXT____
+"Here lies \N[5]
+1559-1590"
+____TEXT____
+Do you want to dig the grave?
+___CHOICE___
+Yes
+No
+____TEXT____
+There is a tombstone here...
+____TEXT____
+"Here lies \N[1]
+1564-1590"
+____TEXT____
+"Here lies \N[3]
+1566-1590"
+____TEXT____
+"Here lies \N[4]
+1561-1590"
+____TEXT____
+"Here lies \N[5]
+1559-1590"
+____TEXT____
+There is a tombstone here...
+____TEXT____
+"Here lies \N[1]
+1564-1590"
+____TEXT____
+"Here lies \N[3]
+1566-1590"
+____TEXT____
+"Here lies \N[4]
+1561-1590"
+____TEXT____
+"Here lies \N[5]
+1559-1590"
+____TEXT____
+There is a tombstone here...
+____TEXT____
+"Here lies \N[1]
+1564-1590"
+____TEXT____
+"Here lies \N[3]
+1566-1590"
+____TEXT____
+"Here lies \N[4]
+1561-1590"
+____TEXT____
+"Here lies \N[5]
+1559-1590"
+____TEXT____
+There is a tombstone here...
+____TEXT____
+"Here lies \N[1]
+1564-1590"
+____TEXT____
+"Here lies \N[3]
+1566-1590"
+____TEXT____
+"Here lies \N[4]
+1561-1590"
+____TEXT____
+"Here lies \N[5]
+1559-1590"
+____TEXT____
+You search the barrel for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the barrel for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+There is an old wine barrel here.
+You could fill a \c[2]Glass vial\c[0] with wine.
+___CHOICE___
+Fill the \c[2]Glass vial\c[0]
+Leave
+____TEXT____
+You got a \c[2]Wine vial\c[0].
+____TEXT____
+There is an old wine barrel here.
+____TEXT____
+There is an old wine barrel here.
+You could fill a \c[2]Glass vial\c[0] with wine.
+___CHOICE___
+Fill the \c[2]Glass vial\c[0]
+Leave
+____TEXT____
+You got a \c[2]Wine vial\c[0].
+____TEXT____
+There is an old wine barrel here.
+____TEXT____
+The wine barrel is empty.
+____TEXT____
+There is an old wine barrel here.
+You could fill a \c[2]Glass vial\c[0] with wine.
+___CHOICE___
+Fill the \c[2]Glass vial\c[0]
+Leave
+____TEXT____
+You got a \c[2]Wine vial\c[0].
+____TEXT____
+There is an old wine barrel here.
+____TEXT____
+There is an old wine barrel here.
+You could fill a \c[2]Glass vial\c[0] with wine.
+___CHOICE___
+Fill the \c[2]Glass vial\c[0]
+Leave
+____TEXT____
+You got a \c[2]Wine vial\c[0].
+____TEXT____
+There is an old wine barrel here.
+____TEXT____
+The wine barrel is empty.
+____TEXT____
+There is an old wine barrel here.
+You could fill a \c[2]Glass vial\c[0] with wine.
+___CHOICE___
+Fill the \c[2]Glass vial\c[0]
+Leave
+____TEXT____
+You got a \c[2]Wine vial\c[0].
+____TEXT____
+There is an old wine barrel here.
+____TEXT____
+There is an old wine barrel here.
+You could fill a \c[2]Glass vial\c[0] with wine.
+___CHOICE___
+Fill the \c[2]Glass vial\c[0]
+Leave
+____TEXT____
+You got a \c[2]Wine vial\c[0].
+____TEXT____
+There is an old wine barrel here.
+____TEXT____
+The wine barrel is empty.
+<follower touch>
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the maneba.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead ghoul.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+What do you want to do with the body?
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave
+____TEXT____
+The body of the maneba is jellyfish, so your kicks sink
+in deep.
+____TEXT____
+The maneba has nothing of value.
+____TEXT____
+You took \c[2]Pale skin\c[0]!
+____TEXT____
+What do you want to do with the body?
+___CHOICE___
+Beat him
+Search him
+Leave
+____TEXT____
+The body of the maneba is jellyfish, so your kicks sink
+in deep.
+____TEXT____
+The maneba has nothing of value.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+A pile of flesh remains here...
+____TEXT____
+A lost \c[2]Black witch soul\c[0] wanders to you...
+____TEXT____
+A lost \c[2]Black witch soul\c[0] wanders to you...
+____TEXT____
+A lost \c[2]Black witch soul\c[0] wanders to you...
+____TEXT____
+A lost \c[2]Black witch soul\c[0] wanders to you...
+____TEXT____
+A lost \c[2]Black witch soul\c[0] wanders to you...
+<follower touch>
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the maneba.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead ghoul.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+What do you want to do with the body?
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave
+____TEXT____
+The body of the maneba is jellyfish, so your kicks sink
+in deep.
+____TEXT____
+The maneba has nothing of value.
+____TEXT____
+You took \c[2]Pale skin\c[0]!
+____TEXT____
+What do you want to do with the body?
+___CHOICE___
+Beat him
+Search him
+Leave
+____TEXT____
+The body of the maneba is jellyfish, so your kicks sink
+in deep.
+____TEXT____
+The maneba has nothing of value.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+A pile of flesh remains here...
+____TEXT____
+Rotten meat fills the plates on the table attracting even
+more flies...
+___CHOICE___
+Take some
+Leave it
+____TEXT____
+You take some \c[2]Rotten meat\c[0] with you.
+It's soft and squishy, barely able to hold together.
+____TEXT____
+An awful smell comes from all the rotten meat on 
+the table! Plates are covered with maggots.
+____TEXT____
+It does make you wonder if someone actually eats this
+stuff. After all, why have them here otherwise?
+____TEXT____
+There is a tombstone here...
+____TEXT____
+"Here lies \N[1]
+1564-1590"
+____TEXT____
+"Here lies \N[3]
+1566-1590"
+____TEXT____
+"Here lies \N[4]
+1561-1590"
+____TEXT____
+"Here lies \N[5]
+1559-1590"
+____TEXT____
+Do you want to dig the grave?
+___CHOICE___
+Yes
+No
+____TEXT____
+There is a tombstone here...
+____TEXT____
+"Here lies \N[1]
+1564-1590"
+____TEXT____
+"Here lies \N[3]
+1566-1590"
+____TEXT____
+"Here lies \N[4]
+1561-1590"
+____TEXT____
+"Here lies \N[5]
+1559-1590"
+____TEXT____
+There is a tombstone here...
+____TEXT____
+"Here lies \N[1]
+1564-1590"
+____TEXT____
+"Here lies \N[3]
+1566-1590"
+____TEXT____
+"Here lies \N[4]
+1561-1590"
+____TEXT____
+"Here lies \N[5]
+1559-1590"
+____TEXT____
+There is a tombstone here...
+____TEXT____
+"Here lies \N[1]
+1564-1590"
+____TEXT____
+"Here lies \N[3]
+1566-1590"
+____TEXT____
+"Here lies \N[4]
+1561-1590"
+____TEXT____
+"Here lies \N[5]
+1559-1590"
+____TEXT____
+There is a tombstone here...
+____TEXT____
+"Here lies \N[1]
+1564-1590"
+____TEXT____
+"Here lies \N[3]
+1566-1590"
+____TEXT____
+"Here lies \N[4]
+1561-1590"
+____TEXT____
+"Here lies \N[5]
+1559-1590"
+____TEXT____
+There is a tombstone here...
+____TEXT____
+"Here lies \N[1]
+1564-1590"
+____TEXT____
+"Here lies \N[3]
+1566-1590"
+____TEXT____
+"Here lies \N[4]
+1561-1590"
+____TEXT____
+"Here lies \N[5]
+1559-1590"
+____TEXT____
+Do you want to dig the grave?
+___CHOICE___
+Yes
+No
+____TEXT____
+There is a tombstone here...
+____TEXT____
+"Here lies \N[1]
+1564-1590"
+____TEXT____
+"Here lies \N[3]
+1566-1590"
+____TEXT____
+"Here lies \N[4]
+1561-1590"
+____TEXT____
+"Here lies \N[5]
+1559-1590"
+____TEXT____
+There is a tombstone here...
+____TEXT____
+"Here lies \N[1]
+1564-1590"
+____TEXT____
+"Here lies \N[3]
+1566-1590"
+____TEXT____
+"Here lies \N[4]
+1561-1590"
+____TEXT____
+"Here lies \N[5]
+1559-1590"
+____TEXT____
+There is a tombstone here...
+____TEXT____
+"Here lies \N[1]
+1564-1590"
+____TEXT____
+"Here lies \N[3]
+1566-1590"
+____TEXT____
+"Here lies \N[4]
+1561-1590"
+____TEXT____
+"Here lies \N[5]
+1559-1590"
+____TEXT____
+There is a tombstone here...
+____TEXT____
+"Here lies \N[1]
+1564-1590"
+____TEXT____
+"Here lies \N[3]
+1566-1590"
+____TEXT____
+"Here lies \N[4]
+1561-1590"
+____TEXT____
+"Here lies \N[5]
+1559-1590"
+____TEXT____
+There is an old wine barrel here.
+You could fill a \c[2]Glass vial\c[0] with wine.
+___CHOICE___
+Fill the \c[2]Glass vial\c[0]
+Leave
+____TEXT____
+You got a \c[2]Wine vial\c[0].
+____TEXT____
+There is an old wine barrel here.
+____TEXT____
+The wine barrel is empty.
+____TEXT____
+There is an old wine barrel here.
+You could fill a \c[2]Glass vial\c[0] with wine.
+___CHOICE___
+Fill the \c[2]Glass vial\c[0]
+Leave
+____TEXT____
+You got a \c[2]Wine vial\c[0].
+____TEXT____
+There is an old wine barrel here.
+____TEXT____
+The wine barrel is empty.
+____TEXT____
+There is an old wine barrel here.
+You could fill a \c[2]Glass vial\c[0] with wine.
+___CHOICE___
+Fill the \c[2]Glass vial\c[0]
+Leave
+____TEXT____
+You got a \c[2]Wine vial\c[0].
+____TEXT____
+There is an old wine barrel here.
+____TEXT____
+The wine barrel is empty.
+____TEXT____
+There is an old wine barrel here.
+You could fill a \c[2]Glass vial\c[0] with wine.
+___CHOICE___
+Fill the \c[2]Glass vial\c[0]
+Leave
+____TEXT____
+You got a \c[2]Wine vial\c[0].
+____TEXT____
+There is an old wine barrel here.
+____TEXT____
+The wine barrel is empty.
+____TEXT____
+With \c[2]Mastery over insects\c[0] you are able to hear
+whispers...
+____TEXT____
+\} "The crow... he came here... he became here..."

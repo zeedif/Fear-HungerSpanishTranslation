@@ -1,0 +1,1853 @@
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+____TEXT____
+\c[7]Nilvan\c[0]
+"..."
+____TEXT____
+Nilvan seems to be lost in her thoughts...
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]Nilvan\c[0]
+"... huh?"
+____TEXT____
+\c[7]Nilvan\c[0]
+"Ahh... Did I hear correct?"
+____TEXT____
+\c[7]Nilvan\c[0]
+"No, I couldn't have heard right. It would make no sense..."
+____TEXT____
+\c[7]Nilvan\c[0]
+"..."
+____TEXT____
+Nilvan seems to be lost in her thoughts...
+____TEXT____
+\c[7]D'arce\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]Nilvan\c[0]
+"... huh?"
+____TEXT____
+\c[7]Nilvan\c[0]
+"Ahh... Did I hear correct?"
+____TEXT____
+\c[7]Nilvan\c[0]
+"No, I couldn't have heard right. It would make no sense..."
+____TEXT____
+\c[7]Nilvan\c[0]
+"..."
+____TEXT____
+Nilvan seems to be lost in her thoughts...
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]Nilvan\c[0]
+"... huh?"
+____TEXT____
+\c[7]Nilvan\c[0]
+"Ahh... Did I hear correct?"
+____TEXT____
+\c[7]Nilvan\c[0]
+"No, I couldn't have heard right. It would make no sense..."
+____TEXT____
+\c[7]Nilvan\c[0]
+"..."
+____TEXT____
+Nilvan seems to be lost in her thoughts...
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]Nilvan\c[0]
+"... huh?"
+____TEXT____
+\c[7]Nilvan\c[0]
+"Ahh... Did I hear correct?"
+____TEXT____
+\c[7]Nilvan\c[0]
+"No, I couldn't have heard right. It would make no sense..."
+____TEXT____
+\c[7]Nilvan\c[0]
+"..."
+____TEXT____
+Nilvan seems to be lost in her thoughts...
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]Nilvan\c[0]
+"You did ask! I've been waiting for you to ask this for
+a couple of days already!"
+____TEXT____
+\c[7]Nilvan\c[0]
+"I think you're the only one who can stand my air-headedness
+tee hee!"
+____TEXT____
+\c[7]Nilvan\c[0]
+"..."
+____TEXT____
+Nilvan seems to be lost in her thoughts...
+____TEXT____
+\c[7]D'arce\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]Nilvan\c[0]
+"You did ask! I've been waiting for you to ask this for
+a couple of days already!"
+____TEXT____
+\c[7]Nilvan\c[0]
+"I think you're the only one who can stand my air-headedness
+tee hee!"
+____TEXT____
+\c[7]Nilvan\c[0]
+"..."
+____TEXT____
+Nilvan seems to be lost in her thoughts...
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]Nilvan\c[0]
+"You did ask! I've been waiting for you to ask this for
+a couple of days already!"
+____TEXT____
+\c[7]Nilvan\c[0]
+"I think you're the only one who can stand my air-headedness
+tee hee!"
+____TEXT____
+\c[7]Nilvan\c[0]
+"..."
+____TEXT____
+Nilvan seems to be lost in her thoughts...
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]Nilvan\c[0]
+"You did ask! I've been waiting for you to ask this for
+a couple of days already!"
+____TEXT____
+\c[7]Nilvan\c[0]
+"I think you're the only one who can stand my air-headedness
+tee hee!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"What do you want?! Go ask someone to be your date!"
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"No, no, no, NO!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"If I'm your only option, you might as well go hang yourself
+you miserable worm!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"What do you want?! Go ask someone to be your date!"
+____TEXT____
+\c[7]D'arce\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"No, no, no, NO!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"If I'm your only option, you might as well go hang yourself
+you miserable worm!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"What do you want?! Go ask someone to be your date!"
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"No, no, no, NO!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"If I'm your only option, you might as well go hang yourself
+you miserable worm!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"What do you want?! Go ask someone to be your date!"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"No, no, no, NO!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"If I'm your only option, you might as well go hang yourself
+you miserable worm!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"What do you want?! Go ask someone to be your date!"
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"..."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"..."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"(I don't want to say anything right now, but meet me later
+at the prom.)"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"(But you better not say a thing about this to anyone! Or
+else...)"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"What do you want?! Go ask someone to be your date!"
+____TEXT____
+\c[7]D'arce\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"..."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"..."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"(I don't want to say anything right now, but meet me later
+at the prom.)"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"(But you better not say a thing about this to anyone! Or
+else...)"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"What do you want?! Go ask someone to be your date!"
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"..."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"..."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"(I don't want to say anything right now, but meet me later
+at the prom.)"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"(But you better not say a thing about this to anyone! Or
+else...)"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"What do you want?! Go ask someone to be your date!"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"..."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"..."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"(I don't want to say anything right now, but meet me later
+at the prom.)"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"(But you better not say a thing about this to anyone! Or
+else...)"
+____TEXT____
+The girl doesn't want to take part in this mating process...
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Glorious day, glorious parties ahead of us!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"What is it my lovely pupil?"
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Oh you are asking me to be your partner at the dance~?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Well fancy that..."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"You do know my feelings... You must know, but I cannot."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"You see the teacher-student relationship is sacred..."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I could not break it, without heavy reasons of course."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I'm sure you'll get someone else to be your date!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Glorious day, glorious parties ahead of us!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"What is it my lovely pupil?"
+____TEXT____
+\c[7]D'arce\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Oh you are asking me to be your partner at the dance~?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Well fancy that..."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"You do know my feelings... You must know, but I cannot."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"You see the teacher-student relationship is sacred..."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I could not break it, without heavy reasons of course."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I'm sure you'll get someone else to be your date!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Glorious day, glorious parties ahead of us!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"What is it my lovely pupil?"
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Oh you are asking me to be your partner at the dance~?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Well fancy that..."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"You do know my feelings... You must know, but I cannot."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"You see the teacher-student relationship is sacred..."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I could not break it, without heavy reasons of course."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I'm sure you'll get someone else to be your date!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Glorious day, glorious parties ahead of us!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"What is it my lovely pupil?"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Oh you are asking me to be your partner at the dance~?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Well fancy that..."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"You do know my feelings... You must know, but I cannot."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"You see the teacher-student relationship is sacred..."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I could not break it, without heavy reasons of course."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I'm sure you'll get someone else to be your date!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Glorious day, glorious parties ahead of us!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"What is it my lovely pupil?"
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Oh you are asking me to be your partner at the dance~?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Well you are my favorite pupil and we have definitely
+had that connection during our classes..."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"You know what? I'll bend the rules for this once! I'll
+be your lover tonight!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Yes, I will marry you. YES, YES!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Glorious day, glorious parties ahead of us!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"What is it my lovely pupil?"
+____TEXT____
+\c[7]D'arce\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Oh you are asking me to be your partner at the dance~?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Well you are my favorite pupil and we have definitely
+had that connection during our classes..."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"You know what? I'll bend the rules for this once! I'll
+be your lover tonight!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Yes, I will marry you. YES, YES!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Glorious day, glorious parties ahead of us!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"What is it my lovely pupil?"
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Oh you are asking me to be your partner at the dance~?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Well you are my favorite pupil and we have definitely
+had that connection during our classes..."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"You know what? I'll bend the rules for this once! I'll
+be your lover tonight!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Yes, I will marry you. YES, YES!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Glorious day, glorious parties ahead of us!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"What is it my lovely pupil?"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Oh you are asking me to be your partner at the dance~?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Well you are my favorite pupil and we have definitely
+had that connection during our classes..."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"You know what? I'll bend the rules for this once! I'll
+be your lover tonight!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Yes, I will marry you. YES, YES!"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Hej, exciting day, isn't it?"
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Me?"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"I'll be straight with you - No."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"I won't be your date. Sorry if I'm being too blunt, but
+I've had problems with these kinds of things in the past."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Hej, exciting day, isn't it?"
+____TEXT____
+\c[7]D'arce\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Me?"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"I'll be straight with you - No."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"I won't be your date. Sorry if I'm being too blunt, but
+I've had problems with these kinds of things in the past."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Hej, exciting day, isn't it?"
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Me?"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"I'll be straight with you - No."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"I won't be your date. Sorry if I'm being too blunt, but
+I've had problems with these kinds of things in the past."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Hej, exciting day, isn't it?"
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"I was hoping you'd ask me!"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"We've been bonding so well for the past week!"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"I can't think of anyone I'd rather go with!"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Hej, exciting day, isn't it?"
+____TEXT____
+\c[7]D'arce\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"I was hoping you'd ask me!"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"We've been bonding so well for the past week!"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"I can't think of anyone I'd rather go with!"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Hej, exciting day, isn't it?"
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"I was hoping you'd ask me!"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"We've been bonding so well for the past week!"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"I can't think of anyone I'd rather go with!"
+____TEXT____
+\c[7]The tormented one\c[0]
+"..."
+____TEXT____
+The tormented one seems to be surprisingly nervous..."
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]The tormented one\c[0]
+"..."
+____TEXT____
+He is twisting his head in discomfort. He clearly doesn't
+want to have this conversation...
+____TEXT____
+\c[7]The tormented one\c[0]
+"..."
+____TEXT____
+The tormented one seems to be surprisingly nervous..."
+____TEXT____
+\c[7]D'arce\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]The tormented one\c[0]
+"..."
+____TEXT____
+He is twisting his head in discomfort. He clearly doesn't
+want to have this conversation...
+____TEXT____
+\c[7]The tormented one\c[0]
+"..."
+____TEXT____
+The tormented one seems to be surprisingly nervous..."
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]The tormented one\c[0]
+"..."
+____TEXT____
+He is twisting his head in discomfort. He clearly doesn't
+want to have this conversation...
+____TEXT____
+\c[7]The tormented one\c[0]
+"..."
+____TEXT____
+The tormented one seems to be surprisingly nervous..."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]The tormented one\c[0]
+"..."
+____TEXT____
+He is twisting his head in discomfort. He clearly doesn't
+want to have this conversation...
+____TEXT____
+\c[7]The tormented one\c[0]
+"..."
+____TEXT____
+The tormented one seems to be surprisingly nervous..."
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]The tormented one\c[0]
+"!!"
+____TEXT____
+The tormented one show you his poem booklet. There is a
+poem written about the two of you.
+____TEXT____
+He has very intense look on his face as if he was waiting
+for your reaction...
+____TEXT____
+But judging from this, he will indeed be your date in the
+prom!
+____TEXT____
+\c[7]The tormented one\c[0]
+"..."
+____TEXT____
+The tormented one seems to be surprisingly nervous..."
+____TEXT____
+\c[7]D'arce\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]The tormented one\c[0]
+"!!"
+____TEXT____
+The tormented one show you his poem booklet. There is a
+poem written about the two of you.
+____TEXT____
+He has very intense look on his face as if he was waiting
+for your reaction...
+____TEXT____
+But judging from this, he will indeed be your date in the
+prom!
+____TEXT____
+\c[7]The tormented one\c[0]
+"..."
+____TEXT____
+The tormented one seems to be surprisingly nervous..."
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]The tormented one\c[0]
+"!!"
+____TEXT____
+The tormented one show you his poem booklet. There is a
+poem written about the two of you.
+____TEXT____
+He has very intense look on his face as if he was waiting
+for your reaction...
+____TEXT____
+But judging from this, he will indeed be your date in the
+prom!
+____TEXT____
+\c[7]The tormented one\c[0]
+"..."
+____TEXT____
+The tormented one seems to be surprisingly nervous..."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]The tormented one\c[0]
+"!!"
+____TEXT____
+The tormented one show you his poem booklet. There is a
+poem written about the two of you.
+____TEXT____
+He has very intense look on his face as if he was waiting
+for your reaction...
+____TEXT____
+But judging from this, he will indeed be your date in the
+prom!
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"..."
+____TEXT____
+You have no idea what's on his crow mind...
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"..."
+____TEXT____
+The Crow is ignoring you. You take that as a 'no'."
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"..."
+____TEXT____
+You have no idea what's on his crow mind...
+____TEXT____
+\c[7]D'arce\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"..."
+____TEXT____
+The Crow is ignoring you. You take that as a 'no'."
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"..."
+____TEXT____
+You have no idea what's on his crow mind...
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"..."
+____TEXT____
+The Crow is ignoring you. You take that as a 'no'."
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"..."
+____TEXT____
+You have no idea what's on his crow mind...
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"..."
+____TEXT____
+The Crow is ignoring you. You take that as a 'no'."
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"..."
+____TEXT____
+You have no idea what's on his crow mind...
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"Kueeh?!"
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"Kaw kaw KAAW!"
+____TEXT____
+The Crow seems happy. That's at least how you interpret
+the noices...
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"..."
+____TEXT____
+You have no idea what's on his crow mind...
+____TEXT____
+\c[7]D'arce\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"Kueeh?!"
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"Kaw kaw KAAW!"
+____TEXT____
+The Crow seems happy. That's at least how you interpret
+the noices...
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"..."
+____TEXT____
+You have no idea what's on his crow mind...
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"Kueeh?!"
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"Kaw kaw KAAW!"
+____TEXT____
+The Crow seems happy. That's at least how you interpret
+the noices...
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"..."
+____TEXT____
+You have no idea what's on his crow mind...
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"Kueeh?!"
+____TEXT____
+\c[7]Crow Mauler\c[0]
+"Kaw kaw KAAW!"
+____TEXT____
+The Crow seems happy. That's at least how you interpret
+the noices...
+____TEXT____
+\c[7]Le'garde\c[0]
+"If you're looking for dates, I'll just immediately say
+no."
+____TEXT____
+\c[7]Le'garde\c[0]
+"You had that kind of look on your face."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Nothing personal."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Are you looking for dates for the prom?"
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+___CHOICE___
+"That's right!"
+"Nevermind..."
+____TEXT____
+\c[7]Le'garde\c[0]
+"I thought you looked like it haha!"
+____TEXT____
+\c[7]Le'garde\c[0]
+"I can't promise anything beyond next night, but I'll gladly
+be your date at the prom."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Are you looking for dates for the prom?"
+____TEXT____
+\c[7]D'arce\c[0]
+"..."
+___CHOICE___
+"That's right!"
+"Nevermind..."
+____TEXT____
+\c[7]Le'garde\c[0]
+"I thought you looked like it haha!"
+____TEXT____
+\c[7]Le'garde\c[0]
+"I can't promise anything beyond next night, but I'll gladly
+be your date at the prom."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Are you looking for dates for the prom?"
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+___CHOICE___
+"That's right!"
+"Nevermind..."
+____TEXT____
+\c[7]Le'garde\c[0]
+"I thought you looked like it haha!"
+____TEXT____
+\c[7]Le'garde\c[0]
+"I can't promise anything beyond next night, but I'll gladly
+be your date at the prom."
+____TEXT____
+\c[7]Le'garde\c[0]
+"Are you looking for dates for the prom?"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"..."
+___CHOICE___
+"That's right!"
+"Nevermind..."
+____TEXT____
+\c[7]Le'garde\c[0]
+"I thought you looked like it haha!"
+____TEXT____
+\c[7]Le'garde\c[0]
+"I can't promise anything beyond next night, but I'll gladly
+be your date at the prom."
+____TEXT____
+The door is locked.
+____TEXT____
+There is something written on the notice board...
+The writing seems to have been written in a hurry.
+____TEXT____
+"My apologies for rushing the [Dungeon Nights] out in
+this update."
+____TEXT____
+"The mode was supposed to be a really small easter egg,
+but as I'm writing this note, the mode seems to grow
+bigger and bigger every day... It's out of control is what
+I'm trying to say."
+____TEXT____
+"I haven't had enough time to test it out, nor did I ever
+really plan its mechanics so the [Dungeon Nights] was born
+in chaos pretty much."
+____TEXT____
+"I blame the discord channel for coming up with this!"
+____TEXT____
+"P.S - Join the discord channel if you haven't yet!"
+____TEXT____
+There is no easy way out of this. You have to
+choose your partner.
+____TEXT____
+If you don't, that would deem your academic career failure.
+____TEXT____
+So are you sure that you'll return to your dormitory, while
+the others go to the party?
+___CHOICE___
+Return to your dormitory!
+Try to get a partner!
+____TEXT____
+You return to your room. While you walk away from the class
+room, you hear the laughter and soft giggle echoing from
+the school...
+____TEXT____
+\c[7]Cahara\c[0]
+"Hi. What's up?"
+____TEXT____
+\c[7]D'arce\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]Cahara\c[0]
+"Woah?! Me? Why would you ask me?"
+____TEXT____
+\c[7]Cahara\c[0]
+"Sorry, but no."
+____TEXT____
+\c[7]Cahara\c[0]
+"Hi. What's up?"
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]Cahara\c[0]
+"Woah?! Me? Why would you ask me?"
+____TEXT____
+\c[7]Cahara\c[0]
+"Sorry, but no."
+____TEXT____
+\c[7]Cahara\c[0]
+"Hi. What's up?"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]Cahara\c[0]
+"Woah?! Me? Why would you ask me?"
+____TEXT____
+\c[7]Cahara\c[0]
+"Sorry, but no."
+____TEXT____
+\c[7]Cahara\c[0]
+"Hi. What's up?"
+____TEXT____
+\c[7]D'arce\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]Cahara\c[0]
+"You want me to be your date?"
+____TEXT____
+\c[7]Cahara\c[0]
+"Well we did have fun the other night, huh?"
+____TEXT____
+\c[7]Cahara\c[0]
+"Sure thing! We can do some epic things together, I'm sure
+about it!"
+____TEXT____
+\c[7]Cahara\c[0]
+"Hi. What's up?"
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]Cahara\c[0]
+"You want me to be your date?"
+____TEXT____
+\c[7]Cahara\c[0]
+"Well we did have fun the other night, huh?"
+____TEXT____
+\c[7]Cahara\c[0]
+"Sure thing! We can do some epic things together, I'm sure
+about it!"
+____TEXT____
+\c[7]Cahara\c[0]
+"Hi. What's up?"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]Cahara\c[0]
+"You want me to be your date?"
+____TEXT____
+\c[7]Cahara\c[0]
+"Well we did have fun the other night, huh?"
+____TEXT____
+\c[7]Cahara\c[0]
+"Sure thing! We can do some epic things together, I'm sure
+about it!"
+____TEXT____
+There is something written on the notice board...
+The writing seems to have been written in a hurry.
+____TEXT____
+"My apologies for rushing the [Dungeon Nights] out in
+this update."
+____TEXT____
+"The mode was supposed to be a really small easter egg,
+but as I'm writing this note, the mode seems to grow
+bigger and bigger every day... It's out of control is what
+I'm trying to say."
+____TEXT____
+"I haven't had enough time to test it out, nor did I ever
+really plan its mechanics so the [Dungeon Nights] was born
+in chaos pretty much."
+____TEXT____
+"I blame the discord channel for coming up with this!"
+____TEXT____
+"P.S - Join the discord channel if you haven't yet!"
+____TEXT____
+Class 1B-13
+____TEXT____
+Class 1B-14
+____TEXT____
+There is something written on the notice board...
+____TEXT____
+"Did you know that you can just hold down [ENTER] to speed
+things up during those long classes?"
+____TEXT____
+There is something written on the notice board...
+____TEXT____
+"Did you know that you can just hold down [ENTER] to speed
+things up during those long classes?"
+day
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"The class in now in session!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Today we'll be talking about the older gods."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Religion in general seems to go on deaf ears these days
+with you youngsters."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"I understand the ancient rites and Sunday churches must
+seem ridiculous, but at the same time there is a lot of
+cultural history buried in what we call religion."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Many everyday tasks are given a proper time thanks to
+those ancient rituals."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Be it meditating under the guise of praying or sending off
+our friends and family to the beyond with funeral rituals."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Of course I'm not saying you should believe that bullshit
+Kings and sultans practically wrote all those holy books."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Those texts are mostly just for crowd control and getting
+peasants to behave in fear of greater powers."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"But let's get to the topic - Gro-goroth and Sylvian."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Destruction and Creation. They say one could not exist 
+without the other... What do you weasels think?"
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+___CHOICE___
+"They go hand in hand."
+"I don't believe in such balance."
+"What about the Moon god?"
+"..."
+____TEXT____
+\c[7]Cahara\c[0]
+"Yeah, they co-exist in perfect balance. That's why they
+are the most famous older gods to exist."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"..."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"I say there are no stupid answers..."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"...Only stupid people. You are wrong, you imbecile."
+____TEXT____
+\c[7]Cahara\c[0]
+"I think that balance is make-belief!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"..."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Well whatdya know. Sometimes you manage to spew some 
+words of wisdom too by accident."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Well whatdya know, kueh kueh. Sometimes you manage to spew 
+some words of wisdom too by accident."
+____TEXT____
+\c[7]Cahara\c[0]
+"'By accident?'"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Shut it while you're still ahead of the game!"
+____TEXT____
+\c[7]Cahara\c[0]
+"In the grand scheme of things, where does the Moon god 
+fit in?"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Were you dropped on your head as a baby? NO! I bet you 
+were thrown into a wall! That's what you'd deserve at least."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"I said we talk about the Gro-goroth and Sylvian! WHY THE
+HELL WOULD YOU BRING UP THE MOON GOD?!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"No answers? Well that's for the better. No one wants to
+hear you miserable worms utter words."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"The idea that destruction and creation depend on each
+other is absurd."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"You can always destroy without giving anything back!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"I'VE DESTROYED ENTIRE ARMIES DURING THE GREAT WARS OF THE
+PAST..."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"And I've never created anything in return. I take what is
+mine and that is the rule of nature."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"So no matter what anyone else might say, if you study the
+ways of the Gro-goroth, you will increase your chances for
+survival in this wicked world by a shit-ton."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"That is probably the best advice I can give you as your
+teacher."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"So that about settles it. I'm off."
+____TEXT____
+Teacher's room
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+A spare body of Nas'hrah...
+____TEXT____
+A spare body of Nas'hrah...
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+Casual spikes.
+____TEXT____
+The lever is stuck.
+____TEXT____
+The lever is stuck.
+____TEXT____
+A spare body of Nas'hrah...
+____TEXT____
+A spare body of Nas'hrah...
+____TEXT____
+A spare body of Nas'hrah...
+____TEXT____
+A spare body of Nas'hrah...
+____TEXT____
+A spare body of Nas'hrah...
+____TEXT____
+A spare body of Nas'hrah...
+____TEXT____
+Headmaster's office
+____TEXT____
+The door is locked.
+____TEXT____
+Teacher's room
+____TEXT____
+Headmaster's office
+____TEXT____
+Casual spikes.
+day
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Well hello you little strangers~!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Nice weather today, isn't it? All dark and misty like it
+should be."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Today's subject is a nice one. Let's talk about fear and
+horror~!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Fear is one of the principal emotions humans can feel and 
+it has been very much necessary to our survival since the
+dawn of time."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"The feeling of fear shows its beautiful head in situations 
+where survival or personal goals might be compromised."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"The threat might be either physical or mental in its form."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Physical threat is often more straightforward and its 
+usually directly linked to our survival. Or it might
+otherwise be a more concrete obstacle."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Whereas mental/psychological fear deals with the possible
+loss of our social roles, destruction of our identity or
+seclusion from the communities we associate ourselves in.
+____TEXT____
+\c[7]Pocketcat\c[0]
+"One of the core elements of fear is the feeling of disgust
+or a possibility of contamination."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"As examples - A physical fear of contamination might come
+from things that are rotten andor alien to us, where there
+is a chance for diseases or it otherwise risks our survival."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"And psychological contamination might be something that
+causes moral decline or corruption in us."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Oh~ One thing to note!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Of course in this talk it's easy to mix the psychological
+fear with what is considered psychological horror in books
+and novels."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"That term refers more to how those previously mentioned
+forms of fear are suggested on a psychological level."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"In horror it doesn't exclude either of the forms. Getting
+confused haha?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"All apologies, I get so carried away with this subject
+that the text just keeps on flowing from my mouth!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Look at the time! It's almost the end of our class!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Let's recap quickly!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"What were the two main forms of fear?"
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+___CHOICE___
+"Fear and hunger!"
+"Physical and mental!"
+"Contamination and diseases!"
+"Weren't you talking about depression the other day?"
+"..."
+____TEXT____
+\c[7]Cahara\c[0]
+"Fear and hunger!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Cahara, my love~"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Not quite, but they could be!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I can add those into my notes, so that will be a right
+answer too next time!"
+____TEXT____
+\c[7]Cahara\c[0]
+"Physical and mental!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Right-o!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"I love it when you actually listen to my monologies."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"It is nice to have an audience after all, no?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Close but not quite my old chap."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Those are sure to cause some fear too, but it's not exactly
+what I asked."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Oh right, you remember!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"That alone makes me happy."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"But that subject is a heavy one and since I have no real
+knowledge on that area, maybe it's better left alone."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"No answers?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Hm. Well I don't mind putting up a monology here either."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Talking and teaching is a nice form of expression! It's
+like I got a thetre stage all to myself!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"But that's all folks! I don't want to bore you with too
+much text, so let's keep these classes light, shall we?"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Once again, it was an honor~!"
+day
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"THE DEATH AND TERROR OF THE MODERN MAN!! 
+THE SLAUGHTERER FROM THE EAST!! THE YELLOW 
+DEATH!!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"YES! I AM HERE TODAY!"
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"NAS'HRAH THE GREAT!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"Yes that's all dandy and cool, but more importantly..."
+____TEXT____
+\c[7]Pocketcat\c[0]
+"The day is here!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"The harvest season starts and you know what that means?!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"THE PROM!!"
+____TEXT____
+\c[7]Pocketcat\c[0]
+"So everyone - grab a partner and we shall be going to
+the dungeon party!"
+____TEXT____
+A map of the known world.
+____TEXT____
+A spare body of Nas'hrah...
+____TEXT____
+A spare body of Nas'hrah...
+____TEXT____
+A spare body of Nas'hrah...
+____TEXT____
+A spare body of Nas'hrah...
+____TEXT____
+There is a charred body here. It seems like it combusted
+and burned very suddenly...
+____TEXT____
+\c[7]Enki\c[0]
+"Uhh... I can't stand these proms..."
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]Enki\c[0]
+"Do I look like I'd like to be your date?"
+____TEXT____
+\c[7]Enki\c[0]
+"No, I don't think I do."
+____TEXT____
+\c[7]Enki\c[0]
+"Go bother someone else!"
+____TEXT____
+\c[7]Enki\c[0]
+"Uhh... I can't stand these proms..."
+____TEXT____
+\c[7]D'arce\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]Enki\c[0]
+"Do I look like I'd like to be your date?"
+____TEXT____
+\c[7]Enki\c[0]
+"No, I don't think I do."
+____TEXT____
+\c[7]Enki\c[0]
+"Go bother someone else!"
+____TEXT____
+\c[7]Enki\c[0]
+"Uhh... I can't stand these proms..."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]Enki\c[0]
+"Do I look like I'd like to be your date?"
+____TEXT____
+\c[7]Enki\c[0]
+"No, I don't think I do."
+____TEXT____
+\c[7]Enki\c[0]
+"Go bother someone else!"
+____TEXT____
+\c[7]Enki\c[0]
+"Uhh... I can't stand these proms..."
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]Enki\c[0]
+"Ahhhh... This is my nightmare..."
+____TEXT____
+\c[7]Enki\c[0]
+"I suppose if I have to go, you'd be the optimal option."
+____TEXT____
+\c[7]Enki\c[0]
+"I mean we already have some history, so it couldn't get
+anymore awkward, right?"
+____TEXT____
+\c[7]Enki\c[0]
+"Uhh... I can't stand these proms..."
+____TEXT____
+\c[7]D'arce\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]Enki\c[0]
+"Ahhhh... This is my nightmare..."
+____TEXT____
+\c[7]Enki\c[0]
+"I suppose if I have to go, you'd be the optimal option."
+____TEXT____
+\c[7]Enki\c[0]
+"I mean we already have some history, so it couldn't get
+anymore awkward, right?"
+____TEXT____
+\c[7]Enki\c[0]
+"Uhh... I can't stand these proms..."
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]Enki\c[0]
+"Ahhhh... This is my nightmare..."
+____TEXT____
+\c[7]Enki\c[0]
+"I suppose if I have to go, you'd be the optimal option."
+____TEXT____
+\c[7]Enki\c[0]
+"I mean we already have some history, so it couldn't get
+anymore awkward, right?"
+____TEXT____
+\c[7]D'arce\c[0]
+"Greetings... There's a nervous armosphere in the 
+classroom!"
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]D'arce\c[0]
+"You?!"
+____TEXT____
+\c[7]D'arce\c[0]
+"You must be really desperate at getting dates!"
+____TEXT____
+\c[7]D'arce\c[0]
+"No, I won't be your date. I promised my hand for somebody
+else already..."
+____TEXT____
+\c[7]D'arce\c[0]
+"Greetings... There's a nervous armosphere in the 
+classroom!"
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]D'arce\c[0]
+"You?!"
+____TEXT____
+\c[7]D'arce\c[0]
+"You must be really desperate at getting dates!"
+____TEXT____
+\c[7]D'arce\c[0]
+"No, I won't be your date. I promised my hand for somebody
+else already..."
+____TEXT____
+\c[7]D'arce\c[0]
+"Greetings... There's a nervous armosphere in the 
+classroom!"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]D'arce\c[0]
+"You?!"
+____TEXT____
+\c[7]D'arce\c[0]
+"You must be really desperate at getting dates!"
+____TEXT____
+\c[7]D'arce\c[0]
+"No, I won't be your date. I promised my hand for somebody
+else already..."
+____TEXT____
+\c[7]D'arce\c[0]
+"Greetings... There's a nervous armosphere in the 
+classroom!"
+____TEXT____
+\c[7]Cahara\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]D'arce\c[0]
+"Hmmm... You've really shown me a new side in the past
+few days..."
+____TEXT____
+\c[7]D'arce\c[0]
+"If you would've asked me five days ago, it would have been
+100% NO, but since things have taken an interesting turn..."
+____TEXT____
+\c[7]D'arce\c[0]
+"Yes, I'd love to be your date!"
+____TEXT____
+\c[7]D'arce\c[0]
+"Greetings... There's a nervous armosphere in the 
+classroom!"
+____TEXT____
+\c[7]Enki\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]D'arce\c[0]
+"Hmmm... You've really shown me a new side in the past
+few days..."
+____TEXT____
+\c[7]D'arce\c[0]
+"If you would've asked me five days ago, it would have been
+100% NO, but since things have taken an interesting turn..."
+____TEXT____
+\c[7]D'arce\c[0]
+"Yes, I'd love to be your date!"
+____TEXT____
+\c[7]D'arce\c[0]
+"Greetings... There's a nervous armosphere in the 
+classroom!"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"..."
+___CHOICE___
+"Would you like to be my date?"
+"Nevermind..."
+____TEXT____
+\c[7]D'arce\c[0]
+"Hmmm... You've really shown me a new side in the past
+few days..."
+____TEXT____
+\c[7]D'arce\c[0]
+"If you would've asked me five days ago, it would have been
+100% NO, but since things have taken an interesting turn..."
+____TEXT____
+\c[7]D'arce\c[0]
+"Yes, I'd love to be your date!"
+____TEXT____
+There is something written on the notice board...
+____TEXT____
+"Did you know that you can just hold down [ENTER] to speed
+things up during those long classes?"
+____TEXT____
+There is something written on the notice board...
+____TEXT____
+"Did you know that you can just hold down [ENTER] to speed
+things up during those long classes?"

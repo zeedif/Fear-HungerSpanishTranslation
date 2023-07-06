@@ -1,0 +1,687 @@
+____TEXT____
+The lever is jammed.
+____TEXT____
+Moonless is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[6]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[5]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[4]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[3]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[1]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+The girl is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+The stone has a heavy aura to it. It's almost too much
+for you to carry...
+____TEXT____
+Here lies \N[16]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[17]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[18]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+MERCENARY
+KNIGHT
+CAPTAIN
+OUTLANDER
+MARRIAGE
+____TEXT____
+Your child is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+There are chains hanging from the ceiling waiting for a
+sacrifice.
+____TEXT____
+The husk body followed you from the underground caverns.
+___CHOICE___
+Sacrifice the husk
+Don't sacrifice it
+____TEXT____
+Put Cahara on chains?
+___CHOICE___
+Yes
+No
+____TEXT____
+Put D'arce on chains?
+___CHOICE___
+Yes
+No
+____TEXT____
+Put Enki on chains?
+___CHOICE___
+Yes
+No
+____TEXT____
+Put Ragnvaldr on chains?
+___CHOICE___
+Yes
+No
+____TEXT____
+Put Le'garde on chains?
+___CHOICE___
+Yes
+No
+____TEXT____
+There are chains hanging from the ceiling waiting for a
+sacrifice.
+____TEXT____
+The husk body followed you from the underground caverns.
+___CHOICE___
+Sacrifice the husk
+Don't sacrifice it
+____TEXT____
+Put Cahara on chains?
+___CHOICE___
+Yes
+No
+____TEXT____
+Put D'arce on chains?
+___CHOICE___
+Yes
+No
+____TEXT____
+Put Enki on chains?
+___CHOICE___
+Yes
+No
+____TEXT____
+Put Ragnvaldr on chains?
+___CHOICE___
+Yes
+No
+____TEXT____
+Put Le'garde on chains?
+___CHOICE___
+Yes
+No
+____TEXT____
+There are chains hanging from the ceiling waiting for a
+sacrifice.
+____TEXT____
+The husk body followed you from the underground caverns.
+___CHOICE___
+Sacrifice the husk
+Don't sacrifice it
+____TEXT____
+Put Cahara on chains?
+___CHOICE___
+Yes
+No
+____TEXT____
+Put D'arce on chains?
+___CHOICE___
+Yes
+No
+____TEXT____
+Put Enki on chains?
+___CHOICE___
+Yes
+No
+____TEXT____
+Put Ragnvaldr on chains?
+___CHOICE___
+Yes
+No
+____TEXT____
+Put Le'garde on chains?
+___CHOICE___
+Yes
+No
+____TEXT____
+The bars on the floor are firm and strong.
+____TEXT____
+The lever is jammed.
+____TEXT____
+There are chains hanging from the ceiling waiting for a
+sacrifice.
+____TEXT____
+The husk body followed you from the underground caverns.
+___CHOICE___
+Sacrifice the husk
+Don't sacrifice it
+____TEXT____
+Put Cahara on chains?
+___CHOICE___
+Yes
+No
+____TEXT____
+Put D'arce on chains?
+___CHOICE___
+Yes
+No
+____TEXT____
+Put Enki on chains?
+___CHOICE___
+Yes
+No
+____TEXT____
+Put Ragnvaldr on chains?
+___CHOICE___
+Yes
+No
+____TEXT____
+Put Le'garde on chains?
+___CHOICE___
+Yes
+No
+____TEXT____
+Here lies \N[19]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[20]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[21]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+The red man is hunched and dead.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead red man.
+___CHOICE___
+Yes
+No
+____TEXT____
+The skin of the redman feels too chewy to bite through...
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave him
+____TEXT____
+He massive body of the redman doesn't even budge with your 
+kicks.
+____TEXT____
+The creature has nothing of value.
+____TEXT____
+The skin of the redman is chewy. The skinning knife feels
+too weak to puncture the skin properly.
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+He massive body of the redman doesn't even budge with your 
+kicks.
+____TEXT____
+The creature has nothing of value.
+____TEXT____
+The red man is hunched and dead.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead red man.
+___CHOICE___
+Yes
+No
+____TEXT____
+The skin of the redman feels too chewy to bite through...
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave him
+____TEXT____
+He massive body of the redman doesn't even budge with your 
+kicks.
+____TEXT____
+The creature has nothing of value.
+____TEXT____
+The skin of the redman is chewy. The skinning knife feels
+too weak to puncture the skin properly.
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+He massive body of the redman doesn't even budge with your 
+kicks.
+____TEXT____
+The creature has nothing of value.
+____TEXT____
+The red man is hunched and dead.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead red man.
+___CHOICE___
+Yes
+No
+____TEXT____
+The skin of the redman feels too chewy to bite through...
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave him
+____TEXT____
+He massive body of the redman doesn't even budge with your 
+kicks.
+____TEXT____
+The creature has nothing of value.
+____TEXT____
+The skin of the redman is chewy. The skinning knife feels
+too weak to puncture the skin properly.
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+He massive body of the redman doesn't even budge with your 
+kicks.
+____TEXT____
+The creature has nothing of value.
+____TEXT____
+The red man is hunched and dead.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead red man.
+___CHOICE___
+Yes
+No
+____TEXT____
+The skin of the redman feels too chewy to bite through...
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave him
+____TEXT____
+He massive body of the redman doesn't even budge with your 
+kicks.
+____TEXT____
+The creature has nothing of value.
+____TEXT____
+The skin of the redman is chewy. The skinning knife feels
+too weak to puncture the skin properly.
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+He massive body of the redman doesn't even budge with your 
+kicks.
+____TEXT____
+The creature has nothing of value.
+____TEXT____
+The red man is hunched and dead.
+____TEXT____
+The red man is hunched and dead.
+____TEXT____
+The red man is hunched and dead.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead red man.
+___CHOICE___
+Yes
+No
+____TEXT____
+The skin of the redman feels too chewy to bite through...
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave him
+____TEXT____
+He massive body of the redman doesn't even budge with your 
+kicks.
+____TEXT____
+The creature has nothing of value.
+____TEXT____
+The skin of the redman is chewy. The skinning knife feels
+too weak to puncture the skin properly.
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+He massive body of the redman doesn't even budge with your 
+kicks.
+____TEXT____
+The creature has nothing of value.
+____TEXT____
+The red man is hunched and dead.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead red man.
+___CHOICE___
+Yes
+No
+____TEXT____
+The skin of the redman feels too chewy to bite through...
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave him
+____TEXT____
+He massive body of the redman doesn't even budge with your 
+kicks.
+____TEXT____
+The creature has nothing of value.
+____TEXT____
+The skin of the redman is chewy. The skinning knife feels
+too weak to puncture the skin properly.
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+He massive body of the redman doesn't even budge with your 
+kicks.
+____TEXT____
+The creature has nothing of value.
+____TEXT____
+The red man is hunched and dead.
+BOOKSHELF
+____TEXT____
+There are few ancient scrolls laying around...
+___CHOICE___
+Search
+Leave
+___CHOICE___
+HEADS
+TAILS
+____TEXT____
+You find nothing of interest.
+BOOKSHELF
+____TEXT____
+You already searched this bookshelf.
+BOOKSHELF
+____TEXT____
+There are few ancient scrolls laying around...
+___CHOICE___
+Search
+Leave
+___CHOICE___
+HEADS
+TAILS
+____TEXT____
+You find nothing of interest.
+BOOKSHELF
+____TEXT____
+You already searched this bookshelf.
+____TEXT____
+The bars on the floor are firm and strong.
+____TEXT____
+The bars on the floor are firm and strong.
+____TEXT____
+The bars on the floor are firm and strong.
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+There is nothing in the urn except a layer of dust.
+____TEXT____
+There is nothing in the urn except a layer of dust.
+____TEXT____
+There is nothing in the urn except a layer of dust.
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+There is nothing in the urn except a layer of dust.
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+CHEST
+____TEXT____
+A sturdy chest. It doesn't seem to be locked.
+___CHOICE___
+Open
+Leave
+___CHOICE___
+HEADS
+TAILS
+CHEST
+____TEXT____
+There is nothing left in the chest anymore.
+CHEST
+____TEXT____
+A sturdy chest. It doesn't seem to be locked.
+___CHOICE___
+Open
+Leave
+___CHOICE___
+HEADS
+TAILS
+CHEST
+____TEXT____
+There is nothing left in the chest anymore.

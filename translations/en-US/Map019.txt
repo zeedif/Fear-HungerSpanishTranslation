@@ -1,0 +1,646 @@
+____TEXT____
+The wall feels soft around here.
+___CHOICE___
+Push
+Leave
+____TEXT____
+Moonless is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[6]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[5]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[4]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[3]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[1]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+The girl is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+The stone has a heavy aura to it. It's almost too much
+for you to carry...
+____TEXT____
+Here lies \N[16]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[17]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[18]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+MERCENARY
+KNIGHT
+CAPTAIN
+OUTLANDER
+MARRIAGE
+____TEXT____
+The wall feels soft around here.
+___CHOICE___
+Push
+Leave
+____TEXT____
+The wall feels soft around here.
+___CHOICE___
+Push
+Leave
+____TEXT____
+The wall feels soft around here.
+___CHOICE___
+Push
+Leave
+____TEXT____
+The wall feels soft around here.
+___CHOICE___
+Push
+Leave
+____TEXT____
+The wall feels soft around here.
+___CHOICE___
+Push
+Leave
+____TEXT____
+The wall feels soft around here.
+___CHOICE___
+Push
+Leave
+____TEXT____
+The wall feels soft around here.
+___CHOICE___
+Push
+Leave
+____TEXT____
+Your child is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+HOLE
+____TEXT____
+The ground feels soft underneath your feet...
+___CHOICE___
+HEADS
+TAILS
+____TEXT____
+You barely managed to jump to safety!
+HOLE
+HOLE
+____TEXT____
+The ground feels soft underneath your feet...
+___CHOICE___
+HEADS
+TAILS
+____TEXT____
+You barely managed to jump to safety!
+HOLE
+HOLE
+____TEXT____
+The ground feels soft underneath your feet...
+___CHOICE___
+HEADS
+TAILS
+____TEXT____
+You barely managed to jump to safety!
+HOLE
+HOLE
+____TEXT____
+The ground feels soft underneath your feet...
+___CHOICE___
+HEADS
+TAILS
+____TEXT____
+You barely managed to jump to safety!
+HOLE
+<follower touch>
+<follower touch>
+<follower touch>
+<follower touch>
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead mumbler.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains. Unfortunately they were poisonous.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead mumbler.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat her
+Search her
+Leave
+____TEXT____
+No reaction. The outer shell of the mumbler feels hard.
+____TEXT____
+The mumbler has nothing of value.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead mumbler.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains. Unfortunately they were poisonous.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead mumbler.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat her
+Search her
+Leave
+____TEXT____
+No reaction. The outer shell of the mumbler feels hard.
+____TEXT____
+The mumbler has nothing of value.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+A pile of flesh remains here...
+<follower touch>
+<follower touch>
+<follower touch>
+<follower touch>
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead mumbler.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains. Unfortunately they were poisonous.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead mumbler.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat her
+Search her
+Leave
+____TEXT____
+No reaction. The outer shell of the mumbler feels hard.
+____TEXT____
+The mumbler has nothing of value.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead mumbler.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains. Unfortunately they were poisonous.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead mumbler.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat her
+Search her
+Leave
+____TEXT____
+No reaction. The outer shell of the mumbler feels hard.
+____TEXT____
+The mumbler has nothing of value.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+A pile of flesh remains here...
+<follower touch>
+<follower touch>
+<follower touch>
+<follower touch>
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead mumbler.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains. Unfortunately they were poisonous.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead mumbler.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat her
+Search her
+Leave
+____TEXT____
+No reaction. The outer shell of the mumbler feels hard.
+____TEXT____
+The mumbler has nothing of value.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead mumbler.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains. Unfortunately they were poisonous.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead mumbler.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat her
+Search her
+Leave
+____TEXT____
+No reaction. The outer shell of the mumbler feels hard.
+____TEXT____
+The mumbler has nothing of value.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+A pile of flesh remains here...
+____TEXT____
+Apparently someone has been here and left an urn.
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+Apparently someone has been here and left an urn.
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+Apparently someone has been here and left an urn.
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+Apparently someone has been here and left an urn.
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+CHEST
+____TEXT____
+A sturdy chest. It doesn't seem to be locked.
+___CHOICE___
+Open
+Leave
+___CHOICE___
+HEADS
+TAILS
+CHEST
+____TEXT____
+There is nothing left in the chest anymore.
+CHEST
+____TEXT____
+A sturdy chest. It doesn't seem to be locked.
+___CHOICE___
+Open
+Leave
+___CHOICE___
+HEADS
+TAILS
+CHEST
+____TEXT____
+There is nothing left in the chest anymore.
+CHEST
+____TEXT____
+A sturdy chest. It doesn't seem to be locked.
+___CHOICE___
+Open
+Leave
+___CHOICE___
+HEADS
+TAILS
+CHEST
+____TEXT____
+There is nothing left in the chest anymore.
+CHEST
+____TEXT____
+A sturdy chest. It doesn't seem to be locked.
+___CHOICE___
+Open
+Leave
+___CHOICE___
+HEADS
+TAILS
+CHEST
+____TEXT____
+There is nothing left in the chest anymore.
+____TEXT____
+With \c[2]Mastery over insects\c[0] you are able to hear
+whispers...
+____TEXT____
+\} "Master... do you need this?"
+____TEXT____
+You find an \c[2]Iron arrow\c[0] between the vines!
+____TEXT____
+With \c[2]Mastery over insects\c[0] you are able to hear
+whispers...
+____TEXT____
+\} "Master... we love you..."
+____TEXT____
+A dead person is tightly embraced by the growth.
+____TEXT____
+A dead person is tightly embraced by the growth.
+____TEXT____
+A dead person is tightly embraced by the growth.
+____TEXT____
+A dead person is tightly embraced by the growth.
+____TEXT____
+With \c[2]Mastery over insects\c[0] you are able to hear
+whispers...
+____TEXT____
+\} "Master... this way... the king awaits..."
+____TEXT____
+With \c[2]Mastery over insects\c[0] you are able to hear
+whispers...
+____TEXT____
+\} "Master... do you need this?"
+____TEXT____
+You find a \c[2]Blue vial\c[0] between the vines!
+____TEXT____
+With \c[2]Mastery over insects\c[0] you are able to hear
+whispers...
+____TEXT____
+\} "Master... we are rooting for you..."
+____TEXT____
+A dead person is tightly embraced by the growth.
+____TEXT____
+A dead person is tightly embraced by the growth.
+____TEXT____
+Here lies \N[19]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[20]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[21]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+There is something shining here...
+____TEXT____
+You find a \c[2]Lucky coin\c[0]!

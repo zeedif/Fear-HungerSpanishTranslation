@@ -1,0 +1,2843 @@
+____TEXT____
+\c[7]Buckman\c[0]
+"W-why me?! This darkness is suffocating me!"
+____TEXT____
+\c[7]Buckman\c[0]
+"You managed to get rid of that wretched torturer?"
+____TEXT____
+\c[7]Buckman\c[0]
+"Absolutely magnificent!"
+____TEXT____
+\c[7]Buckman\c[0]
+"But the dangers of this dungeon don't end here!"
+____TEXT____
+There is a bloody toilet hole. You could fit through
+the hole...
+___CHOICE___
+Look
+Climb in
+Leave
+____TEXT____
+You see nothing but darkness.
+The smell is awful however.
+____TEXT____
+The smell is a mixture of death, blood, feces and
+semen.
+____TEXT____
+\c[7]Human hydra\c[0]
+"Imma hungry!!"
+____TEXT____
+\c[7]Human hydra\c[0]
+"Bring us food human!"
+___CHOICE___
+"What do you eat?"
+Rip one head off
+Offer girl
+Offer \N[8]
+Leave
+____TEXT____
+\c[7]Human hydra\c[0]
+"We want that fresh girl meat!!"
+____TEXT____
+\c[7]Human hydra\c[0]
+"Give us the girl you greedy asshole!!"
+____TEXT____
+You grab one of it's heads and rip it off with brute
+strength.
+____TEXT____
+You give the girl to human hydra as an offering.
+____TEXT____
+\c[7]Human hydra\c[0]
+"Yes!! Virgin girl meaatt!!"
+____TEXT____
+The girl struggles a little, but you push her into an
+opening between heads and tentacles.
+____TEXT____
+\c[7]Human hydra\c[0]
+"She is better than we imagined!"
+____TEXT____
+\c[7]Human hydra\c[0]
+"Cheers!!"
+____TEXT____
+You give \N[8] to human hydra as an offering.
+____TEXT____
+\c[7]Human hydra\c[0]
+"Yes!! This will do! This will do!"
+____TEXT____
+\N[8] isn't hesitant at all. He is willing to sacrifice
+himself for you.
+____TEXT____
+\c[7]Human hydra\c[0]
+"He was pretty good. Saltier than we imagined!"
+____TEXT____
+\c[7]Human hydra\c[0]
+"Cheers!!"
+____TEXT____
+\c[7]Human hydra\c[0]
+"Oi where do you think you're going you greedy asshole?!"
+____TEXT____
+\c[7]Human hydra\c[0]
+"Bring us food human!"
+___CHOICE___
+"What do you eat?"
+Rip one head off
+Offer girl
+Leave
+____TEXT____
+\c[7]Human hydra\c[0]
+"We want that fresh girl meat!!"
+____TEXT____
+\c[7]Human hydra\c[0]
+"Give us the girl you greedy asshole!!"
+____TEXT____
+You grab one of it's heads and rip it off with brute
+strength.
+____TEXT____
+You give the girl to human hydra as an offering.
+____TEXT____
+\c[7]Human hydra\c[0]
+"Yes!! Virgin girl meaatt!!"
+____TEXT____
+The girl struggles a little, but you push her into an
+opening between heads and tentacles.
+____TEXT____
+\c[7]Human hydra\c[0]
+"She is better than we imagined!"
+____TEXT____
+\c[7]Human hydra\c[0]
+"Cheers!!"
+____TEXT____
+\c[7]Human hydra\c[0]
+"Oi where do you think you're going you greedy asshole?!"
+____TEXT____
+\c[7]Human hydra\c[0]
+"Bring us food human!"
+___CHOICE___
+"What do you eat?"
+Rip one head off
+Offer \N[8]
+Leave
+____TEXT____
+\c[7]Human hydra\c[0]
+"We want your sonnn!!"
+____TEXT____
+\c[7]Human hydra\c[0]
+"Give us the child, you greedy asshole!!"
+____TEXT____
+You grab one of it's heads and rip it off with brute
+strength.
+____TEXT____
+You give \N[8] to human hydra as an offering.
+____TEXT____
+\c[7]Human hydra\c[0]
+"Yes!! This will do! This will do!"
+____TEXT____
+\N[8] isn't hesitant at all. He is willing to sacrifice
+himself for you.
+____TEXT____
+\c[7]Human hydra\c[0]
+"He was pretty good. Saltier than we imagined!"
+____TEXT____
+\c[7]Human hydra\c[0]
+"Cheers!!"
+____TEXT____
+\c[7]Human hydra\c[0]
+"Oi where do you think you're going you greedy asshole?!"
+____TEXT____
+\c[7]Human hydra\c[0]
+"Bring us food human!"
+___CHOICE___
+"What do you eat?"
+Rip one head off
+Leave
+____TEXT____
+\c[7]Human hydra\c[0]
+"Humans of course!! Bring us sacrifices!"
+____TEXT____
+You grab one of it's heads and rip it off with brute
+strength.
+____TEXT____
+\c[7]Human hydra\c[0]
+"Oi where do you think you're going you greedy asshole?!"
+____TEXT____
+\c[7]Human hydra\c[0]
+"Bring us more humans to eat!"
+___CHOICE___
+"What do you eat?"
+Rip one head off
+Offer girl
+Offer \N[8]
+Leave
+____TEXT____
+\c[7]Human hydra\c[0]
+"We want that fresh girl meat!!"
+____TEXT____
+\c[7]Human hydra\c[0]
+"Give us the girl you greedy asshole!!"
+____TEXT____
+You grab one of it's heads and rip it off with brute
+strength.
+____TEXT____
+You give the girl to human hydra as an offering.
+____TEXT____
+\c[7]Human hydra\c[0]
+"Yes!! Virgin girl meaatt!!"
+____TEXT____
+The girl struggles a little, but you push her into an
+opening between heads and tentacles.
+____TEXT____
+\c[7]Human hydra\c[0]
+"She is better than we imagined!"
+____TEXT____
+\c[7]Human hydra\c[0]
+"Cheers!!"
+____TEXT____
+You give \N[8] to human hydra as an offering.
+____TEXT____
+\c[7]Human hydra\c[0]
+"Yes!! This will do! This will do!"
+____TEXT____
+\N[8] isn't hesitant at all. He is willing to sacrifice
+himself for you.
+____TEXT____
+\c[7]Human hydra\c[0]
+"He was pretty good. Saltier than we imagined!"
+____TEXT____
+\c[7]Human hydra\c[0]
+"Cheers!!"
+____TEXT____
+\c[7]Human hydra\c[0]
+"Oi where do you think you're going you greedy asshole?!"
+____TEXT____
+\c[7]Human hydra\c[0]
+"Bring us more humans to eat!"
+___CHOICE___
+"What do you eat?"
+Rip one head off
+Offer girl
+Leave
+____TEXT____
+\c[7]Human hydra\c[0]
+"We want that fresh girl meat!!"
+____TEXT____
+\c[7]Human hydra\c[0]
+"Give us the girl you greedy asshole!!"
+____TEXT____
+You grab one of it's heads and rip it off with brute
+strength.
+____TEXT____
+You give the girl to human hydra as an offering.
+____TEXT____
+\c[7]Human hydra\c[0]
+"Yes!! Virgin girl meaatt!!"
+____TEXT____
+The girl struggles a little, but you push her into an
+opening between heads and tentacles.
+____TEXT____
+\c[7]Human hydra\c[0]
+"She is better than we imagined!"
+____TEXT____
+\c[7]Human hydra\c[0]
+"Cheers!!"
+____TEXT____
+\c[7]Human hydra\c[0]
+"Oi where do you think you're going you greedy asshole?!"
+____TEXT____
+\c[7]Human hydra\c[0]
+"Bring us more humans to eat!"
+___CHOICE___
+"What do you eat?"
+Rip one head off
+Offer \N[8]
+Leave
+____TEXT____
+\c[7]Human hydra\c[0]
+"We want your sonnn!!"
+____TEXT____
+\c[7]Human hydra\c[0]
+"Give us the child, you greedy asshole!!"
+____TEXT____
+You grab one of it's heads and rip it off with brute
+strength.
+____TEXT____
+You give \N[8] to human hydra as an offering.
+____TEXT____
+\c[7]Human hydra\c[0]
+"Yes!! This will do! This will do!"
+____TEXT____
+\N[8] isn't hesitant at all. He is willing to sacrifice
+himself for you.
+____TEXT____
+\c[7]Human hydra\c[0]
+"He was pretty good. Saltier than we imagined!"
+____TEXT____
+\c[7]Human hydra\c[0]
+"Cheers!!"
+____TEXT____
+\c[7]Human hydra\c[0]
+"Oi where do you think you're going you greedy asshole?!"
+____TEXT____
+\c[7]Human hydra\c[0]
+"Bring us more humans to eat!"
+___CHOICE___
+"What do you eat?"
+Rip one head off
+Leave
+____TEXT____
+\c[7]Human hydra\c[0]
+"Humans of course!! Bring us sacrifices!"
+____TEXT____
+You grab one of it's heads and rip it off with brute
+strength.
+____TEXT____
+\c[7]Human hydra\c[0]
+"Oi where do you think you're going you greedy asshole?!"
+____TEXT____
+\c[7]Human hydra\c[0]
+"You're good - you're good."
+____TEXT____
+\c[7]Human hydra\c[0]
+"We need more food!"
+___CHOICE___
+"What are you?"
+Rip one head off
+Leave
+____TEXT____
+\c[7]Human hydra\c[0]
+"Bring us!! Bring us more food!"
+____TEXT____
+\c[7]Human hydra\c[0]
+"What you want to know fer?
+We were once the same as you!""
+____TEXT____
+\c[7]Human hydra\c[0]
+"But Sylvian and sacrificial cirle man.... They can fuck
+a man up! You don't know when to stop!"
+____TEXT____
+\c[7]Human hydra\c[0]
+"The hunger grows!!"
+____TEXT____
+You grab one of it's heads and rip it off with brute
+strength.
+____TEXT____
+\c[7]Human hydra\c[0]
+"Remember to bring us more tasty little humans!"
+____TEXT____
+The remains of human hydra remain here.
+____TEXT____
+\c[7]Cahara\c[0]
+"Well whatdya know! This story actually had a happy
+ending!"
+____TEXT____
+\c[7]Cahara\c[0]
+"Let me tell you though, it was no easy task!"
+____TEXT____
+\c[7]Cahara\c[0]
+"But getting a date in this life-or-death once-in-a-lifetime
+occasion has given me a great deal of confidence!"
+____TEXT____
+\c[7]Cahara\c[0]
+"I feel like I can tackle whatever awaits me in the dark
+corners of the world!"
+____TEXT____
+\c[7]Cahara\c[0]
+"I feel like I could master the academic career and then
+continue pursuing my destiny after the school is over!"
+____TEXT____
+\c[7]Cahara\c[0]
+"No doubt I will become a fabled legend that will be
+talked about in the coming centuries!"
+____TEXT____
+\c[7]Cahara\c[0]
+"But let's not get ahead of ourselves!"
+____TEXT____
+\c[7]Cahara\c[0]
+"Tonight is only for partying! Let's leave our stress
+behind!"
+____TEXT____
+\c[7]Cahara\c[0]
+"I thank you once again for following me on this grand
+adventure! Let's do it again some other time!"
+____TEXT____
+\c[7]Cahara\c[0]
+"See ya!"
+____TEXT____
+\c[7]D'arce\c[0]
+"Well whatdya know! This story actually had a happy
+ending!"
+____TEXT____
+\c[7]D'arce\c[0]
+"Let me tell you though, it was no easy task!"
+____TEXT____
+\c[7]D'arce\c[0]
+"But getting a date in this life-or-death once-in-a-lifetime
+occasion has given me a great deal of confidence!"
+____TEXT____
+\c[7]D'arce\c[0]
+"I feel like I can tackle whatever awaits me in the dark
+corners of the world!"
+____TEXT____
+\c[7]D'arce\c[0]
+"I feel like I could master the academic career and then
+continue pursuing my destiny after the school is over!"
+____TEXT____
+\c[7]D'arce\c[0]
+"No doubt I will become a fabled legend that will be
+talked about in the coming centuries!"
+____TEXT____
+\c[7]D'arce\c[0]
+"But let's not get ahead of ourselves!"
+____TEXT____
+\c[7]D'arce\c[0]
+"Tonight is only for partying! Let's leave our stress
+behind!"
+____TEXT____
+\c[7]D'arce\c[0]
+"I thank you once again for following me on this grand
+adventure! Let's do it again some other time!"
+____TEXT____
+\c[7]D'arce\c[0]
+"See ya!"
+____TEXT____
+\c[7]Enki\c[0]
+"Well whatdya know! This story actually had a happy
+ending!"
+____TEXT____
+\c[7]Enki\c[0]
+"Let me tell you though, it was no easy task!"
+____TEXT____
+\c[7]Enki\c[0]
+"But getting a date in this life-or-death once-in-a-lifetime
+occasion has given me a great deal of confidence!"
+____TEXT____
+\c[7]Enki\c[0]
+"I feel like I can tackle whatever awaits me in the dark
+corners of the world!"
+____TEXT____
+\c[7]Enki\c[0]
+"I feel like I could master the academic career and then
+continue pursuing my destiny after the school is over!"
+____TEXT____
+\c[7]Enki\c[0]
+"No doubt I will become a fabled legend that will be
+talked about in the coming centuries!"
+____TEXT____
+\c[7]Enki\c[0]
+"But let's not get ahead of ourselves!"
+____TEXT____
+\c[7]Enki\c[0]
+"Tonight is only for partying! Let's leave our stress
+behind!"
+____TEXT____
+\c[7]Enki\c[0]
+"I thank you once again for following me on this grand
+adventure! Let's do it again some other time!"
+____TEXT____
+\c[7]Enki\c[0]
+"See ya!"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Well whatdya know! This story actually had a happy
+ending!"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Let me tell you though, it was no easy task!"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"But getting a date in this life-or-death once-in-a-lifetime
+occasion has given me a great deal of confidence!"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"I feel like I can tackle whatever awaits me in the dark
+corners of the world!"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"I feel like I could master the academic career and then
+continue pursuing my destiny after the school is over!"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"No doubt I will become a fabled legend that will be
+talked about in the coming centuries!"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"But let's not get ahead of ourselves!"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Tonight is only for partying! Let's leave our stress
+behind!"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"I thank you once again for following me on this grand
+adventure! Let's do it again some other time!"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"See ya!"
+____TEXT____
+There is a person nailed on the statue...
+____TEXT____
+The blood is dripping down to the pool at where the
+statue stands.
+___CHOICE___
+Sacrifice him
+Leave
+____TEXT____
+There is a person nailed on the statue...
+____TEXT____
+The blood is dripping down to the pool at where the
+statue stands.
+____TEXT____
+There is a person nailed on the statue...
+____TEXT____
+The blood is dripping down to the pool at where the
+statue stands.
+___CHOICE___
+Sacrifice him
+Leave
+____TEXT____
+There is a person nailed on the statue...
+____TEXT____
+The blood is dripping down to the pool at where the
+statue stands.
+____TEXT____
+There is a person nailed on the statue...
+____TEXT____
+The blood is dripping down to the pool at where the
+statue stands.
+___CHOICE___
+Sacrifice him
+Leave
+____TEXT____
+There is a person nailed on the statue...
+____TEXT____
+The blood is dripping down to the pool at where the
+statue stands.
+____TEXT____
+There is a person nailed on the statue...
+____TEXT____
+The blood is dripping down to the pool at where the
+statue stands.
+___CHOICE___
+Sacrifice him
+Leave
+____TEXT____
+There is a person nailed on the statue...
+____TEXT____
+The blood is dripping down to the pool at where the
+statue stands.
+____TEXT____
+There is a person nailed on the statue...
+____TEXT____
+The blood is dripping down to the pool at where the
+statue stands.
+___CHOICE___
+Sacrifice him
+Leave
+____TEXT____
+There is a person nailed on the statue...
+____TEXT____
+The blood is dripping down to the pool at where the
+statue stands.
+____TEXT____
+There is a person nailed on the statue...
+____TEXT____
+The blood is dripping down to the pool at where the
+statue stands.
+___CHOICE___
+Sacrifice him
+Leave
+____TEXT____
+There is a person nailed on the statue...
+____TEXT____
+The blood is dripping down to the pool at where the
+statue stands.
+____TEXT____
+Use \c[2]Tinderbox\c[0] to light the candle?
+___CHOICE___
+Yes
+No
+____TEXT____
+Use \c[2]Tinderbox\c[0] to light the candle?
+___CHOICE___
+Yes
+No
+____TEXT____
+You search the bookshelf for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+Use \c[2]Tinderbox\c[0] to light the candle?
+___CHOICE___
+Yes
+No
+____TEXT____
+Use \c[2]Tinderbox\c[0] to light the candle?
+___CHOICE___
+Yes
+No
+____TEXT____
+Use \c[2]Tinderbox\c[0] to light the candle?
+___CHOICE___
+Yes
+No
+____TEXT____
+Use \c[2]Tinderbox\c[0] to light the candle?
+___CHOICE___
+Yes
+No
+____TEXT____
+Judging from the contents of this table, this room
+is the office of the captain of these dungeons...
+____TEXT____
+You find \c[2]Captain's diary 1\c[0] and
+a \c[2]Small key\c[0] falls from inside the diary.
+____TEXT____
+The desk is tidy and well-kept.
+____TEXT____
+Judging from the contents of this table, this room
+is the office of the captain of these dungeons...
+____TEXT____
+You find \c[2]Captain's diary 1\c[0] and
+a \c[2]Small key\c[0] falls from inside the diary.
+____TEXT____
+The desk is tidy and well-kept.
+____TEXT____
+Judging from the contents of this table, this room
+is the office of the captain of these dungeons...
+____TEXT____
+You find \c[2]Captain's diary 1\c[0] and
+a \c[2]Small key\c[0] falls from inside the diary.
+____TEXT____
+The desk is tidy and well-kept.
+____TEXT____
+Judging from the contents of this table, this room
+is the office of the captain of these dungeons...
+____TEXT____
+You find \c[2]Captain's diary 1\c[0] and
+a \c[2]Small key\c[0] falls from inside the diary.
+____TEXT____
+The desk is tidy and well-kept.
+____TEXT____
+The bucket is full of blood.
+___CHOICE___
+Scoop up in glass vial
+Leave it
+____TEXT____
+You carefully scoop some of the blood into
+your glass vial.
+____TEXT____
+\c[2]Blood vial\c[0] obtained!
+____TEXT____
+The bucket is full of blood.
+____TEXT____
+This table is used for torture. The blood is still
+wet here...
+____TEXT____
+This table is used for torture. The blood is still
+wet here...
+____TEXT____
+This table is used for torture. The blood is still
+wet here...
+____TEXT____
+\c[7]Buckman\c[0]
+"H-how--"
+____TEXT____
+Buckman is crying and weeping in panic.
+____TEXT____
+Buckman seems to be deceased...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+This table is used for torture. The blood is still
+wet here...
+____TEXT____
+This table is used for torture. The blood is still
+wet here...
+____TEXT____
+This table is used for torture. The blood is still
+wet here...
+____TEXT____
+This table is used for torture. The blood is still
+wet here...
+____TEXT____
+This table is used for torture. The blood is still
+wet here...
+____TEXT____
+This table is used for torture. The blood is still
+wet here...
+____TEXT____
+This table is used for torture. The blood is still
+wet here...
+____TEXT____
+This table is used for torture. The blood is still
+wet here...
+____TEXT____
+This table is used for torture. The blood is still
+wet here...
+____TEXT____
+This table is used for torture. The blood is still
+wet here...
+____TEXT____
+This table is used for torture. The blood is still
+wet here...
+____TEXT____
+This table is used for torture. The blood is still
+wet here...
+____TEXT____
+This table is used for torture. The blood is still
+wet here...
+____TEXT____
+This table is used for torture. The blood is still
+wet here...
+____TEXT____
+This table is used for torture. The blood is still
+wet here...
+____TEXT____
+This table is used for torture. The blood is still
+wet here...
+____TEXT____
+\c[7]Buckman\c[0]
+"H-how--"
+____TEXT____
+Buckman is crying and weeping in panic.
+____TEXT____
+Buckman seems to be deceased...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+This table is used for torture. The blood is still
+wet here...
+____TEXT____
+This table is used for torture. The blood is still
+wet here...
+____TEXT____
+This table is used for torture. The blood is still
+wet here...
+____TEXT____
+This table is used for torture. The blood is still
+wet here...
+____TEXT____
+This table is used for torture. The blood is still
+wet here...
+____TEXT____
+This table is used for torture. The blood is still
+wet here...
+____TEXT____
+This table is used for torture. The blood is still
+wet here...
+____TEXT____
+This table is used for torture. The blood is still
+wet here...
+____TEXT____
+This table is used for torture. The blood is still
+wet here...
+____TEXT____
+This table is used for torture. The blood is still
+wet here...
+____TEXT____
+This table is used for torture. The blood is still
+wet here...
+____TEXT____
+This table is used for torture. The blood is still
+wet here...
+____TEXT____
+This table is used for torture. The blood is still
+wet here...
+____TEXT____
+This table is used for torture. The blood is still
+wet here...
+____TEXT____
+This table is used for torture. The blood is still
+wet here...
+____TEXT____
+This table is used for torture. The blood is still
+wet here...
+____TEXT____
+This table is used for torture. The blood is still
+wet here...
+____TEXT____
+This table is used for torture. The blood is still
+wet here...
+____TEXT____
+This table is used for torture. The blood is still
+wet here...
+____TEXT____
+This table is used for torture. The blood is still
+wet here...
+____TEXT____
+This table is used for torture. The blood is still
+wet here...
+____TEXT____
+The bucket is full of blood.
+___CHOICE___
+Scoop up in glass vial
+Leave it
+____TEXT____
+You carefully scoop some of the blood into
+your glass vial.
+____TEXT____
+\c[2]Blood vial\c[0] obtained!
+____TEXT____
+The bucket is full of blood.
+____TEXT____
+The bucket is empty now.
+____TEXT____
+An iron maiden waiting for the next poor soul to
+see its insides.
+____TEXT____
+An iron maiden waiting for the next poor soul to
+see its insides.
+____TEXT____
+An iron maiden waiting for the next poor soul to
+see its insides.
+____TEXT____
+An iron maiden waiting for the next poor soul to
+see its insides.
+____TEXT____
+A device used for torture. You could step inside, but
+you decide not to.
+____TEXT____
+A device used for torture. You could step inside, but
+you decide not to.
+____TEXT____
+A device used for torture. You could step inside, but
+you decide not to.
+____TEXT____
+This table is used for torture. The blood is still
+wet here...
+____TEXT____
+This table is used for torture. The blood is still
+wet here...
+____TEXT____
+This table is used for torture. The blood is still
+wet here...
+____TEXT____
+This table is used for torture. The blood is still
+wet here...
+____TEXT____
+This table is used for torture. The blood is still
+wet here...
+____TEXT____
+This table is used for torture. The blood is still
+wet here...
+____TEXT____
+There is an arrow trap on the wall.
+___CHOICE___
+Put your arm inside
+Leave
+____TEXT____
+Miscellaneous torturing items. You cannot
+comprehend the function of most of them.
+____TEXT____
+You take \c[2]Skinning knife\c[0] with you.
+____TEXT____
+Miscellaneous torturing items. You cannot
+comprehend the function of most of them.
+____TEXT____
+Miscellaneous torturing items. You cannot
+comprehend the function of most of them.
+____TEXT____
+You take \c[2]Skinning knife\c[0] with you.
+____TEXT____
+Miscellaneous torturing items. You cannot
+comprehend the function of most of them.
+____TEXT____
+You unlocked the cage door.
+____TEXT____
+The cage door is firm and locked. There's no way
+to open it without a key.
+____TEXT____
+You unlocked the cage door.
+____TEXT____
+The cage door is firm and locked. There's no way
+to open it without a key.
+___CHOICE___
+Use \c[2]2F key\c[0]
+Leave
+____TEXT____
+This table is used for torture. The blood is still
+wet here...
+____TEXT____
+This table is used for torture. The blood is still
+wet here...
+____TEXT____
+This table is used for torture. The blood is still
+wet here...
+____TEXT____
+\c[7]Buckman\c[0]
+"Thank god! Thank Alll-mer!"
+____TEXT____
+Buckman does a symbol of a cross with his hands and nods
+his chin up.
+____TEXT____
+\c[7]Buckman\c[0]
+"I'm so glad there are still good folk around!"
+___CHOICE___
+"What was that all about?"
+"Who are you?"
+____TEXT____
+\c[7]Buckman\c[0]
+"I've been running away from that wretched torturer for
+days now."
+____TEXT____
+\c[7]Buckman\c[0]
+"He is capable of cruelty beyond comprehension."
+____TEXT____
+\c[7]Buckman\c[0]
+"My name is Ludwig Buckman. Pleased to meet you!"
+____TEXT____
+\c[7]Buckman\c[0]
+"I am desperately trying to escape these ancient walls, but
+first I need to find my comrades..."
+___CHOICE___
+"I met this heavy knight in the basement..."
+"..."
+____TEXT____
+\c[7]Buckman\c[0]
+"!!"
+____TEXT____
+\c[7]Buckman\c[0]
+"Ser Seymor! It has to be!"
+____TEXT____
+\c[7]Buckman\c[0]
+"You're a guardian angel, aren't you?!"
+____TEXT____
+Something is going on. There are two people in the cell...
+____TEXT____
+\c[7]Buckman\c[0]
+"Aah!"
+____TEXT____
+\c[7]Buckman\c[0]
+"Trortur! Please... Why do this??"
+____TEXT____
+\c[7]Trortur\c[0]
+"S-schay it again... Pleeaasche~"
+____TEXT____
+\c[7]Trortur\c[0]
+"I love it."
+____TEXT____
+\c[7]Trortur\c[0]
+"Even if I may lack the parts, I still feel the tingle..."
+____TEXT____
+\c[7]Buckman\c[0]
+"You're completely crazy! You've finally gone insane!"
+___CHOICE___
+Interrupt them
+Ignore them
+____TEXT____
+\c[7]Trortur\c[0]
+"Huh, who might you be?"
+____TEXT____
+You search the barrel for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+This table is used for torture. The blood is still
+wet here...
+____TEXT____
+This table is used for torture. The blood is still
+wet here...
+____TEXT____
+You search the bookshelf for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the bookshelf for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the bookshelf for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the bookshelf for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the bookshelf for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+Dusty old books fill the bookshelf.
+Some of them seem partly rotten and moldy.
+___CHOICE___
+Search
+Leave it be
+___CHOICE___
+HEADS
+TAILS
+____TEXT____
+Like a siren's call - the book is calling to you.
+Its macabre leather coverings look irresistable.
+____TEXT____
+You find nothing of interest.
+____TEXT____
+Like a siren's call - the book is calling to you.
+Its macabre leather coverings look irresistable.
+____TEXT____
+You find nothing of interest.
+____TEXT____
+You already searched this bookshelf.
+____TEXT____
+Dusty old books fill the bookshelf.
+Some of them seem partly rotten and moldy.
+___CHOICE___
+Search
+Leave it be
+___CHOICE___
+HEADS
+TAILS
+____TEXT____
+The book feels somehow very special immediately.
+____TEXT____
+Like a siren's call - the book is calling to you.
+Its macabre leather coverings look irresistable.
+____TEXT____
+You find nothing of interest.
+____TEXT____
+The book feels somehow very special immediately.
+____TEXT____
+Like a siren's call - the book is calling to you.
+Its macabre leather coverings look irresistable.
+____TEXT____
+You find nothing of interest.
+____TEXT____
+You already searched this bookshelf.
+____TEXT____
+Dusty old books fill the bookshelf.
+Some of them seem partly rotten and moldy.
+___CHOICE___
+Search
+Leave it be
+___CHOICE___
+HEADS
+TAILS
+____TEXT____
+Like a siren's call - the book is calling to you.
+Its macabre leather coverings look irresistable.
+____TEXT____
+You find nothing of interest.
+____TEXT____
+Like a siren's call - the book is calling to you.
+Its macabre leather coverings look irresistable.
+____TEXT____
+You find nothing of interest.
+____TEXT____
+You already searched this bookshelf.
+____TEXT____
+Dusty old books fill the bookshelf.
+Some of them seem partly rotten and moldy.
+___CHOICE___
+Search
+Leave it be
+___CHOICE___
+HEADS
+TAILS
+____TEXT____
+The book feels somehow very special immediately.
+____TEXT____
+Like a siren's call - the book is calling to you.
+Its macabre leather coverings look irresistable.
+____TEXT____
+You find nothing of interest.
+____TEXT____
+The book feels somehow very special immediately.
+____TEXT____
+Like a siren's call - the book is calling to you.
+Its macabre leather coverings look irresistable.
+____TEXT____
+You find nothing of interest.
+____TEXT____
+You already searched this bookshelf.
+____TEXT____
+Dusty old books fill the bookshelf.
+Some of them seem partly rotten and moldy.
+___CHOICE___
+Search
+Leave it be
+___CHOICE___
+HEADS
+TAILS
+____TEXT____
+Like a siren's call - the book is calling to you.
+Its macabre leather coverings look irresistable.
+____TEXT____
+You find nothing of interest.
+____TEXT____
+Like a siren's call - the book is calling to you.
+Its macabre leather coverings look irresistable.
+____TEXT____
+You find nothing of interest.
+____TEXT____
+You already searched this bookshelf.
+____TEXT____
+Tongs of some sort lay on the table.
+____TEXT____
+This is a mockup bookshelf. None of the books are
+real.
+___CHOICE___
+Use \c[2]Mockup book\c[0]
+Leave
+____TEXT____
+\c[2]Mockup book\c[0] fits perfectly to an empty
+space between books.
+____TEXT____
+This is a mockup bookshelf. None of the books are
+real.
+____TEXT____
+This is a mockup bookshelf. None of the books are
+real.
+____TEXT____
+This is a mockup bookshelf. None of the books are
+real.
+____TEXT____
+This is a mockup bookshelf. None of the books are
+real.
+___CHOICE___
+Use \c[2]Mockup book\c[0]
+Leave
+____TEXT____
+\c[2]Mockup book\c[0] fits perfectly to an empty
+space between books.
+____TEXT____
+This is a mockup bookshelf. None of the books are
+real.
+____TEXT____
+This is a mockup bookshelf. None of the books are
+real.
+____TEXT____
+This is a mockup bookshelf. None of the books are
+real.
+____TEXT____
+You search the bookshelf for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the bookshelf for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+\c[7]Buckman\c[0]
+"Aah!!"
+____TEXT____
+\c[7]Buckman\c[0]
+"No wait. You're a sane one, right? Right?!"
+____TEXT____
+\c[7]Buckman\c[0]
+"Of course you are. I'd already be dead if you weren't."
+____TEXT____
+\c[7]Buckman\c[0]
+"I-I don't have time for this!"
+____TEXT____
+\c[7]Buckman\c[0]
+"Listen - I've been lost in these dungeons for 
+what feels like a lifetime!"
+____TEXT____
+\c[7]Buckman\c[0]
+"My sense of time has become blurry. It might be years,
+months or, I fear, even just weeks."
+____TEXT____
+\c[7]Buckman\c[0]
+"I just cannot handle it any longer. I-I feel 
+my mind giving up already! I just can't-!"
+____TEXT____
+\c[7]Buckman\c[0]
+"I don't know what business you have here, but if I were
+you, I'd run out as fast as possible! If escaping the place
+is even possible anymore that is."
+____TEXT____
+\c[7]Buckman\c[0]
+*Gasp* "What was that?!"
+____TEXT____
+\c[7]Buckman\c[0]
+"Aah!!"
+____TEXT____
+\c[7]Buckman\c[0]
+"No wait. You're a sane one, right? Right?!"
+____TEXT____
+\c[7]Buckman\c[0]
+"Of course you are. I'd already be dead if you weren't."
+____TEXT____
+\c[7]Buckman\c[0]
+"I-I don't have time for this!"
+____TEXT____
+\c[7]Buckman\c[0]
+"Listen - I've been lost in these dungeons for 
+what feels like a lifetime!"
+____TEXT____
+\c[7]Buckman\c[0]
+"My sense of time has become blurry. It might be years,
+months or, I fear, even just weeks."
+____TEXT____
+\c[7]Buckman\c[0]
+"I just cannot handle it any longer. I-I feel 
+my mind giving up already! I just can't-!"
+____TEXT____
+\c[7]Buckman\c[0]
+"I don't know what business you have here, but if I were
+you, I'd run out as fast as possible! If escaping the place
+is even possible anymore that is."
+____TEXT____
+\c[7]Buckman\c[0]
+*Gasp* "What was that?!"
+____TEXT____
+\c[7]Buckman\c[0]
+"Aah!!"
+____TEXT____
+\c[7]Buckman\c[0]
+"No wait. You're a sane one, right? Right?!"
+____TEXT____
+\c[7]Buckman\c[0]
+"Of course you are. I'd already be dead if you weren't."
+____TEXT____
+\c[7]Buckman\c[0]
+"I-I don't have time for this!"
+____TEXT____
+\c[7]Buckman\c[0]
+"Listen - I've been lost in these dungeons for 
+what feels like a lifetime!"
+____TEXT____
+\c[7]Buckman\c[0]
+"My sense of time has become blurry. It might be years,
+months or, I fear, even just weeks."
+____TEXT____
+\c[7]Buckman\c[0]
+"I just cannot handle it any longer. I-I feel 
+my mind giving up already! I just can't-!"
+____TEXT____
+\c[7]Buckman\c[0]
+"I don't know what business you have here, but if I were
+you, I'd run out as fast as possible! If escaping the place
+is even possible anymore that is."
+____TEXT____
+\c[7]Buckman\c[0]
+*Gasp* "What was that?!"
+<follower touch>
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead Trortur.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on Trorrtur.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You find \c[2]2F key\c[0] among the flesh.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+Trortur is slain...
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave him
+____TEXT____
+Trortur's head feels squishy.
+____TEXT____
+He has nothing of value...
+____TEXT____
+You find \c[2]2F key\c[0] from him.
+____TEXT____
+Skinning him serves no purpose.
+____TEXT____
+Trortur is slain...
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+Trortur's head feels squishy.
+____TEXT____
+He has nothing of value...
+____TEXT____
+You find \c[2]2F key\c[0] from him.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead Trortur.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on Trorrtur.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+Trortur is slain...
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave him
+____TEXT____
+Trortur's head feels squishy.
+____TEXT____
+You already searched him.
+____TEXT____
+Skinning him serves no purpose.
+____TEXT____
+Trortur is slain...
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+Trortur's head feels squishy.
+____TEXT____
+You already searched him.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+A pile of flesh remains here...
+____TEXT____
+\c[7]Trortur\c[0]
+"Oh, who might you be?"
+____TEXT____
+\c[7]Trortur\c[0]
+"I have something to show in case you'd be interested...?"
+____TEXT____
+\c[7]Trortur\c[0]
+"Would you like to sh-see it...?"
+___CHOICE___
+"Yes, show me."
+"No."
+____TEXT____
+\c[7]Trortur\c[0]
+"Right this way please."
+____TEXT____
+\c[7]Trortur\c[0]
+"Oh I'll show you something interesting. A new world
+born from pain and suffering."
+____TEXT____
+\c[7]Trortur\c[0]
+"It's real intereshhting. I promise."
+___CHOICE___
+"Yes, show me."
+"No."
+____TEXT____
+\c[7]Trortur\c[0]
+"Right this way please."
+____TEXT____
+\c[7]Trortur\c[0]
+"Oh I'll show you something interesting. A new world
+born from pain and suffering."
+____TEXT____
+\c[7]Trortur\c[0]
+"You leave me no choice in that case."
+____TEXT____
+\c[7]Trortur\c[0]
+"I thank you for a beautiful test subject!"
+____TEXT____
+\c[7]Trortur\c[0]
+"Kjeh kjeh."
+____TEXT____
+\c[7]Trortur\c[0]
+"Yesch. This will do."
+____TEXT____
+\c[7]Trortur\c[0]
+"Let's see... let's see..."
+____TEXT____
+\c[7]Trortur\c[0]
+"You don't need your legs, do you?"
+____TEXT____
+\c[7]Trortur\c[0]
+"Well not anymore, that's for schure."
+____TEXT____
+\c[7]Trortur\c[0]
+"Don't you just love the trembling of pain?"
+____TEXT____
+\c[7]Trortur\c[0]
+"In this cold world, it's hard to have any feelings
+of pleasure. But you know--"
+____TEXT____
+\c[7]Trortur\c[0]
+"Pain and pleasure are not that far apart."
+____TEXT____
+\c[7]Trortur\c[0]
+"What causes pain to another, can bring pleasure to
+someone else."
+____TEXT____
+\c[7]Trortur\c[0]
+"Arms disgust me. Especially limb ones like yours."
+____TEXT____
+\c[7]Trortur\c[0]
+"Where you are going - you got no need for arms."
+____TEXT____
+\c[7]Trortur\c[0]
+"Chop-chop."
+____TEXT____
+\c[7]Trortur\c[0]
+"Kjeh kjeh kjeh."
+____TEXT____
+\c[7]Trortur\c[0]
+"You remind me of ancient sculptures now, with your
+perfect skin and teeth..."
+____TEXT____
+\c[7]Trortur\c[0]
+"Only one detail and you'll truly be a work of art!"
+____TEXT____
+\c[7]Trortur\c[0]
+"Letsch remove your sinful dirty parts!"
+____TEXT____
+\c[7]Trortur\c[0]
+"Chop-chop."
+____TEXT____
+\c[7]Trortur\c[0]
+"There. A lot better. Now you are beautiful."
+____TEXT____
+\c[7]Trortur\c[0]
+"Like me."
+____TEXT____
+\c[7]Buckman\c[0]
+"What?! What is the meaning of this?!"
+____TEXT____
+\c[7]Trortur\c[0]
+"Little piggy. You ran away from me once..."
+____TEXT____
+\c[7]Trortur\c[0]
+"Your running daysch are over."
+____TEXT____
+\c[7]Trortur\c[0]
+"I thank you for a beautiful test subject!"
+____TEXT____
+\c[7]Trortur\c[0]
+"As a token of appreciation, you can have these."
+____TEXT____
+You get \c[2]2F key\c[0] from him.
+____TEXT____
+You also get \c[2]2 Light blue vials\c[0] from him.
+____TEXT____
+\c[7]Trortur\c[0]
+"If you find any more subjectsch. Please let me know!"
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead Trortur.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on Trorrtur.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You find \c[2]2F key\c[0] among the flesh.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+Trortur is slain...
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave him
+____TEXT____
+Trortur's head feels squishy.
+____TEXT____
+He has nothing of value...
+____TEXT____
+You find \c[2]2F key\c[0] from him.
+____TEXT____
+Skinning him serves no purpose.
+____TEXT____
+Trortur is slain...
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+Trortur's head feels squishy.
+____TEXT____
+He has nothing of value...
+____TEXT____
+You find \c[2]2F key\c[0] from him.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead Trortur.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on Trorrtur.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+Trortur is slain...
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave him
+____TEXT____
+Trortur's head feels squishy.
+____TEXT____
+You already searched him.
+____TEXT____
+Skinning him serves no purpose.
+____TEXT____
+Trortur is slain...
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+Trortur's head feels squishy.
+____TEXT____
+You already searched him.
+____TEXT____
+You search the bookshelf for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the bookshelf for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the bookshelf for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the bookshelf for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+This is a mockup bookshelf. None of the books are
+real.
+____TEXT____
+This is a mockup bookshelf. None of the books are
+real.
+____TEXT____
+The girl is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+The stone has a heavy aura to it. It's almost too much
+for you to carry...
+____TEXT____
+Here lies \N[16]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[17]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[18]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Moonless is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[4]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[5]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[6]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[3]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[1]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+\c[7]Trortur\c[0]
+"Yesch. This will do."
+____TEXT____
+\c[7]Trortur\c[0]
+"Let's see... let's see..."
+____TEXT____
+\c[7]Trortur\c[0]
+"You don't need your legs, do you?"
+____TEXT____
+\c[7]Trortur\c[0]
+"Well not anymore, that's for schure."
+____TEXT____
+\c[7]Trortur\c[0]
+"Don't you just love the trembling of pain?"
+____TEXT____
+\c[7]Trortur\c[0]
+"In this cold world, it's hard to have any feelings
+of pleasure. But you know--"
+____TEXT____
+\c[7]Trortur\c[0]
+"Pain and pleasure are not that far apart."
+____TEXT____
+\c[7]Trortur\c[0]
+"What causes pain to another, can bring pleasure to
+someone else."
+____TEXT____
+\c[7]Trortur\c[0]
+"Arms disgust me. Especially limb ones like yours."
+____TEXT____
+\c[7]Trortur\c[0]
+"Where you are going - you got no need for arms."
+____TEXT____
+\c[7]Trortur\c[0]
+"Chop-chop."
+____TEXT____
+\c[7]Trortur\c[0]
+"Kjeh kjeh kjeh."
+____TEXT____
+\c[7]Trortur\c[0]
+"You remind me of ancient sculptures now, with your
+perfect skin and teeth..."
+____TEXT____
+\c[7]Trortur\c[0]
+"Only one detail and you'll truly be a work of art!"
+____TEXT____
+\c[7]Trortur\c[0]
+"Letsch remove your sinful dirty parts!"
+____TEXT____
+\c[7]Trortur\c[0]
+"Chop-chop."
+____TEXT____
+\c[7]Trortur\c[0]
+"There. A lot better. Now you are beautiful."
+____TEXT____
+\c[7]Trortur\c[0]
+"Like me."
+____TEXT____
+\c[7]Trortur\c[0]
+"Yesch. This will do."
+____TEXT____
+\c[7]Trortur\c[0]
+"Let's see... let's see..."
+____TEXT____
+\c[7]Trortur\c[0]
+"You don't need your legs, do you?"
+____TEXT____
+\c[7]Trortur\c[0]
+"Well not anymore, that's for schure."
+____TEXT____
+\c[7]Trortur\c[0]
+"Don't you just love the trembling of pain?"
+____TEXT____
+\c[7]Trortur\c[0]
+"In this cold world, it's hard to have any feelings
+of pleasure. But you know--"
+____TEXT____
+\c[7]Trortur\c[0]
+"Pain and pleasure are not that far apart."
+____TEXT____
+\c[7]Trortur\c[0]
+"What causes pain to another, can bring pleasure to
+someone else."
+____TEXT____
+\c[7]Trortur\c[0]
+"Arms disgust me. Especially limb ones like yours."
+____TEXT____
+\c[7]Trortur\c[0]
+"Where you are going - you got no need for arms."
+____TEXT____
+\c[7]Trortur\c[0]
+"Chop-chop."
+____TEXT____
+\c[7]Trortur\c[0]
+"Kjeh kjeh kjeh."
+____TEXT____
+\c[7]Trortur\c[0]
+"You remind me of ancient sculptures now, with your
+perfect skin and teeth..."
+____TEXT____
+\c[7]Trortur\c[0]
+"Only one detail and you'll truly be a work of art!"
+____TEXT____
+\c[7]Trortur\c[0]
+"Letsch remove your sinful dirty parts!"
+____TEXT____
+\c[7]Trortur\c[0]
+"Chop-chop."
+____TEXT____
+\c[7]Trortur\c[0]
+"There. A lot better. Now you are beautiful."
+____TEXT____
+\c[7]Trortur\c[0]
+"Like me."
+____TEXT____
+\c[7]Trortur\c[0]
+"Yesch. This will do."
+____TEXT____
+\c[7]Trortur\c[0]
+"Let's see... let's see..."
+____TEXT____
+\c[7]Trortur\c[0]
+"You don't need your legs, do you?"
+____TEXT____
+\c[7]Trortur\c[0]
+"Well not anymore, that's for schure."
+____TEXT____
+\c[7]Trortur\c[0]
+"Don't you just love the trembling of pain?"
+____TEXT____
+\c[7]Trortur\c[0]
+"In this cold world, it's hard to have any feelings
+of pleasure. But you know--"
+____TEXT____
+\c[7]Trortur\c[0]
+"Pain and pleasure are not that far apart."
+____TEXT____
+\c[7]Trortur\c[0]
+"What causes pain to another, can bring pleasure to
+someone else."
+____TEXT____
+\c[7]Trortur\c[0]
+"Arms disgust me. Especially limb ones like yours."
+____TEXT____
+\c[7]Trortur\c[0]
+"Where you are going - you got no need for arms."
+____TEXT____
+\c[7]Trortur\c[0]
+"Chop-chop."
+____TEXT____
+\c[7]Trortur\c[0]
+"Kjeh kjeh kjeh."
+____TEXT____
+\c[7]Trortur\c[0]
+"You remind me of ancient sculptures now, with your
+perfect skin and teeth..."
+____TEXT____
+\c[7]Trortur\c[0]
+"Only one detail and you'll truly be a work of art!"
+____TEXT____
+\c[7]Trortur\c[0]
+"Letsch remove your sinful dirty parts!"
+____TEXT____
+\c[7]Trortur\c[0]
+"Chop-chop."
+____TEXT____
+\c[7]Trortur\c[0]
+"There. A lot better. Now you are beautiful."
+____TEXT____
+\c[7]Trortur\c[0]
+"Like me."
+____TEXT____
+\c[7]Trortur\c[0]
+"Yesch. This will do."
+____TEXT____
+\c[7]Trortur\c[0]
+"Let's see... let's see..."
+____TEXT____
+\c[7]Trortur\c[0]
+"You don't need your legs, do you?"
+____TEXT____
+\c[7]Trortur\c[0]
+"Well not anymore, that's for schure."
+____TEXT____
+\c[7]Trortur\c[0]
+"Don't you just love the trembling of pain?"
+____TEXT____
+\c[7]Trortur\c[0]
+"In this cold world, it's hard to have any feelings
+of pleasure. But you know--"
+____TEXT____
+\c[7]Trortur\c[0]
+"Pain and pleasure are not that far apart."
+____TEXT____
+\c[7]Trortur\c[0]
+"What causes pain to another, can bring pleasure to
+someone else."
+____TEXT____
+\c[7]Trortur\c[0]
+"Arms disgust me. Especially limb ones like yours."
+____TEXT____
+\c[7]Trortur\c[0]
+"Where you are going - you got no need for arms."
+____TEXT____
+\c[7]Trortur\c[0]
+"Chop-chop."
+____TEXT____
+\c[7]Trortur\c[0]
+"Kjeh kjeh kjeh."
+____TEXT____
+\c[7]Trortur\c[0]
+"You remind me of ancient sculptures now, with your
+perfect skin and teeth..."
+____TEXT____
+\c[7]Trortur\c[0]
+"Only one detail and you'll truly be a work of art!"
+____TEXT____
+\c[7]Trortur\c[0]
+"Letsch remove your sinful dirty parts!"
+____TEXT____
+\c[7]Trortur\c[0]
+"Chop-chop."
+____TEXT____
+\c[7]Trortur\c[0]
+"There. A lot better. Now you are beautiful."
+____TEXT____
+\c[7]Trortur\c[0]
+"Like me."
+MERCENARY
+KNIGHT
+CAPTAIN
+OUTLANDER
+MARRIAGE
+____TEXT____
+Your child is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+The rocks here seem loose somehow...
+____TEXT____
+The rocks here seem loose somehow...
+____TEXT____
+The rocks here seem loose somehow...
+____TEXT____
+The rocks here seem loose somehow...
+____TEXT____
+The rocks here seem loose somehow...
+____TEXT____
+The rocks here seem loose somehow...
+____TEXT____
+The rocks here seem loose somehow...
+____TEXT____
+The rocks here seem loose somehow...
+____TEXT____
+A sturdy chest. It doesn't seem to be locked.
+___CHOICE___
+Open
+Leave it
+___CHOICE___
+HEADS
+TAILS
+____TEXT____
+Empty.
+____TEXT____
+Empty.
+____TEXT____
+There is nothing left in the chest anymore.
+____TEXT____
+A sturdy chest. It doesn't seem to be locked.
+___CHOICE___
+Open
+Leave it
+___CHOICE___
+HEADS
+TAILS
+____TEXT____
+Empty.
+____TEXT____
+Empty.
+____TEXT____
+There is nothing left in the chest anymore.
+____TEXT____
+You search the barrel for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+This table is used for torture. The blood is still
+wet here...
+____TEXT____
+Someone has written notes here on an empty scroll:
+____TEXT____
+"O LORD
+TEACH
+HURTING"
+____TEXT____
+Someone has written notes here on an empty scroll:
+____TEXT____
+"O LORD
+TEACH
+HURTING"
+<follower touch>
+<follower touch>
+<follower touch>
+<follower touch>
+<follower touch>
+<follower touch>
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the crow.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead guard.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The Crow Mauler is down...
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+Crow Mauler only carries \c[2]Crow emblem key\c[0] with
+him.
+____TEXT____
+You see no point in skinning the Crow Mauler.
+____TEXT____
+The Crow Mauler is down...
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+Crow Mauler only carries \c[2]Crow emblem key\c[0] with
+him.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the crow.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead guard.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The Crow Mauler is down...
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+Crow Mauler has nothing of worth.
+____TEXT____
+You see no point in skinning the Crow Mauler.
+____TEXT____
+The Crow Mauler is down...
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+Crow Mauler has nothing of worth.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+A pile of flesh remains here...
+____TEXT____
+Here lies \N[19]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+A device used for torture. You could step inside, but
+you decide not to.
+____TEXT____
+A device used for torture. You could step inside, but
+you decide not to.
+____TEXT____
+A device used for torture. You could step inside, but
+you decide not to.
+____TEXT____
+A device used for torture. You could step inside, but
+you decide not to.
+____TEXT____
+A device used for torture. You could step inside, but
+you decide not to.
+____TEXT____
+There is something waiting you on the other side of the
+bars...
+____TEXT____
+The area in front of you reeks rotten...
+____TEXT____
+There is something waiting you on the other side of the
+bars...
+____TEXT____
+The area in front of you reeks rotten...
+____TEXT____
+There is something waiting you on the other side of the
+bars...
+____TEXT____
+The area in front of you reeks rotten...
+____TEXT____
+\c[7]Trortur\c[0]
+"Yesch. This will do."
+____TEXT____
+\c[7]Trortur\c[0]
+"Let's see... let's see..."
+____TEXT____
+\c[7]Trortur\c[0]
+"You don't need your legs, do you?"
+____TEXT____
+\c[7]Trortur\c[0]
+"Well not anymore, that's for schure."
+____TEXT____
+\c[7]Trortur\c[0]
+"Don't you just love the trembling of pain?"
+____TEXT____
+\c[7]Trortur\c[0]
+"In this cold world, it's hard to have any feelings
+of pleasure. But you know--"
+____TEXT____
+\c[7]Trortur\c[0]
+"Pain and pleasure are not that far apart."
+____TEXT____
+\c[7]Trortur\c[0]
+"What causes pain to another, can bring pleasure to
+someone else."
+____TEXT____
+\c[7]Trortur\c[0]
+"Arms disgust me. Especially limb ones like yours."
+____TEXT____
+\c[7]Trortur\c[0]
+"Where you are going - you got no need for arms."
+____TEXT____
+\c[7]Trortur\c[0]
+"Chop-chop."
+____TEXT____
+\c[7]Trortur\c[0]
+"Kjeh kjeh kjeh."
+____TEXT____
+\c[7]Trortur\c[0]
+"You remind me of ancient sculptures now, with your
+perfect skin and teeth..."
+____TEXT____
+\c[7]Trortur\c[0]
+"Only one detail and you'll truly be a work of art!"
+____TEXT____
+\c[7]Trortur\c[0]
+"Letsch remove your sinful dirty parts!"
+____TEXT____
+\c[7]Trortur\c[0]
+"Chop-chop."
+____TEXT____
+\c[7]Trortur\c[0]
+"There. A lot better. Now you are beautiful."
+____TEXT____
+\c[7]Trortur\c[0]
+"Like me."
+____TEXT____
+There is a rotten corpse here...
+The body seems to be in a state of collapse.
+___CHOICE___
+Use \c[2]Necromancy\c[0]
+Leave
+____TEXT____
+Unfortunately the body is in too bad of a shape to carry
+itself.
+____TEXT____
+There is a rotten corpse here...
+The body seems to be in a state of collapse.
+____TEXT____
+There is a rotten corpse here...
+The body seems to be in a state of collapse.
+___CHOICE___
+Use \c[2]Necromancy\c[0]
+Leave
+____TEXT____
+Unfortunately the body is in too bad of a shape to carry
+itself.
+____TEXT____
+There is a rotten corpse here...
+The body seems to be in a state of collapse.
+____TEXT____
+There is a rotten corpse here...
+The body seems to be in a state of collapse.
+___CHOICE___
+Use \c[2]Necromancy\c[0]
+Leave
+____TEXT____
+Unfortunately the body is in too bad of a shape to carry
+itself.
+____TEXT____
+There is a rotten corpse here...
+The body seems to be in a state of collapse.
+____TEXT____
+You search the shelf for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the shelf for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+Dusty old books fill the bookshelf.
+Some of them seem partly rotten and moldy.
+___CHOICE___
+Search
+Leave it be
+___CHOICE___
+HEADS
+TAILS
+____TEXT____
+Like a siren's call - the book is calling to you.
+Its macabre leather coverings look irresistable.
+____TEXT____
+You find nothing of interest.
+____TEXT____
+Like a siren's call - the book is calling to you.
+Its macabre leather coverings look irresistable.
+____TEXT____
+You find nothing of interest.
+____TEXT____
+You already searched this bookshelf.
+____TEXT____
+You search the bookshelf for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+There is a rotten corpse here...
+The body seems to be in a state of collapse.
+___CHOICE___
+Use \c[2]Necromancy\c[0]
+Leave
+____TEXT____
+Unfortunately the body is in too bad of a shape to carry
+itself.
+____TEXT____
+There is a rotten corpse here...
+The body seems to be in a state of collapse.
+____TEXT____
+There is a rotten corpse here...
+The body seems to be in a state of collapse.
+___CHOICE___
+Use \c[2]Necromancy\c[0]
+Leave
+____TEXT____
+Unfortunately the body is in too bad of a shape to carry
+itself.
+____TEXT____
+There is a rotten corpse here...
+The body seems to be in a state of collapse.
+____TEXT____
+There is a rotten corpse here...
+The body seems to be in a state of collapse.
+___CHOICE___
+Use \c[2]Necromancy\c[0]
+Leave
+____TEXT____
+Unfortunately the body is in too bad of a shape to carry
+itself.
+____TEXT____
+There is a rotten corpse here...
+The body seems to be in a state of collapse.
+____TEXT____
+There seems to be someone inside the iron maiden...
+____TEXT____
+There seems to be someone inside the iron maiden...
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the barrel for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+\c[7]Trortur\c[0]
+"Huh, who might you be?"
+____TEXT____
+The book itself doesn't seem interesting in the slightest,
+but there are some separate pages left here as well...
+____TEXT____
+You find \c[2]Book pages I\c[0].
+____TEXT____
+The book doesn't appear interesting in the slightest...
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+Random books are left on the table.
+____TEXT____
+A pile of dusty old books.
+____TEXT____
+A pile of dusty old books.
+____TEXT____
+A pile of dusty old books.
+____TEXT____
+You search the barrel for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You managed to defeat the spectre that was after your sword.
+____TEXT____
+Like distant winds carried from from the far-away lands 
+you hear whispers...
+____TEXT____
+\c[7]Assassin spectre\c[0]
+"Finish... my...task..."
+____TEXT____
+\c[7]Assassin spectre\c[0]
+"O... worthy..."
+____TEXT____
+The \c[2]Eastern sword\c[0] was purified!
+____TEXT____
+The engraving on the hilt becomes clear to you now.
+\c[2]Eastern sword\c[0] was purified and it revealed its
+true name to you - the Black Steel of the East.
+____TEXT____
+You search the barrel for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+Here lies \N[20]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[21]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+MERCENARY
+KNIGHT
+CAPTAIN
+OUTLANDER
+MARRIAGE
+DARK PRIEST
+____TEXT____
+Miscellaneous torturing items. You cannot
+comprehend the function of most of them.
+____TEXT____
+You take \c[2]Bone saw\c[0] with you.
+____TEXT____
+Miscellaneous torturing items. You cannot
+comprehend the function of most of them.
+____TEXT____
+The Hexen table stands here ominously.
+___CHOICE___
+Use the Hexen
+Curse equipment
+Leave
+---
+---
+---
+others
+GEMS
+GEMS
+gro-goroth
+---
+sylvian
+---
+Alll-mer
+---
+depths
+---
+endless
+---
+domination
+---
+tormented
+---
+enlightenment
+---
+---
+---
+GEMS
+gro-goroth
+---
+sylvian
+---
+Alll-mer
+---
+depths
+---
+endless
+---
+domination
+---
+tormented
+---
+enlightenment
+---
+____TEXT____
+Use \c[2]Lesser soul\c[0] to learn \c[2]Lockpicking\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The skill of \c[2]Lockpicking\c[0] is engraved in your
+head!
+____TEXT____
+Use \c[2]Lesser soul\c[0] to learn \c[2]Steal\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The skill of \c[2]Steal\c[0] is engraved in your
+head!
+____TEXT____
+Use \c[2]Lesser soul\c[0] to learn \c[2]Necromancy\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The skill of \c[2]Necromancy\c[0] is engraved in your
+head!
+____TEXT____
+Use \c[2]Lesser soul\c[0] to learn \c[2]Blood golem\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The skill of \c[2]Blood golem\c[0] is engraved in your
+head!
+____TEXT____
+Use \c[2]Lesser soul\c[0] to learn \c[2]En garde\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The skill of \c[2]En garde\c[0] is engraved in your
+head!
+____TEXT____
+Use \c[2]Lesser soul\c[0] to learn \c[2]Dash\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The skill of \c[2]Dash\c[0] is engraved in your
+head!
+____TEXT____
+Use \c[2]Lesser soul\c[0] to learn \c[2]Dash\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The skill of \c[2]Dash\c[0] is engraved in your
+head!
+____TEXT____
+Use \c[2]Lesser soul\c[0] to learn \c[2]Hurting\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The skill of \c[2]Hurting\c[0] is engraved in your
+head!
+____TEXT____
+Use \c[2]Lesser soul\c[0] to learn \c[2]Hurting\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The skill of \c[2]Hurting\c[0] is engraved in your
+head!
+____TEXT____
+Use \c[2]Lesser soul\c[0] to learn \c[2]Pyromancy trick\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The skill of \c[2]Pyromancy trick\c[0] is engraved in your
+head!
+____TEXT____
+Use \c[2]Lesser soul\c[0] to learn \c[2]Defensive Stance\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The skill of \c[2]Defensive Stance\c[0] is engraved in your
+head!
+____TEXT____
+Use \c[2]Lesser soul\c[0] to learn \c[2]Counter\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The skill of \c[2]Counter\c[0] is engraved in your mind!
+____TEXT____
+Use \c[2]Lesser soul\c[0] to learn \c[2]Black orb\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The skill of \c[2]Black orb\c[0] is engraved in your mind!
+____TEXT____
+Use \c[2]Lesser soul\c[0] to learn \c[2]Pheromones\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The skill of \c[2]Pheromones\c[0] is engraved in your
+head!
+____TEXT____
+Use \c[2]Lesser soul\c[0] to learn \c[2]Leg sweep\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The skill of \c[2]Leg sweep\c[0] is engraved in your
+head!
+____TEXT____
+Use \c[2]Lesser soul\c[0] to learn \c[2]Healing whispers\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The skill of \c[2]Healing whispers\c[0] is engraved in your
+head!
+____TEXT____
+Use \c[2]Lesser soul\c[0] to learn \c[2]Healing whispers\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The skill of \c[2]Healing whispers\c[0] is engraved in your
+head!
+____TEXT____
+Use \c[2]Lesser soul\c[0] to learn \c[2]Loving whispers\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The skill of \c[2]Loving whispers\c[0] is engraved in
+your head!
+____TEXT____
+Use \c[2]Lesser soul\c[0] to learn \c[2]Devour\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The skill of \c[2]Devour\c[0] is engraved in your mind!
+____TEXT____
+Use \c[2]Lesser soul\c[0] to learn \c[2]Marksmanship\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The skill of \c[2]Marksmanship\c[0] is engraved in your mind!
+____TEXT____
+Use \c[2]Lesser soul\c[0] to learn \c[2]Marksmanship\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The skill of \c[2]Marksmanship\c[0] is engraved in your mind!
+____TEXT____
+Use \c[2]Lesser soul\c[0] to learn \c[2]War cry\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The skill of \c[2]War cry\c[0] is engraved in your mind!
+____TEXT____
+Use \c[2]Lesser soul\c[0] to learn \c[2]Locust swarm\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The skill of \c[2]Locust swarm\c[0] is engraved in your mind!
+____TEXT____
+Use \c[2]Lesser soul\c[0] to learn \c[2]Locust swarm\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The skill of \c[2]Locust swarm\c[0] is engraved in your mind!
+____TEXT____
+Use \c[2]Lesser soul\c[0] to learn \c[2]Blood portal\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The skill of \c[2]Blood portal\c[0] is engraved in your mind!
+____TEXT____
+Use \c[2]Lesser soul\c[0] to learn \c[2]Counter-magic\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The skill of \c[2]Counter-magic\c[0] is engraved in your mind!
+____TEXT____
+Use \c[2]Lesser soul\c[0] to learn \c[2]Greater blood magic\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The skill of \c[2]Greater blood magic\c[0] is engraved in 
+your head!
+____TEXT____
+Use \c[2]Lesser soul\c[0] to learn \c[2]Flock of crows\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The skill of \c[2]Flock of crows\c[0] is engraved in your 
+head!
+____TEXT____
+Use \c[2]Lesser soul\c[0] to learn \c[2]Mastery over insects\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The skill of \c[2]Mastery over insects\c[0] is engraved 
+in your mind!
+____TEXT____
+Use \c[2]Lesser soul\c[0] to learn \c[2]Needle worms\c[0]?
+___CHOICE___
+Yes
+No
+____TEXT____
+The skill of \c[2]Needle worms\c[0] is engraved in your 
+head!
+____TEXT____
+You hear a crack underneath your feet...
+___CHOICE___
+HEADS
+TAILS
+____TEXT____
+You barely managed to jump to safety!
+____TEXT____
+You barely managed to jump to safety!
+____TEXT____
+You hear a crack underneath your feet...
+___CHOICE___
+HEADS
+TAILS
+____TEXT____
+You barely managed to jump to safety!
+____TEXT____
+You barely managed to jump to safety!
+____TEXT____
+\c[7]Ser Seymor\c[0]
+"..."
+____TEXT____
+\c[7]Ser Seymor\c[0]
+"H-how did I let this happen??"
+____TEXT____
+\c[7]Ser Seymor\c[0]
+"..."
+____TEXT____
+\c[7]Ser Seymor\c[0]
+"I've - I've failed in my duties... I just can't..."
+____TEXT____
+\c[7]Ser Seymor\c[0]
+"..."
+____TEXT____
+Ser Gregor seems to have lost it. His stare has turned into
+an empty one and even his face looks more gaunt than before.
+____TEXT____
+There is a random diary on the floor...
+____TEXT____
+"I curse the older gods. My wife has died because of
+their plague, my child has died because of their sins..."
+____TEXT____
+"Next will be me. And I will die because of this macabre
+hellhole their built."
+____TEXT____
+There is something written here...
+____TEXT____
+"The hexen creates a connection to the gods, both new and
+the old."
+____TEXT____
+"To get closer to the older gods, you must work your way
+up and gain their affinity. With each circle you get closer
+to them."
+____TEXT____
+"The new gods only pass on their knowledge to those who
+share the same birth sign and soul with them."
+____TEXT____
+There is something written here...
+____TEXT____
+"The hexen creates a connection to the gods, both new and
+the old."
+____TEXT____
+"To get closer to the older gods, you must work your way
+up and gain their affinity. With each circle you get closer
+to them."
+____TEXT____
+"The new gods only pass on their knowledge to those who
+share the same birth sign and soul with them."
+____TEXT____
+You managed to defeat the spectre that was after your sword.
+____TEXT____
+Like distant winds carried from from the far-away lands 
+you hear whispers...
+____TEXT____
+\c[7]Assassin spectre\c[0]
+"Finish... my...task..."
+____TEXT____
+\c[7]Assassin spectre\c[0]
+"O... worthy..."
+____TEXT____
+The \c[2]Eastern sword\c[0] was purified!
+____TEXT____
+The engraving on the hilt becomes clear to you now.
+\c[2]Eastern sword\c[0] was purified and it revealed its
+true name to you - the Black Steel of the East.

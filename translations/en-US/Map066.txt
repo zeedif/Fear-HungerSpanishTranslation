@@ -1,0 +1,118 @@
+____TEXT____
+Moonless is dead now...
+____TEXT____
+Here lies \N[6]...
+____TEXT____
+Here lies \N[5]...
+____TEXT____
+Here lies \N[4]...
+____TEXT____
+Here lies \N[3]...
+____TEXT____
+Here lies \N[1]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+The wall feels soft around here.
+___CHOICE___
+Push
+Leave
+____TEXT____
+The girl is dead now...
+____TEXT____
+Here lies \N[16]...
+____TEXT____
+Here lies \N[17]...
+____TEXT____
+Here lies \N[18]...
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+MERCENARY
+KNIGHT
+CAPTAIN
+OUTLANDER
+MARRIAGE
+____TEXT____
+Your child is dead now...
+____TEXT____
+A sturdy chest. It doesn't seem to be locked.
+___CHOICE___
+Open
+Leave it
+___CHOICE___
+HEADS
+TAILS
+____TEXT____
+There is nothing left in the chest anymore.
+____TEXT____
+A sturdy chest. It doesn't seem to be locked.
+___CHOICE___
+Open
+Leave it
+___CHOICE___
+HEADS
+TAILS
+____TEXT____
+Empty.
+____TEXT____
+Empty.
+____TEXT____
+There is nothing left in the chest anymore.
+____TEXT____
+With \c[2]Mastery over insects\c[0] you are able to hear
+whispers...
+____TEXT____
+\} "Master... this is our... kingdom..."
+____TEXT____
+\} "Master... look for the hidden paths... there are plenty..."
+____TEXT____
+You feel a terrible presence entering these dungeons...
+____TEXT____
+You feel a terrible presence entering these dungeons...
+____TEXT____
+You feel a terrible presence entering these dungeons...
+____TEXT____
+Here lies \N[19]...
+____TEXT____
+Here lies \N[20]...
+____TEXT____
+Here lies \N[21]...

@@ -1,0 +1,502 @@
+____TEXT____
+Moonless is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[6]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[5]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[4]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[3]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[1]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+The girl is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+The stone has a heavy aura to it. It's almost too much
+for you to carry...
+____TEXT____
+Here lies \N[16]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[17]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[18]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+MERCENARY
+KNIGHT
+CAPTAIN
+OUTLANDER
+MARRIAGE
+____TEXT____
+Your child is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+A sturdy chest. It doesn't seem to be locked.
+___CHOICE___
+Open
+Leave it
+___CHOICE___
+HEADS
+TAILS
+____TEXT____
+Empty.
+____TEXT____
+Empty.
+____TEXT____
+There is nothing left in the chest anymore.
+____TEXT____
+A sturdy chest. It doesn't seem to be locked.
+___CHOICE___
+Open
+Leave it
+___CHOICE___
+HEADS
+TAILS
+____TEXT____
+Empty.
+____TEXT____
+Empty.
+____TEXT____
+There is nothing left in the chest anymore.
+____TEXT____
+Here lies \N[19]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[20]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[21]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+<follower touch>
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the white angel.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead guard.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The White angel is down...
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+The White angel has nothing of worth.
+____TEXT____
+You took \c[2]Pale skin\c[0]!
+____TEXT____
+The White angel is down...
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+The White angel has nothing of worth.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+A pile of flesh remains here...
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+The fire is burning furiously.
+____TEXT____
+You could easily get lost in the ever-shaping form of
+the flame...
+____TEXT____
+The fire is burning furiously.
+____TEXT____
+You could easily get lost in the ever-shaping form of
+the flame...
+____TEXT____
+The fire is burning furiously.
+____TEXT____
+You could easily get lost in the ever-shaping form of
+the flame...
+____TEXT____
+The fire is burning furiously.
+____TEXT____
+You could easily get lost in the ever-shaping form of
+the flame...
+____TEXT____
+The fire is burning furiously.
+____TEXT____
+You could easily get lost in the ever-shaping form of
+the flame...
+____TEXT____
+The fire is burning furiously.
+____TEXT____
+You could easily get lost in the ever-shaping form of
+the flame...
+____TEXT____
+The fire is burning furiously.
+____TEXT____
+You could easily get lost in the ever-shaping form of
+the flame...
+____TEXT____
+The fire is burning furiously.
+____TEXT____
+You could easily get lost in the ever-shaping form of
+the flame...
+____TEXT____
+The fire is burning furiously.
+____TEXT____
+You could easily get lost in the ever-shaping form of
+the flame...
+____TEXT____
+There is a creature hanging on chains here.
+___CHOICE___
+Poke it
+Leave it
+____TEXT____
+No reaction.
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the urn for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"This is the area. Below the temple of torment lies my old
+laboratory."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"Although these alleys look a bit different from my time."
+____TEXT____
+\c[7]Nas'hrah\c[0]
+"We might have to find an alternative path down there. Let's
+look for a way down."
+____TEXT____
+The Beacon of the Depths is standing here.
+___CHOICE___
+Use \c[2]Cube of the depths\c[0]
+Investigate
+Leave
+____TEXT____
+The beacon's mechanisms are ancient. The light it radiates
+is supposed to guide souls to the next world.
+____TEXT____
+There appears to be a place for a cube shaped object on the
+front...
+____TEXT____
+The Beacon of the Depths is standing here.
+____TEXT____
+The beacon's mechanisms are ancient. The light it radiates
+is supposed to guide souls to the next world.
+____TEXT____
+There appears to be a place for a cube shaped object on the
+front...
+___CHOICE___
+Use \c[2]Cube of the depths\c[0]
+Leave
+____TEXT____
+The Beacon of the Depths is standing here.
+___CHOICE___
+Use \c[2]Cube of the depths\c[0]
+Investigate
+Leave
+____TEXT____
+The beacon's mechanisms are ancient. The light it radiates
+is supposed to guide souls to the next world.
+____TEXT____
+There appears to be a place for a cube shaped object on the
+front...
+____TEXT____
+The Beacon of the Depths is standing here.
+____TEXT____
+The beacon's mechanisms are ancient. The light it radiates
+is supposed to guide souls to the next world.
+____TEXT____
+There appears to be a place for a cube shaped object on the
+front...
+___CHOICE___
+Use \c[2]Cube of the depths\c[0]
+Leave
+____TEXT____
+The Beacon of the Depths is standing here.
+___CHOICE___
+Use \c[2]Cube of the depths\c[0]
+Investigate
+Leave
+____TEXT____
+The beacon's mechanisms are ancient. The light it radiates
+is supposed to guide souls to the next world.
+____TEXT____
+There appears to be a place for a cube shaped object on the
+front...
+____TEXT____
+The Beacon of the Depths is standing here.
+____TEXT____
+The beacon's mechanisms are ancient. The light it radiates
+is supposed to guide souls to the next world.
+____TEXT____
+There appears to be a place for a cube shaped object on the
+front...
+___CHOICE___
+Use \c[2]Cube of the depths\c[0]
+Leave
+____TEXT____
+The Beacon of the Depths is standing here.
+___CHOICE___
+Use \c[2]Cube of the depths\c[0]
+Investigate
+Leave
+____TEXT____
+The beacon's mechanisms are ancient. The light it radiates
+is supposed to guide souls to the next world.
+____TEXT____
+There appears to be a place for a cube shaped object on the
+front...
+____TEXT____
+The Beacon of the Depths is standing here.
+____TEXT____
+The beacon's mechanisms are ancient. The light it radiates
+is supposed to guide souls to the next world.
+____TEXT____
+There appears to be a place for a cube shaped object on the
+front...
+___CHOICE___
+Use \c[2]Cube of the depths\c[0]
+Leave

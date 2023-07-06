@@ -1,0 +1,1274 @@
+<follower touch>
+<follower touch>
+<follower touch>
+<follower touch>
+<follower touch>
+<follower touch>
+<follower touch>
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead guard.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead guard.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+You take prison guard's \c[2]Loincloth\c[0] and
+\c[2]Meat cleaver\c[0] with you. They're still sweaty
+and damp.
+____TEXT____
+You took \c[2]Guard skin\c[0]!
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+You take prison guard's \c[2]Loincloth\c[0] and
+\c[2]Meat cleaver\c[0] with you. They're still sweaty
+and damp.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead guard.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead guard.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+You already searched him.
+____TEXT____
+You took \c[2]Guard skin\c[0]!
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+You already searched him.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+A pile of flesh remains here...
+____TEXT____
+\c[7]Priest\c[0]
+"They will create an idol out of our fears!"
+____TEXT____
+\c[7]Priest\c[0]
+"Greetings sister. Have you come for the holy ceremony
+as well?"
+____TEXT____
+\c[7]Priest\c[0]
+"The time is now. The times the prophecies have foretold!"
+____TEXT____
+\c[7]Priest\c[0]
+"Greetings brother. Have you come for the holy ceremony
+as well?"
+____TEXT____
+\c[7]Priest\c[0]
+"The time is now. The times the prophecies have foretold!"
+____TEXT____
+\c[7]Priest\c[0]
+"Is there something you would like to know?"
+___CHOICE___
+"About the older gods..."
+"About the new gods..."
+Attack him
+"Nevermind."
+____TEXT____
+\c[7]Priest\c[0]
+"Tell me which god do you serve?"
+___CHOICE___
+"Gro-goroth."
+"Sylvian."
+"Alll-Mer."
+"Other..."
+____TEXT____
+\c[7]Priest\c[0]
+"Where there is creation, there must be destruction. Such
+is the cycle of life."
+____TEXT____
+\c[7]Priest\c[0]
+"Common folk often portray Gro-goroth as a being of evil
+or an entity that must be avoided by all costs."
+____TEXT____
+\c[7]Priest\c[0]
+"But... it's not the whole truth."
+____TEXT____
+\c[7]Priest\c[0]
+"Sylvian, the goddess...she once loved us so..."
+____TEXT____
+\c[7]Priest\c[0]
+"But you can love too much..."
+____TEXT____
+\c[7]Priest\c[0]
+"That is when lust, sex and addiction take a form of 
+defiguration."
+____TEXT____
+\c[7]Priest\c[0]
+"Alll-Mer is the most recent of all the older gods."
+____TEXT____
+\c[7]Priest\c[0]
+"But that is only because he made himself apparent at such
+a late age."
+____TEXT____
+\c[7]Priest\c[0]
+"He has existed for aeons as a seed of his father."
+____TEXT____
+\c[7]Priest\c[0]
+"Yes, there are countless older gods less known in these
+parts of the world."
+____TEXT____
+\c[7]Priest\c[0]
+"God of the Depths has an especially strong influence in
+these dungeons..."
+____TEXT____
+\c[7]Priest\c[0]
+"The older gods have left this earth for us to suffer.
+There are but traces of them left anymore."
+____TEXT____
+\c[7]Priest\c[0]
+"That is why many are turning their hopes for the new 
+gods. But many fail to see their path to ruin."
+____TEXT____
+\c[7]Priest\c[0]
+"Or their but a fleeting purpose..."
+____TEXT____
+\c[7]Priest\c[0]
+"The new gods offer new values. Values of greed, lust for
+power, inhibition of sex and desperate seek for new 
+sciences to replace the old."
+____TEXT____
+\c[7]Priest\c[0]
+"Hm. So it is so - there is not room for all of us, 
+I agree."
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead priest.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead priest.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+You killed the dark priest.
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+The priest feels skinny underneath his robe.
+____TEXT____
+You take \c[2]Priest's robe\c[0] with you.
+____TEXT____
+Priest's robe is torn into shreds...
+You tear a \c[2]Cloth fragment\c[0] from the remains.
+____TEXT____
+You take \c[2]Priest's lantern\c[0] with you.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead priest.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead priest.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+You killed the dark priest.
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+The priest feels skinny underneath his robe.
+____TEXT____
+You already searched him.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+A pile of flesh remains here...
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+\c[7]Priest\c[0]
+"They will create an idol out of our fears!"
+____TEXT____
+\c[7]Priest\c[0]
+"Greetings sister. Have you come for the holy ceremony
+as well?"
+____TEXT____
+\c[7]Priest\c[0]
+"The time is now. The times the prophecies have foretold!"
+____TEXT____
+\c[7]Priest\c[0]
+"Greetings brother. Have you come for the holy ceremony
+as well?"
+____TEXT____
+\c[7]Priest\c[0]
+"The time is now. The times the prophecies have foretold!"
+____TEXT____
+\c[7]Priest\c[0]
+"I am a wretched worshipper of Alll-Mer, the ascended one, 
+the christ, the one who died for our sins."
+____TEXT____
+\c[7]Priest\c[0]
+"On the empty scrolls I wrote the name of our savior -
+O LORD..."
+____TEXT____
+\c[7]Priest\c[0]
+"As the next verse I would plead him - GIVE..."
+____TEXT____
+\c[7]Priest\c[0]
+"As the final, third verse, I would ask for CHEESE, 
+LANTERN, SHORT SWORD or even a book about our christ."
+____TEXT____
+\c[7]Priest\c[0]
+"I could ask for anything and that is exactly what I would
+get."
+___CHOICE___
+Attack him
+Leave
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead priest.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead priest.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+You killed the dark priest.
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+The priest feels skinny underneath his robe.
+____TEXT____
+You take \c[2]Priest's robe\c[0] with you.
+____TEXT____
+Priest's robe is torn into shreds...
+You tear a \c[2]Cloth fragment\c[0] from the remains.
+____TEXT____
+You take \c[2]Priest's lantern\c[0] with you.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead priest.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead priest.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+You killed the dark priest.
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+The priest feels skinny underneath his robe.
+____TEXT____
+You already searched him.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+A pile of flesh remains here...
+____TEXT____
+\c[7]Priest\c[0]
+"They will create an idol out of our fears!"
+____TEXT____
+\c[7]Priest\c[0]
+"O LORD KILL HERETICS..."
+___CHOICE___
+Attack him
+Leave
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead priest.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead priest.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+You killed the dark priest.
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+The priest feels skinny underneath his robe.
+____TEXT____
+You take \c[2]Priest's robe\c[0] with you.
+____TEXT____
+Priest's robe is torn into shreds...
+You tear a \c[2]Cloth fragment\c[0] from the remains.
+____TEXT____
+You take \c[2]Priest's lantern\c[0] with you.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead priest.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead priest.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+You killed the dark priest.
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+The priest feels skinny underneath his robe.
+____TEXT____
+You already searched him.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+A pile of flesh remains here...
+____TEXT____
+The sick man is breathing heavily...
+____TEXT____
+The sick man is breathing heavily...
+____TEXT____
+This person seems to be dead already.
+____TEXT____
+This person seems to be dead already.
+____TEXT____
+The sick person whimpers on the ground. He is seemingly in
+pain.
+____TEXT____
+\c[7]Sick man\c[0]
+"I blame the older gods... Why did they curse us with this
+sickness..."
+____TEXT____
+\c[7]Plague doctor\c[0]
+"You brought this on yourself. Sins must be paid for..."
+____TEXT____
+\c[7]Priest\c[0]
+"The new gods. They will bring us the paradise!"
+____TEXT____
+\c[7]Priest\c[0]
+"O brother. How is world treating you to this day and age?"
+___CHOICE___
+"I'm afraid not well..."
+"Everyday is a blessing."
+____TEXT____
+\c[7]Priest\c[0]
+"Mm. The role of a dark priest is not an easy one. We have
+been persecuted by the common folk since the dawn of time."
+____TEXT____
+\c[7]Priest\c[0]
+"Hopefully this will ease your daily struggle."
+____TEXT____
+You get \c[2]Opium powder\c[0].
+____TEXT____
+\c[7]Priest\c[0]
+"We are living in a blessed age. True. As it is close to
+the advent of our savior."
+____TEXT____
+\c[7]Priest\c[0]
+"O brother. How is world treating you to this day and age?"
+___CHOICE___
+"I'm afraid not well..."
+"Everyday is a blessing."
+____TEXT____
+\c[7]Priest\c[0]
+"Mm. The role of a dark priest is not an easy one. We have
+been persecuted by the common folk since the dawn of time."
+____TEXT____
+\c[7]Priest\c[0]
+"We are living in a blessed age. True. As it is close to
+the advent of our savior."
+____TEXT____
+\c[7]Priest\c[0]
+"The past millenia, we've been at the mercy of the older
+gods and their reign."
+____TEXT____
+\c[7]Priest\c[0]
+"It's time for mankind to take matters into their own
+hands with the rise of the new gods."
+____TEXT____
+\c[7]Priest\c[0]
+"Brother in faith, the advent is near. Have you fulfilled
+your earthly needs yet?"
+___CHOICE___
+"I'm afraid I don't have much..."
+"I have."
+____TEXT____
+\c[7]Priest\c[0]
+"Worry not. I have something special for you in that case."
+____TEXT____
+You get an \c[2]Empty scroll\c[0].
+____TEXT____
+\c[7]Priest\c[0]
+"Use it wisely."
+____TEXT____
+\c[7]Priest\c[0]
+"There is not much time for us to savor in the warm delights
+of the living."
+____TEXT____
+\c[7]Priest\c[0]
+"Brother in faith, the advent is near. Have you fulfilled
+your earthly needs yet?"
+___CHOICE___
+"I'm afraid I don't have much..."
+"I have."
+____TEXT____
+\c[7]Priest\c[0]
+"Well use the scroll I gave you in that case. No need for
+pain and sorrow in this time of jubilee."
+____TEXT____
+\c[7]Priest\c[0]
+"There is not much time for us to savor in the warm delights
+of the living."
+____TEXT____
+As you open your eyes, you find yourself in the misty
+backstreets of the Kingdom of Rondon.
+____TEXT____
+You've visited the city numerous times before, which is why
+you recognize the streets clearly, but there is something
+uncanny about its houses and street lamps.
+____TEXT____
+Something feels off.
+____TEXT____
+The door is locked tight.
+____TEXT____
+The door is locked tight.
+____TEXT____
+The door is locked tight.
+____TEXT____
+\c[7]Sick man\c[0]
+"The new gods will bring an end to the dark times..."
+____TEXT____
+\c[7]Sick man\c[0]
+"I fear it's going to be too late for me though..."
+____TEXT____
+The person with the plague is laying still on the ground.
+You can see the plague spreading in him.
+____TEXT____
+\c[7]\N[4]\c[0]
+"I'm ready Alll-mer. Take me."
+____TEXT____
+\c[7]\N[4]\c[0]
+"I'm ready to meet my end. This is as far as I got.
+____TEXT____
+\c[7]\N[4]\c[0]
+"I can't get any satisfaction!"
+____TEXT____
+\c[7]\N[4]\c[0]
+"There is no fulfilment!
+____TEXT____
+\c[7]\N[4]\c[0]
+"I've reached the limits this feeble body can withstand."
+____TEXT____
+\c[7]\N[4]\c[0]
+"There is no silver lining waiting at the end. The purpose
+of us all is to shiver under the cold sun the gods have set
+above us."
+____TEXT____
+\c[7]\N[4]\c[0]
+"..."
+____TEXT____
+\c[7]\N[4]\c[0]
+"What's that?"
+____TEXT____
+\c[7]\N[4]\c[0]
+"These visions..."
+____TEXT____
+\c[7]\N[4]\c[0]
+"I see..."
+____TEXT____
+\c[7]\N[4]\c[0]
+"I understand."
+____TEXT____
+\c[7]\N[4]\c[0]
+"Let me down from here!"
+<follower touch>
+<follower touch>
+<follower touch>
+<follower touch>
+<follower touch>
+<follower touch>
+<follower touch>
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead guard.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead guard.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+You take prison guard's \c[2]Loincloth\c[0] and
+\c[2]Meat cleaver\c[0] with you. They're still sweaty
+and damp.
+____TEXT____
+You took \c[2]Guard skin\c[0]!
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+You take prison guard's \c[2]Loincloth\c[0] and
+\c[2]Meat cleaver\c[0] with you. They're still sweaty
+and damp.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead guard.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead guard.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+You already searched him.
+____TEXT____
+You took \c[2]Guard skin\c[0]!
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+You already searched him.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+A pile of flesh remains here...
+____TEXT____
+\c[7]Sick man\c[0]
+*cough* *cough*
+____TEXT____
+\c[7]Sick man\c[0]
+"My gods... You've forsaken me..."
+____TEXT____
+\c[7]Sick man\c[0]
+*cough* *cough*
+____TEXT____
+\c[7]Sick man\c[0]
+"My gods... You've forsaken me..."
+____TEXT____
+There is a poster here...
+____TEXT____
+"Missing children! Since the beginning of this year,
+already 13 children have been reported missing."
+____TEXT____
+"If you have any clues about the suspect of such heinous
+crimes, please let the city official know!"
+____TEXT____
+"A concrete lead will warrant a hefty reward."
+____TEXT____
+There is a poster here...
+____TEXT____
+"Missing children! Since the beginning of this year,
+already 13 children have been reported missing."
+____TEXT____
+"If you have any clues about the suspect of such heinous
+crimes, please let the city official know!"
+____TEXT____
+"A concrete lead will warrant a hefty reward."
+____TEXT____
+There is a poster here...
+____TEXT____
+"Missing children! Since the beginning of this year,
+already 13 children have been reported missing."
+____TEXT____
+"If you have any clues about the suspect of such heinous
+crimes, please let the city official know!"
+____TEXT____
+"A concrete lead will warrant a hefty reward."
+____TEXT____
+You wake up from the dream abruptly. You feel a cold sweat
+running down your spine.
+____TEXT____
+You wake up from the dream abruptly. You feel a cold sweat
+running down your spine.
+____TEXT____
+You wake up from the dream abruptly. You feel a cold sweat
+running down your spine.
+____TEXT____
+You wake up from the dream abruptly. You feel a cold sweat
+running down your spine.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the barrel for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the barrel for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the barrel for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the barrel for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the barrel for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the barrel for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the barrel for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the barrel for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the barrel for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the barrel for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the barrel for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+A flag of the Kingdom of Rondon is hanging on the wall.
+____TEXT____
+You could tear the flag for cloth fragments...
+___CHOICE___
+Tear the flag
+Leave
+____TEXT____
+You got a \c[2]Cloth fragment\c[0]!
+____TEXT____
+A flag of the Kingdom of Rondon is hanging on the wall.
+____TEXT____
+A flag of the Kingdom of Rondon is hanging on the wall.
+____TEXT____
+You could tear the flag for cloth fragments...
+___CHOICE___
+Tear the flag
+Leave
+____TEXT____
+You got a \c[2]Cloth fragment\c[0]!
+____TEXT____
+A flag of the Kingdom of Rondon is hanging on the wall.
+____TEXT____
+A flag of the Kingdom of Rondon is hanging on the wall.
+____TEXT____
+You could tear the flag for cloth fragments...
+___CHOICE___
+Tear the flag
+Leave
+____TEXT____
+You got a \c[2]Cloth fragment\c[0]!
+____TEXT____
+A flag of the Kingdom of Rondon is hanging on the wall.
+____TEXT____
+A flag of the Kingdom of Rondon is hanging on the wall.
+____TEXT____
+You could tear the flag for cloth fragments...
+___CHOICE___
+Tear the flag
+Leave
+____TEXT____
+You got a \c[2]Cloth fragment\c[0]!
+____TEXT____
+A flag of the Kingdom of Rondon is hanging on the wall.
+____TEXT____
+A flag of the Kingdom of Rondon is hanging on the wall.
+____TEXT____
+You could tear the flag for cloth fragments...
+___CHOICE___
+Tear the flag
+Leave
+____TEXT____
+You got a \c[2]Cloth fragment\c[0]!
+____TEXT____
+A flag of the Kingdom of Rondon is hanging on the wall.
+____TEXT____
+A flag of the Kingdom of Rondon is hanging on the wall.
+____TEXT____
+You could tear the flag for cloth fragments...
+___CHOICE___
+Tear the flag
+Leave
+____TEXT____
+You got a \c[2]Cloth fragment\c[0]!
+____TEXT____
+A flag of the Kingdom of Rondon is hanging on the wall.
+____TEXT____
+The girl is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+The stone has a heavy aura to it. It's almost too much
+for you to carry...
+____TEXT____
+Here lies \N[16]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[17]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[18]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Moonless is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[4]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[5]...
+____TEXT____
+Here lies \N[6]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[3]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[1]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+A flag of the Kingdom of Rondon is hanging on the wall.
+____TEXT____
+You could tear the flag for cloth fragments...
+___CHOICE___
+Tear the flag
+Leave
+____TEXT____
+You got a \c[2]Cloth fragment\c[0]!
+____TEXT____
+A flag of the Kingdom of Rondon is hanging on the wall.
+____TEXT____
+A flag of the Kingdom of Rondon is hanging on the wall.
+____TEXT____
+You could tear the flag for cloth fragments...
+___CHOICE___
+Tear the flag
+Leave
+____TEXT____
+You got a \c[2]Cloth fragment\c[0]!
+____TEXT____
+A flag of the Kingdom of Rondon is hanging on the wall.
+____TEXT____
+A flag of the Kingdom of Rondon is hanging on the wall.
+____TEXT____
+You could tear the flag for cloth fragments...
+___CHOICE___
+Tear the flag
+Leave
+____TEXT____
+You got a \c[2]Cloth fragment\c[0]!
+____TEXT____
+A flag of the Kingdom of Rondon is hanging on the wall.
+____TEXT____
+A flag of the Kingdom of Rondon is hanging on the wall.
+____TEXT____
+You could tear the flag for cloth fragments...
+___CHOICE___
+Tear the flag
+Leave
+____TEXT____
+You got a \c[2]Cloth fragment\c[0]!
+____TEXT____
+A flag of the Kingdom of Rondon is hanging on the wall.
+MERCENARY
+KNIGHT
+CAPTAIN
+OUTLANDER
+MARRIAGE
+____TEXT____
+A flag of the Kingdom of Rondon is hanging on the wall.
+____TEXT____
+You could tear the flag for cloth fragments...
+___CHOICE___
+Tear the flag
+Leave
+____TEXT____
+You got a \c[2]Cloth fragment\c[0]!
+____TEXT____
+A flag of the Kingdom of Rondon is hanging on the wall.
+____TEXT____
+Your child is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+A flag of the Kingdom of Rondon is hanging on the wall.
+____TEXT____
+You could tear the flag for cloth fragments...
+___CHOICE___
+Tear the flag
+Leave
+____TEXT____
+You got a \c[2]Cloth fragment\c[0]!
+____TEXT____
+A flag of the Kingdom of Rondon is hanging on the wall.
+____TEXT____
+Here lies \N[19]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[20]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[21]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...

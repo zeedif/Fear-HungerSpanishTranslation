@@ -1,0 +1,1358 @@
+____TEXT____
+Leave the dungeons?
+___CHOICE___
+Leave
+Nevermind
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Well this was fun! We make a good team!"
+____TEXT____
+Leave the dungeons?
+___CHOICE___
+Leave
+Nevermind
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Well this was fun! We make a good team!"
+MERCENARY
+KNIGHT
+CAPTAIN
+OUTLANDER
+MARRIAGE
+DARK PRIEST
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+The crate is empty.
+____TEXT____
+You unlocked the door.
+____TEXT____
+You could open the door with \c[2]Lockpicking\c[0].
+___CHOICE___
+Use \c[2]Lockpicking\c[0]
+Don't
+____TEXT____
+The door is locked...
+___CHOICE___
+Use \c[2]Cell keys F3\c[0]
+Use \c[2]Red vial\c[0]
+Leave
+____TEXT____
+The door is locked...
+___CHOICE___
+Use \c[2]Red vial\c[0]
+Force the door open
+Leave
+____TEXT____
+You managed to force your way through the door.
+____TEXT____
+You don't seem to be strong enough to force the door open...
+____TEXT____
+The door is locked...
+___CHOICE___
+Use \c[2]Cell keys F3\c[0]
+Leave
+____TEXT____
+The door is locked...
+___CHOICE___
+Force the door open
+Leave
+____TEXT____
+You managed to force your way through the door.
+____TEXT____
+You don't seem to be strong enough to force the door open...
+____TEXT____
+You could open the door with \c[2]Lockpicking\c[0].
+___CHOICE___
+Use \c[2]Lockpicking\c[0]
+Don't
+____TEXT____
+The door is locked...
+___CHOICE___
+Use \c[2]Cell keys F3\c[0]
+Use \c[2]Red vial\c[0]
+Leave
+____TEXT____
+The door is locked...
+___CHOICE___
+Use \c[2]Red vial\c[0]
+Force the door open
+Leave
+____TEXT____
+You managed to force your way through the door.
+____TEXT____
+You don't seem to be strong enough to force the door open...
+____TEXT____
+The door is locked...
+___CHOICE___
+Use \c[2]Cell keys F3\c[0]
+Leave
+____TEXT____
+The door is locked...
+___CHOICE___
+Force the door open
+Leave
+____TEXT____
+You managed to force your way through the door.
+____TEXT____
+You don't seem to be strong enough to force the door open...
+____TEXT____
+You could open the door with \c[2]Lockpicking\c[0].
+___CHOICE___
+Use \c[2]Lockpicking\c[0]
+Don't
+____TEXT____
+The door is locked...
+___CHOICE___
+Use \c[2]Cell keys F3\c[0]
+Use \c[2]Red vial\c[0]
+Leave
+____TEXT____
+The door is locked...
+___CHOICE___
+Use \c[2]Red vial\c[0]
+Force the door open
+Leave
+____TEXT____
+You managed to force your way through the door.
+____TEXT____
+You don't seem to be strong enough to force the door open...
+____TEXT____
+The door is locked...
+___CHOICE___
+Use \c[2]Cell keys F3\c[0]
+Leave
+____TEXT____
+The door is locked...
+___CHOICE___
+Force the door open
+Leave
+____TEXT____
+You managed to force your way through the door.
+____TEXT____
+You don't seem to be strong enough to force the door open...
+<follower touch>
+<follower touch>
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead ghoul.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead ghoul.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+You could use \c[2]Necromancy\c[0] on the dead prisoner.
+___CHOICE___
+Use \c[2]Necromancy\c[0]
+Leave
+____TEXT____
+\c[2]Necromancy\c[0] was succesful!
+____TEXT____
+Give a name to your new ghoul!
+____TEXT____
+\N[18] doesn't seem to remember his past life 
+and seems to be confused about life.
+____TEXT____
+Shamelessly he scratches his groin area.
+___CHOICE___
+HEADS
+TAILS
+____TEXT____
+\c[2]Necromancy\c[0] was succesful!
+____TEXT____
+Give a name to your new ghoul!
+____TEXT____
+\N[18] doesn't seem to remember his past life 
+and seems to be confused about life.
+____TEXT____
+Shamelessly he scratches his groin area.
+____TEXT____
+\c[2]Necromancy\c[0] failed!
+____TEXT____
+\c[2]Necromancy\c[0] was succesful!
+____TEXT____
+Give a name to your new ghoul!
+____TEXT____
+\N[18] doesn't seem to remember his past life and
+seems to be confused about life.
+____TEXT____
+Shamelessly he scratches his groin area.
+____TEXT____
+\c[2]Necromancy\c[0] failed!
+____TEXT____
+You could use \c[2]Necromancy\c[0] on the dead prisoner.
+___CHOICE___
+Use \c[2]Necromancy\c[0]
+Leave
+____TEXT____
+You don't have enough sanity to perform such actions.
+____TEXT____
+What do you want to do with the body?
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave him
+____TEXT____
+You beat it's boney body.
+____TEXT____
+Prisoner has nothing of value.
+____TEXT____
+You took \c[2]Pale skin\c[0]!
+____TEXT____
+What do you want to do with the body?
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+You beat it's boney body.
+____TEXT____
+Prisoner has nothing of value.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+A pile of flesh remains here...
+<follower touch>
+____TEXT____
+There is a lever here, but it's jammed...
+____TEXT____
+It doesn't seem to budge anymore.
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You are unable to move...
+___CHOICE___
+Quit breathing
+Hold on!
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+"I fell down."
+____TEXT____
+"My legs are busted."
+____TEXT____
+"Is this the way I die? Alone in a wet and pitch black
+dungeon that smells like blood and semen?"
+____TEXT____
+Use \c[2]Tinderbox\c[0] to light the candle?
+___CHOICE___
+Yes
+No
+____TEXT____
+Use \c[2]Tinderbox\c[0] to light the candle?
+___CHOICE___
+Yes
+No
+____TEXT____
+Use \c[2]Tinderbox\c[0] to light the candle?
+___CHOICE___
+Yes
+No
+____TEXT____
+You search the barrel for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+The crate is empty.
+____TEXT____
+Use \c[2]Tinderbox\c[0] to light the candle?
+___CHOICE___
+Yes
+No
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+The crate is empty.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+The crate is empty.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+The crate is empty.
+____TEXT____
+You search the barrel for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+The crate is empty.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+The crate is empty.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+The crate is empty.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+The crate is empty.
+____TEXT____
+You search the barrel for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+Miscellaneous items can be found here...
+____TEXT____
+But nothing that interests you.
+____TEXT____
+Miscellaneous items can be found here...
+____TEXT____
+But nothing that interests you.
+day
+____TEXT____
+This is the table of the prison captain. It's kept relatively
+tidy.
+____TEXT____
+The gate is jammed.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+The crate is empty.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+The crate is empty.
+____TEXT____
+You don't feel like sleeping here...
+____TEXT____
+You don't feel like sleeping here...
+____TEXT____
+You don't feel like sleeping here...
+____TEXT____
+You don't feel like sleeping here...
+____TEXT____
+You don't feel like sleeping here...
+____TEXT____
+This is the table of the prison captain. It's kept relatively
+tidy.
+____TEXT____
+The bucket is full of blood.
+___CHOICE___
+Scoop up in glass vial
+Leave it
+____TEXT____
+You carefully scoop some of the blood into
+your glass vial.
+____TEXT____
+\c[2]Blood vial\c[0] obtained!
+____TEXT____
+The bucket is full of blood.
+____TEXT____
+The girl is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+The stone has a heavy aura to it. It's almost too much
+for you to carry...
+____TEXT____
+Here lies \N[16]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[17]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[18]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Moonless is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[1]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[3]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[6]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[5]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+Here lies \N[4]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+MERCENARY
+KNIGHT
+CAPTAIN
+OUTLANDER
+MARRIAGE
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+The crate is empty.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+The crate is empty.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+The crate is empty.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+The crate is empty.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+The crate is empty.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+The crate is empty.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+The crate is empty.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the barrel for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the barrel for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You find \c[2]Peculiar doll\c[0].
+____TEXT____
+You find a \c[2]Dirty magazine\c[0].
+____TEXT____
+A sturdy chest. It doesn't seem to be locked.
+___CHOICE___
+Open
+Leave it
+____TEXT____
+You find \c[2]5 silver coins\c[0].
+____TEXT____
+There is nothing left in the chest anymore.
+____TEXT____
+A sturdy chest. It doesn't seem to be locked.
+___CHOICE___
+Open
+Leave it
+____TEXT____
+You find \c[2]5 silver coins\c[0].
+____TEXT____
+There is nothing left in the chest anymore.
+____TEXT____
+You find a \c[2]Soul stone\c[0].
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"Hej we meet again!"
+____TEXT____
+\c[7]Ragnvaldr\c[0]
+"This one might be even more dangerous than the dungeons
+from yesterday."
+____TEXT____
+This is the table of the prison captain. It's kept relatively
+tidy.
+____TEXT____
+Your child is dead now...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+<follower touch>
+<follower touch>
+<follower touch>
+<follower touch>
+<follower touch>
+<follower touch>
+<follower touch>
+<follower touch>
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead guard.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead guard.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+You find \c[2]5 silver coins\c[0].
+____TEXT____
+You took \c[2]Guard skin\c[0]!
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+You find \c[2]5 silver coins\c[0].
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead guard.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead guard.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+You already searched him.
+____TEXT____
+You took \c[2]Guard skin\c[0]!
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+You already searched him.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+A pile of flesh remains here...
+<follower touch>
+<follower touch>
+<follower touch>
+<follower touch>
+<follower touch>
+<follower touch>
+<follower touch>
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead guard.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead guard.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+You find \c[2]5 silver coins\c[0].
+____TEXT____
+You took \c[2]Guard skin\c[0]!
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+You find \c[2]5 silver coins\c[0].
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead guard.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead guard.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+You already searched him.
+____TEXT____
+You took \c[2]Guard skin\c[0]!
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+You already searched him.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+A pile of flesh remains here...
+____TEXT____
+You could use \c[2]Necromancy\c[0] on the skeleton.
+___CHOICE___
+Use \c[2]Necromancy\c[0]
+Leave
+____TEXT____
+There is no room in your party for new skeletons!
+____TEXT____
+\c[2]Necromancy\c[0] was succesful!
+____TEXT____
+Give a name to your new skeleton!
+____TEXT____
+\N[20] doesn't seem to remember anything about it's past
+life, but it doesn't seem to care.
+___CHOICE___
+HEADS
+TAILS
+____TEXT____
+\c[2]Necromancy\c[0] was succesful!
+____TEXT____
+Give a name to your new skeleton!
+____TEXT____
+\N[20] doesn't seem to remember anything about it's past
+life, but it doesn't seem to care.
+____TEXT____
+\c[2]Necromancy\c[0] failed!
+____TEXT____
+\c[2]Necromancy\c[0] was succesful!
+____TEXT____
+Give a name to your new skeleton!
+____TEXT____
+\N[20] doesn't seem to remember anything about it's past
+life, but it doesn't seem to care.
+____TEXT____
+\c[2]Necromancy\c[0] failed!
+____TEXT____
+You could use \c[2]Necromancy\c[0] on the skeleton.
+___CHOICE___
+Use \c[2]Necromancy\c[0]
+Leave
+____TEXT____
+You don't have enough sanity to perform such actions.
+____TEXT____
+A lone skeleton sits here.
+<follower touch>
+<follower touch>
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could use \c[2]Necromancy\c[0] on the skeleton.
+___CHOICE___
+Use \c[2]Necromancy\c[0]
+Leave
+____TEXT____
+There is no room in your party for new skeletons!
+____TEXT____
+\c[2]Necromancy\c[0] was succesful!
+____TEXT____
+Give a name to your new skeleton!
+____TEXT____
+\N[20] doesn't seem to remember anything about it's past
+life, but it doesn't seem to care.
+___CHOICE___
+HEADS
+TAILS
+____TEXT____
+\c[2]Necromancy\c[0] was succesful!
+____TEXT____
+Give a name to your new skeleton!
+____TEXT____
+\N[20] doesn't seem to remember anything about it's past
+life, but it doesn't seem to care.
+____TEXT____
+\c[2]Necromancy\c[0] failed!
+____TEXT____
+\c[2]Necromancy\c[0] was succesful!
+____TEXT____
+Give a name to your new skeleton!
+____TEXT____
+\N[20] doesn't seem to remember anything about it's past
+life, but it doesn't seem to care.
+____TEXT____
+\c[2]Necromancy\c[0] failed!
+____TEXT____
+You could use \c[2]Necromancy\c[0] on the skeleton.
+___CHOICE___
+Use \c[2]Necromancy\c[0]
+Leave
+____TEXT____
+You don't have enough sanity to perform such actions.
+____TEXT____
+What do you want to do with the body?
+___CHOICE___
+Beat it
+Search it
+Leave
+____TEXT____
+You beat it's boney body.
+____TEXT____
+You take skeleton's \c[2]Tobacco\c[0].
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could use \c[2]Necromancy\c[0] on the skeleton.
+___CHOICE___
+Use \c[2]Necromancy\c[0]
+Leave
+____TEXT____
+There is no room in your party for new skeletons!
+____TEXT____
+\c[2]Necromancy\c[0] was succesful!
+____TEXT____
+Give a name to your new skeleton!
+____TEXT____
+\N[20] doesn't seem to remember anything about it's past
+life, but it doesn't seem to care.
+___CHOICE___
+HEADS
+TAILS
+____TEXT____
+\c[2]Necromancy\c[0] was succesful!
+____TEXT____
+Give a name to your new skeleton!
+____TEXT____
+\N[20] doesn't seem to remember anything about it's past
+life, but it doesn't seem to care.
+____TEXT____
+\c[2]Necromancy\c[0] failed!
+____TEXT____
+\c[2]Necromancy\c[0] was succesful!
+____TEXT____
+Give a name to your new skeleton!
+____TEXT____
+\N[20] doesn't seem to remember anything about it's past
+life, but it doesn't seem to care.
+____TEXT____
+\c[2]Necromancy\c[0] failed!
+____TEXT____
+You could use \c[2]Necromancy\c[0] on the skeleton.
+___CHOICE___
+Use \c[2]Necromancy\c[0]
+Leave
+____TEXT____
+You don't have enough sanity to perform such actions.
+____TEXT____
+What do you want to do with the body?
+___CHOICE___
+Beat it
+Search it
+Leave
+____TEXT____
+You beat it's boney body.
+____TEXT____
+The skeleton has nothing of value left.
+<follower touch>
+<follower touch>
+<follower touch>
+<follower touch>
+<follower touch>
+<follower touch>
+<follower touch>
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead guard.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead guard.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+You find \c[2]5 silver coins\c[0].
+____TEXT____
+You took \c[2]Guard skin\c[0]!
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+You find \c[2]5 silver coins\c[0].
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the dead guard.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead guard.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+You already searched him.
+____TEXT____
+You took \c[2]Guard skin\c[0]!
+____TEXT____
+The monstrosity is down...
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+You already searched him.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+A pile of flesh remains here...
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the crate for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+You search the barrel for anything useful...
+____TEXT____
+Nothing left here.
+____TEXT____
+The mercenary Cahara seems to have left your party without
+you noticing it.
+____TEXT____
+You are missing a \c[2]Light blue vial\c[0]!
+____TEXT____
+It must have been stolen!
+____TEXT____
+You are missing a \c[2]Blue vial\c[0]!
+____TEXT____
+It must have been stolen!
+____TEXT____
+You are missing some \c[2]Silver coins\c[0]!
+____TEXT____
+They must have been stolen!
+____TEXT____
+You are missing a \c[2]Bottle of whiskey\c[0]!
+____TEXT____
+It must have been stolen!
+____TEXT____
+The mercenary Cahara seems to have left your party without
+you noticing it.
+____TEXT____
+You are missing a \c[2]Light blue vial\c[0]!
+____TEXT____
+It must have been stolen!
+____TEXT____
+You are missing a \c[2]Blue vial\c[0]!
+____TEXT____
+It must have been stolen!
+____TEXT____
+You are missing some \c[2]Silver coins\c[0]!
+____TEXT____
+They must have been stolen!
+____TEXT____
+You are missing a \c[2]Bottle of whiskey\c[0]!
+____TEXT____
+It must have been stolen!
+<follower touch>
+<follower touch>
+<follower touch>
+<follower touch>
+<follower touch>
+<follower touch>
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the crow.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead guard.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The Crow Mauler is down...
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+Crow Mauler only carries \c[2]Crow emblem key\c[0] with
+him.
+____TEXT____
+You see no point in skinning the Crow Mauler.
+____TEXT____
+The Crow Mauler is down...
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+Crow Mauler only carries \c[2]Crow emblem key\c[0] with
+him.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+You could \c[2]Devour\c[0] the remains of the crow.
+___CHOICE___
+Yes
+No
+____TEXT____
+You devoured the remains.
+____TEXT____
+You could use \c[2]Demon seed\c[0] on the dead guard.
+___CHOICE___
+Use 
+No
+____TEXT____
+A baby sprouted out of your seed!
+____TEXT____
+You take the baby with you.
+____TEXT____
+You do not have enough sanity to perform this act.
+____TEXT____
+The Crow Mauler is down...
+___CHOICE___
+Beat him
+Search him
+Skin him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+Crow Mauler has nothing of worth.
+____TEXT____
+You see no point in skinning the Crow Mauler.
+____TEXT____
+The Crow Mauler is down...
+___CHOICE___
+Beat him
+Search him
+Leave him
+____TEXT____
+No reaction. But it is satisfying.
+____TEXT____
+Crow Mauler has nothing of worth.
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+The \c[2]Soul stone\c[0] changed its appearance.
+The stone is radiating faint blue light.
+____TEXT____
+A pile of flesh remains here...
+____TEXT____
+Here lies \N[19]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[20]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+Here lies \N[21]...
+____TEXT____
+You could use \c[2]Soul stone\c[0] here...
+___CHOICE___
+Yes
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+The \c[2]Soul stone\c[0] doesn't seem to react to his 
+remains...
+____TEXT____
+A sturdy chest. It doesn't seem to be locked.
+___CHOICE___
+Open
+Leave it
+____TEXT____
+You find \c[2]5 silver coins\c[0].
+____TEXT____
+There is nothing left in the chest anymore.
+____TEXT____
+A sturdy chest. It doesn't seem to be locked.
+___CHOICE___
+Open
+Leave it
+____TEXT____
+You find \c[2]5 silver coins\c[0].
+____TEXT____
+There is nothing left in the chest anymore.
+____TEXT____
+It's too dark over there... There is no going back now.
+____TEXT____
+This is the table of the prison captain. It's kept relatively
+tidy.
+____TEXT____
+This is the table of the prison captain. It's kept relatively
+tidy.
+____TEXT____
+It's too dark over there... There is no going back now.

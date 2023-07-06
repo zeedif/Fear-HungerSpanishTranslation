@@ -1,0 +1,18 @@
+____TEXT____
+There is a lever here.
+___CHOICE___
+Pull
+Leave
+____TEXT____
+It doesn't seem to budge anymore.
+____TEXT____
+Bars stand in your way. They seem to be much too firm
+to budge.
+___CHOICE___
+Investigate
+Leave
+____TEXT____
+You can hear some distant sounds echoing from the 
+darkness...
+____TEXT____
+A terrible odor emanates from a distance.
