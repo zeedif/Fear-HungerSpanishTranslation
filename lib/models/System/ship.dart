@@ -1,4 +1,4 @@
-import 'package:FearHungerTranslation/models/DataSystem/audio.dart';
+import 'package:FearHungerTranslation/models/System/audio.dart';
 import 'package:json_annotation/json_annotation.dart';
 
 part 'ship.g.dart';

@@ -1,10 +1,10 @@
 import 'package:json_annotation/json_annotation.dart';
 
-import 'DataSystem/attack_motions.dart';
-import 'DataSystem/audio.dart';
-import 'DataSystem/terms.dart';
-import 'DataSystem/test_battlers.dart';
-import 'DataSystem/ship.dart';
+import 'System/attack_motions.dart';
+import 'System/audio.dart';
+import 'System/terms.dart';
+import 'System/test_battlers.dart';
+import 'System/ship.dart';
 
 part 'data_system.g.dart';
 
