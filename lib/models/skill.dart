@@ -54,4 +54,7 @@ class Skill {
     required this.tpCost,
     required this.tpGain,
   });
+
+  factory Skill.fromJson(Map<String, dynamic> json) => _$SkillFromJson(json);
+  Map<String, dynamic> toJson() => _$SkillToJson(this);
 }
