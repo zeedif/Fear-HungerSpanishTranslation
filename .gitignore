@@ -62,3 +62,5 @@ Window.png
 # Carpeta agregada para almacenar imagenes .rpgmvp en .png
 img/pictures_png/
 output/
+.dart_tool/
+*.g.dart
