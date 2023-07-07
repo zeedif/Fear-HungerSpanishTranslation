@@ -6,7 +6,7 @@ import 'System/terms.dart';
 import 'System/test_battlers.dart';
 import 'System/ship.dart';
 
-part 'data_system.g.dart';
+part 'system.g.dart';
 
 @JsonSerializable()
 class System {
@@ -112,6 +112,6 @@ class System {
     required this.encryptionKey,
   });
 
-  factory System.fromJson(Map<String, dynamic> json) => _$DataSystemFromJson(json);
-  Map<String, dynamic> toJson() => _$DataSystemToJson(this);
+  factory System.fromJson(Map<String, dynamic> json) => _$SystemFromJson(json);
+  Map<String, dynamic> toJson() => _$SystemToJson(this);
 }
