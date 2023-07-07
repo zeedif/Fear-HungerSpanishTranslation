@@ -5,5 +5,10 @@
   "[dart]": {
     "editor.formatOnSave": true,
     "editor.rulers": [80, 160]
+  },
+  "explorer.excludeGitIgnore": true,
+  "files.exclude": {
+    "**/build.yaml": true,
+    "**/pubspec.lock": true,
   }
 }
