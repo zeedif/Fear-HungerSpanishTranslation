@@ -2,6 +2,8 @@ import 'package:json_annotation/json_annotation.dart';
 
 import 'Common/trait.dart';
 
+part 'armor.g.dart';
+
 @JsonSerializable()
 class Armor {
   int id;
@@ -27,4 +29,7 @@ class Armor {
     required this.params,
     required this.price,
   });
+
+  factory Armor.fromJson(Map<String, dynamic> json) => _$ArmorFromJson(json);
+  Map<String, dynamic> toJson() => _$ArmorToJson(this);
 }
