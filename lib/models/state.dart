@@ -59,4 +59,7 @@ class State {
     required this.traits,
     this.description,
   });
+
+  factory State.fromJson(Map<String, dynamic> json) => _$StateFromJson(json);
+  Map<String, dynamic> toJson() => _$StateToJson(this);
 }
