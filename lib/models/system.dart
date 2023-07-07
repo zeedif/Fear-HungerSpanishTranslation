@@ -9,7 +9,7 @@ import 'System/ship.dart';
 part 'data_system.g.dart';
 
 @JsonSerializable()
-class DataSystem {
+class System {
   Ship airship;
   List<String> armorTypes;
   List<AttackMotion> attackMotions;
@@ -60,7 +60,7 @@ class DataSystem {
   bool hasEncryptedAudio;
   String encryptionKey;
 
-  DataSystem({
+  System({
     required this.airship,
     required this.armorTypes,
     required this.attackMotions,
@@ -112,6 +112,6 @@ class DataSystem {
     required this.encryptionKey,
   });
 
-  factory DataSystem.fromJson(Map<String, dynamic> json) => _$DataSystemFromJson(json);
+  factory System.fromJson(Map<String, dynamic> json) => _$DataSystemFromJson(json);
   Map<String, dynamic> toJson() => _$DataSystemToJson(this);
 }
