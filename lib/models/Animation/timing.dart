@@ -1,6 +1,6 @@
 import 'package:json_annotation/json_annotation.dart';
 
-import '../Common/se.dart';
+import '../System/audio.dart';
 
 part 'timing.g.dart';
 
@@ -10,7 +10,7 @@ class Timing {
   int flashDuration;
   int flashScope;
   int frame;
-  Se? se;
+  Audio? se; // !Checar si al ser null se mapea o se coloca null
 
   Timing({
     required this.flashColor,
