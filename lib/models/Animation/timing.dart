@@ -10,7 +10,7 @@ class Timing {
   int flashDuration;
   int flashScope;
   int frame;
-  Audio? se; // !Checar si al ser null se mapea o se coloca null
+  Audio? se;
 
   Timing({
     required this.flashColor,
