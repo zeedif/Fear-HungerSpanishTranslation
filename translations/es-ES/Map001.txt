@@ -2341,7 +2341,7 @@ COLA
 ____TEXT____
 No queda nada en el cofre.
 ____TEXT____
-Your child ahora está muerto...
+Tu niño ahora está muerto...
 ____TEXT____
 Podrías usar \c[2]Piedra del alma\c[0] aquí...
 ___CHOICE___
@@ -2414,7 +2414,7 @@ No
 ____TEXT____
 La \c[2]Piedra del alma\c[0] ha cambiado de apariencia.
 ____TEXT____
-You could \c[2]Devour\c[0] the remains of the crow.
+Podrías \c[2]Devorar\c[0] los restos del cuervo.
 ___CHOICE___
 Sí
 No
@@ -2432,7 +2432,7 @@ Te llevas al bebé contigo.
 ____TEXT____
 No tienes suficiente sanidad para hacer ese acto.
 ____TEXT____
-The Crow Mauler is down...
+El Cuervo Machacador ha caído...
 ___CHOICE___
 Golpearlo
 Escurcarlo
@@ -2441,12 +2441,11 @@ Déjalo
 ____TEXT____
 No reacciona. Pero es una gran satisfacción.
 ____TEXT____
-Crow Mauler only carries \c[2]Crow emblem key\c[0] with
-him.
+Cuervo Machacador sólo lleva la \c[2]Llave del emblema del cuervo\c[0] con él.
 ____TEXT____
-You see no point in skinning the Crow Mauler.
+No ves sentido a despellejar al Cuervo Machacador.
 ____TEXT____
-The Crow Mauler is down...
+El Cuervo Machacador ha caído...
 ___CHOICE___
 Golpearlo
 Escurcarlo
@@ -2454,8 +2453,7 @@ Déjalo
 ____TEXT____
 No reacciona. Pero es una gran satisfacción.
 ____TEXT____
-Crow Mauler only carries \c[2]Crow emblem key\c[0] with
-him.
+Cuervo Machacador sólo lleva la \c[2]Llave del emblema del cuervo\c[0] con él.
 ____TEXT____
 Podrías usar \c[2]Piedra del alma\c[0] aquí...
 ___CHOICE___
@@ -2464,7 +2462,7 @@ No
 ____TEXT____
 La \c[2]Piedra del alma\c[0] ha cambiado de apariencia.
 ____TEXT____
-You could \c[2]Devour\c[0] the remains of the crow.
+Podrías \c[2]Devorar\c[0] los restos del cuervo.
 ___CHOICE___
 Sí
 No
@@ -2482,7 +2480,7 @@ Te llevas al bebé contigo.
 ____TEXT____
 No tienes suficiente sanidad para hacer ese acto.
 ____TEXT____
-The Crow Mauler is down...
+El Cuervo Machacador ha caído...
 ___CHOICE___
 Golpearlo
 Escurcarlo
@@ -2491,11 +2489,11 @@ Déjalo
 ____TEXT____
 No reacciona. Pero es una gran satisfacción.
 ____TEXT____
-The Crow Mauler has nothing of worth.
+El Cuervo Machacador no tiene nada de valioso.
 ____TEXT____
-You see no point in skinning the Crow Mauler.
+No ves sentido a despellejar al Cuervo Machacador.
 ____TEXT____
-The Crow Mauler is down...
+El Cuervo Machacador ha caído...
 ___CHOICE___
 Golpearlo
 Escurcarlo
@@ -2503,7 +2501,7 @@ Déjalo
 ____TEXT____
 No reacciona. Pero es una gran satisfacción.
 ____TEXT____
-The Crow Mauler has nothing of worth.
+El Cuervo Machacador no tiene nada de valioso.
 ____TEXT____
 Podrías usar \c[2]Piedra del alma\c[0] aquí...
 ___CHOICE___
@@ -2525,51 +2523,51 @@ Alguien ha escrito "Sálvanos" aquí con sangre.
 ____TEXT____
 Aquí hay una estatua que representa a los nuevos dioses...
 ____TEXT____
-Someone has written "False idols" here with blood.
+Alguien ha escrito aquí " Ídolos falsos " con sangre.
 ____TEXT____
 Aquí hay una estatua que representa a los nuevos dioses...
 ____TEXT____
-Someone has written "False idols" here with blood.
+Alguien ha escrito aquí " Ídolos falsos " con sangre.
 ____TEXT____
 Aquí hay una estatua que representa a los nuevos dioses...
 ____TEXT____
-Someone has written "False idols" here with blood.
+Alguien ha escrito aquí " Ídolos falsos " con sangre.
 ____TEXT____
 Aquí hay una estatua que representa a los nuevos dioses...
 ____TEXT____
-Someone has written "False idols" here with blood.
+Alguien ha escrito aquí " Ídolos falsos " con sangre.
 ____TEXT____
 Aquí hay una estatua que representa a los nuevos dioses...
 ____TEXT____
-Someone has written "False idols" here with blood.
+Alguien ha escrito aquí " Ídolos falsos " con sangre.
 ____TEXT____
 Aquí hay una estatua que representa a los nuevos dioses...
 ____TEXT____
-Someone has written "False idols" here with blood.
+Alguien ha escrito aquí " Ídolos falsos " con sangre.
 ____TEXT____
 Aquí hay una estatua que representa a los nuevos dioses...
 ____TEXT____
-Someone has written "False idols" here with blood.
+Alguien ha escrito aquí " Ídolos falsos " con sangre.
 ____TEXT____
 Aquí hay una estatua que representa a los nuevos dioses...
 ____TEXT____
-Someone has written "False idols" here with blood.
+Alguien ha escrito aquí " Ídolos falsos " con sangre.
 ____TEXT____
 Aquí hay una estatua que representa a los nuevos dioses...
 ____TEXT____
-Someone has written "False idols" here with blood.
+Alguien ha escrito aquí " Ídolos falsos " con sangre.
 ____TEXT____
 Aquí hay una estatua que representa a los nuevos dioses...
 ____TEXT____
-Someone has written "False idols" here with blood.
+Alguien ha escrito aquí " Ídolos falsos " con sangre.
 ____TEXT____
 Aquí hay una estatua que representa a los nuevos dioses...
 ____TEXT____
-Someone has written "False idols" here with blood.
+Alguien ha escrito aquí " Ídolos falsos " con sangre.
 ____TEXT____
 Aquí hay una estatua que representa a los nuevos dioses...
 ____TEXT____
-Someone has written "False idols" here with blood.
+Alguien ha escrito aquí " Ídolos falsos " con sangre.
 ____TEXT____
 Aquí descansa \N[19]...
 ____TEXT____
@@ -2607,414 +2605,424 @@ ____TEXT____
 La \c[2]Piedra de alma\c[0] no parece reaccionar a sus 
 restos...
 ____TEXT____
-A flag of the Kingdom of Rondon is hanging on the wall.
+En la pared cuelga una bandera del Reino de Rondón.
 ____TEXT____
-You could tear the flag for cloth fragments...
+Podrías arrancar la bandera por fragmentos de tela...
 ___CHOICE___
-Tear the flag
+Arranca la bandera
 Deja
 ____TEXT____
 ¡Conseguiste un \c[2]Fragmento de tela\c[0]!
 ____TEXT____
-A flag of the Kingdom of Rondon is hanging on the wall.
+En la pared cuelga una bandera del Reino de Rondón.
 ____TEXT____
-You feel a presence of a minor curse attached to the door.
+Sientes la presencia de una maldición menor pegada a la puerta.
 ____TEXT____
-You could cancel it's effects with your \c[2]Counter-magic\c[0].
+Podrías cancelar sus efectos con tu \c[2]Contra-magia\c[0].
 ___CHOICE___
-Use \c[2]Counter-magic\c[0]
+Usa \c[2]Contra-magia\c[0]
 Deja
 ____TEXT____
-\c[2]Counter-magic\c[0] was succesful.
+\c[2]Contra-magia\c[0] tuvo éxito.
 ____TEXT____
-You try to open the door but it doesn't budge.
+Tratas de abrir la puerta, pero no se mueve.
 ___CHOICE___
-Investigate
+Investigue
 Deja
 ____TEXT____
-\c[2]Purifying talisman\c[0] seems to react to the markings
-on the door.
+\c[2]Talismán purificador\c[0] parece reaccionar a las marcas
+de la puerta.
 ___CHOICE___
-Use \c[2]Purifying talisman\c[0]
+Usa el \c[2]Talismán purificador\c[0]
 Deja
 ____TEXT____
-\c[2]Purifying talisman\c[0] burned brightly.
+\c[2]Talismán purificador\c[0] arde brillantemente.
 ____TEXT____
-An unknown force is keeping the door shut. There doesn't
-seem to be anything you could do.
+Una fuerza desconocida mantiene la puerta cerrada. No hay
+que pudieras hacer.
 ____TEXT____
-There are markings on the door that look similar to the
-text found around Eastern Sanctuaries.
+Hay marcas en la puerta que parecen similares al
+texto que se encuentra en los Santuarios del Este.
 ____TEXT____
-The Hexen table stands here omniously.
+La mesa Hexen está aquí omnipresente.
 ___CHOICE___
-Use the Hexen
-Curse equipment
+Usa el Hexen
+Equipo de maldición
 Deja
 ---
 ---
 ---
-others
-GEMS
-GEMS
+otros
+GEMAS
+GEMAS
 gro-goroth
 ---
 sylvian
 ---
 Alll-mer
 ---
-depths
+profundidad
 ---
-endless
+interminable
 ---
-domination
+dominación
 ---
-tormented
+atormentado
 ---
-enlightenment
+iluminación
 ---
 ---
 ---
-GEMS
+GEMAS
 gro-goroth
 ---
 sylvian
 ---
 Alll-mer
 ---
-depths
+profundidad
 ---
-endless
+interminable
 ---
-domination
+dominación
 ---
-tormented
+atormentado
 ---
-enlightenment
+iluminación
 ---
 MERCENARIO
 CABALLERO
 CAPITÁN
 FORASTERO
 MATRIMONIO
-DARK PRIEST
+SACERDOTE OSCURO
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]Lockpicking\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]Ganzúa\c[0]?
 ___CHOICE___
 Sí
 No
 ____TEXT____
-The skill of \c[2]Lockpicking\c[0] is engraved in your
-head!
+La habilidad de \c[2]Ganzúa\c[0] está grabada en tu
+mente!
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]Steal\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]Robar\c[0]?
 ___CHOICE___
 Sí
 No
 ____TEXT____
-The skill of \c[2]Steal\c[0] is engraved in your
-head!
+La habilidad de \c[2]Robar\c[0] está grabada en tu
+mente!
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]Necromancia\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]Necromancia\c[0]?
 ___CHOICE___
 Sí
 No
 ____TEXT____
-The skill of \c[2]Necromancia\c[0] is engraved in your
-head!
+La habilidad de \c[2]Necromancia\c[0] está grabada en tu
+mente!
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]Blood golem\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]Golem de sangre\c[0]?
 ___CHOICE___
 Sí
 No
 ____TEXT____
-The skill of \c[2]Blood golem\c[0] is engraved in your
-head!
+La habilidad de \c[2]Golem de sangre\c[0] está grabada en tu
+mente!
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]En garde\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]En garde\c[0]?
 ___CHOICE___
 Sí
 No
 ____TEXT____
-The skill of \c[2]En garde\c[0] is engraved in your
-head!
+La habilidad de \c[2]En garde\c[0] está grabada en tu
+mente!
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]Dash\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]Correr\c[0]?
 ___CHOICE___
 Sí
 No
 ____TEXT____
-The skill of \c[2]Dash\c[0] is engraved in your
-head!
+La habilidad de \c[2]Correr\c[0] está grabada en tu
+mente!
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]Dash\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]Correr\c[0]?
 ___CHOICE___
 Sí
 No
 ____TEXT____
-The skill of \c[2]Dash\c[0] is engraved in your
-head!
+La habilidad de \c[2]Correr\c[0] está grabada en tu
+mente!
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]Hurting\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]Hiriendo\c[0]?
 ___CHOICE___
 Sí
 No
 ____TEXT____
-The skill of \c[2]Hurting\c[0] is engraved in your
-head!
+La habilidad de \c[2]Hiriendo\c[0] está grabada en tu
+mente!
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]Hurting\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]Hiriendo\c[0]?
 ___CHOICE___
 Sí
 No
 ____TEXT____
-The skill of \c[2]Hurting\c[0] is engraved in your
-head!
+La habilidad de \c[2]Hiriendo\c[0] está grabada en tu
+mente!
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]Pyromancy trick\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]Truco de piromancia\c[0]?
 ___CHOICE___
 Sí
 No
 ____TEXT____
-The skill of \c[2]Pyromancy trick\c[0] is engraved in your
-head!
+La habilidad de \c[2]Truco de piromancia\c[0] está grabada en tu
+mente!
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]Defence stance\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]Posición defensiva\c[0]?
 ___CHOICE___
 Sí
 No
 ____TEXT____
-The skill of \c[2]Defence stance\c[0] is engraved in your
-head!
+La habilidad de \c[2]Posición defensiva\c[0] está grabada en tu
+mente!
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]Fast attack\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]Ataque rápido\c[0]?
 ___CHOICE___
 Sí
 No
 ____TEXT____
-The skill of \c[2]Fast attack\c[0] is engraved in your
-head!
+La habilidad de \c[2]Ataque rápido\c[0] está grabada en tu
+mente!
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]Counter\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]Contraataque \c[0]?
 ___CHOICE___
 Sí
 No
 ____TEXT____
-The skill of \c[2]Counter\c[0] is engraved in your head!
+La habilidad de \c[2]Contraataque \c[0] está grabada en tu
+mente!
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]Black orb\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]Orbe negro\c[0]?
 ___CHOICE___
 Sí
 No
 ____TEXT____
-The skill of \c[2]Black orb\c[0] is engraved in your head!
+La habilidad de \c[2]Orbe negro\c[0] está grabada en tu
+mente!
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]Pheromones\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]Feromonas\c[0]?
 ___CHOICE___
 Sí
 No
 ____TEXT____
-The skill of \c[2]Pheromones\c[0] is engraved in your
-head!
+La habilidad de \c[2]Feromonas\c[0] está grabada en tu
+mente!
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]Leg sweep\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]Barrido de piernas\c[0]?
 ___CHOICE___
 Sí
 No
 ____TEXT____
-The skill of \c[2]Leg sweep\c[0] is engraved in your
-head!
+La habilidad de \c[2]Barrido de piernas\c[0] está grabada en tu
+mente!
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]Leg sweep\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]Barrido de piernas\c[0]?
 ___CHOICE___
 Sí
 No
 ____TEXT____
-The skill of \c[2]Leg sweep\c[0] is engraved in your
-head!
+La habilidad de \c[2]Barrido de piernas\c[0] está grabada en tu
+mente!
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]Healing whispers\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]Murmullos curativos\c[0]?
 ___CHOICE___
 Sí
 No
 ____TEXT____
-The skill of \c[2]Healing whispers\c[0] is engraved in your
-head!
+La habilidad de \c[2]Murmullos curativos\c[0] está grabada en tu
+mente!
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]Healing whispers\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]Murmullos curativos\c[0]?
 ___CHOICE___
 Sí
 No
 ____TEXT____
-The skill of \c[2]Healing whispers\c[0] is engraved in your
-head!
+La habilidad de \c[2]Murmullos curativos\c[0] está grabada en tu
+mente!
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]Loving whispers\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]Murmullos de amor\c[0]?
 ___CHOICE___
 Sí
 No
 ____TEXT____
-The skill of \c[2]Loving whispers\c[0] is engraved in
+La habilidad de \c[2]Murmullos de amor\c[0] is engraved in
 your head!
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]Devour\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]Devorar\c[0]?
 ___CHOICE___
 Sí
 No
 ____TEXT____
-The skill of \c[2]Devour\c[0] is engraved in your head!
+La habilidad de \c[2]Devorar\c[0] está grabada en tu
+mente!
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]Marksmanship\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]Puntería\c[0]?
 ___CHOICE___
 Sí
 No
 ____TEXT____
-The skill of \c[2]Marksmanship\c[0] is engraved in your head!
+La habilidad de \c[2]Puntería\c[0] está grabada en tu
+mente!
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]Marksmanship\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]Puntería\c[0]?
 ___CHOICE___
 Sí
 No
 ____TEXT____
-The skill of \c[2]Marksmanship\c[0] is engraved in your head!
+La habilidad de \c[2]Puntería\c[0] está grabada en tu
+mente!
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]War cry\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]Grito de guerra\c[0]?
 ___CHOICE___
 Sí
 No
 ____TEXT____
-The skill of \c[2]War cry\c[0] is engraved in your head!
+La habilidad de \c[2]Grito de guerra\c[0] está grabada en tu
+mente!
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]Locust swarm\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]Plaga de langostas\c[0]?
 ___CHOICE___
 Sí
 No
 ____TEXT____
-The skill of \c[2]Locust swarm\c[0] is engraved in your head!
+La habilidad de \c[2]Plaga de langostas\c[0] está grabada en tu
+mente!
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]Locust swarm\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]Plaga de langostas\c[0]?
 ___CHOICE___
 Sí
 No
 ____TEXT____
-The skill of \c[2]Locust swarm\c[0] is engraved in your head!
+La habilidad de \c[2]Plaga de langostas\c[0] está grabada en tu
+mente!
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]Blood portal\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]Portal de sangre\c[0]?
 ___CHOICE___
 Sí
 No
 ____TEXT____
-The skill of \c[2]Blood portal\c[0] is engraved in your head!
+La habilidad de \c[2]Portal de sangre\c[0] está grabada en tu
+mente!
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]Counter-magic\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]Contra-magia\c[0]?
 ___CHOICE___
 Sí
 No
 ____TEXT____
-The skill of \c[2]Counter-magic\c[0] is engraved in your head!
+La habilidad de \c[2]Contra-magia\c[0] está grabada en tu
+mente!
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]Greater blood magic\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]Gran magia de sangre\c[0]?
 ___CHOICE___
 Sí
 No
 ____TEXT____
-The skill of \c[2]Greater blood magic\c[0] is engraved in 
-your head!
+La habilidad de \c[2]Gran magia de sangre\c[0] está grabada en tu
+mente!
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]Flock of crows\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]Bandada de cuervos\c[0]?
 ___CHOICE___
 Sí
 No
 ____TEXT____
-The skill of \c[2]Flock of crows\c[0] is engraved in your 
-head!
+La habilidad de \c[2]Bandada de cuervos\c[0] está grabada en tu
+mente!
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]Mastery over insects\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]Dominio sobre los insectos\c[0]?
 ___CHOICE___
 Sí
 No
 ____TEXT____
-The skill of \c[2]Mastery over insects\c[0] is engraved 
-in your head!
+La habilidad de \c[2]Dominio sobre los insectos\c[0] está grabada en tu
+mente!
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]Needle worms\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]Gusanos de aguja\c[0]?
 ___CHOICE___
 Sí
 No
 ____TEXT____
-The skill of \c[2]Needle worms\c[0] is engraved in your 
-head!
+La habilidad de \c[2]Gusanos de aguja\c[0] está grabada en tu
+mente!
 ____TEXT____
-\c[7]Masked man\c[0]
+\c[7]Hombre enmascarado\c[0]
 "..."
 ____TEXT____
-The mysterious man looks like a war veteran almost. His
-right arm seems to be missing and there is something very
-intimidating in his stature.
+El hombre misterioso parece un veterano de guerra. Su
+brazo derecho parece haberse perdido y hay algo muy
+intimidante en su figura.
 ___CHOICE___
-"Who are you?"
-"What are you doing here?"
-Attack him
-Ignore
+"¿Quién eres?"
+"¿Qué estás haciendo aquí?"
+Atácalo.
+Ignorarlo
 ____TEXT____
-\c[7]Masked man\c[0]
-"What difference does it make?"
+\c[7]Hombre enmascarado\c[0]
+"¿Qué diferencia hace?"
 ____TEXT____
-\c[7]Masked man\c[0]
-"Not like we are going to run into each other ever again."
+\c[7]Hombre enmascarado\c[0]
+"No es que vayamos a encontrarnos otra vez".
 ___CHOICE___
-"You never know..."
-"Fair enough."
+"Nunca sabes..."
+"Es razonable".
 ____TEXT____
-\c[7]Masked man\c[0]
+\c[7]Hombre enmascarado\c[0]
 "..."
 ____TEXT____
-\c[7]Masked man\c[0]
-"On the second thought..."
+\c[7]Hombre enmascarado\c[0]
+"Pensándolo bien..."
 ____TEXT____
 \c[7]Isayah\c[0]
-"The name is Isayah."
+"El nombre es Isayah."
 ____TEXT____
 \c[7]Isayah\c[0]
-"You could call me... a veteran of these dungeons."
+"Podrías llamarme... un veterano de estas mazmorras".
 ____TEXT____
 \c[7]Isayah\c[0]
-"Some time ago I found a manuscript concerning the ancient
-walls this fortress holds..."
+"Hace cierto tiempo encontré un manuscrito relativo a las antiguas
+muros que contiene esta fortaleza..."
 ____TEXT____
 \c[7]Isayah\c[0]
-"There were multiple pages that were maps of sorts..."
+"Había varias páginas que eran como mapas..."
 ____TEXT____
 \c[7]Isayah\c[0]
-"I was able to locate few of the map locations and there
-were buried treasures hidden where the marker was set."
+"Pude localizar algunas de las posiciones del mapa y había
+había tesoros enterrados donde estaba el marcador".
 ____TEXT____
 \c[7]Isayah\c[0]
-"A couple of the maps are complete mystery to me however..."
+"Sin embargo, un par de los mapas son un gran misterio para mí...".
 ____TEXT____
 \c[7]Isayah\c[0]
-"Maybe they're hidden somewhere so deep where I simply
-couldn't get yet, or maybe there's something I'm missing."
+"Tal vez están escondidos en algún lugar tan profundo donde yo simplemente
+aún no pude llegar, o tal vez hay algo que me escapa".
 ____TEXT____
 \c[7]Isayah\c[0]
-"In any case, I'm done with this place. I've played with my
-luck long enough."
+"En cualquier caso, he terminado con este lugar. He jugado con mi
+suerte lo suficiente".
 ____TEXT____
 \c[7]Isayah\c[0]
-"I can sell you the maps, for say... \c[2]50 silver coins\c[0]."
+"Puedo venderte los mapas, digamos... \c[2]50 monedas de plata\c[0]."
 ___CHOICE___
-"It's a deal."
-"How about 40 silver coins?"
-How about 20 silver coins?"
-"How do I know the maps are legit?"
+"Es un trato".
+"¿Qué te parece 40 monedas de plata?"
+"¿Qué te parece 20 monedas de plata?"
+"¿Cómo sé que los mapas son legítimos?
 ____TEXT____
-You get \c[2]Map #1\c[0] and \c[2]Map #2\c[0]."
-____TEXT____
-\c[7]Isayah\c[0]
-"Who knows... Maybe you can even find them."
+Obtienes \c[2]Mapa #1\c[0] y \c[2]Mapa #2\c[0]".
 ____TEXT____
 \c[7]Isayah\c[0]
-"Eh, you don't have enough?"
+"Quién sabe... Tal vez aún puedes hallarlos".
+____TEXT____
+\c[7]Isayah\c[0]
+"¿Eh, no tienes suficiente?"
 ____TEXT____
 \c[7]Isayah\c[0]
 "..."
@@ -3023,33 +3031,33 @@ ____TEXT____
 "No."
 ____TEXT____
 \c[7]Isayah\c[0]
-"Are you kidding me? I don't think so."
+" ¿Estás bromeando? No me vale".
 ____TEXT____
 \c[7]Isayah\c[0]
-"I got no ways to prove my words. So yeah..."
+"No tengo forma de probar mis palabras. Así que, vale..."
 ____TEXT____
-\c[7]Masked man\c[0]
-"I got my own business here..."
+\c[7]Hombre enmascarado\c[0]
+"Tengo mi propio negocio aquí..."
 ____TEXT____
-\c[7]Masked man\c[0]
-"Ha! I've witnessed horror you couldn't even begin to 
-imagine. You got no chance."
+\c[7]Hombre enmascarado\c[0]
+"¡Ja! He visto horrores que ni siquiera podrías empezar a 
+imaginar. No tienes ninguna esperanza".
 ____TEXT____
 \c[7]Isayah\c[0]
-"I can sell you the maps, for \c[2]50 silver coins\c[0].
+"Puedo venderte los mapas, por \c[2]50 monedas de plata\c[0].
 ___CHOICE___
-"It's a deal."
-"How about 40 silver coins?"
-How about 20 silver coins?"
-"How do I know the maps are legit?"
+"Es un trato".
+"¿Qué te parece 40 monedas de plata?"
+"¿Qué te parece 20 monedas de plata?"
+"¿Cómo sé que los mapas son legítimos?
 ____TEXT____
-You get \c[2]Map #1\c[0] and \c[2]Map #2\c[0]."
-____TEXT____
-\c[7]Isayah\c[0]
-"Who knows... Maybe you can even find them."
+Obtienes \c[2]Mapa #1\c[0] y \c[2]Mapa #2\c[0]".
 ____TEXT____
 \c[7]Isayah\c[0]
-"Eh, you don't have enough?"
+"Quién sabe... Tal vez aún puedes hallarlos".
+____TEXT____
+\c[7]Isayah\c[0]
+"¿Eh, no tienes suficiente?"
 ____TEXT____
 \c[7]Isayah\c[0]
 "..."
@@ -3058,16 +3066,16 @@ ____TEXT____
 "No."
 ____TEXT____
 \c[7]Isayah\c[0]
-"Are you kidding me? I don't think so."
+" ¿Estás bromeando? No me vale".
 ____TEXT____
 \c[7]Isayah\c[0]
-"I got no ways to prove my words. So yeah..."
+"No tengo forma de probar mis palabras. Así que, vale..."
 ____TEXT____
 \c[7]Isayah\c[0]
 "You clearly don't take me seriously. So I'm done with you."
 ____TEXT____
 \c[7]Isayah\c[0]
-"Who knows... Maybe you can even find them."
+"Quién sabe... Tal vez aún puedes hallarlos".
 ____TEXT____
 Podrías usar \c[2]Piedra del alma\c[0] aquí...
 ___CHOICE___
@@ -3083,7 +3091,7 @@ No
 ____TEXT____
 Has devorado los restos.
 ____TEXT____
-You could use \c[2]Demon seed\c[0] on the body.
+Podrías usar \c[2]Semilla demoníaca\c[0] en el cuerpo.
 ___CHOICE___
 Utiliza 
 No
@@ -3094,32 +3102,32 @@ Te llevas al bebé contigo.
 ____TEXT____
 No tienes suficiente sanidad para hacer ese acto.
 ____TEXT____
-Isayah is down...
+Isayah ha caído...
 ___CHOICE___
 Golpearlo
 Escurcarlo
 Despellejarlo
 Déjalo
 ____TEXT____
-You carefully kicked him, watching out for any skin contact.
+Le das una patada con cuidado, vigilando que no entre en contacto con la piel.
 ____TEXT____
-You find an \c[2]Iron mask\c[0] and an \c[2]Orange vial\c[0].
+Encuentras una \c[2]Máscara de hierro\c[0] y un \c[2]Frasco anaranjado\c[0].
 ____TEXT____
-You also find \c[2]Map #1\c[0] and \c[2]Map #2\c[0].
+Encuentras una \c[2]Máscara de hierro\c[0] y un \c[2]Frasco anaranjado\c[0].
 ____TEXT____
-Skinning him would sere no purpose.
+Despellejarlo no serviría para nada.
 ____TEXT____
-Isayah is down...
+Isayah ha caído...
 ___CHOICE___
 Golpearlo
 Escurcarlo
 Déjalo
 ____TEXT____
-You carefully kicked him, watching out for any skin contact.
+Le das una patada con cuidado, vigilando que no entre en contacto con la piel.
 ____TEXT____
-You find an \c[2]Iron mask\c[0] and an \c[2]Orange vial\c[0].
+Encuentras una \c[2]Máscara de hierro\c[0] y un \c[2]Frasco anaranjado\c[0].
 ____TEXT____
-You also find \c[2]Map #1\c[0] and \c[2]Map #2\c[0].
+Encuentras una \c[2]Máscara de hierro\c[0] y un \c[2]Frasco anaranjado\c[0].
 ____TEXT____
 Podrías usar \c[2]Piedra del alma\c[0] aquí...
 ___CHOICE___
@@ -3146,28 +3154,28 @@ Te llevas al bebé contigo.
 ____TEXT____
 No tienes suficiente sanidad para hacer ese acto.
 ____TEXT____
-Isayah is down...
+Isayah ha caído...
 ___CHOICE___
 Golpearlo
 Escurcarlo
 Despellejarlo
 Déjalo
 ____TEXT____
-You carefully kicked him, watching out for any skin contact.
+Le das una patada con cuidado, vigilando que no entre en contacto con la piel.
 ____TEXT____
-Isayah got nothing left with him.
+A Isayah no le queda nada.
 ____TEXT____
-Skinning the man serves no purpose.
+Despellejar al hombre no sirve para nada.
 ____TEXT____
-Isayah is down...
+Isayah ha caído...
 ___CHOICE___
 Golpearlo
 Escurcarlo
 Déjalo
 ____TEXT____
-You carefully kicked him, watching out for any skin contact.
+Le das una patada con cuidado, vigilando que no entre en contacto con la piel.
 ____TEXT____
-Isayah got nothing left with him.
+A Isayah no le queda nada.
 ____TEXT____
 Podrías usar \c[2]Piedra del alma\c[0] aquí...
 ___CHOICE___
@@ -3178,29 +3186,29 @@ La \c[2]Piedra del alma\c[0] ha cambiado de apariencia.
 ____TEXT____
 Aquí queda un rastro de cadáver...
 ____TEXT____
-There is something written here...
+Hay algo escrito aquí...
 ____TEXT____
-"The hexen creates a connection to the gods, both new and
-the old."
+"El hexen crea una conexión con los dioses, para los nuevos y los
+los antiguos".
 ____TEXT____
-"To get closer to the older gods, you must work your way
-up and gain their affinity. With each circle you get closer
-to them."
+"Para acercarte a los dioses más antiguos, debes avanzar
+y ganar su afinidad. Con cada círculo te acercas
+a ellos".
 ____TEXT____
-"The new gods only pass on their knowledge to those who
-share the same birth sign and soul with them."
+"Los nuevos dioses sólo transmiten sus secretos a quienes...
+comparten el mismo símbolo de nacimiento y alma con ellos".
 ____TEXT____
-There is something written here...
+Hay algo escrito aquí...
 ____TEXT____
-"The hexen creates a connection to the gods, both new and
-the old."
+"El hexen crea una conexión con los dioses, para los nuevos y los
+los antiguos".
 ____TEXT____
-"To get closer to the older gods, you must work your way
-up and gain their affinity. With each circle you get closer
-to them."
+"Para acercarte a los dioses más antiguos, debes avanzar
+y ganar su afinidad. Con cada círculo te acercas
+a ellos".
 ____TEXT____
-"The new gods only pass on their knowledge to those who
-share the same birth sign and soul with them."
+"Los nuevos dioses sólo transmiten sus secretos a quienes
+comparten el mismo símbolo de nacimiento y alma con ellos".
 ____TEXT____
 Has conseguido vencer al fantasma que perseguía tu espada.
 ____TEXT____
@@ -3312,14 +3320,14 @@ No
 ____TEXT____
 La \c[2]Piedra del alma\c[0] ha cambiado de apariencia.
 ____TEXT____
-You could \c[2]Devour\c[0] the remains of the dead hound.
+Podrías \c[2]Devorar\c[0] los restos del sabueso muerto.
 ___CHOICE___
 Sí
 No
 ____TEXT____
 Has devorado los restos.
 ____TEXT____
-You could use \c[2]Demon seed\c[0] on the cavewolf.
+Podrías usar \c[2]Semilla demonica\c[0] en el lobo de las cavernas.
 ___CHOICE___
 Utiliza 
 No
@@ -3330,15 +3338,15 @@ Te llevas al bebé contigo.
 ____TEXT____
 No tienes suficiente sanidad para hacer ese acto.
 ____TEXT____
-A wild hound lies dead on the ground.
+Un perro salvaje está muerto en el suelo.
 ___CHOICE___
-Beat him
-Escurca him
+Golpéalo.
+Escurcarlo
 Deja
 ____TEXT____
-The hound is definitely dead.
+El sabueso está sin duda muerto.
 ____TEXT____
-The hound doesn't appear to have anything.
+El sabueso no parece tener nada.
 ____TEXT____
 Podrías usar \c[2]Piedra del alma\c[0] aquí...
 ___CHOICE___
@@ -3357,14 +3365,14 @@ No
 ____TEXT____
 La \c[2]Piedra del alma\c[0] ha cambiado de apariencia.
 ____TEXT____
-You could \c[2]Devour\c[0] the remains of the dead hound.
+Podrías \c[2]Devorar\c[0] los restos del sabueso muerto.
 ___CHOICE___
 Sí
 No
 ____TEXT____
 Has devorado los restos.
 ____TEXT____
-You could use \c[2]Demon seed\c[0] on the cavewolf.
+Podrías usar \c[2]Semilla demonica\c[0] en el lobo de las cavernas.
 ___CHOICE___
 Utiliza 
 No
@@ -3375,15 +3383,15 @@ Te llevas al bebé contigo.
 ____TEXT____
 No tienes suficiente sanidad para hacer ese acto.
 ____TEXT____
-A wild hound lies dead on the ground.
+Un perro salvaje está muerto en el suelo.
 ___CHOICE___
-Beat him
+Golpéalo.
 Escurca him
 Deja
 ____TEXT____
-The hound is definitely dead.
+El sabueso está sin duda muerto.
 ____TEXT____
-The hound doesn't appear to have anything.
+El sabueso no parece tener nada.
 ____TEXT____
 Podrías usar \c[2]Piedra del alma\c[0] aquí...
 ___CHOICE___
@@ -3414,17 +3422,15 @@ ____TEXT____
 Te hace pensar si alguien realmente come estas
 cosas. Al fin de cuentas, ¿para qué tenerlas aquí si no?
 ____TEXT____
-You feel a bit rested, even though you had troubling
-dreams...
+Te sientes un poco descansado, aunque has tenido malos sueños...
 ___CHOICE___
 CABEZAS
 COLA
 ____TEXT____
-You feel a bit rested, even though you had troubling
-dreams...
+Te sientes un poco descansado, aunque has tenido malos sueños...
 ____TEXT____
-Your rest is interrupted. You wake up to a strong sensation
-of killing intent.
+Tu descanso es interrumpido. Te despiertas con una fuerte sensación
+de intento de asesinato.
 --------
 ____TEXT____
 La cama está en mal estado. Las mazmorras son muy sucias e inseguras pero podrías tener un breve refugio aquí si lo eliges hacerlo...
