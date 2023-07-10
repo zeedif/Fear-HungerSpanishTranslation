@@ -1,0 +1,2135 @@
+____SKILLS____
+Attack
+
+<Target Action>
+perform action
+action animation
+action effect
+wait for animation
+motion wait: user
+death break
+</Target Action>
+ attacks!
+
+____SKILLS____
+Guard
+
+Skill #2 will be used when you select
+the Guard command.
+ guards.
+
+____SKILLS____
+Hack
+
+
+ hacks with a butcher knife!
+
+____SKILLS____
+Stinger thrust
+
+
+
+
+____SKILLS____
+The stinger is pulsating...
+
+
+
+
+____SKILLS____
+Tackle
+
+
+
+
+____SKILLS____
+The monster takes a step closer...
+
+
+
+
+____SKILLS____
+Fast attack
+With swift movements - you gain an additional
+turn.
+
+
+
+____SKILLS____
+Sense
+Higher senses make it possible to feel aura of
+other living beings.
+
+
+
+____SKILLS____
+Pinecone pig
+Animated figure of a pinecone pig. A loyal companion
+until it's very end.
+
+
+
+____SKILLS____
+Talk
+Talking can sometimes get you out of uncomfortable
+situations.
+<Target Action>
+motion swing: user
+</Target Action>
+
+
+____SKILLS____
+Hurting
+Concentrated feelings of pain create a
+devastating vortex.
+
+
+
+____SKILLS____
+Scratch
+
+
+
+
+____SKILLS____
+The creature seems strained and stressed...
+
+
+
+
+____SKILLS____
+Priest waves his lantern...
+
+
+
+
+____SKILLS____
+Tackle
+
+ghoul tackle
+
+
+____SKILLS____
+Prisoners's head is twitching...
+
+
+
+
+____SKILLS____
+Lantern
+Small fire attack with lantern.
+
+
+
+____SKILLS____
+Priest chants something...
+
+
+
+
+____SKILLS____
+Priest chants something...
+
+
+
+
+____SKILLS____
+Necromancy
+Try to bring life back to where it once lingered...
+
+
+
+____SKILLS____
+Beheaded wizard laughs at you
+
+
+
+
+____SKILLS____
+Hack
+
+
+ hacks with a butcher knife!
+
+____SKILLS____
+Tail whip
+
+
+
+
+____SKILLS____
+Shield
+
+
+
+
+____SKILLS____
+Gnaw
+
+
+
+
+____SKILLS____
+One tooth bite
+
+
+
+
+____SKILLS____
+One tooth bite
+
+
+
+
+____SKILLS____
+One tooth bite
+
+
+
+
+____SKILLS____
+Cavemother is tilting its head...
+
+
+
+
+____SKILLS____
+Steal
+Steal from the rich and give to yourself.
+
+
+
+____SKILLS____
+Explosion
+Small fire attack with lantern.
+
+
+
+____SKILLS____
+Poison tongue
+
+
+
+
+____SKILLS____
+Suicide
+There are worse fates than death. Sometimes it's
+good to go on your own terms...
+
+
+
+____SKILLS____
+Crude sword
+
+
+ hacks with a butcher knife!
+
+____SKILLS____
+Low sweep
+
+
+ hacks with a butcher knife!
+
+____SKILLS____
+Lizardman is licking its lips...
+
+
+
+
+____SKILLS____
+Lizardman is showing off its martial arts.
+
+
+
+
+____SKILLS____
+The monster lowers its stance...
+
+<Bypass Taunt>
+
+
+____SKILLS____
+Run
+There is no shame in running away from battles to live
+another day.
+
+
+
+____SKILLS____
+Critical slash
+
+
+
+
+____SKILLS____
+Yellow mage begins its ritual dance...
+
+
+
+
+____SKILLS____
+Hurting
+Concentrated feelings of pain create a
+devastating vortex.
+yellow mage attack - arms
+
+
+____SKILLS____
+Hurting
+Concentrated feelings of pain create a
+devastating vortex.
+yellow mage attack - legs
+
+
+____SKILLS____
+Horizontal sweep
+
+
+
+
+____SKILLS____
+Vertical sweep
+
+
+
+
+____SKILLS____
+Vertical sweep
+
+
+
+
+____SKILLS____
+Locust swarm
+Summon a swarm of locusts to disrupt the enemy.
+
+
+
+____SKILLS____
+Locust swarm
+Summon a swarm of locusts to disrupt the enemy.
+
+
+
+____SKILLS____
+Guard break
+Break through the defense of the opponent.
+
+
+
+____SKILLS____
+Blood golem
+Sacrifice your own blood to summon a golem to fight by
+your side temporarily.
+
+
+
+____SKILLS____
+Shivering touch
+
+
+
+
+____SKILLS____
+Mumbler's head explodes on you!
+
+
+
+
+____SKILLS____
+Demon seed
+Insert your seed into a fresh corpse, the most fertile 
+of growing grounds.
+
+
+
+____SKILLS____
+Pheromones
+Release of pheromones that makes the opponent divert all
+attention to the target.
+
+
+
+____SKILLS____
+Mastery over insects
+Understanding of insects. You can hear and talk with insects
+of all sizes.
+
+
+
+____SKILLS____
+Rock smash
+
+
+
+
+____SKILLS____
+The guard loads an arrow into the ballista...
+
+
+
+
+____SKILLS____
+Ballista
+
+
+
+
+____SKILLS____
+Smash
+
+
+
+
+____SKILLS____
+Salmonsnake is tensing up...
+
+
+
+
+____SKILLS____
+Snatch
+
+<Bypass Taunt>
+
+
+____SKILLS____
+Headbutt
+
+
+
+
+____SKILLS____
+Salmonsnake is uncertain of your position...
+
+
+
+
+____SKILLS____
+---
+
+
+
+
+____SKILLS____
+Fast attack
+With swift movements - you gain an additional
+turn.
+
+
+
+____SKILLS____
+Counter
+Stay alert for enemy attacks to parry them the instant
+they land.
+
+
+
+____SKILLS____
+Defensive Stance
+A special combat stance to prevent severe physical trauma. 
+A skill taught to all the squires at the Rondon military.
+
+
+
+____SKILLS____
+---
+
+
+
+
+____SKILLS____
+Steal
+Steal from the rich and give to yourself.
+
+
+
+____SKILLS____
+Dash
+Your movement speed increases greatly. Running can prove
+to be a really valuable skill.
+
+
+
+____SKILLS____
+Lockpicking
+An ability to open any simple lock with your trusty 
+lockpick.
+
+
+
+____SKILLS____
+---
+
+
+
+
+____SKILLS____
+Greater blood magic
+Years spent studying blood magic has given you an ability
+to use magic more efficiently.
+
+
+
+____SKILLS____
+Blood sacrifice
+Sacrifice blood for gods.
+
+
+
+____SKILLS____
+Pray
+Since your affection to gods is higher than average human
+being, you can try to reach out to them in need.
+
+
+
+____SKILLS____
+---
+
+
+
+
+____SKILLS____
+Devour
+A barbaric trait of devouring the carcass of your
+enemies to ease hunger.
+
+
+
+____SKILLS____
+Marksmanship
+High-level archery skill. Use your accurate shots to
+finish off opponents from distance.
+
+
+
+____SKILLS____
+Bloodlust
+Hype yourself into a state of aggression and trance. An old
+traditional Oldegård folk skill.
+
+
+
+____SKILLS____
+---
+
+
+
+
+____SKILLS____
+Salmonsnake is uncertain of your position...
+
+
+
+
+____SKILLS____
+Soul binding
+
+
+
+
+____SKILLS____
+Mumbler's head is pulsating...
+
+
+
+
+____SKILLS____
+Peck
+
+
+
+
+____SKILLS____
+Tackle
+
+
+
+
+____SKILLS____
+Talk
+Talking can sometimes get you out of uncomfortable
+situations.
+
+
+
+____SKILLS____
+Bite
+A vicious bite that leaves the opponent bleeding.
+
+
+
+____SKILLS____
+Howl
+A melancholy moonless howl.
+
+
+
+____SKILLS____
+Bite
+A vicious bite that leaves the opponent bleeding.
+
+
+
+____SKILLS____
+Jagged jaw
+A stronger and more vicious bite that leaves the 
+opponent bleeding.
+
+
+
+____SKILLS____
+Grim jaw
+A terrifying bite that leaves the opponent helpless.
+
+
+
+____SKILLS____
+Maul
+
+
+
+
+____SKILLS____
+Crow Mauler is staring you with its empty eyes...
+
+
+
+
+____SKILLS____
+Harvestman gently pets you.
+
+
+
+
+____SKILLS____
+Harvestman whistles...
+
+
+
+
+____SKILLS____
+Harvestman whistles...
+
+
+
+
+____SKILLS____
+Harvestman smiles at you.
+
+
+
+
+____SKILLS____
+Harvestman wraps you gently with his arms.
+
+<Bypass Taunt>
+
+
+____SKILLS____
+Attack
+
+
+ attacks!
+
+____SKILLS____
+--Greater magic---
+
+
+
+
+____SKILLS____
+Greater Hurting
+Concentrated feelings of pain create a
+devastating vortex.
+
+
+
+____SKILLS____
+Greater Blood golem
+Sacrifice your own blood to summon a golem to fight by
+your side temporarily.
+
+
+
+____SKILLS____
+Greater Necromancy
+Try to bring life back to where it once lingered...
+
+
+
+____SKILLS____
+
+
+
+
+
+____SKILLS____
+
+
+
+
+
+____SKILLS____
+
+
+
+
+
+____SKILLS____
+
+
+
+
+
+____SKILLS____
+The spectre tilts its sword sideways...
+
+
+
+
+____SKILLS____
+Lantern smash
+
+
+ hacks with a butcher knife!
+
+____SKILLS____
+Skeleton kick
+
+
+ attacks!
+
+____SKILLS____
+Skeleton hatchet
+
+
+ hacks with a butcher knife!
+
+____SKILLS____
+Whip
+
+
+ hacks with a butcher knife!
+
+____SKILLS____
+Maneba's tentacle is swinging around.
+
+
+
+
+____SKILLS____
+Counter-magic
+Undo the effects of any lesser magic with your superior
+knowledge in the greater scheme of things.
+
+
+
+____SKILLS____
+Nasty bite
+
+
+
+
+____SKILLS____
+Nasty bite
+
+
+
+
+____SKILLS____
+The ghoul stares at you with its dead fish eyes...
+
+
+
+
+____SKILLS____
+Cinder
+
+
+
+
+____SKILLS____
+
+
+
+
+
+____SKILLS____
+Attack
+
+<Target Action>
+perform action
+action animation
+action effect
+wait for animation
+motion wait: user
+death break
+</Target Action>
+ attacks!
+
+____SKILLS____
+Needle worm
+Harness the strength of a hundred leeches. The price is
+that you have to carry them inside you as parasites...
+
+
+
+____SKILLS____
+Needle worm
+Harness the strength of a hundred leeches. The price is
+that you have to carry them inside you as parasites...
+Enemy
+
+
+____SKILLS____
+Necromancy
+
+
+
+
+____SKILLS____
+The yellow mage forms magical hand signs...
+
+
+
+
+____SKILLS____
+Attack
+
+
+ attacks!
+
+____SKILLS____
+Hurting
+Concentrated feelings of pain create a
+devastating vortex.
+yellow mage attack - legs
+
+
+____SKILLS____
+Hurting
+Concentrated feelings of pain create a
+devastating vortex.
+yellow mage attack - arms
+
+
+____SKILLS____
+Revolution tear
+
+
+
+
+____SKILLS____
+3rd circle swings around its axis.
+
+
+
+
+____SKILLS____
+2nd circle swings around its axis.
+
+
+
+
+____SKILLS____
+1st circle swings around its axis.
+
+
+
+
+____SKILLS____
+
+
+
+
+
+____SKILLS____
+The red man reaches for you...
+
+
+
+
+____SKILLS____
+Shivering scream
+
+
+
+
+____SKILLS____
+Leg sweep
+A high finesse arcing attack that can only be performed
+with light bladed weapons.
+<CCPS_weapon:true>
+
+
+____SKILLS____
+Check
+Check the status.
+
+
+
+____SKILLS____
+Red grasp
+
+
+
+
+____SKILLS____
+Red man breathes heavily...
+
+
+
+
+____SKILLS____
+Red man is tapping its fingers.
+
+
+
+
+____SKILLS____
+The tormented one closes on you...
+
+
+
+
+____SKILLS____
+The left arm twitches...
+
+
+
+
+____SKILLS____
+Pummel
+
+<Target Action>
+perform action
+action animation
+action effect
+action effect
+wait for animation
+motion wait: user
+death break
+</Target Action>
+ attacks!
+
+____SKILLS____
+The right arm twitches...
+
+
+
+
+____SKILLS____
+
+
+
+
+
+____SKILLS____
+En garde
+Long combat experience has prepared you for fights.
+Prepare for an attack to gain advantage with [SHIFT].
+
+
+
+____SKILLS____
+Ritual spear
+
+
+ hacks with a butcher knife!
+
+____SKILLS____
+Blood portal
+A magic that enables one to create portals between ritual
+circles.
+
+
+
+____SKILLS____
+Flock of crows
+
+
+
+
+____SKILLS____
+Black orb
+A concentrated negative energy that can be hurled at
+your oppenents.
+
+
+
+____SKILLS____
+Healing whispers
+Whispers carried by the older god Sylvian heal wounds
+and mend injuries.
+
+
+
+____SKILLS____
+Marriage of flesh
+
+
+
+
+____SKILLS____
+Insect armor
+
+
+
+
+____SKILLS____
+Hairy palm
+
+
+
+
+____SKILLS____
+Bad breath
+
+
+
+
+____SKILLS____
+The snatcher tilts its head curiously...
+
+
+
+
+____SKILLS____
+The fur of the creature attracts flies.
+
+
+
+
+____SKILLS____
+The creature reaches out for you...
+
+
+
+
+____SKILLS____
+Inject
+
+
+ hacks with a butcher knife!
+
+____SKILLS____
+Maneba stares at you without expression...
+
+
+
+
+____SKILLS____
+Flock of crows
+
+
+
+
+____SKILLS____
+
+
+
+
+
+____SKILLS____
+Poke
+
+ghoul tackle
+
+
+____SKILLS____
+Scarab's shell bursts open!
+
+
+
+
+____SKILLS____
+Acid spills out
+ACID
+ghoul tackle
+
+
+____SKILLS____
+Ritual knife
+
+
+
+
+____SKILLS____
+The beast wants to manhandle you...
+
+
+
+
+____SKILLS____
+Arm of the beast twitches...
+
+
+
+
+____SKILLS____
+Helmbreaker
+
+
+
+
+____SKILLS____
+The monster takes a step closer...
+
+
+
+
+____SKILLS____
+The heart is beating slowly...
+
+
+
+
+____SKILLS____
+Blade dance
+
+
+
+
+____SKILLS____
+Single blade
+
+
+
+
+____SKILLS____
+The arm is twitching restlessly...
+
+
+
+
+____SKILLS____
+Black orb
+ENEMY
+
+
+
+____SKILLS____
+Smash
+
+
+
+
+____SKILLS____
+Axe kick
+
+
+ hacks with a butcher knife!
+
+____SKILLS____
+Rusty claw
+
+
+
+
+____SKILLS____
+The embryo tries to grab onto you!
+
+
+
+
+____SKILLS____
+Dislocating joints
+
+
+
+
+____SKILLS____
+The embryo is gnawing your feet!
+
+
+
+
+____SKILLS____
+Headbutt
+
+ghoul tackle
+
+
+____SKILLS____
+Left-brain is calculating the situation...
+
+
+
+
+____SKILLS____
+Right-brain tries to come up with creative ways to combat...
+
+
+
+
+____SKILLS____
+Whispers of Gro-goroth
+
+
+
+
+____SKILLS____
+The Left-brain sends a signal to the head... 
+
+
+
+
+____SKILLS____
+The Right-brain sends a signal to the head... 
+
+
+
+
+____SKILLS____
+Walk on water
+A simple trick that allows you to walk on water.
+
+
+
+____SKILLS____
+Simple transmutation
+A simple transmutation that allows you to change the fabric
+of the universe itself to a limited degree.
+
+
+
+____SKILLS____
+Combustion
+Create a huge pyromancy trick to burn your foes.
+
+
+
+____SKILLS____
+Dodge roll
+Talking can sometimes get you out of uncomfortable
+situations.
+<Target Action>
+motion evade: user
+</Target Action>
+
+
+____SKILLS____
+Kick
+
+
+ attacks!
+
+____SKILLS____
+Face rip
+
+
+
+
+____SKILLS____
+Sking granny slowly stumbles forward......
+
+
+
+
+____SKILLS____
+The leg is hanging loose.
+
+
+
+
+____SKILLS____
+Cutlass
+
+
+ hacks with a butcher knife!
+
+____SKILLS____
+Pyromancy trick
+A simple pyromancy trick to cause burns on your opponent.
+
+
+
+____SKILLS____
+Molten gold
+
+
+
+
+____SKILLS____
+Pyromancy trick
+A simple pyromancy trick to cause burns on your opponent.
+
+
+
+____SKILLS____
+Combustion
+A large combustion of flame and smoke. It's a bit difficult
+to control so caution is advised.
+
+
+
+____SKILLS____
+
+
+
+
+
+____SKILLS____
+Lantern
+Small fire attack with lantern.
+
+
+
+____SKILLS____
+The golden body of Francóis is shining bright.
+
+
+
+
+____SKILLS____
+Francóis takes a step forward...
+
+
+
+
+____SKILLS____
+Suckerpunch
+
+
+
+
+____SKILLS____
+Leg sweep
+
+D'arce enemy
+ hacks with a butcher knife!
+
+____SKILLS____
+Attack
+
+
+ attacks!
+
+____SKILLS____
+Shield bash
+
+
+
+
+____SKILLS____
+Light blue vial
+
+
+
+
+____SKILLS____
+Steal
+
+
+
+
+____SKILLS____
+Attack
+
+
+ attacks!
+
+____SKILLS____
+The outlander aims carefully...
+
+
+ attacks!
+
+____SKILLS____
+Marksmanship
+
+
+
+
+____SKILLS____
+Gaping mouth
+
+
+
+
+____SKILLS____
+Summon Asterisk
+
+
+
+
+____SKILLS____
+Salvation
+
+
+
+
+____SKILLS____
+Poison tongue
+
+
+
+
+____SKILLS____
+Healing whispers
+
+
+
+
+____SKILLS____
+
+
+
+
+
+____SKILLS____
+Purifying ember
+
+
+
+
+____SKILLS____
+Purifying black flames
+
+
+
+
+____SKILLS____
+Stampede of arms
+
+
+
+
+____SKILLS____
+The creature is wriggling in pain...
+
+
+
+
+____SKILLS____
+Toxic mist
+
+
+
+
+____SKILLS____
+Body needles
+
+
+
+
+____SKILLS____
+Blank stare
+
+
+
+
+____SKILLS____
+Double-arm smash
+
+
+
+
+____SKILLS____
+
+
+
+
+
+____SKILLS____
+Disable necromancy
+Disable the magic that is keeping this ghoul standing.
+
+
+
+____SKILLS____
+Disable necromancy
+Disable the magic that is keeping this ghoul standing.
+
+
+
+____SKILLS____
+Disable necromancy
+Disable the magic that is keeping this ghoul standing.
+
+
+
+____SKILLS____
+Disable necromancy
+Disable the magic that is keeping this skeleton standing.
+
+
+
+____SKILLS____
+Disable necromancy
+Disable the magic that is keeping this skeleton standing.
+
+
+
+____SKILLS____
+Disable necromancy
+Disable the magic that is keeping this skeleton standing.
+
+
+
+____SKILLS____
+Plague touch
+
+
+
+
+____SKILLS____
+Punch
+
+
+
+
+____SKILLS____
+
+
+
+
+
+____SKILLS____
+Loving whispers
+Concentrated whispers carried by the older god Sylvian
+heal a considerable amount of health.
+
+
+
+____SKILLS____
+Pinecone pig
+Summon the deity of good luck: the pinecone pig.
+
+
+
+____SKILLS____
+Chains of torment
+Summon the chains that tormented Chambara for hundreds
+of years.
+yellow mage attack - arms
+
+
+____SKILLS____
+
+
+
+
+
+____SKILLS____
+You cause headache to the enlightened one.
+Talking can sometimes get you out of uncomfortable
+situations.
+<Target Action>
+motion swing: user
+</Target Action>
+
+
+____SKILLS____
+
+
+
+
+
+____SKILLS____
+Gauntlet punch
+
+
+
+
+____SKILLS____
+Pyromancy trick
+enemy
+
+
+
+____SKILLS____
+
+
+
+
+
+____SKILLS____
+Chains of torment
+Summon the chains that tormented Chambara for hundreds
+of years.
+enemy
+
+
+____SKILLS____
+Spider bite
+
+
+
+
+____SKILLS____
+The asterisk is floating idle in the air...
+
+
+
+
+____SKILLS____
+The newborn god is trembling in pain...
+
+
+
+
+____SKILLS____
+Pure fear
+
+
+
+
+____SKILLS____
+Pure hunger
+
+
+
+
+____SKILLS____
+The newborn god glances at you...
+
+
+
+
+____SKILLS____
+Self-mutilation
+
+
+
+
+____SKILLS____
+Claw of a god
+
+
+ hacks with a butcher knife!
+
+____SKILLS____
+
+
+
+
+
+____SKILLS____
+5
+
+
+
+
+____SKILLS____
+4
+
+
+
+
+____SKILLS____
+3
+
+
+
+
+____SKILLS____
+2
+
+
+
+
+____SKILLS____
+1
+
+
+
+
+____SKILLS____
+Death
+
+
+
+
+____SKILLS____
+Burning gaze
+
+
+
+
+____SKILLS____
+Gro-goroth is breathing heavily...
+
+
+
+
+____SKILLS____
+
+
+
+
+
+____SKILLS____
+Toxic dart
+
+
+
+
+____SKILLS____
+Paralysis dart
+
+
+
+
+____SKILLS____
+Critical slash
+
+
+
+
+____SKILLS____
+
+
+
+
+
+____SKILLS____
+Mad rush
+
+<Target Action>
+perform action
+action animation
+wait for animation
+motion wait: user
+action effect
+action effect
+action effect
+action effect
+action effect
+death break
+</Target Action>
+ attacks!
+
+____SKILLS____
+Cross-slash
+
+
+
+
+____SKILLS____
+The guardian hurls a boulder at you!
+
+
+
+
+____SKILLS____
+Francóis spits molten lava from his mouth!
+
+
+
+
+____SKILLS____
+The golden god smirks at you.
+
+
+
+
+____SKILLS____
+The god squirts molten lava from its eye!
+
+
+
+
+____SKILLS____
+
+
+
+
+
+____SKILLS____
+Ruin
+
+
+
+
+____SKILLS____
+Blundering tackle
+
+
+
+
+____SKILLS____
+The molded squirms in pain...
+
+
+
+
+____SKILLS____
+Ejaculation
+
+
+
+
+____SKILLS____
+Attack
+
+
+ attacks!
+
+____SKILLS____
+Pollen
+
+
+
+
+____SKILLS____
+War cry
+Provoke the enemy into attacking you.
+<Target Action>
+motion swing: user
+perform action
+action animation
+action effect
+wait for animation
+motion wait: user
+death break
+</Target Action>
+
+
+____SKILLS____
+Inner juices
+
+
+
+
+____SKILLS____
+Wing scythe
+
+
+ hacks with a butcher knife!
+
+____SKILLS____
+Peck
+
+
+
+
+____SKILLS____
+Poke
+
+
+ hacks with a butcher knife!
+
+____SKILLS____
+Bite
+A vicious bite that leaves the opponent bleeding.
+
+
+
+____SKILLS____
+Chomp
+
+
+ hacks with a butcher knife!
+
+____SKILLS____
+Rebirth of the beloved
+A hidden love magic that is said to bring back the one
+you loved the most.
+
+
+
+____SKILLS____
+Escape plan
+A skill that greatly enhances your chances for running
+away from fights
+
+
+
+____SKILLS____
+Stomp
+
+
+ hacks with a butcher knife!
+
+____SKILLS____
+Attack
+
+
+ attacks!
+
+____SKILLS____
+Phase step
+A world-breaking magic that bends the space with the key [C].
+Use at your own risk. It's very possible to end up stuck in a wall.
+
+
+
+____SKILLS____
+Greater phase step
+A world-breaking magic that bends the space with the key [C].
+Use at your own risk. It's very possible to end up stuck in a wall.
+
+
+
+____SKILLS____
+
+
+
+
+
+____SKILLS____
+Green flame
+ACID
+ghoul tackle
+
+
+____SKILLS____
+Empty echo
+
+
+
+
+____SKILLS____
+Hack
+
+
+ hacks with a butcher knife!
+
+____SKILLS____
+Morning star
+
+
+ hacks with a butcher knife!
+
+____SKILLS____
+Morning star
+
+
+ hacks with a butcher knife!
+
+____SKILLS____
+The right arm is shaking in excitement!
+
+
+
+
+____SKILLS____
+The jaggedjaw is barking.
+
+
+
+
+____SKILLS____
+The monster lowers its stance...
+
+<Bypass Taunt>
+
+
+____SKILLS____
+
+
+
+
+
+____SKILLS____
+Bite
+A vicious bite that leaves the opponent bleeding.
+
+
+
+____SKILLS____
+Devour
+
+
+
+
+____SKILLS____
+Tentacle slam
+
+
+
+
+____SKILLS____
+Entangle
+
+
+
+
+____SKILLS____
+Critical stabs
+
+
+
+
+____SKILLS____
+Regular stab
+
+
+
+
+____SKILLS____
+Cry for help
+
+
+
+
+____SKILLS____
+The priest is forming magical hand signs...
+
+
+
+
+____SKILLS____
+The appendage aims carefully...
+
+
+ attacks!
+
+____SKILLS____
+Tentacle whip
+
+
+
+
+____SKILLS____
+The tentacle is swinging around in an erratic manner...
+
+
+
+
+____SKILLS____
+The tumor is wriggling in pain.
+
+
+
+
+____SKILLS____
+The tumor is shaking aggressively!
+
+
+
+
+____SKILLS____
+Colour from the Unknown
+
+
+
+
+____SKILLS____
+The party's psyche is crumbling!
+
+
+
+
+____SKILLS____
+
+
+
+
+
+____SKILLS____
+Compulsory disfigurement
+
+
+
+
+____SKILLS____
+
+
+
+
+
+____SKILLS____
+Hatchet
+
+
+ hacks with a butcher knife!
+
+____SKILLS____
+Axe
+
+
+ hacks with a butcher knife!
+
+____SKILLS____
+Punch
+
+
+ attacks!
+
+____SKILLS____
+The creature is forming hand signs...
+
+
+
+
+____SKILLS____
+
+
+
+
+
+____SKILLS____
+Miasma
+
+
+ hacks with a butcher knife!
+
+____SKILLS____
+
+
+
+
+
+____SKILLS____
+
+
+
+
+
+____SKILLS____
+
+
+
+
+
+____SKILLS____
+
+
+
+
+
+____SKILLS____
+
+
+
+
+
+____SKILLS____
+
+
+
+
+
+____SKILLS____
+
+
+
+
+
+____SKILLS____
+
+
+
+
+
+____SKILLS____
+
+
+
+
+
+____SKILLS____
+
+
+
+
+
+____SKILLS____
+
+
+
+

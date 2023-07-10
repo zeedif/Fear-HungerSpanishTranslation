@@ -1,0 +1,802 @@
+____STATES____
+Knockout
+State #1 will be automatically added when
+HP reaches 0.
+ has fallen!
+ is slain!
+
+ revives!
+____STATES____
+Guard
+
+
+
+
+
+
+____STATES____
+Arm cut
+
+
+ loses arm!
+
+
+
+____STATES____
+Anus bleed
+
+ is poisoned!
+ is poisoned!
+
+ is no longer poisoned!
+____STATES____
+Bleeding
+
+
+
+
+
+____STATES____
+Silence
+
+ is silenced!
+ is silenced!
+
+ is no longer silenced!
+____STATES____
+Rage
+
+ is enraged!
+ is enraged!
+
+ is no longer enraged!
+____STATES____
+Confusion
+
+ is confused!
+ is confused!
+
+ is no longer confused!
+____STATES____
+Fascination
+
+ is fascinated!
+ is fascinated!
+
+ is no longer fascinated!
+____STATES____
+Sleep
+
+ falls asleep!
+ falls asleep!
+ is sleeping.
+ wakes up!
+____STATES____
+Blind
+
+ is blinded!
+ is blinded!
+
+ is no longer blinded!
+____STATES____
+Perfect defense
+
+
+ is shielded!
+
+
+____STATES____
+Can't do shit
+
+
+
+
+
+____STATES____
+Leg cut
+
+
+ loses leg!
+
+
+
+____STATES____
+Terror
+<state damage modifier: defender>
+  return b.hp - 1
+</state damage modifier>
+
+
+
+
+____STATES____
+Confused
+
+
+
+
+
+____STATES____
+Poisoned
+
+
+
+
+
+____STATES____
+Speed buff
+
+
+
+
+
+____STATES____
+Fracture
+
+ is poisoned!
+ is poisoned!
+
+ is no longer poisoned!
+____STATES____
+Attack buff
+
+
+
+
+
+____STATES____
+Evasion buff
+
+
+
+
+
+____STATES____
+Critical state
+<state damage modifier: defender>
+  return b.hp - 1
+</state damage modifier>
+<state add animation: 22 />
+
+
+
+
+____STATES____
+Vulnerable
+<Custom Select Effect>
+// Get the current skill
+var skill = this.item();
+// Check if the skill exists and can deal critical damage
+if (skill && skill.damage.critical) {
+  // Get the previous Critical Hit settings
+  this._prevForcedCriticalHit = $gameSystem._forceCritical;
+  this._prevForcedNoCriticalHit = $gameSystem._forceNoCritical;
+  // Force the hit to be a critical hit
+  BattleManager.actionForceCritical();
+}
+</Custom Select Effect>
+
+<Custom Deselect Effect>
+// Check if the previous settings exist
+if (this._prevForcedCriticalHit !== undefined) {
+  // Revert the Critical Hit settings to what they were before
+  $gameSystem._forceCritical = this._prevForcedCriticalHit;
+  $gameSystem._forceNoCritical = this._prevForcedNoCriticalHit;
+}
+</Custom Deselect Effect>
+
+
+
+
+____STATES____
+Arrow loss
+
+
+
+
+
+____STATES____
+Bloodlust
+
+ is enraged!
+ is enraged!
+
+ is no longer enraged!
+____STATES____
+Counter
+
+
+
+
+
+____STATES____
+salmonsnake_blind
+
+
+
+
+
+____STATES____
+Confused_enemy
+
+
+
+
+
+____STATES____
+Bleeding_enemy
+
+
+
+
+
+____STATES____
+Soul sucked
+
+
+
+
+
+____STATES____
+Headless
+
+
+
+
+
+____STATES____
+Perfect guard
+
+
+
+
+
+____STATES____
+Happy
+
+
+
+
+
+____STATES____
+Depressed
+
+
+
+
+
+____STATES____
+Talk
+
+
+
+
+
+____STATES____
+Can't do shit - one turn
+
+
+
+
+
+____STATES____
+Counter enemy
+
+
+
+
+
+____STATES____
+
+
+
+
+
+
+____STATES____
+Hunger LVL 1
+
+
+
+
+
+____STATES____
+Hunger LVL 2
+
+
+
+
+
+____STATES____
+Hunger LVL 3
+
+
+
+
+
+____STATES____
+Hunger LVL 4
+
+
+
+
+
+____STATES____
+Hunger LVL 5
+
+
+
+
+
+____STATES____
+Fear LVL 1
+
+
+
+
+
+____STATES____
+Fear LVL 2
+
+
+
+
+
+____STATES____
+Fear LVL 3
+
+
+
+
+
+____STATES____
+Fear LVL 4
+
+
+
+
+
+____STATES____
+Fear LVL 5
+
+
+
+
+
+____STATES____
+Blindness
+
+
+
+
+
+____STATES____
+
+
+
+
+
+
+____STATES____
+Food small
+
+
+
+
+
+____STATES____
+Food medium
+
+
+
+
+
+____STATES____
+Food large
+
+
+
+
+
+____STATES____
+
+
+
+
+
+
+____STATES____
+Infection leg
+
+
+
+
+
+____STATES____
+Infection arm
+
+
+
+
+
+____STATES____
+Enemy DEFENSE UP
+
+
+
+
+
+____STATES____
+Enemy ATTACK UP
+
+
+
+
+
+____STATES____
+Stunned!
+
+
+
+
+
+____STATES____
+Can't do shit- ONE TURN
+
+
+
+
+
+____STATES____
+Parasites
+
+
+
+
+
+____STATES____
+Weakness
+
+
+
+
+
+____STATES____
+Phobia
+
+
+
+
+
+____STATES____
+Weakness2
+
+
+
+
+
+____STATES____
+Zoophobia
+fear of animals
+
+
+
+
+____STATES____
+Necrophobia
+Fear of corpses
+
+
+
+
+____STATES____
+Panophobia
+Fear of everything
+
+
+
+
+____STATES____
+Phasmophobia
+Fear of ghosts
+
+
+
+
+____STATES____
+Rhabdophobia
+Fear of magic
+
+
+
+
+____STATES____
+Teratophobia
+Fear of malformation and monsters
+
+
+
+
+____STATES____
+Erotophobia
+Fear of sex
+
+
+
+
+____STATES____
+Can't do shit - two turn
+
+
+
+
+
+____STATES____
+Weakness_temp_invisible
+
+
+
+
+
+____STATES____
+Weakness_temp
+
+
+
+
+
+____STATES____
+Burns
+
+
+
+
+
+____STATES____
+Check
+
+
+
+
+
+____STATES____
+
+
+
+
+
+
+____STATES____
+Backstab_attack
+
+
+
+
+
+____STATES____
+arm_leg_cut- ONE TURN
+
+
+
+
+
+____STATES____
+BONESAW
+
+
+
+
+
+____STATES____
+ACID
+
+
+
+
+
+____STATES____
+
+
+
+
+
+
+____STATES____
+Attack debuff
+
+
+
+
+
+____STATES____
+Defense debuff
+
+
+
+
+
+____STATES____
+death_incoming
+
+
+
+
+
+____STATES____
+Curse
+
+
+
+
+
+____STATES____
+Face rip
+
+
+
+
+
+____STATES____
+Burning
+
+
+
+
+
+____STATES____
+Defense down
+
+
+
+
+
+____STATES____
+Toxic
+
+
+
+
+
+____STATES____
+RESIST DEATH
+
+
+
+
+
+____STATES____
+
+
+
+
+
+
+____STATES____
+Blindness2
+
+
+
+
+
+____STATES____
+Curse2
+
+
+
+
+
+____STATES____
+Paralyzed
+
+
+
+
+
+____STATES____
+Ruin1
+
+
+
+
+
+____STATES____
+Ruin2
+
+
+
+
+
+____STATES____
+ruined1
+
+
+
+
+
+____STATES____
+Brain flower
+
+
+
+
+
+____STATES____
+Taunt
+<Physical Taunt>
+<Magical Taunt>
+<Certain Taunt>
+
+
+
+
+____STATES____
+Taunt
+<Physical Taunt>
+<Magical Taunt>
+<Certain Taunt>
+
+
+
+
+____STATES____
+No criticals!
+
+
+
+
+
+____STATES____
+taunt_invicible
+
+
+
+
+
+____STATES____
+Split
+
+
+
+
+
+____STATES____
+Tentacles
+
+
+
+
+
+____STATES____
+
+
+
+
+
+
+____STATES____
+
+
+
+
+
+
+____STATES____
+
+
+
+
+
+
+____STATES____
+
+
+
+
+
+
+____STATES____
+
+
+
+
+
