@@ -1,0 +1,170 @@
+___CHOICE___
+Новая игра
+Главное меню
+____TEXT____
+Тебе удалось сбежать из подземелий Страха и Голода. Но
+в подсознании ты до сих пор не веришь, что всё это 
+взаправду...
+____TEXT____
+Ты всё ещё чувствуешь запах крови и разложения, что
+сочатся из щелей древних стен подземелья...
+____SHOW____
+ТИТРЫ
+
+ГРАФИКА, МУЗЫКА, СЮЖЕТ, ДИЗАЙН
+И ВСЁ ОСТАЛЬНОЕ
+\c[2]MIRO\c[0] 
+
+За исключением...
+
+ПЕРЕВОД НА РУССКИЙ 'Team Rotten Cabbage':
+\c[2]Andrew 'Akropo' Selin\c[0]
+\c[2]Ruslan 'Morgen' Ibraimov\c[0]
+\c[2]Leonid 'Liong-sah' Sakhnovski\c[0]
+\c[2]Ivan 'Incredibilis Darklord' Petrov\c[0]
+\c[2]Mikhail 'BreadLI' Klyputhenko\c[0]
+\c[2]MK__ULTRA\c[0]
+\c[2]Alexandr 'Gooudini' Minchenko\c[0]
+
+МЕЦЕНАТЫ ПЕРЕВОДА:
+\c[2]Sergei S. R.\c[0]
+\c[2]Artem A. N.\c[0]
+\c[2]Ivan V.F.\c[0]
+\c[2]Anastasia S.M.\c[0]
+\c[2]Pavel 'gl0yzz!' V.K.\c[0]
+\c[2]Alexander Sh.\c[0]
+\c[2]Alexander Y.S.\c[0]
+
+АНИМАЦИИ:
+(Включая походку жнеца, некромантию, взрывной 
+флакон и лампу жреца)
+\c[2]Jay/Janne\c[0]
+
+МУЗЫКА:
+Вступительная музыка: Ghostpocalypse - 5 Apotheosis
+\c[2]Kevin MacLeod\c[0]
+Невероятное множество звуковых эффектов:
+\c[2]Taira Komori\c[0]
+Эпичные барабаны:
+\c[2]Loop Loft\c[0]
+и ещё множество мелких звуков 
+\c[2]freesound.org\c[0]
+
+ИСПОЛЬЗУЕМЫЕ ПЛАГИНЫ
+\c[2]Yanfly Engine Plugins + Chickie Collaboration\c[0]
+ YEP_FootstepSounds
+\c[2]Yanfly Engine Plugins\c[0]
+ YEP_BattleEngineCore
+ YEP_BaseParamControl
+ YEP_SaveEventLocations
+ YEP_BuffsStatesCore
+ YEP_X_CriticalControl
+ YEP_DamageCore
+ YEP_GabWindow
+ YEP_EventChasePlayer
+ YEP_StopMapMovement
+ YEP_OptionsCore
+ YEP_KeyboardConfig
+ YEP_MainMenuManager
+ YEP_StatusMenuCore
+ YEP_ItemSynthesis
+ YEP_DashToggle
+ YEP_MessageCore
+\c[2]Fallen Angel Olivia\c[0]
+ Olivia_OctoBattle
+ Olivia_MetaControls
+\c[2]Visustella\c[0]
+ Archeia_Steamworks
+\c[2]DreamX\c[0]
+ DreamX_ChoiceHelp
+\c[2]Tor Damian Design / Galenmereth\c[0]
+ TDDP_FluidTimestep
+ TDDP_ManageDashing
+\c[2]Terrax\c[0]
+ TerraxLighting
+\c[2]Izyees Fariz\c[0]
+ Izy_RemoveOption
+\c[2]Galv - galvs-scripts.com\c[0]
+ Galv_ExAgiTurn
+ GALV_BustMenu
+\c[2]DK (Denis Kuznetsov)\c[0]
+ DK_Name_Input
+\c[2]Atreyo Ray\c[0]
+ ARP_CommandIcons
+\c[2]Victor Sant\c[0]
+ VE_BasicModule
+ VE_FogAndOverlay
+\c[2]Hime - HimeWorks (http://himeworks.com)\c[0]
+ HIME_EndPhaseTriggers
+ HIME_FollowerEventTouch
+ HIME_CounterAfterHit
+ HIME_StateChangeAnimations
+ HIME_StateDamageModifiers
+ HIME_GuestFollowers
+ HIME_PreTitleEvents
+ HIME_DisabledChoiceConditions
+ HIME_LargeChoices
+ HIME_ConditionalChoiceText
+\c[2]Coelocanth\c[0]
+ physical_attack_animation
+
+ТЕСТИРОВАНИЕ ИГРЫ и ПРАВКИ БАЛАНСА:
+\c[2]thedeanreynolds\c[0]
+\c[2]N0ught\c[0]
+\c[2]Mom/Fern\c[0]
+\c[2]Mask\c[0]
+\c[2]Koukee\c[0]
+\c[2]Kill_Switch-X\c[0]
+\c[2]Ken\c[0]
+\c[2]Heartless Angel\c[0]
+\c[2]Stern\c[0]
+\c[2]Sammy\c[0]
+\c[2]Magot\c[0]
+\c[2]Edgozz\c[0]
+\c[2]Kumada\c[0]
+
+БРЕЙНШТОРМИНГ и ГЕЙМДИЗАЙН:
+\c[2]Mask\c[0]
+\c[2]Heartless Angel\c[0]
+\c[2]Kill_Switch-X\c[0]
+\c[2]Kumada\c[0]
+\c[2]Lauri\c[0]
+и многие другие...
+
+ДИСКОРД
+ЗА ОСНОВАНИЕ ДИСКОРД СЕРВЕРА
+\c[2]Jacob Hunt\c[0]
+МОДЕРАТОР/ПРОФЕССИОНАЛЬНЫЙ 
+DUNGEON MASTER/ПРОСТО ПОМОЩЬ
+\c[2]Kill_Switch-X\c[0]
+
+ИГРЫ СДЕЛАНА НА ДВИЖКЕ \c[2]RPG MAKER MV\c[0]
+разработанный \c[2]KADOKAWA\c[0] и \c[2]Yoji Ojima\c[0]. 
+RPG Maker распространяется \c[2]Degica\c[0].
+
+
+Спасибо всем, кто поддерживал разработку игры 
+в течении долгих двух лет. В этом списке огромное 
+количество имен достойных упоминания, я, наверняка,
+забуду упомянуть кого-то очень важного, поэтому давайте 
+обойдемся без конкретики. Прекрасный выход. 
+Но на самом деле, я бы хотел выразить свою огромную 
+признательность всем тем людям, которые так или иначе
+поучаствовали в разработке и создании этой игры.
+Без вас, игры бы просто не существовало!
+
+
+
+ОСОБАЯ БЛАГОДАРНОСТЬ:
+Чиби версия Ворона-Истязателя была вдохновлена рисунком 
+от \c[2]Vervain\c[0] @VervainVanity
+
+Жанна была вдохновлена персонажем от \c[2]Mom/Fern\c[0]
+
+Сэр Серил был вдохновлен персонажем от \c[2]Mask\c[0]
+
+Изая был вдохновлен персонажем от \c[2]Kill_Switch-X\c[0]
+Особая благодарность youtube-каналам\c[2]Neco the Sergal\c[0] 
+и \c[2]RiskRim\c[0]
+
+Спасибо за то, что играли!
