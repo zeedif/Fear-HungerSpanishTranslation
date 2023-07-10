@@ -1,3078 +1,3028 @@
 ____TEXT____
-It might be just your imagination, but you can hear
-a faint sound from the other side of the door...
+Puede ser solo tu imaginación, pero puedes escuchar
+un sonido leve desde el otro lado de la puerta...
 ___CHOICE___
-Open
-Listen
-Knock on the door
-Leave it
+Abre
+Escucha
+Toca a la puerta
+Déjalo
 ____TEXT____
 .\|.\|.\|.
 ____TEXT____
-You hear faint breathing from inside...
+Oyes una débil respiración desde el interior...
 ____TEXT____
-Something faint can be heard...
+Se oye algo débil...
 ____TEXT____
 .\|.\|.\|.
 ____TEXT____
-No answer...
-<follower touch>
-<follower touch>
-<follower touch>
-<follower touch>
-<follower touch>
-<follower touch>
-<follower touch>
+No hay respuesta...
+<seguidor toque>
+<seguidor toque>
+<seguidor toque>
+<seguidor toque>
+<seguidor toque>
+<seguidor toque>
+<seguidor toque>
 ____TEXT____
-You could use \c[2]Soul stone\c[0] here...
+Podrías usar \c[2]Soul stone\c[0] aquí...
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-The \c[2]Soul stone\c[0] changed it's appearance.
-The stone is radiating faint blue light.
+La \c[2]Piedra del alma\c[0] ha cambiado de apariencia.
+La piedra irradia una débil luz azul.
 ____TEXT____
-You could \c[2]Devour\c[0] the remains of the dead guard.
+Podrías \c[2]Devorar\c[0] los restos del guardia muerto.
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-You devoured the remains.
+Has devorado los restos.
 ____TEXT____
-You could use \c[2]Demon seed\c[0] on the dead guard.
+Podrías usar \c[2]Semilla demoníaca\c[0] al guardia muerto.
 ___CHOICE___
-Use 
+Utiliza 
 No
 ____TEXT____
-A baby sprouted out of your seed!
+¡Un bebé brotó de tu semilla!
 ____TEXT____
-You take the baby with you.
+Te llevas al bebé contigo.
 ____TEXT____
-You do not have enough sanity to perform this act.
+No tienes suficiente sanidad para hacer ese acto.
 ____TEXT____
-The monstrosity is down...
+La monstruosidad se ha caído....
 ___CHOICE___
-Beat him
-Search him
-Skin him
-Leave him
+Golpearlo
+Escurcarlo
+Despellejarlo
+Déjalo
 ____TEXT____
-No reaction. But it is satisfying.
+No reacciona. Pero es una gran satisfacción.
 ____TEXT____
-You took \c[2]Guard skin\c[0]!
+¡Tomaste \c[2]Piel de guardia\c[0]
 ____TEXT____
-The monstrosity is down...
+La monstruosidad se ha caído....
 ___CHOICE___
-Beat him
-Search him
-Leave him
+Golpearlo
+Escurcarlo
+Déjalo
 ____TEXT____
-No reaction. But it is satisfying.
+No reacciona. Pero es una gran satisfacción.
 ____TEXT____
-You could use \c[2]Soul stone\c[0] here...
+Podrías usar \c[2]Piedra del alma\c[0] aquí...
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-The \c[2]Soul stone\c[0] changed it's appearance.
-The stone is radiating faint blue light.
+La \c[2]Piedra del alma\c[0] ha cambiado de apariencia.
 ____TEXT____
-You could \c[2]Devour\c[0] the remains of the dead guard.
+Podrías \c[2]Devorar\c[0] los restos del guardia muerto.
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-You devoured the remains.
+Has devorado los restos.
 ____TEXT____
-You could use \c[2]Demon seed\c[0] on the dead guard.
+Podrías usar \c[2]Semilla demoníaca\c[0] al guardia muerto.
 ___CHOICE___
-Use 
+Utiliza 
 No
 ____TEXT____
-A baby sprouted out of your seed!
+¡Un bebé brotó de tu semilla!
 ____TEXT____
-You take the baby with you.
+Te llevas al bebé contigo.
 ____TEXT____
-You do not have enough sanity to perform this act.
+No tienes suficiente sanidad para hacer ese acto.
 ____TEXT____
-The monstrosity is down...
+La monstruosidad se ha caído....
 ___CHOICE___
-Beat him
-Search him
-Skin him
-Leave him
+Golpearlo
+Escurcarlo
+Despellejarlo
+Déjalo
 ____TEXT____
-No reaction. But it is satisfying.
+No reacciona. Pero es una gran satisfacción.
 ____TEXT____
-You already searched him.
+Ya lo has escurcado.
 ____TEXT____
-You took \c[2]Guard skin\c[0]!
+¡Tomaste \c[2]Piel de guardia\c[0]
 ____TEXT____
-The monstrosity is down...
+La monstruosidad se ha caído....
 ___CHOICE___
-Beat him
-Search him
-Leave him
+Golpearlo
+Escurcarlo
+Déjalo
 ____TEXT____
-No reaction. But it is satisfying.
+No reacciona. Pero es una gran satisfacción.
 ____TEXT____
-You already searched him.
+Ya lo has escurcado.
 ____TEXT____
-You could use \c[2]Soul stone\c[0] here...
+Podrías usar \c[2]Piedra del alma\c[0] aquí...
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-The \c[2]Soul stone\c[0] changed it's appearance.
-The stone is radiating faint blue light now and
-it's also clearly heavier.
+La \c[2]piedra del alma\c[0] ha cambiado de apariencia.
+La piedra irradia ahora una débil luz azul y
+también es claramente más pesada.
 ____TEXT____
-A pile of flesh remains here...
-CHEST
+Aquí queda un montón de carne...
+COFRE
 ____TEXT____
-A sturdy chest. It doesn't seem to be locked.
+Un cofre robusto. No parece cerrado con llave.
 ___CHOICE___
-Open
-Leave
+Abre
+Deja
 ___CHOICE___
-HEADS
-TAILS
-CHEST
+CABEZAS
+COLA
+COFRE
 ____TEXT____
-There is nothing left in the chest anymore.
-BOOKSHELF
+No queda nada en el cofre.
+LIBRERO
 ____TEXT____
-Dusty old books fill the bookshelf.
-Some of them seem partly rotten and moldy.
+Libros viejos y empolvados llenan el librero.
+Algunos parecen parcialmente podridos y mohosos.
 ___CHOICE___
-Search
-Leave
+Escurca
+Deja
 ___CHOICE___
-HEADS
-TAILS
+CABEZAS
+COLA
 ____TEXT____
-The book feels very special and has a hefty weight to it.
+El libro se siente muy especial y tiene un gran peso.
 ____TEXT____
-Like a siren's call, the book is calling to you. Its
-macabre leather coverings look irresistable.
+Como un canto de sirena, el libro te llama. Su
+macabras cubiertas de cuero parecen irresistibles.
 ____TEXT____
-You find nothing of interest.
-BOOKSHELF
+No encuentras nada de interés.
+LIBRERO
 ____TEXT____
-You already searched this bookshelf.
+Ya has buscado en este librero.
 ____TEXT____
-A crude kitchen table with lots of scratch and cut
-marks. It's pretty tainted too.
+Una mesa de cocina tosca con muchas marcas de arañazos y cortes. Está bastante manchada también.
 ____TEXT____
-You find a bag of \c[2]Wheat flour\c[0]!
-There are some maggots crawling in the flour.
+¡Encuentras una bolsa de \c[2]harina integral\c[0]! Hay algunos gusanos rondando por la harina.
 ____TEXT____
-From the bottom shelf you find some \c[2]Dried meat\c[0]!
+¡De la estantería de abajo encuentras un poco de \c[2]Carne seca\c[0]!
 ____TEXT____
-There are three \c[2]3 Eggs\c[0] hidden in a basket!
+¡Hay tres \c[2]3 Huevos\c[0] escondidos en una canasta!
 ____TEXT____
-There is nothing here.
+No hay nada aquí.
 ____TEXT____
-You could open the door with \c[2]Lockpicking\c[0].
+Podrías abrir la puerta con \c[2]Ganzúa\c[0].
 ___CHOICE___
-Use \c[2]Lockpicking\c[0]
-Don't
+Usar \c[2]Ganzúa\c[0]
+No lo haces.
 ____TEXT____
-The door seems to be locked...
+La puerta parece cerrada con llave...
 ___CHOICE___
-Force the door
-Use \c[2]Small key\c[0]
-Use \c[2]Red vial\c[0]
-Leave
+Forzar la puerta
+Utiliza \c[2]Llave Pequeña\c[0]
+Utiliza \c[2]Frasco Rojo\c[0]
+Deja
 ____TEXT____
-You managed to force your way through the door.
+Lograste entrar por la puerta a la fuerza. 
 ____TEXT____
-You don't seem to be strong enough to force the door open...
+No pareces ser lo suficientemente fuerte para forzar la puerta... . 
 ____TEXT____
-You managed to force your way through the door.
+Lograste entrar por la puerta a la fuerza. 
 ____TEXT____
-You don't seem to be strong enough to force the door open...
+No pareces ser lo suficientemente fuerte para forzar la puerta... . 
 ____TEXT____
-You managed to force your way through the door.
+Lograste entrar por la puerta a la fuerza. 
 ____TEXT____
-You don't seem to be strong enough to force the door open...
+No pareces ser lo suficientemente fuerte para forzar la puerta... . 
 ____TEXT____
-You try using \c[2]Small key\c[0].
+Intenta usar \c[2]Llave Pequeña\c[0].
 ____TEXT____
-You try melting the lock with \c[2]Red vial\c[0].
+Intenta disolver la cerradura con \c[2]Frasco rojo\c[0].
 ____TEXT____
-The door seems to be locked...
+La puerta parece cerrada con llave...
 ___CHOICE___
-Force the door
-Use \c[2]Red vial\c[0]
-Leave
+Forzar la puerta
+Utiliza \c[2]Frasco Rojo\c[0]
+Deja
 ____TEXT____
-You managed to force your way through the door.
+Lograste entrar por la puerta a la fuerza. 
 ____TEXT____
-You don't seem to be strong enough to force the door open...
+No pareces ser lo suficientemente fuerte para forzar la puerta... . 
 ____TEXT____
-You managed to force your way through the door.
+Lograste entrar por la puerta a la fuerza. 
 ____TEXT____
-You don't seem to be strong enough to force the door open...
+No pareces ser lo suficientemente fuerte para forzar la puerta... . 
 ____TEXT____
-You managed to force your way through the door.
+Lograste entrar por la puerta a la fuerza. 
 ____TEXT____
-You don't seem to be strong enough to force the door open...
+No pareces ser lo suficientemente fuerte para forzar la puerta... . 
 ____TEXT____
-You try melting the lock with \c[2]Red vial\c[0].
+Intenta disolver la cerradura con \c[2]Frasco rojo\c[0].
 ____TEXT____
-The door seems to be locked...
+La puerta parece cerrada con llave...
 ___CHOICE___
-Force the door
-Use \c[2]Small key\c[0]
-Leave it
+Forzar la puerta
+Utiliza \c[2]Llave Pequeña\c[0]
+Déjalo
 ____TEXT____
-You managed to force your way through the door.
+Lograste entrar por la puerta a la fuerza. 
 ____TEXT____
-You managed to force your way through the door.
+Lograste entrar por la puerta a la fuerza. 
 ____TEXT____
-You don't seem to be strong enough to force the door open...
+No pareces ser lo suficientemente fuerte para forzar la puerta... . 
 ____TEXT____
-You managed to force your way through the door.
+Lograste entrar por la puerta a la fuerza. 
 ____TEXT____
-You don't seem to be strong enough to force the door open...
+No pareces ser lo suficientemente fuerte para forzar la puerta... . 
 ____TEXT____
-You try using \c[2]Small key\c[0].
+Intenta usar \c[2]Llave pequeña\c[0].
 ____TEXT____
-The door seems to be locked...
+La puerta parece cerrada con llave...
 ___CHOICE___
-Force the door
-Leave it
+Forzar la puerta
+Déjalo
 ____TEXT____
-You managed to force your way through the door.
+Lograste entrar por la puerta a la fuerza. 
 ____TEXT____
-You don't seem to be strong enough to force the door open...
+No pareces ser lo suficientemente fuerte para forzar la puerta... . 
 ____TEXT____
-You managed to force your way through the door.
+Lograste entrar por la puerta a la fuerza. 
 ____TEXT____
-You don't seem to be strong enough to force the door open...
+No pareces ser lo suficientemente fuerte para forzar la puerta... . 
 ____TEXT____
-You managed to force your way through the door.
+Lograste entrar por la puerta a la fuerza. 
 ____TEXT____
-You don't seem to be strong enough to force the door open...
+No pareces ser lo suficientemente fuerte para forzar la puerta... . 
 ____TEXT____
-Use \c[2]Tinderbox\c[0] to light the candle?
+¿Usa el \c[2]Polvorín\c[0] para encender la vela?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-Use \c[2]Tinderbox\c[0] to light the candle?
+¿Usa el \c[2]Polvorín\c[0] para encender la vela?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-Use \c[2]Tinderbox\c[0] to light the candle?
+¿Usa el \c[2]Polvorín\c[0] para encender la vela?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-Use \c[2]Tinderbox\c[0] to light the candle?
+¿Usa el \c[2]Polvorín\c[0] para encender la vela?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-Awful smell comes from all the rotten meat on 
-the table! Plates are covered with maggots.
+Un olor horrible viene de toda la carne podrida en 
+la mesa. Los platos están cubiertos de gusanos.
 ____TEXT____
-It does make you wonder if someone actually eats this
-stuff. After all, why have them here otherwise?
+Te hace pensar si alguien realmente come estas
+cosas. Al fin de cuentas, ¿para qué tenerlas aquí si no?
 ___CHOICE___
-Take some
-Leave it
+Toma un poco
+Déjalo
 ____TEXT____
-You take some \c[2]Rotten meat\c[0] with you.
-It's soft and squishy, barely able to hold together.
+Te llevas un poco de \c[2]Carne podrida\c[0].
+Es suave y blanda, apenas capaz de mantenerse unida.
 ____TEXT____
-One of the maggots runs up your arm.
+Uno de los gusanos te sube por el brazo.
 ____TEXT____
-Awful smell comes from all the rotten meat on 
-the table! Plates are covered with maggots.
+Un olor horrible viene de toda la carne podrida en 
+la mesa. Los platos están cubiertos de gusanos.
 ____TEXT____
-It does make you wonder if someone actually eats this
-stuff. After all, why have them here otherwise?
+Te hace pensar si alguien realmente come estas
+cosas. Al fin de cuentas, ¿para qué tenerlas aquí si no?
 ____TEXT____
-Use \c[2]Tinderbox\c[0] to light the candle?
+¿Usa el \c[2]Polvorín\c[0] para encender la vela?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-You search the crate for anything useful...
+Buscas algo útil en la caja...
 ____TEXT____
-You find a \c[2]Glass vial\c[0]!
+¡Encuentras un \c[2]Frasco de vidrio\c[0]!
 ____TEXT____
-You find \c[2]Leather vest\c[0]!
+¡Encuentras un \c[2] Chaleco de piel\c[0]!
 ____TEXT____
-...But there seems to be nothing.
+...Pero parece que no hay nada.
 ____TEXT____
-The crate is searched already.
+La caja ya está buscada.
 ____TEXT____
-You search the crate for anything useful...
+Buscas algo útil en la caja...
 ____TEXT____
-Nothing left here.
+No queda nada aquí.
 ____TEXT____
-You search the crate for anything useful...
+Buscas algo útil en la caja...
 ____TEXT____
-Nothing left here.
+No queda nada aquí.
 ____TEXT____
-You search the crate for anything useful...
+Buscas algo útil en la caja...
 ____TEXT____
-You find an \c[2]Iron club\c[0]!
+¡Encuentras un \c[2]Palo de hierro\[0]!
 ____TEXT____
-You find a vial of \c[2]Blue liquid\c[0]!
+¡Encuentras un frasco de \c[2]Líquido azul\c[0]!
 ____TEXT____
-...But there seems to be nothing.
+...Pero parece que no hay nada.
 ____TEXT____
-The crate is searched already.
+La caja ya está buscada.
 ____TEXT____
-The hallway has collapsed here. Makes you wonder
-how the rest of this old fortress holds up...
+El pasillo se ha derrumbado aquí. Te hace pensar cómo se sostiene el resto de esta vieja fortaleza...
 ____TEXT____
-You could use \c[2]Explosive vial\c[0] here...
+Podrías usar \c[2]Frasco explosivo\c[0] aquí...
 ___CHOICE___
-Use \c[2]Explosive vial\c[0]
-Leave
+Utilizar el \c[2]Frasco explosivo\c[0]
+Deja
 ____TEXT____
-You search the barrel for anything useful...
+Buscas algo útil en el barril...
 ____TEXT____
-The barrel is searched already.
+El barril ya está escurcado.
 ____TEXT____
-The shelf has miscellaneous items.
+La estantería tiene varios artículos.
 ____TEXT____
-You decide to take a \c[2]Glass vial\c[0] with you.
-It seems like the most useful item here.
+Decides llevarte un \c[2]Frasco de vidrio\c[0].
+Parece el artículo más útil aquí.
 ____TEXT____
-You find 3 pieces of pocket \c[2]Tinderboxes\c[0]. 
-They must be useful in this ever-pressing darkness.
+Encuentras 3 piezas de bolsillo de \c[2]Polvorines\c[0]. 
+Deben ser útiles en esta oscuridad siempre apremiante.
 ____TEXT____
-Nothing especially useful here...
-BOOKSHELF
+No hay nada especialmente útil aquí...
+LIBRERO
 ____TEXT____
-Dusty old books fill the bookshelf.
-Some of them seem partly rotten and moldy.
+Libros viejos y empolvados llenan el librero.
+Algunos parecen parcialmente podridos y mohosos.
 ___CHOICE___
-Search
-Leave
+No queda nada en el cofre.
+Deja
 ___CHOICE___
-HEADS
-TAILS
+CABEZAS
+COLA
 ____TEXT____
-The book feels very special and has a hefty weight to it.
+El libro se siente muy especial y tiene un gran peso.
 ____TEXT____
-Like a siren's call, the book is calling to you. Its
-macabre leather coverings look irresistable.
+Como un canto de sirena, el libro te llama. Su
+macabras cubiertas de cuero parecen irresistibles.
 ____TEXT____
-You find nothing of interest.
-BOOKSHELF
+No encuentras nada de interés.
+LIBRERO
 ____TEXT____
-You already searched this bookshelf.
+Ya has buscado en este librero.
 ____TEXT____
-Use \c[2]Tinderbox\c[0] to light the candle?
+¿Usa el \c[2]Polvorín\c[0] para encender la vela?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-There is some black liquid seeping from the wall...
+Hay un líquido negro que se escapa de la pared...
 ___CHOICE___
-Touch it
-Scoop in glass vial
-Leave it
+Tócalo
+Recoge un poco en frasco de vidrio
+Déjalo
 ____TEXT____
-You touch the black liquid... \|
-You feel slight tingle in your finger tips.
+Tocas el líquido negro... \|
+Siente un cosquilla en las puntas de los dedos.
 ____TEXT____
-You carefully scoop some of the black matter into
-your glass vial.
+Recoges con cuidado un poco de la materia negra en
+su frasco de vidrio.
 ____TEXT____
-\c[2]Black Liquid\c[0] obtained!
+\¡C[2]Líquido negro[0] obtenido!
 ____TEXT____
-There is some black liquid seeping from the wall...
+Hay un líquido negro que se escapa de la pared...
 ___CHOICE___
-Touch it
-Leave it
+Tócalo
+Déjalo
 ____TEXT____
-You touch the black liquid... \|
-You feel slight tingle in your finger tips.
+Tocas el líquido negro... \|
+Siente un cosquilla en las puntas de los dedos.
 ____TEXT____
-There is some black liquid seeping from the wall...
+Hay un líquido negro que se escapa de la pared...
 ___CHOICE___
-Touch it
-Scoop in glass vial
-Leave it
+Tócalo
+Recoge un poco en frasco de vidrio
+Déjalo
 ____TEXT____
-You touch the black liquid... \|
-You feel slight tingle in your finger tips.
+Tocas el líquido negro... \|
+Siente un cosquilla en las puntas de los dedos.
 ____TEXT____
-You carefully scoop some of the black matter into
-your glass vial.
+Recoges con cuidado un poco de la materia negra en
+su frasco de vidrio.
 ____TEXT____
-\c[2]Black Liquid\c[0] obtained!
+\¡C[2]Líquido negro[0] obtenido!
 ____TEXT____
-There is some black liquid seeping from the wall...
+Hay un líquido negro que se escapa de la pared...
 ___CHOICE___
-Touch it
-Leave it
+Tócalo
+Déjalo
 ____TEXT____
-You touch the black liquid... \|
-You feel slight tingle in your finger tips.
+Tocas el líquido negro... \|
+Siente un cosquilla en las puntas de los dedos.
 ____TEXT____
-The shelf has miscellaneous items.
+La estantería tiene varios artículos.
 ____TEXT____
-You decide to take a \c[2]Glass vial\c[0] with you.
-It seems like the most useful item here.
+Decides llevarte un \c[2]Frasco de vidrio\c[0].
+Parece el artículo más útil aquí.
 ____TEXT____
-You find 3 pieces of pocket \c[2]Tinderboxes\c[0]. 
-They must be useful in this ever-pressing darkness.
+Encuentras 3 piezas de bolsillo de \c[2]Polvorines\c[0]. 
+Deben ser útiles en esta oscuridad siempre apremiante.
 ____TEXT____
-Nothing especially useful here...
+No hay nada especialmente útil aquí...
 ____TEXT____
-You search the crate for anything useful...
+Buscas algo útil en la caja...
 ____TEXT____
-Nothing left here.
+No queda nada aquí.
 ____TEXT____
-An old furnace. Smell of burnt flesh eminates from it.
+Un viejo horno. El olor a piel quemada sale de él.
 ____TEXT____
-You could light it up with a \c[2]Tinderbox\c[0].
+Podrías encenderlo con un \c[2]Polvorín\c[0].
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-The fire is burning hot in the furnace.
+El fuego arde en el horno.
 ____TEXT____
-Grill the \c[2]Salmonsnake meat\c[0]?
+¿Asa la carne de \c[2]Serpiente de salmón\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-Grill the \c[2]Raw meat\c[0]?
+¿Asa la \c[2]Carne cruda\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-An empty bucket.
+Una cubeta vacía.
 ____TEXT____
-A crude kitchen table with lots of scratch and cut
-marks. It's pretty tainted too.
+Una mesa de cocina tosca con muchas marcas de arañazos y cortes. Está bastante manchada también.
 ____TEXT____
-You find a bag of \c[2]Wheat flour\c[0]!
-There are some maggots crawling in the flour.
+¡Encuentras una bolsa de \c[2]harina integral\c[0]! Hay algunos gusanos rondando por la harina.
 ____TEXT____
-From the bottom shelf you find some \c[2]Dried meat\c[0]!
+¡De la estantería de abajo encuentras un poco de \c[2]Carne seca\c[0]!
 ____TEXT____
-There are three \c[2]3 Eggs\c[0] hidden in a basket!
+¡Hay tres \c[2]3 Huevos\c[0] escondidos en una canasta!
 ____TEXT____
-You've searched this place already.
+Ya has buscado en este lugar.
 ____TEXT____
-You search the bookshelf for anything useful...
+Buscas algo útil en el librero...
 ____TEXT____
-Nothing left here.
+No queda nada aquí.
 ____TEXT____
-You search the bookshelf for anything useful...
+Buscas algo útil en el librero...
 ____TEXT____
-Nothing left here.
+No queda nada aquí.
 ____TEXT____
-There is a skeleton here.
+Hay un esqueleto.
 ___CHOICE___
-Use \c[2]Necromancy\c[0]
-Leave
+Usa \c[2]Necromancia\c[0]
+Deja
 ____TEXT____
-Unfortunately your \c[2]Necromancy\c[0] is not
-strong enough yet to even try such feat...
+Desafortunadamente tu \c[2]Necromancia\c[0] no es lo suficientemente fuerte para intentar tal acto.
 ____TEXT____
-There is a skeleton here.
+Hay un esqueleto.
 ___CHOICE___
-Use \c[2]Necromancy\c[0]
-Leave
+Usa \c[2]Necromancia\c[0]
+Deja
 ____TEXT____
-Unfortunately your \c[2]Necromancy\c[0] is not
-strong enough yet to even try such feat...
+Desafortunadamente tu \c[2]Necromancia\c[0] no es lo suficientemente fuerte para intentar tal acto.
 ____TEXT____
-There is a skeleton here.
+Hay un esqueleto.
 ___CHOICE___
-Use \c[2]Necromancy\c[0]
-Leave
+Usa \c[2]Necromancia\c[0]
+Deja
 ____TEXT____
-Unfortunately your \c[2]Necromancy\c[0] is not
-strong enough yet to even try such feat...
+Desafortunadamente tu \c[2]Necromancia\c[0] no es lo suficientemente fuerte para intentar tal acto.
 ____TEXT____
-There is a skeleton here.
+Hay un esqueleto.
 ___CHOICE___
-Use \c[2]Necromancy\c[0]
-Leave
+Usa \c[2]Necromancia\c[0]
+Deja
 ____TEXT____
-Unfortunately your \c[2]Necromancy\c[0] is not
-strong enough yet to even try such feat...
+Desafortunadamente tu \c[2]Necromancia\c[0] no es lo suficientemente fuerte para intentar tal acto.
 ____TEXT____
-There is a skeleton here.
+Hay un esqueleto.
 ___CHOICE___
-Use \c[2]Necromancy\c[0]
-Leave
+Usa \c[2]Necromancia\c[0]
+Deja
 ____TEXT____
-Unfortunately your \c[2]Necromancy\c[0] is not
-strong enough yet to even try such feat...
+Desafortunadamente tu \c[2]Necromancia\c[0] no es lo suficientemente fuerte para intentar tal acto.
 ____TEXT____
-There is a skeleton here.
+Hay un esqueleto.
 ___CHOICE___
-Take it as a warning
-Feel superiority
+Tómalo como una advertencia
+Sentir superioridad
 ____TEXT____
-You feel more cautious.
+Te sientes más alerto.
 ____TEXT____
-You feel better about yourself.
-BOOKSHELF
+Te sientes mejor de ti mismo.
+LIBRERO
 ____TEXT____
-Dusty old books fill the bookshelf.
-Some of them seem partly rotten and moldy.
+Libros viejos y empolvados llenan el librero.
+Algunos parecen parcialmente podridos y mohosos.
 ___CHOICE___
-Search
-Leave
+Escurca
+Deja
 ___CHOICE___
-HEADS
-TAILS
+CABEZAS
+COLA
 ____TEXT____
-The book feels very special and has a hefty weight to it.
+El libro se siente muy especial y tiene un gran peso.
 ____TEXT____
-Like a siren's call, the book is calling to you. Its
-macabre leather coverings look irresistable.
+Como un canto de sirena, el libro te llama. Su
+macabras cubiertas de cuero parecen irresistibles.
 ____TEXT____
-You find nothing of interest.
-BOOKSHELF
+No encuentras nada de interés.
+LIBRERO
 ____TEXT____
-You already searched this bookshelf.
-BOOKSHELF
+Ya has buscado en este librero.
+LIBRERO
 ____TEXT____
-Dusty old books fill the bookshelf.
-Some of them seem partly rotten and moldy.
+Libros viejos y empolvados llenan el librero.
+Algunos parecen parcialmente podridos y mohosos.
 ___CHOICE___
-Search
-Leave
+Escurca
+Deja
 ___CHOICE___
-HEADS
-TAILS
+CABEZAS
+COLA
 ____TEXT____
-The book feels very special and has a hefty weight to it.
+El libro se siente muy especial y tiene un gran peso.
 ____TEXT____
-Like a siren's call, the book is calling to you. Its
-macabre leather coverings look irresistable.
+Como un canto de sirena, el libro te llama. Su
+macabras cubiertas de cuero parecen irresistibles.
 ____TEXT____
-You find nothing of interest.
-BOOKSHELF
+No encuentras nada de interés.
+LIBRERO
 ____TEXT____
-You already searched this bookshelf.
+Ya has buscado en este librero.
 ____TEXT____
-You search the bookshelf for anything useful...
+Buscas algo útil en el librero...
 ____TEXT____
-You find a \c[2]Mockup book\c[0]!
+¡Encuentras un \c[2]Libro de maquetas\c[0]!
 ____TEXT____
-You already searched this bookshelf.
+Ya has buscado en este librero.
 ____TEXT____
-You search the bookshelf for anything useful...
+Buscas algo útil en el librero...
 ____TEXT____
-You find a \c[2]Mockup book\c[0]!
+¡Encuentras un \c[2]Libro de maquetas\c[0]!
 ____TEXT____
-You already searched this bookshelf.
+Ya has buscado en este librero.
 ____TEXT____
-The hallway has collapsed here. Makes you wonder
-how the rest of this old fortress holds up...
+El pasillo se ha derrumbado aquí. Te hace pensar cómo se sostiene el resto de esta vieja fortaleza...
 ____TEXT____
-You could use \c[2]Explosive vial\c[0] here...
+Podrías usar \c[2]Frasco explosivo\c[0] aquí...
 ___CHOICE___
-Use \c[2]Explosive vial\c[0]
-Leave
+Utilizar el \c[2]Frasco explosivo\c[0]
+Deja
 ____TEXT____
-The hallway has collapsed here. Makes you wonder
-how the rest of this old fortress holds up...
+El pasillo se ha derrumbado aquí. Te hace pensar cómo se sostiene el resto de esta vieja fortaleza...
 ____TEXT____
-You could use \c[2]Explosive vial\c[0] here...
+Podrías usar \c[2]Frasco explosivo\c[0] aquí...
 ___CHOICE___
-Use \c[2]Explosive vial\c[0]
-Leave
+Utilizar el \c[2]Frasco explosivo\c[0]
+Deja
 ____TEXT____
-There is murky yellow liquid at the bottom 
-of the bucket.
+Hay un líquido amarillo turbio en el fondo del cubeta.
 ___CHOICE___
-Drink it
-Scoop in glass vial
-Leave it
+Bébelo
+Recoge un poco en frasco de vidrio
+Déjalo
 ____TEXT____
-You drink yellow liquid... \|
-The smell and taste of it is stingy and salty.
+Bebes el líquido amarillo... \|
+Su olor y su sabor son rancios y salados.
 ____TEXT____
-The taste does not please you.
+El sabor no te gusta.
 ____TEXT____
-You carefully scoop some of the yellow liquid into
-your glass vial.
+Con cuidado, recoges un poco del líquido amarillo en
+su frasco de vidrio.
 ____TEXT____
-\c[2]Gnome milk\c[0] obtained!
+¡\c[2]Leche de gnomo\c[0] obtenida!
 ____TEXT____
-There is murky yellow liquid at the bottom 
-of the bucket.
+Hay un líquido amarillo turbio en el fondo del cubeta.
 ___CHOICE___
-Drink it
-Leave it
+Bébelo
+Déjalo
 ____TEXT____
-You drink yellow liquid... \|
-The smell and taste of it is stingy and salty.
+Bebes el líquido amarillo... \|
+Su olor y su sabor son rancios y salados.
 ____TEXT____
-The taste does not please you.
+El sabor no te gusta.
 ____TEXT____
-Nothing interesting in the bucket.
+Nada interesante en la cubeta.
 ____TEXT____
-An empty bucket.
-CHEST
+Una cubeta vacía.
+COFRE
 ____TEXT____
-A sturdy chest. It doesn't seem to be locked.
+Un cofre robusto. No parece cerrado con llave.
 ___CHOICE___
-Open
-Leave
+Abre
+Deja
 ___CHOICE___
-HEADS
-TAILS
-CHEST
+CABEZAS
+COLA
+COFRE
 ____TEXT____
-There is nothing left in the chest anymore.
+No queda nada en el cofre.
 ____TEXT____
-There is a map showing distribution of
-army units on the table.
+Hay un mapa que muestra la distribución de
+fuerzas armadas sobre la mesa.
 ____TEXT____
-You find \c[2]Captain's orders\c[0] among the other
-documents and papers.
+Encuentras \c[2]Órdenes del capitán\c[0] entre los otros
+documentos y papeles.
 ____TEXT____
-You also find \c[2]4 Tinderboxes\c[0].
+También se encuentran \c[2]4 polvorines\c[0].
 ____TEXT____
-There is a map showing distribution of
-army units on the table.
+Hay un mapa que muestra la distribución de
+fuerzas armadas sobre la mesa.
 ____TEXT____
-You find a \c[2]List of inmates\c[0] among the other
-documents and papers.
+Encuentras una \c[2]Lista de presos\c[0] entre los otros
+documentos y papeles.
 ____TEXT____
-You also find \c[2]4 Tinderboxes\c[0].
+También se encuentran \c[2]4 polvorines\c[0].
 ____TEXT____
-There is a map showing distribution of
-army units on the table.
+Hay un mapa que muestra la distribución de
+fuerzas armadas sobre la mesa.
 ____TEXT____
-There isn't anything else interesting here
-anymore...
+No hay nada más interesante aquí
+ya...
 ____TEXT____
-There is a map showing distribution of
-army units on the table.
+Hay un mapa que muestra la distribución de
+fuerzas armadas sobre la mesa.
 ____TEXT____
-You find \c[2]Captain's orders\c[0] among the other
-documents and papers.
+Encuentras \c[2]Órdenes del capitán\c[0] entre los otros
+documentos y papeles.
 ____TEXT____
-You also find \c[2]4 Tinderboxes\c[0].
+También se encuentran \c[2]4 polvorines\c[0].
 ____TEXT____
-There is a map showing distribution of
-army units on the table.
+Hay un mapa que muestra la distribución de
+fuerzas armadas sobre la mesa.
 ____TEXT____
-You find a \c[2]List of inmates\c[0] among the other
-documents and papers.
+Encuentras una \c[2]Lista de presos\c[0] entre los otros
+documentos y papeles.
 ____TEXT____
-You also find \c[2]4 Tinderboxes\c[0].
+También se encuentran \c[2]4 polvorines\c[0].
 ____TEXT____
-There is a map showing distribution of
-army units on the table.
+Hay un mapa que muestra la distribución de
+fuerzas armadas sobre la mesa.
 ____TEXT____
-There isn't anything else interesting here
-anymore...
+No hay nada más interesante aquí
+ya...
 ____TEXT____
-There is a map showing distribution of
-army units on the table.
+Hay un mapa que muestra la distribución de
+fuerzas armadas sobre la mesa.
 ____TEXT____
-You find \c[2]Captain's orders\c[0] among the other
-documents and papers.
+Encuentras \c[2]Órdenes del capitán\c[0] entre los otros
+documentos y papeles.
 ____TEXT____
-You also find \c[2]4 Tinderboxes\c[0].
+También se encuentran \c[2]4 polvorines\c[0].
 ____TEXT____
-There is a map showing distribution of
-army units on the table.
+Hay un mapa que muestra la distribución de
+fuerzas armadas sobre la mesa.
 ____TEXT____
-You find a \c[2]List of inmates\c[0] among the other
-documents and papers.
+Encuentras una \c[2]Lista de presos\c[0] entre los otros
+documentos y papeles.
 ____TEXT____
-You also find \c[2]4 Tinderboxes\c[0].
+También se encuentran \c[2]4 polvorines\c[0].
 ____TEXT____
-There is a map showing distribution of
-army units on the table.
+Hay un mapa que muestra la distribución de
+fuerzas armadas sobre la mesa.
 ____TEXT____
-There isn't anything else interesting here
-anymore...
+No hay nada más interesante aquí
+ya...
 ____TEXT____
-There is a map showing distribution of
-army units on the table.
+Hay un mapa que muestra la distribución de
+fuerzas armadas sobre la mesa.
 ____TEXT____
-You find \c[2]Captain's orders\c[0] among the other
-documents and papers.
+Encuentras \c[2]Órdenes del capitán\c[0] entre los otros
+documentos y papeles.
 ____TEXT____
-You also find \c[2]4 Tinderboxes\c[0].
+También se encuentran \c[2]4 polvorines\c[0].
 ____TEXT____
-There is a map showing distribution of
-army units on the table.
+Hay un mapa que muestra la distribución de
+fuerzas armadas sobre la mesa.
 ____TEXT____
-You find a \c[2]List of inmates\c[0] among the other
-documents and papers.
+Encuentras una \c[2]Lista de presos\c[0] entre los otros
+documentos y papeles.
 ____TEXT____
-You also find \c[2]4 Tinderboxes\c[0].
+También se encuentran \c[2]4 polvorines\c[0].
 ____TEXT____
-There is a map showing distribution of
-army units on the table.
+Hay un mapa que muestra la distribución de
+fuerzas armadas sobre la mesa.
 ____TEXT____
-There isn't anything else interesting here
-anymore...
+No hay nada más interesante aquí
+ya...
 ____TEXT____
-There is a statue depicting the new gods here...
+Aquí hay una estatua que representa a los nuevos dioses...
 ____TEXT____
-Someone has written "Save us" here with blood.
+Alguien ha escrito "Sálvanos" aquí con sangre.
 ____TEXT____
-There is a guest book one the table,
-someone has written passages here:
+En la mesa hay un libro de visitantes,
+alguien ha escrito pasajes aquí:
 ____TEXT____
-"This nightmare has taken it's toll on me. I am
-devolving into a something far lesser than the man
-I once was."
+"Esta pesadilla me ha cobrado su precio. Me estoy
+convirtiéndome en algo inferior que el hombre
+que una vez fui".
 ____TEXT____
-"All the high morals and ethics have no value here.
-The things I've done to survive..."
+" Todas las altas morales y éticas no tienen valor aquí.
+Las cosas que he hecho para sobrevivir..."
 ____TEXT____
-"There is no place for a little miscreant like me in
-the warmth of the sun anymore. I am a part of these dungeons 
-now."
+"Ya no hay lugar para un miserable como yo en
+el luz del sol. Ahora soy parte de estas mazmorras 
+ahora".
 ____TEXT____
-"Part of this never-ending nightmare, just a one more
-cog in this machine of fear and hunger..."
+"Parte de esta pesadilla sin fin, sólo un mecanismo más...
+de esta máquina de miedo y hambre..."
 ____TEXT____
-"In a way I find it comforting. I have a definite place
-in this wicked world."
+"En un cierto sentido lo encuentro un alivio. Tengo un lugar definido
+en este mundo perverso".
 ____TEXT____
-"But I am writing this here as a warning for anyone
-who happens to step down to this darkness"
+"Pero estoy escribiendo esto aquí como una advertencia para cualquiera
+que baje a esta sombra"
 ____TEXT____
-"Do leave if it is still possible."
+"Váyanse si todavía es posible".
 ____TEXT____
-You find a small booklet under the guest book,
-you take the \c[2]Book of Fears\c[0] with you.
+Encuentras un pequeño cuaderno bajo el libro de visitantes,
+te llevas el \c[2]Libro de los Pesadillas\c[0] contigo.
 ____TEXT____
-There is a guest book one the table,
-someone has written passages here:
+En la mesa hay un libro de visitantes,
+alguien ha escrito pasajes aquí:
 ____TEXT____
-"This nightmare has taken it's toll on me. I am
-devolving into a something far lesser than the man
-I once was."
+"Esta pesadilla me ha cobrado su precio. Me estoy
+convirtiéndome en algo inferior que el hombre
+que una vez fui".
 ____TEXT____
-"All the high morals and ethics have no value here.
-The things I've done to survive..."
+" Todas las altas morales y éticas no tienen valor aquí.
+Las cosas que he hecho para sobrevivir..."
 ____TEXT____
-"There is no place for a little miscreant like me in
-the warmth of the sun anymore. I am a part of these dungeons 
-now."
+"Ya no hay lugar para un miserable como yo en
+el luz del sol. Ahora soy parte de estas mazmorras 
+ahora".
 ____TEXT____
-"Part of this never-ending nightmare, just a one more
-cog in this machine of fear and hunger..."
+"Parte de esta pesadilla sin fin, sólo un mecanismo más...
+de esta máquina de miedo y hambre..."
 ____TEXT____
-"In a way I find it comforting. I have a definite place
-in this wicked world."
+"En un cierto sentido lo encuentro un alivio. Tengo un lugar definido
+en este mundo perverso".
 ____TEXT____
-"But I am writing this here as a warning for anyone
-who happens to step down to this darkness"
+"Pero estoy escribiendo esto aquí como una advertencia para cualquiera
+que baje a esta sombra"
 ____TEXT____
-"Do leave if it is still possible."
+"Váyanse si todavía es posible".
 ____TEXT____
-There is a guest book one the table,
-someone has written passages here:
+En la mesa hay un libro de visitantes,
+alguien ha escrito pasajes aquí:
 ____TEXT____
-"This nightmare has taken it's toll on me. I am
-devolving into a something far lesser than the man
-I once was."
+"Esta pesadilla me ha cobrado su precio. Me estoy
+convirtiéndome en algo inferior que el hombre
+que una vez fui".
 ____TEXT____
-"All the high morals and ethics have no value here.
-The things I've done to survive..."
+" Todas las altas morales y éticas no tienen valor aquí.
+Las cosas que he hecho para sobrevivir..."
 ____TEXT____
-"There is no place for a little miscreant like me in
-the warmth of the sun anymore. I am a part of these dungeons 
-now."
+"Ya no hay lugar para un miserable como yo en
+el luz del sol. Ahora soy parte de estas mazmorras 
+ahora".
 ____TEXT____
-"Part of this never-ending nightmare, just a one more
-cog in this machine of fear and hunger..."
+"Parte de esta pesadilla sin fin, sólo un mecanismo más...
+de esta máquina de miedo y hambre..."
 ____TEXT____
-"In a way I find it comforting. I have a definite place
-in this wicked world."
+"En un cierto sentido lo encuentro un alivio. Tengo un lugar definido
+en este mundo perverso".
 ____TEXT____
-"But I am writing this here as a warning for anyone
-who happens to step down to this darkness"
+"Pero estoy escribiendo esto aquí como una advertencia para cualquiera
+que baje a esta sombra"
 ____TEXT____
-"Do leave if it is still possible."
+"Váyanse si todavía es posible".
 ____TEXT____
-You find a small booklet under the guest book,
-you take the \c[2]Book of Fears\c[0] with you.
+Encuentras un pequeño cuaderno bajo el libro de visitantes,
+te llevas el \c[2]Libro de los Pesadillas\c[0] contigo.
 ____TEXT____
-There is a guest book one the table,
-someone has written passages here:
+En la mesa hay un libro de visitantes,
+alguien ha escrito pasajes aquí:
 ____TEXT____
-"This nightmare has taken it's toll on me. I am
-devolving into a something far lesser than the man
-I once was."
+"Esta pesadilla me ha cobrado su precio. Me estoy
+convirtiéndome en algo inferior que el hombre
+que una vez fui".
 ____TEXT____
-"All the high morals and ethics have no value here.
-The things I've done to survive..."
+" Todas las altas morales y éticas no tienen valor aquí.
+Las cosas que he hecho para sobrevivir..."
 ____TEXT____
-"There is no place for a little miscreant like me in
-the warmth of the sun anymore. I am a part of these dungeons 
-now."
+"Ya no hay lugar para un miserable como yo en
+el luz del sol. Ahora soy parte de estas mazmorras 
+ahora".
 ____TEXT____
-"Part of this never-ending nightmare, just a one more
-cog in this machine of fear and hunger..."
+"Parte de esta pesadilla sin fin, sólo un mecanismo más...
+de esta máquina de miedo y hambre..."
 ____TEXT____
-"In a way I find it comforting. I have a definite place
-in this wicked world."
+"En un cierto sentido lo encuentro un alivio. Tengo un lugar definido
+en este mundo perverso".
 ____TEXT____
-"But I am writing this here as a warning for anyone
-who happens to step down to this darkness"
+"Pero estoy escribiendo esto aquí como una advertencia para cualquiera
+que baje a esta sombra"
 ____TEXT____
-"Do leave if it is still possible."
+"Váyanse si todavía es posible".
 ____TEXT____
-There is a guest book one the table,
-someone has written passages here:
+En la mesa hay un libro de visitantes,
+alguien ha escrito pasajes aquí:
 ____TEXT____
-"This nightmare has taken it's toll on me. I am
-devolving into a something far lesser than the man
-I once was."
+"Esta pesadilla me ha cobrado su precio. Me estoy
+convirtiéndome en algo inferior que el hombre
+que una vez fui".
 ____TEXT____
-"All the high morals and ethics have no value here.
-The things I've done to survive..."
+" Todas las altas morales y éticas no tienen valor aquí.
+Las cosas que he hecho para sobrevivir..."
 ____TEXT____
-"There is no place for a little miscreant like me in
-the warmth of the sun anymore. I am a part of these dungeons 
-now."
+"Ya no hay lugar para un miserable como yo en
+el luz del sol. Ahora soy parte de estas mazmorras 
+ahora".
 ____TEXT____
-"Part of this never-ending nightmare, just a one more
-cog in this machine of fear and hunger..."
+"Parte de esta pesadilla sin fin, sólo un mecanismo más...
+de esta máquina de miedo y hambre..."
 ____TEXT____
-"In a way I find it comforting. I have a definite place
-in this wicked world."
+"En un cierto sentido lo encuentro un alivio. Tengo un lugar definido
+en este mundo perverso".
 ____TEXT____
-"But I am writing this here as a warning for anyone
-who happens to step down to this darkness"
+"Pero estoy escribiendo esto aquí como una advertencia para cualquiera
+que baje a esta sombra"
 ____TEXT____
-"Do leave if it is still possible."
+"Váyanse si todavía es posible".
 ____TEXT____
-You find a small booklet under the guest book,
-you take the \c[2]Book of Fears\c[0] with you.
+Encuentras un pequeño cuaderno bajo el libro de visitantes,
+te llevas el \c[2]Libro de los Pesadillas\c[0] contigo.
 ____TEXT____
-There is a guest book one the table,
-someone has written passages here:
+En la mesa hay un libro de visitantes,
+alguien ha escrito pasajes aquí:
 ____TEXT____
-"This nightmare has taken it's toll on me. I am
-devolving into a something far lesser than the man
-I once was."
+"Esta pesadilla me ha cobrado su precio. Me estoy
+convirtiéndome en algo inferior que el hombre
+que una vez fui".
 ____TEXT____
-"All the high morals and ethics have no value here.
-The things I've done to survive..."
+" Todas las altas morales y éticas no tienen valor aquí.
+Las cosas que he hecho para sobrevivir..."
 ____TEXT____
-"There is no place for a little miscreant like me in
-the warmth of the sun anymore. I am a part of these dungeons 
-now."
+"Ya no hay lugar para un miserable como yo en
+el luz del sol. Ahora soy parte de estas mazmorras 
+ahora".
 ____TEXT____
-"Part of this never-ending nightmare, just a one more
-cog in this machine of fear and hunger..."
+"Parte de esta pesadilla sin fin, sólo un mecanismo más...
+de esta máquina de miedo y hambre..."
 ____TEXT____
-"In a way I find it comforting. I have a definite place
-in this wicked world."
+"En un cierto sentido lo encuentro un alivio. Tengo un lugar definido
+en este mundo perverso".
 ____TEXT____
-"But I am writing this here as a warning for anyone
-who happens to step down to this darkness"
+"Pero estoy escribiendo esto aquí como una advertencia para cualquiera
+que baje a esta sombra"
 ____TEXT____
-"Do leave if it is still possible."
+"Váyanse si todavía es posible".
 ____TEXT____
-There is a guest book one the table,
-someone has written passages here:
+En la mesa hay un libro de visitantes,
+alguien ha escrito pasajes aquí:
 ____TEXT____
-"This nightmare has taken it's toll on me. I am
-devolving into a something far lesser than the man
-I once was."
+"Esta pesadilla me ha cobrado su precio. Me estoy
+convirtiéndome en algo inferior que el hombre
+que una vez fui".
 ____TEXT____
-"All the high morals and ethics have no value here.
-The things I've done to survive..."
+" Todas las altas morales y éticas no tienen valor aquí.
+Las cosas que he hecho para sobrevivir..."
 ____TEXT____
-"There is no place for a little miscreant like me in
-the warmth of the sun anymore. I am a part of these dungeons 
-now."
+"Ya no hay lugar para un miserable como yo en
+el luz del sol. Ahora soy parte de estas mazmorras 
+ahora".
 ____TEXT____
-"Part of this never-ending nightmare, just a one more
-cog in this machine of fear and hunger..."
+"Parte de esta pesadilla sin fin, sólo un mecanismo más...
+de esta máquina de miedo y hambre..."
 ____TEXT____
-"In a way I find it comforting. I have a definite place
-in this wicked world."
+"En un cierto sentido lo encuentro un alivio. Tengo un lugar definido
+en este mundo perverso".
 ____TEXT____
-"But I am writing this here as a warning for anyone
-who happens to step down to this darkness"
+"Pero estoy escribiendo esto aquí como una advertencia para cualquiera
+que baje a esta sombra"
 ____TEXT____
-"Do leave if it is still possible."
+"Váyanse si todavía es posible".
 ____TEXT____
-You find a small booklet under the guest book,
-you take the \c[2]Book of Fears\c[0] with you.
+Encuentras un pequeño cuaderno bajo el libro de visitantes,
+te llevas el \c[2]Libro de los Pesadillas\c[0] contigo.
 ____TEXT____
-There is a guest book one the table,
-someone has written passages here:
+En la mesa hay un libro de visitantes,
+alguien ha escrito pasajes aquí:
 ____TEXT____
-"This nightmare has taken it's toll on me. I am
-devolving into a something far lesser than the man
-I once was."
+"Esta pesadilla me ha cobrado su precio. Me estoy
+convirtiéndome en algo inferior que el hombre
+que una vez fui".
 ____TEXT____
-"All the high morals and ethics have no value here.
-The things I've done to survive..."
+" Todas las altas morales y éticas no tienen valor aquí.
+Las cosas que he hecho para sobrevivir..."
 ____TEXT____
-"There is no place for a little miscreant like me in
-the warmth of the sun anymore. I am a part of these dungeons 
-now."
+"Ya no hay lugar para un miserable como yo en
+el luz del sol. Ahora soy parte de estas mazmorras 
+ahora".
 ____TEXT____
-"Part of this never-ending nightmare, just a one more
-cog in this machine of fear and hunger..."
+"Parte de esta pesadilla sin fin, sólo un mecanismo más...
+de esta máquina de miedo y hambre..."
 ____TEXT____
-"In a way I find it comforting. I have a definite place
-in this wicked world."
+"En un cierto sentido lo encuentro un alivio. Tengo un lugar definido
+en este mundo perverso".
 ____TEXT____
-"But I am writing this here as a warning for anyone
-who happens to step down to this darkness"
+"Pero estoy escribiendo esto aquí como una advertencia para cualquiera
+que baje a esta sombra"
 ____TEXT____
-"Do leave if it is still possible."
+"Váyanse si todavía es posible".
 ____TEXT____
-Someone has written notes here:
+Alguien escribió notas aquí:
 ____TEXT____
-"Death is the answer."
+"La muerte es la solución".
 ____TEXT____
-Someone has written notes here:
+Alguien escribió notas aquí:
 ____TEXT____
-"Death is the answer."
+"La muerte es la solución".
 ____TEXT____
-Someone has written notes here:
+Alguien escribió notas aquí:
 ____TEXT____
-"Death is the answer."
+"La muerte es la solución".
 ____TEXT____
-A rotten barrel...
+Un barril podrido...
 ____TEXT____
-A rotten barrel...
+Un barril podrido...
 ____TEXT____
-Create a \c[2]Blood portal\c[0]?
+¿Crear un \c[2]Portal de sangre\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-The girl was killed here already.
+Ya mataron a la niña aquí.
 ____TEXT____
-Create a \c[2]Blood portal\c[0]?
+¿Crear un \c[2]Portal de sangre\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-Your child was killed here.
+Aquí mataron a su hijo.
 ____TEXT____
-Create a \c[2]Blood portal\c[0]?
+¿Crear un \c[2]Portal de sangre\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-A ghoul was killed here already.
+Mataron a un ghoul aquí ya.
 ____TEXT____
-Create a \c[2]Blood portal\c[0]?
+¿Crear un \c[2]Portal de sangre\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-\N[7] was killed here already.
+\N[7] estaba matado aquí ya.
 ____TEXT____
-Create a \c[2]Blood portal\c[0]?
+¿Crear un \c[2]Portal de sangre\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-Things didn't go as planned...
+Las cosas no salieron según lo planeado...
 ____TEXT____
-Things didn't go as planned...
+Las cosas no salieron según lo planeado...
 ____TEXT____
-Things didn't go as planned...
+Las cosas no salieron según lo planeado...
 ____TEXT____
-Things didn't go as planned...
+Las cosas no salieron según lo planeado...
 ____TEXT____
-Things didn't go as planned...
+Las cosas no salieron según lo planeado...
 ____TEXT____
-Things didn't go as planned...
+Las cosas no salieron según lo planeado...
 ____TEXT____
-Things didn't go as planned...
+Las cosas no salieron según lo planeado...
 ____TEXT____
-Things didn't go as planned...
+Las cosas no salieron según lo planeado...
 ____TEXT____
-Things didn't go as planned...
+Las cosas no salieron según lo planeado...
 ____TEXT____
-Things didn't go as planned...
+Las cosas no salieron según lo planeado...
 ____TEXT____
-Things didn't go as planned...
+Las cosas no salieron según lo planeado...
 ____TEXT____
-Things didn't go as planned...
+Las cosas no salieron según lo planeado...
 ____TEXT____
-Things didn't go as planned...
+Las cosas no salieron según lo planeado...
 ____TEXT____
-This ritual circle is exhausted already.
+Este círculo ritual ya está gastado.
 ____TEXT____
-Create a \c[2]Blood portal\c[0]?
+¿Crear un \c[2]Portal de sangre\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-A skeleton was killed here already.
+Ya mataron a un esqueleto aquí.
 ____TEXT____
-Create a \c[2]Blood portal\c[0]?
+¿Crear un \c[2]Portal de sangre\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-Awful smell comes from all the rotten meat on 
-the table! Plates are covered with maggots.
+Un olor horrible viene de toda la carne podrida en 
+la mesa. Los platos están cubiertos de gusanos.
 ____TEXT____
-It does make you wonder if someone actually eats this
-stuff. After all, why have them here otherwise?
+Te hace pensar si alguien realmente come estas
+cosas. Al fin de cuentas, ¿para qué tenerlas aquí si no?
 ___CHOICE___
-Take some
-Leave it
+Toma un poco
+Déjalo
 ____TEXT____
-You take some \c[2]Rotten meat\c[0] with you.
-It's soft and squishy, barely able to hold together.
+Te llevas un poco de \c[2]Carne podrida\c[0].
+Es suave y blanda, apenas capaz de mantenerse unida.
 ____TEXT____
-One of the maggots runs up your arm.
+Uno de los gusanos te sube por el brazo.
 ____TEXT____
-Awful smell comes from all the rotten meat on 
-the table! Plates are covered with maggots.
+Un olor horrible viene de toda la carne podrida en 
+la mesa. Los platos están cubiertos de gusanos.
 ____TEXT____
-It does make you wonder if someone actually eats this
-stuff. After all, why have them here otherwise?
+Te hace pensar si alguien realmente come estas
+cosas. Al fin de cuentas, ¿para qué tenerlas aquí si no?
 ____TEXT____
-\c[7]Thin creature\c[0]
-"L-leave me be, please."
+\c[7]Criatura delgada\c[0]
+"D-déjame en paz, por favor."
 ____TEXT____
-\c[7]Thin creature\c[0]
-"I'm turning into a butterfly!"
+\c[7]Criatura delgada\c[0]
+"¡Me estoy convirtiendo en una mariposa!"
 ___CHOICE___
-Attack
-Talk
-Leave
+Ataque
+Hable
+Deja
 ____TEXT____
-\c[7]Thin creature\c[0]
-"L-listen, I'm not asking much..."
+\c[7]Criatura delgada\c[0]
+" E-escucha, no estoy pidiendo mucho... "
 ____TEXT____
-\c[7]Thin creature\c[0]
-"Just let me turn into butterfly."
+\c[7]Criatura delgada\c[0]
+"Deja que me convierta en mariposa".
 ____TEXT____
-\c[7]Thin creature\c[0]
-"I'm going to be a pretty butterfly!"
+\c[7]Criatura delgada\c[0]
+"¡Seré una bonita mariposa!"
 ____TEXT____
-The creature is slain.
+La criatura ha sido asesinada.
 ____TEXT____
-There seems to be a little girl inside the cage...
-She is hiding her face from you.
+Parece que hay una niña dentro de la jaula...
+Se esconde la cara.
 ____TEXT____
-You could open the cage door with \c[2]Lockpicking\c[0].
+Podrías abrir la puerta de la jaula con \c[2]Ganzúa\c[0].
 ___CHOICE___
-Use \c[2]Lockpicking\c[0]
-Don't
+Usar \c[2]Ganzúa\c[0]
+No lo haces.
 ____TEXT____
-The girl is staying quiet...
+La niña se queda callada...
 ____TEXT____
-Unfortunately your party is already full.
+Desgraciadamente tu grupo ya está lleno.
 ____TEXT____
-What do you want to do?
+¿Qué quieres hacer?
 ___CHOICE___
-Open the cage
-Talk
-Use \c[2]Red vial\c[0]
-Leave
+Abre la jaula
+Hable
+Utiliza \c[2]Frasco Rojo\c[0]
+Deja
 ____TEXT____
-The cage is locked.
+La jaula está cerrada con llave.
 ___CHOICE___
-Use \c[2]Small key\c[0]
-Leave
+Utiliza \c[2]Llave Pequeña\c[0]
+Deja
 ____TEXT____
-The girl is staying quiet...
+La niña se queda callada...
 ____TEXT____
-Unfortunately your party is already full.
+Desgraciadamente tu grupo ya está lleno.
 ____TEXT____
-The cage is locked.
+La jaula está cerrada con llave.
 ____TEXT____
-\c[7]Girl\c[0]
+\c[7]Niña\c[0]
 "*sob* *sob*"
 ___CHOICE___
-"Are you okay?"
-"Are you a monster?"
-Leave
+"¿Estás bien?"
+"¿Eres un monstruo?"
+Deja
 ____TEXT____
-She doesn't respond.
+No contesta.
 ____TEXT____
-She doesn't respond.
+No contesta.
 ____TEXT____
-The girl is staying quiet...
+La niña se queda callada...
 ____TEXT____
-Unfortunately your party is already full.
+Desgraciadamente tu grupo ya está lleno.
 ____TEXT____
-What do you want to do?
+¿Qué quieres hacer?
 ___CHOICE___
-Open the cage
-Talk
-Leave
+Abre la jaula
+Hable
+Deja
 ____TEXT____
-The cage is locked.
+La jaula está cerrada con llave.
 ___CHOICE___
-Use \c[2]Small key\c[0]
-Leave
+Utiliza \c[2]Llave Pequeña\c[0]
+Deja
 ____TEXT____
-The girl is staying quiet...
+La niña se queda callada...
 ____TEXT____
-Unfortunately your party is already full.
+Desgraciadamente tu grupo ya está lleno.
 ____TEXT____
-The cage is locked.
+La jaula está cerrada con llave.
 ____TEXT____
-\c[7]Girl\c[0]
+\c[7]Niña\c[0]
 "*sob* *sob*"
 ___CHOICE___
-"Are you okay?"
-"Are you a monster?"
-Leave
+"¿Estás bien?"
+"¿Eres un monstruo?"
+Deja
 ____TEXT____
-She doesn't respond.
+No contesta.
 ____TEXT____
-She doesn't respond.
+No contesta.
 ____TEXT____
-There seems to be a little girl inside the cage...
-She is hiding her face from you.
+Parece que hay una niña dentro de la jaula...
+Se esconde la cara.
 ____TEXT____
-You could open the cage door with \c[2]Lockpicking\c[0].
+Podrías abrir la puerta de la jaula con \c[2]Ganzúa\c[0].
 ___CHOICE___
-Use \c[2]Lockpicking\c[0]
-Don't
+Usar \c[2]Ganzúa\c[0]
+No lo haces.
 ____TEXT____
-The girl is staying quiet...
+La niña se queda callada...
 ____TEXT____
-Unfortunately your party is already full.
+Desgraciadamente tu grupo ya está lleno.
 ____TEXT____
-What do you want to do?
+¿Qué quieres hacer?
 ___CHOICE___
-Open the cage
-Talk
-Use \c[2]Red vial\c[0]
-Leave
+Abre la jaula
+Hable
+Utiliza \c[2]Frasco Rojo\c[0]
+Deja
 ____TEXT____
-The cage is locked.
+La jaula está cerrada con llave.
 ___CHOICE___
-Use \c[2]Small key\c[0]
-Leave
+Utiliza \c[2]Llave Pequeña\c[0]
+Deja
 ____TEXT____
-The girl is staying quiet...
+La niña se queda callada...
 ____TEXT____
-Unfortunately your party is already full.
+Desgraciadamente tu grupo ya está lleno.
 ____TEXT____
-The cage is locked.
+La jaula está cerrada con llave.
 ____TEXT____
-\c[7]Girl\c[0]
+\c[7]Niña\c[0]
 "*sob* *sob*"
 ___CHOICE___
-"Are you okay?"
-"Are you a monster?"
-Leave
+"¿Estás bien?"
+"¿Eres un monstruo?"
+Deja
 ____TEXT____
-She doesn't respond.
+No contesta.
 ____TEXT____
-She doesn't respond.
+No contesta.
 ____TEXT____
-The girl is staying quiet...
+La niña se queda callada...
 ____TEXT____
-Unfortunately your party is already full.
+Desgraciadamente tu grupo ya está lleno.
 ____TEXT____
-What do you want to do?
+¿Qué quieres hacer?
 ___CHOICE___
-Open the cage
-Talk
-Leave
+Abre la jaula
+Hable
+Deja
 ____TEXT____
-The cage is locked.
+La jaula está cerrada con llave.
 ___CHOICE___
-Use \c[2]Small key\c[0]
-Leave
+Utiliza \c[2]Llave Pequeña\c[0]
+Deja
 ____TEXT____
-The girl is staying quiet...
+La niña se queda callada...
 ____TEXT____
-Unfortunately your party is already full.
+Desgraciadamente tu grupo ya está lleno.
 ____TEXT____
-The cage is locked.
+La jaula está cerrada con llave.
 ____TEXT____
-\c[7]Girl\c[0]
+\c[7]Niña\c[0]
 "*sob* *sob*"
 ___CHOICE___
-"Are you okay?"
-"Are you a monster?"
-Leave
+"¿Estás bien?"
+"¿Eres un monstruo?"
+Deja
 ____TEXT____
-She doesn't respond.
+No contesta.
 ____TEXT____
-She doesn't respond.
-<follower touch>
-<follower touch>
-<follower touch>
-<follower touch>
-<follower touch>
-<follower touch>
-<follower touch>
+No contesta.
+<seguidor toque>
+<seguidor toque>
+<seguidor toque>
+<seguidor toque>
+<seguidor toque>
+<seguidor toque>
+<seguidor toque>
 ____TEXT____
-You could use \c[2]Soul stone\c[0] here...
+Podrías usar \c[2]Piedra del alma\c[0] aquí...
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-The \c[2]Soul stone\c[0] changed it's appearance.
-The stone is radiating faint blue light.
+La \c[2]Piedra del alma\c[0] ha cambiado de apariencia.
 ____TEXT____
-You could \c[2]Devour\c[0] the remains of the dead guard.
+Podrías \c[2]Devorar\c[0] los restos del guardia muerto.
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-You devoured the remains.
+Has devorado los restos.
 ____TEXT____
-You could use \c[2]Demon seed\c[0] on the dead guard.
+Podrías usar \c[2]Semilla demoníaca\c[0] al guardia muerto.
 ___CHOICE___
-Use 
+Utiliza 
 No
 ____TEXT____
-A baby sprouted out of your seed!
+¡Un bebé brotó de tu semilla!
 ____TEXT____
-You take the baby with you.
+Te llevas al bebé contigo.
 ____TEXT____
-You do not have enough sanity to perform this act.
+No tienes suficiente sanidad para hacer ese acto.
 ____TEXT____
-The monstrosity is down...
+La monstruosidad se ha caído....
 ___CHOICE___
-Beat him
-Search him
-Skin him
-Leave him
+Golpearlo
+Escurcarlo
+Despellejarlo
+Déjalo
 ____TEXT____
-No reaction. But it is satisfying.
+No reacciona. Pero es una gran satisfacción.
 ____TEXT____
-You took \c[2]Guard skin\c[0]!
+¡Tomaste \c[2]Piel de guardia\c[0]
 ____TEXT____
-The monstrosity is down...
+La monstruosidad se ha caído....
 ___CHOICE___
-Beat him
-Search him
-Leave him
+Golpearlo
+Escurcarlo
+Déjalo
 ____TEXT____
-No reaction. But it is satisfying.
+No reacciona. Pero es una gran satisfacción.
 ____TEXT____
-You could use \c[2]Soul stone\c[0] here...
+Podrías usar \c[2]Piedra del alma\c[0] aquí...
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-The \c[2]Soul stone\c[0] changed it's appearance.
-The stone is radiating faint blue light.
+La \c[2]Piedra del alma\c[0] ha cambiado de apariencia.
 ____TEXT____
-You could \c[2]Devour\c[0] the remains of the dead guard.
+Podrías \c[2]Devorar\c[0] los restos del guardia muerto.
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-You devoured the remains.
+Has devorado los restos.
 ____TEXT____
-You could use \c[2]Demon seed\c[0] on the dead guard.
+Podrías usar \c[2]Semilla demoníaca\c[0] al guardia muerto.
 ___CHOICE___
-Use 
+Utiliza 
 No
 ____TEXT____
-A baby sprouted out of your seed!
+¡Un bebé brotó de tu semilla!
 ____TEXT____
-You take the baby with you.
+Te llevas al bebé contigo.
 ____TEXT____
-You do not have enough sanity to perform this act.
+No tienes suficiente sanidad para hacer ese acto.
 ____TEXT____
-The monstrosity is down...
+La monstruosidad se ha caído....
 ___CHOICE___
-Beat him
-Search him
-Skin him
-Leave him
+Golpearlo
+Escurcarlo
+Despellejarlo
+Déjalo
 ____TEXT____
-No reaction. But it is satisfying.
+No reacciona. Pero es una gran satisfacción.
 ____TEXT____
-You already searched him.
+Ya lo has escurcado.
 ____TEXT____
-You took \c[2]Guard skin\c[0]!
+¡Tomaste \c[2]Piel de guardia\c[0]
 ____TEXT____
-The monstrosity is down...
+La monstruosidad se ha caído....
 ___CHOICE___
-Beat him
-Search him
-Leave him
+Golpearlo
+Escurcarlo
+Déjalo
 ____TEXT____
-No reaction. But it is satisfying.
+No reacciona. Pero es una gran satisfacción.
 ____TEXT____
-You already searched him.
+Ya lo has escurcado.
 ____TEXT____
-You could use \c[2]Soul stone\c[0] here...
+Podrías usar \c[2]Piedra del alma\c[0] aquí...
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-The \c[2]Soul stone\c[0] changed it's appearance.
-The stone is radiating faint blue light.
+La \c[2]Piedra del alma\c[0] ha cambiado de apariencia.
 ____TEXT____
-A pile of flesh remains here...
-<follower touch>
-<follower touch>
-<follower touch>
-<follower touch>
-<follower touch>
-<follower touch>
-<follower touch>
+Aquí queda un rastro de cadáver...
+<seguidor toque>
+<seguidor toque>
+<seguidor toque>
+<seguidor toque>
+<seguidor toque>
+<seguidor toque>
+<seguidor toque>
 ____TEXT____
-You could use \c[2]Soul stone\c[0] here...
+Podrías usar \c[2]Piedra del alma\c[0] aquí...
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-The \c[2]Soul stone\c[0] changed it's appearance.
-The stone is radiating faint blue light.
+La \c[2]Piedra del alma\c[0] ha cambiado de apariencia.
 ____TEXT____
-You could \c[2]Devour\c[0] the remains of the dead ghoul.
+Podrías \c[2]Devorar\c[0] los restos del ghoul muerto.
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-You devoured the remains.
+Has devorado los restos.
 ____TEXT____
-You could use \c[2]Demon seed\c[0] on the dead ghoul.
+Podrías usar la \c[2]Semilla demoníaca\c[0] en el ghoul muerto.
 ___CHOICE___
-Use 
+Utiliza 
 No
 ____TEXT____
-A baby sprouted out of your seed!
+¡Un bebé brotó de tu semilla!
 ____TEXT____
-You take the baby with you.
+Te llevas al bebé contigo.
 ____TEXT____
-You do not have enough sanity to perform this act.
+No tienes suficiente sanidad para hacer ese acto.
 ____TEXT____
-You could use \c[2]Necromancy\c[0] on the dead prisoner.
+Podrías usar \c[2]Necromancia\c[0] en el prisionero muerto.
 ___CHOICE___
-Use \c[2]Necromancy\c[0]
-Leave
+Usa \c[2]Necromancia\c[0]
+Deja
 ____TEXT____
-There is no room in your party for new ghouls!
+¡No hay espacio en tu grupo para nuevos ghouls!
 ____TEXT____
-\c[2]Necromancy\c[0] was successful!
+\c[2]¡Necromancia\c[0] se logró!
 ____TEXT____
-Give a name to your new ghoul!
+¡Ponle nombre a tu nuevo ghoul!
 ____TEXT____
-\N[17] doesn't seem to remember his past life 
-and seems to be confused about life.
+\N[17] Parece que no recuerda su vida pasada... 
+y parece estar confundido acerca de la vida.
 ____TEXT____
-Shamelessly he scratches his groin area.
-Necromancy
+Sin vergüenza se rasca la región genital.
+Necromancia
 ___CHOICE___
-HEADS
-TAILS
+CABEZAS
+COLA
 ____TEXT____
-\c[2]Necromancy\c[0] was successful!
+\c[2]¡Necromancia\c[0] se logró!
 ____TEXT____
-Give a name to your new ghoul!
+¡Ponle nombre a tu nuevo ghoul!
 ____TEXT____
-\N[17] doesn't seem to remember his past life 
-and seems to be confused about life.
+\N[17] Parece que no recuerda su vida pasada... 
+y parece estar confundido acerca de la vida.
 ____TEXT____
-Shamelessly he scratches his groin area.
+Sin vergüenza se rasca la región genital.
 ____TEXT____
-\c[2]Necromancy\c[0] failed!
-Necromancy
+\c[2]Necromancia\c[0] falló
+Necromancia
 ____TEXT____
-You could use \c[2]Necromancy\c[0] on the dead prisoner.
+Podrías usar \c[2]Necromancia\c[0] en el prisionero muerto.
 ___CHOICE___
-Use \c[2]Necromancy\c[0]
-Leave
+Usa \c[2]Necromancia\c[0]
+Deja
 ____TEXT____
-You don't have enough sanity to perform such actions.
+No tienes suficiente sanidad para hacer tales acciones.
 ____TEXT____
-What do you want to do with the body?
+¿Qué quieres hacer con el cuerpo?
 ___CHOICE___
-Beat him
-Search him
-Skin him
-Leave him
+Golpearlo
+Escurcarlo
+Despellejarlo
+Déjalo
 ____TEXT____
-You beat it's boney body.
+Golpeas su cuerpo huesudo.
 ____TEXT____
-Prisoner has nothing of value.
+El prisionero no tiene nada de valor.
 ____TEXT____
-You took \c[2]Pale skin\c[0]!
+¡Tomaste \c[2]Piel pálida\c[0]!
 ____TEXT____
-What do you want to do with the body?
+¿Qué quieres hacer con el cuerpo?
 ___CHOICE___
-Beat him
-Search him
-Leave him
+Golpearlo
+Escurcarlo
+Déjalo
 ____TEXT____
-You beat it's boney body.
+Golpeas su cuerpo huesudo.
 ____TEXT____
-Prisoner has nothing of value.
+El prisionero no tiene nada de valor.
 ____TEXT____
-You could use \c[2]Soul stone\c[0] here...
+Podrías usar \c[2]Piedra del alma\c[0] aquí...
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-The \c[2]Soul stone\c[0] changed it's appearance.
-The stone is radiating faint blue light.
+La \c[2]Piedra del alma\c[0] ha cambiado de apariencia.
 ____TEXT____
-You could \c[2]Devour\c[0] the remains of the dead ghoul.
+Podrías \c[2]Devorar\c[0] los restos del ghoul muerto.
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-You devoured the remains.
+Has devorado los restos.
 ____TEXT____
-You could use \c[2]Demon seed\c[0] on the dead ghoul.
+Podrías usar la \c[2]Semilla demoníaca\c[0] en el ghoul muerto.
 ___CHOICE___
-Use 
+Utiliza 
 No
 ____TEXT____
-A baby sprouted out of your seed!
+¡Un bebé brotó de tu semilla!
 ____TEXT____
-You take the baby with you.
+Te llevas al bebé contigo.
 ____TEXT____
-You do not have enough sanity to perform this act.
+No tienes suficiente sanidad para hacer ese acto.
 ____TEXT____
-You could use \c[2]Necromancy\c[0] on the dead prisoner.
+Podrías usar \c[2]Necromancia\c[0] en el prisionero muerto.
 ___CHOICE___
-Use \c[2]Necromancy\c[0]
-Leave
+Usa \c[2]Necromancia\c[0]
+Deja
 ____TEXT____
-There is no room in your party for new ghouls!
+¡No hay espacio en tu grupo para nuevos ghouls!
 ____TEXT____
-\c[2]Necromancy\c[0] was successful!
+\c[2]¡Necromancia\c[0] se logró!
 ____TEXT____
-Give a name to your new ghoul!
+¡Ponle nombre a tu nuevo ghoul!
 ____TEXT____
-\N[17] doesn't seem to remember his past life 
-and seems to be confused about life.
+\N[17] Parece que no recuerda su vida pasada... 
+y parece estar confundido acerca de la vida.
 ____TEXT____
-Shamelessly he scratches his groin area.
-Necromancy
+Sin vergüenza se rasca la región genital.
+Necromancia
 ___CHOICE___
-HEADS
-TAILS
+CABEZAS
+COLA
 ____TEXT____
-\c[2]Necromancy\c[0] was successful!
+\c[2]¡Necromancia\c[0] se logró!
 ____TEXT____
-Give a name to your new ghoul!
+¡Ponle nombre a tu nuevo ghoul!
 ____TEXT____
-\N[17] doesn't seem to remember his past life 
-and seems to be confused about life.
+\N[17] Parece que no recuerda su vida pasada... 
+y parece estar confundido acerca de la vida.
 ____TEXT____
-Shamelessly he scratches his groin area.
+Sin vergüenza se rasca la región genital.
 ____TEXT____
-\c[2]Necromancy\c[0] failed!
-Necromancy
+\c[2]Necromancia\c[0] falló
+Necromancia
 ____TEXT____
-You could use \c[2]Necromancy\c[0] on the dead prisoner.
+Podrías usar \c[2]Necromancia\c[0] en el prisionero muerto.
 ___CHOICE___
-Use \c[2]Necromancy\c[0]
-Leave
+Usa \c[2]Necromancia\c[0]
+Deja
 ____TEXT____
-You don't have enough sanity to perform such actions.
+No tienes suficiente sanidad para hacer tales acciones.
 ____TEXT____
-What do you want to do with the body?
+¿Qué quieres hacer con el cuerpo?
 ___CHOICE___
-Beat him
-Search him
-Skin him
-Leave him
+Golpearlo
+Escurcarlo
+Despellejarlo
+Déjalo
 ____TEXT____
-You beat it's boney body.
+Golpeas su cuerpo huesudo.
 ____TEXT____
-You already searched him.
+Ya lo has escurcado.
 ____TEXT____
-You took \c[2]Pale skin\c[0]!
+¡Tomaste \c[2]Piel pálida\c[0]!
 ____TEXT____
-What do you want to do with the body?
+¿Qué quieres hacer con el cuerpo?
 ___CHOICE___
-Beat him
-Search him
-Leave him
+Golpearlo
+Escurcarlo
+Déjalo
 ____TEXT____
-You beat it's boney body.
+Golpeas su cuerpo huesudo.
 ____TEXT____
-You already searched him.
+Ya lo has escurcado.
 ____TEXT____
-You could use \c[2]Soul stone\c[0] here...
+Podrías usar \c[2]Piedra del alma\c[0] aquí...
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-The \c[2]Soul stone\c[0] changed it's appearance.
-The stone is radiating faint blue light.
+La \c[2]Piedra del alma\c[0] ha cambiado de apariencia.
 ____TEXT____
-A pile of flesh remains here...
+Aquí queda un rastro de cadáver...
 ____TEXT____
-Miscellaneous food ingredients in various states
-of rot.
+Varios ingredientes de comida en varios estados
+de putrefacción.
 ____TEXT____
-Nothing left here.
+No queda nada aquí.
 ____TEXT____
-Miscellaneous food ingredients in various states
-of rot.
+Varios ingredientes de comida en varios estados
+de putrefacción.
 ____TEXT____
-You find an \c[2]Egg\c[0].
-It seems to be still in eatable condition.
+Encuentras un \c[2]Huevo\c[0].
+Parece que todavía se puede comer.
 ____TEXT____
-You find a bag of \c[2]Wheat flour\c[0].
+Encuentras una bolsa de \c[2]Harina integral[0].
 ____TEXT____
-You've already searched this shelf.
+Ya has escurcado esta estantería.
 ____TEXT____
-An empty bucket with some dirt on the bottom.
+Una cubeta vacía con algo de tierra en el fondo.
 ____TEXT____
-You search the crate for anything useful...
+Buscas algo útil en la caja...
 ____TEXT____
-Nothing left here.
-<follower touch>
-<follower touch>
-<follower touch>
-<follower touch>
-<follower touch>
-<follower touch>
-<follower touch>
+No queda nada aquí.
+<seguidor toque>
+<seguidor toque>
+<seguidor toque>
+<seguidor toque>
+<seguidor toque>
+<seguidor toque>
+<seguidor toque>
 ____TEXT____
-You could use \c[2]Soul stone\c[0] here...
+Podrías usar \c[2]Piedra del alma\c[0] aquí...
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-The \c[2]Soul stone\c[0] changed it's appearance.
-The stone is radiating faint blue light.
+La \c[2]Piedra del alma\c[0] ha cambiado de apariencia.
 ____TEXT____
-You could \c[2]Devour\c[0] the remains of the dead guard.
+Podrías \c[2]Devorar\c[0] los restos del guardia muerto.
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-You devoured the remains.
+Has devorado los restos.
 ____TEXT____
-You could use \c[2]Demon seed\c[0] on the dead guard.
+Podrías usar \c[2]Semilla demoníaca\c[0] al guardia muerto.
 ___CHOICE___
-Use 
+Utiliza 
 No
 ____TEXT____
-A baby sprouted out of your seed!
+¡Un bebé brotó de tu semilla!
 ____TEXT____
-You take the baby with you.
+Te llevas al bebé contigo.
 ____TEXT____
-You do not have enough sanity to perform this act.
+No tienes suficiente sanidad para hacer ese acto.
 ____TEXT____
-The monstrosity is down...
+La monstruosidad se ha caído....
 ___CHOICE___
-Beat him
-Search him
-Skin him
-Leave him
+Golpearlo
+Escurcarlo
+Despellejarlo
+Déjalo
 ____TEXT____
-No reaction. But it is satisfying.
+No reacciona. Pero es una gran satisfacción.
 ____TEXT____
-You took \c[2]Guard skin\c[0]!
+¡Tomaste \c[2]Piel de guardia\c[0]
 ____TEXT____
-The monstrosity is down...
+La monstruosidad se ha caído....
 ___CHOICE___
-Beat him
-Search him
-Leave him
+Golpearlo
+Escurcarlo
+Déjalo
 ____TEXT____
-No reaction. But it is satisfying.
+No reacciona. Pero es una gran satisfacción.
 ____TEXT____
-You could use \c[2]Soul stone\c[0] here...
+Podrías usar \c[2]Piedra del alma\c[0] aquí...
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-The \c[2]Soul stone\c[0] changed it's appearance.
-The stone is radiating faint blue light.
+La \c[2]Piedra del alma\c[0] ha cambiado de apariencia.
 ____TEXT____
-You could \c[2]Devour\c[0] the remains of the dead guard.
+Podrías \c[2]Devorar\c[0] los restos del guardia muerto.
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-You devoured the remains.
+Has devorado los restos.
 ____TEXT____
-You could use \c[2]Demon seed\c[0] on the dead guard.
+Podrías usar \c[2]Semilla demoníaca\c[0] al guardia muerto.
 ___CHOICE___
-Use 
+Utiliza 
 No
 ____TEXT____
-A baby sprouted out of your seed!
+¡Un bebé brotó de tu semilla!
 ____TEXT____
-You take the baby with you.
+Te llevas al bebé contigo.
 ____TEXT____
-You do not have enough sanity to perform this act.
+No tienes suficiente sanidad para hacer ese acto.
 ____TEXT____
-The monstrosity is down...
+La monstruosidad se ha caído....
 ___CHOICE___
-Beat him
-Search him
-Skin him
-Leave him
+Golpearlo
+Escurcarlo
+Despellejarlo
+Déjalo
 ____TEXT____
-No reaction. But it is satisfying.
+No reacciona. Pero es una gran satisfacción.
 ____TEXT____
-You already searched him.
+Ya lo has escurcado.
 ____TEXT____
-You took \c[2]Guard skin\c[0]!
+¡Tomaste \c[2]Piel de guardia\c[0]
 ____TEXT____
-The monstrosity is down...
+La monstruosidad se ha caído....
 ___CHOICE___
-Beat him
-Search him
-Leave him
+Golpearlo
+Escurcarlo
+Déjalo
 ____TEXT____
-No reaction. But it is satisfying.
+No reacciona. Pero es una gran satisfacción.
 ____TEXT____
-You already searched him.
+Ya lo has escurcado.
 ____TEXT____
-You could use \c[2]Soul stone\c[0] here...
+Podrías usar \c[2]Piedra del alma\c[0] aquí...
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-The \c[2]Soul stone\c[0] changed it's appearance.
-The stone is radiating faint blue light.
+La \c[2]Piedra del alma\c[0] ha cambiado de apariencia.
 ____TEXT____
-A pile of flesh remains here...
+Aquí queda un rastro de cadáver...
 ____TEXT____
-You search the crate for anything useful...
+Buscas algo útil en la caja...
 ____TEXT____
-Nothing left here.
+No queda nada aquí.
 ____TEXT____
-The girl is dead now...
+The girl ahora está muerto...
 ____TEXT____
-You could use \c[2]Soul stone\c[0] here...
+Podrías usar \c[2]Piedra del alma\c[0] aquí...
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-The \c[2]Soul stone\c[0] changed it's appearance.
-The stone is radiating faint blue light.
+La \c[2]Piedra del alma\c[0] ha cambiado de apariencia.
 ____TEXT____
 The stone has a heavy aura to it. It's almost too much
 for you to carry...
 ____TEXT____
-You search the crate for anything useful...
+Buscas algo útil en la caja...
 ____TEXT____
-Nothing left here.
+No queda nada aquí.
 ____TEXT____
-There seems to be a little girl inside the cage...
-She is hiding her face from you.
+Parece que hay una niña dentro de la jaula...
+Se esconde la cara.
 ____TEXT____
-You could open the cage door with \c[2]Lockpicking\c[0].
+Podrías abrir la puerta de la jaula con \c[2]Ganzúa\c[0].
 ___CHOICE___
-Use \c[2]Lockpicking\c[0]
-Don't
+Usar \c[2]Ganzúa\c[0]
+No lo haces.
 ____TEXT____
-The girl is staying quiet...
+La niña se queda callada...
 ____TEXT____
-Unfortunately your party is already full.
+Desgraciadamente tu grupo ya está lleno.
 ____TEXT____
-What do you want to do?
+¿Qué quieres hacer?
 ___CHOICE___
-Open the cage
-Talk
-Use \c[2]Red vial\c[0]
-Leave
+Abre la jaula
+Hable
+Utiliza \c[2]Frasco Rojo\c[0]
+Deja
 ____TEXT____
-The cage is locked.
+La jaula está cerrada con llave.
 ___CHOICE___
-Use \c[2]Small key\c[0]
-Leave
+Utiliza \c[2]Llave Pequeña\c[0]
+Deja
 ____TEXT____
-The girl is staying quiet...
+La niña se queda callada...
 ____TEXT____
-Unfortunately your party is already full.
+Desgraciadamente tu grupo ya está lleno.
 ____TEXT____
-The cage is locked.
+La jaula está cerrada con llave.
 ____TEXT____
-\c[7]Girl\c[0]
+\c[7]Niña\c[0]
 "*sob* *sob*"
 ___CHOICE___
-"Are you okay?"
-"Are you a monster?"
-Leave
+"¿Estás bien?"
+"¿Eres un monstruo?"
+Deja
 ____TEXT____
-She doesn't respond.
+No contesta.
 ____TEXT____
-She doesn't respond.
+No contesta.
 ____TEXT____
-The girl is staying quiet...
+La niña se queda callada...
 ____TEXT____
-Unfortunately your party is already full.
+Desgraciadamente tu grupo ya está lleno.
 ____TEXT____
-What do you want to do?
+¿Qué quieres hacer?
 ___CHOICE___
-Open the cage
-Talk
-Leave
+Abre la jaula
+Hable
+Deja
 ____TEXT____
-The cage is locked.
+La jaula está cerrada con llave.
 ___CHOICE___
-Use \c[2]Small key\c[0]
-Leave
+Utiliza \c[2]Llave Pequeña\c[0]
+Deja
 ____TEXT____
-The girl is staying quiet...
+La niña se queda callada...
 ____TEXT____
-Unfortunately your party is already full.
+Desgraciadamente tu grupo ya está lleno.
 ____TEXT____
-The cage is locked.
+La jaula está cerrada con llave.
 ____TEXT____
-\c[7]Girl\c[0]
+\c[7]Niña\c[0]
 "*sob* *sob*"
 ___CHOICE___
-"Are you okay?"
-"Are you a monster?"
-Leave
+"¿Estás bien?"
+"¿Eres un monstruo?"
+Deja
 ____TEXT____
-She doesn't respond.
+No contesta.
 ____TEXT____
-She doesn't respond.
+No contesta.
 ____TEXT____
-There seems to be a little girl inside the cage...
-She is hiding her face from you.
+Parece que hay una niña dentro de la jaula...
+Se esconde la cara.
 ____TEXT____
-You could open the cage door with \c[2]Lockpicking\c[0].
+Podrías abrir la puerta de la jaula con \c[2]Ganzúa\c[0].
 ___CHOICE___
-Use \c[2]Lockpicking\c[0]
-Don't
+Usar \c[2]Ganzúa\c[0]
+No lo haces.
 ____TEXT____
-The girl is staying quiet...
+La niña se queda callada...
 ____TEXT____
-Unfortunately your party is already full.
+Desgraciadamente tu grupo ya está lleno.
 ____TEXT____
-What do you want to do?
+¿Qué quieres hacer?
 ___CHOICE___
-Open the cage
-Talk
-Use \c[2]Red vial\c[0]
-Leave
+Abre la jaula
+Hable
+Utiliza \c[2]Frasco Rojo\c[0]
+Deja
 ____TEXT____
-The cage is locked.
+La jaula está cerrada con llave.
 ___CHOICE___
-Use \c[2]Small key\c[0]
-Leave
+Utiliza \c[2]Llave Pequeña\c[0]
+Deja
 ____TEXT____
-The girl is staying quiet...
+La niña se queda callada...
 ____TEXT____
-Unfortunately your party is already full.
+Desgraciadamente tu grupo ya está lleno.
 ____TEXT____
-The cage is locked.
+La jaula está cerrada con llave.
 ____TEXT____
-\c[7]Girl\c[0]
+\c[7]Niña\c[0]
 "*sob* *sob*"
 ___CHOICE___
-"Are you okay?"
-"Are you a monster?"
-Leave
+"¿Estás bien?"
+"¿Eres un monstruo?"
+Deja
 ____TEXT____
-She doesn't respond.
+No contesta.
 ____TEXT____
-She doesn't respond.
+No contesta.
 ____TEXT____
-The girl is staying quiet...
+La niña se queda callada...
 ____TEXT____
-Unfortunately your party is already full.
+Desgraciadamente tu grupo ya está lleno.
 ____TEXT____
-What do you want to do?
+¿Qué quieres hacer?
 ___CHOICE___
-Open the cage
-Talk
-Leave
+Abre la jaula
+Hable
+Deja
 ____TEXT____
-The cage is locked.
+La jaula está cerrada con llave.
 ___CHOICE___
-Use \c[2]Small key\c[0]
-Leave
+Utiliza \c[2]Llave Pequeña\c[0]
+Deja
 ____TEXT____
-The girl is staying quiet...
+La niña se queda callada...
 ____TEXT____
-Unfortunately your party is already full.
+Desgraciadamente tu grupo ya está lleno.
 ____TEXT____
-The cage is locked.
+La jaula está cerrada con llave.
 ____TEXT____
-\c[7]Girl\c[0]
+\c[7]Niña\c[0]
 "*sob* *sob*"
 ___CHOICE___
-"Are you okay?"
-"Are you a monster?"
-Leave
+"¿Estás bien?"
+"¿Eres un monstruo?"
+Deja
 ____TEXT____
-She doesn't respond.
+No contesta.
 ____TEXT____
-She doesn't respond.
+No contesta.
 ____TEXT____
-Create a \c[2]Blood portal\c[0]?
+¿Crear un \c[2]Portal de sangre\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-The girl was killed here already.
+Ya mataron a la niña aquí.
 ____TEXT____
-Create a \c[2]Blood portal\c[0]?
+¿Crear un \c[2]Portal de sangre\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-Your child was killed here.
+Aquí mataron a su hijo.
 ____TEXT____
-Create a \c[2]Blood portal\c[0]?
+¿Crear un \c[2]Portal de sangre\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-Your child was killed here.
+Aquí mataron a su hijo.
 ____TEXT____
-Create a \c[2]Blood portal\c[0]?
+¿Crear un \c[2]Portal de sangre\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-A ghoul was killed here already.
+Mataron a un ghoul aquí ya.
 ____TEXT____
-Create a \c[2]Blood portal\c[0]?
+¿Crear un \c[2]Portal de sangre\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-\N[7] was killed here already.
+\N[7] estaba matado aquí ya.
 ____TEXT____
-Create a \c[2]Blood portal\c[0]?
+¿Crear un \c[2]Portal de sangre\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-This ritual circle is exhausted already.
+Este círculo ritual ya está gastado.
 ____TEXT____
-Create a \c[2]Blood portal\c[0]?
+¿Crear un \c[2]Portal de sangre\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-A skeleton was killed here already.
+Ya mataron a un esqueleto aquí.
 ____TEXT____
-Create a \c[2]Blood portal\c[0]?
+¿Crear un \c[2]Portal de sangre\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-Create a \c[2]Blood portal\c[0]?
+¿Crear un \c[2]Portal de sangre\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-The girl was killed here already.
+Ya mataron a la niña aquí.
 ____TEXT____
-Create a \c[2]Blood portal\c[0]?
+¿Crear un \c[2]Portal de sangre\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-Your child was killed here.
+Aquí mataron a su hijo.
 ____TEXT____
-Create a \c[2]Blood portal\c[0]?
+¿Crear un \c[2]Portal de sangre\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-A ghoul was killed here already.
+Mataron a un ghoul aquí ya.
 ____TEXT____
-Create a \c[2]Blood portal\c[0]?
+¿Crear un \c[2]Portal de sangre\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-\N[7] was killed here already.
+\N[7] estaba matado aquí ya.
 ____TEXT____
-Create a \c[2]Blood portal\c[0]?
+¿Crear un \c[2]Portal de sangre\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-This ritual circle is exhausted already.
+Este círculo ritual ya está gastado.
 ____TEXT____
-Create a \c[2]Blood portal\c[0]?
+¿Crear un \c[2]Portal de sangre\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-A skeleton was killed here already.
+Ya mataron a un esqueleto aquí.
 ____TEXT____
-Create a \c[2]Blood portal\c[0]?
+¿Crear un \c[2]Portal de sangre\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-Create a \c[2]Blood portal\c[0]?
+¿Crear un \c[2]Portal de sangre\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-Your child was killed here.
+Aquí mataron a su hijo.
 ____TEXT____
-Create a \c[2]Blood portal\c[0]?
+¿Crear un \c[2]Portal de sangre\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-The girl was killed here already.
+Ya mataron a la niña aquí.
 ____TEXT____
-Create a \c[2]Blood portal\c[0]?
+¿Crear un \c[2]Portal de sangre\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-A ghoul was killed here already.
+Mataron a un ghoul aquí ya.
 ____TEXT____
-Create a \c[2]Blood portal\c[0]?
+¿Crear un \c[2]Portal de sangre\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-\N[7] was killed here already.
+\N[7] estaba matado aquí ya.
 ____TEXT____
-Create a \c[2]Blood portal\c[0]?
+¿Crear un \c[2]Portal de sangre\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-This ritual circle is exhausted already.
+Este círculo ritual ya está gastado.
 ____TEXT____
-Create a \c[2]Blood portal\c[0]?
+¿Crear un \c[2]Portal de sangre\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-A skeleton was killed here already.
+Ya mataron a un esqueleto aquí.
 ____TEXT____
-Create a \c[2]Blood portal\c[0]?
+¿Crear un \c[2]Portal de sangre\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-Create a \c[2]Blood portal\c[0]?
+¿Crear un \c[2]Portal de sangre\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-Your child was killed here.
+Aquí mataron a su hijo.
 ____TEXT____
-Create a \c[2]Blood portal\c[0]?
+¿Crear un \c[2]Portal de sangre\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-The girl was killed here already.
+Ya mataron a la niña aquí.
 ____TEXT____
-Create a \c[2]Blood portal\c[0]?
+¿Crear un \c[2]Portal de sangre\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-A ghoul was killed here already.
+Mataron a un ghoul aquí ya.
 ____TEXT____
-Create a \c[2]Blood portal\c[0]?
+¿Crear un \c[2]Portal de sangre\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-\N[7] was killed here already.
+\N[7] estaba matado aquí ya.
 ____TEXT____
-Create a \c[2]Blood portal\c[0]?
+¿Crear un \c[2]Portal de sangre\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-This ritual circle is exhausted already.
+Este círculo ritual ya está gastado.
 ____TEXT____
-Create a \c[2]Blood portal\c[0]?
+¿Crear un \c[2]Portal de sangre\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-A skeleton was killed here already.
+Ya mataron a un esqueleto aquí.
 ____TEXT____
-Create a \c[2]Blood portal\c[0]?
+¿Crear un \c[2]Portal de sangre\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-"Sacrificial circle for the older gods."
+"Círculo de sacrificios para los dioses antiguos".
 ____TEXT____
-"To appease gods or gain favors from them - 
-this is the place to offer your gratitude."
+"Para complacer a los dioses o conseguir sus favores... 
+este es el lugar para ofrecer tu gratitud".
 ____TEXT____
-"Gro-goroth, the destroyer of men, yearns for 
-human sacrifices."
+"Gro-goroth, el exterminador de hombres, desea sacrificios humanos".
 ____TEXT____
-"Sylvian, the god of fertility and love, wishes nothing
-more than an act of love in her name."
+"Sylvian, la diosa de la fertilidad y el amor, no desea nada más que un acto de amor en su nombre".
 ____TEXT____
-Here lies \N[16]...
+Aquí descansa \N[16]...
 ____TEXT____
-You could use \c[2]Soul stone\c[0] here...
+Podrías usar \c[2]Piedra del alma\c[0] aquí...
 ___CHOICE___
-Yes
-No
-____TEXT____
-.\|.\|.\|.
-____TEXT____
-The \c[2]Soul stone\c[0] doesn't seem to react to his 
-remains...
-____TEXT____
-There is a statue depicting the new gods here...
-____TEXT____
-Someone has written "Save us" here with blood.
-____TEXT____
-You search the crate for anything useful...
-____TEXT____
-Nothing left here.
-____TEXT____
-You search the crate for anything useful...
-____TEXT____
-Nothing left here.
-____TEXT____
-You search the crate for anything useful...
-____TEXT____
-Nothing left here.
-____TEXT____
-You search the crate for anything useful...
-____TEXT____
-Nothing left here.
-____TEXT____
-You search the crate for anything useful...
-____TEXT____
-Nothing left here.
-____TEXT____
-You search the crate for anything useful...
-____TEXT____
-Nothing left here.
-____TEXT____
-You are unable to move...
-___CHOICE___
-Quit breathing
-Hold on!
-____TEXT____
-You are unable to move...
-___CHOICE___
-Quit breathing
-Hold on!
-____TEXT____
-You are unable to move...
-___CHOICE___
-Quit breathing
-Hold on!
-____TEXT____
-You are unable to move...
-___CHOICE___
-Quit breathing
-Hold on!
-____TEXT____
-You are unable to move...
-___CHOICE___
-Quit breathing
-Hold on!
-____TEXT____
-You are unable to move...
-___CHOICE___
-Quit breathing
-Hold on!
-____TEXT____
-You are unable to move...
-___CHOICE___
-Quit breathing
-Hold on!
-____TEXT____
-You search the shelf for anything useful...
-____TEXT____
-Nothing left here.
-____TEXT____
-You search the crate for anything useful...
-____TEXT____
-Nothing left here.
-____TEXT____
-You search the crate for anything useful...
-____TEXT____
-Nothing left here.
-____TEXT____
-Here lies \N[17]...
-____TEXT____
-You could use \c[2]Soul stone\c[0] here...
-___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
 .\|.\|.\|.
 ____TEXT____
-The \c[2]Soul stone\c[0] doesn't seem to react to his 
-remains...
+La \c[2]Piedra de alma\c[0] no parece reaccionar a sus 
+restos...
 ____TEXT____
-Here lies \N[18]...
+Aquí hay una estatua que representa a los nuevos dioses...
 ____TEXT____
-You could use \c[2]Soul stone\c[0] here...
+Alguien ha escrito "Sálvanos" aquí con sangre.
+____TEXT____
+Buscas algo útil en la caja...
+____TEXT____
+No queda nada aquí.
+____TEXT____
+Buscas algo útil en la caja...
+____TEXT____
+No queda nada aquí.
+____TEXT____
+Buscas algo útil en la caja...
+____TEXT____
+No queda nada aquí.
+____TEXT____
+Buscas algo útil en la caja...
+____TEXT____
+No queda nada aquí.
+____TEXT____
+Buscas algo útil en la caja...
+____TEXT____
+No queda nada aquí.
+____TEXT____
+Buscas algo útil en la caja...
+____TEXT____
+No queda nada aquí.
+____TEXT____
+No puedes moverte...
 ___CHOICE___
-Yes
+Deja de respirar
+¡Aguanta!
+____TEXT____
+No puedes moverte...
+___CHOICE___
+Deja de respirar
+¡Aguanta!
+____TEXT____
+No puedes moverte...
+___CHOICE___
+Deja de respirar
+¡Aguanta!
+____TEXT____
+No puedes moverte...
+___CHOICE___
+Deja de respirar
+¡Aguanta!
+____TEXT____
+No puedes moverte...
+___CHOICE___
+Deja de respirar
+¡Aguanta!
+____TEXT____
+No puedes moverte...
+___CHOICE___
+Deja de respirar
+¡Aguanta!
+____TEXT____
+No puedes moverte...
+___CHOICE___
+Deja de respirar
+¡Aguanta!
+____TEXT____
+Buscas en la estantería cualquier cosa útil...
+____TEXT____
+No queda nada aquí.
+____TEXT____
+Buscas algo útil en la caja...
+____TEXT____
+No queda nada aquí.
+____TEXT____
+Buscas algo útil en la caja...
+____TEXT____
+No queda nada aquí.
+____TEXT____
+Aquí descansa \N[17]...
+____TEXT____
+Podrías usar \c[2]Piedra del alma\c[0] aquí...
+___CHOICE___
+Sí
 No
 ____TEXT____
 .\|.\|.\|.
 ____TEXT____
-The \c[2]Soul stone\c[0] doesn't seem to react to his 
-remains...
+La \c[2]Piedra de alma\c[0] no parece reaccionar a sus 
+restos...
 ____TEXT____
-Here lies \N[1]...
+Aquí descansa \N[18]...
 ____TEXT____
-You could use \c[2]Soul stone\c[0] here...
+Podrías usar \c[2]Piedra del alma\c[0] aquí...
 ___CHOICE___
-Yes
-No
-____TEXT____
-The \c[2]Soul stone\c[0] changed it's appearance.
-The stone is radiating faint blue light.
-____TEXT____
-Here lies \N[3]...
-____TEXT____
-You could use \c[2]Soul stone\c[0] here...
-___CHOICE___
-Yes
-No
-____TEXT____
-The \c[2]Soul stone\c[0] changed it's appearance.
-The stone is radiating faint blue light.
-____TEXT____
-Here lies \N[4]...
-____TEXT____
-You could use \c[2]Soul stone\c[0] here...
-___CHOICE___
-Yes
-No
-____TEXT____
-The \c[2]Soul stone\c[0] changed it's appearance.
-The stone is radiating faint blue light.
-____TEXT____
-Here lies \N[5]...
-____TEXT____
-You could use \c[2]Soul stone\c[0] here...
-___CHOICE___
-Yes
-No
-____TEXT____
-The \c[2]Soul stone\c[0] changed it's appearance.
-The stone is radiating faint blue light.
-____TEXT____
-Here lies \N[6]...
-____TEXT____
-You could use \c[2]Soul stone\c[0] here...
-___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
 .\|.\|.\|.
 ____TEXT____
-The \c[2]Soul stone\c[0] doesn't seem to react to his 
-remains...
+La \c[2]Piedra de alma\c[0] no parece reaccionar a sus 
+restos...
 ____TEXT____
-Moonless is dead now...
+Aquí descansa \N[1]...
 ____TEXT____
-You could use \c[2]Soul stone\c[0] here...
+Podrías usar \c[2]Piedra del alma\c[0] aquí...
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-The \c[2]Soul stone\c[0] changed it's appearance.
-The stone is radiating faint blue light.
-MERCENARY
-KNIGHT
-CAPTAIN
-OUTLANDER
-MARRIAGE
+La \c[2]Piedra del alma\c[0] ha cambiado de apariencia.
 ____TEXT____
-The hallway has collapsed here. Makes you wonder
-how the rest of this old fortress holds up...
+Aquí descansa \N[3]...
 ____TEXT____
-The hallway has collapsed here. Makes you wonder
-how the rest of this old fortress holds up...
-____TEXT____
-The hallway has collapsed here. Makes you wonder
-how the rest of this old fortress holds up...
-____TEXT____
-The hallway has collapsed here. Makes you wonder
-how the rest of this old fortress holds up...
-____TEXT____
-The hallway has collapsed here. Makes you wonder
-how the rest of this old fortress holds up...
-____TEXT____
-The hallway has collapsed here. Makes you wonder
-how the rest of this old fortress holds up...
-____TEXT____
-The hallway has collapsed here. Makes you wonder
-how the rest of this old fortress holds up...
-____TEXT____
-The hallway has collapsed here. Makes you wonder
-how the rest of this old fortress holds up...
-____TEXT____
-The hallway has collapsed here. Makes you wonder
-how the rest of this old fortress holds up...
-____TEXT____
-The hallway has collapsed here. Makes you wonder
-how the rest of this old fortress holds up...
-____TEXT____
-The hallway has collapsed here. Makes you wonder
-how the rest of this old fortress holds up...
-____TEXT____
-The hallway has collapsed here. Makes you wonder
-how the rest of this old fortress holds up...
-____TEXT____
-The hallway has collapsed here. Makes you wonder
-how the rest of this old fortress holds up...
-____TEXT____
-The hallway has collapsed here. Makes you wonder
-how the rest of this old fortress holds up...
-____TEXT____
-The hallway has collapsed here. Makes you wonder
-how the rest of this old fortress holds up...
-____TEXT____
-You managed to defeat the spectre that was after your sword.
-____TEXT____
-Like distant winds carried from from the far-away lands 
-you hear whispers...
-____TEXT____
-\c[7]Assassin spectre\c[0]
-"Finish... my...task..."
-____TEXT____
-\c[7]Assassin spectre\c[0]
-"O... worthy..."
-____TEXT____
-The \c[2]Eastern sword\c[0] was purified!
-____TEXT____
-The engraving on the hilt becomes clear to you now.
-\c[2]Eastern sword\c[0] was purified and it revealed its
-true name to you - the Black steel of the East.
-____TEXT____
-You managed to defeat the spectre that was after your sword.
-____TEXT____
-Like distant winds carried from from the far-away lands 
-you hear whispers...
-____TEXT____
-\c[7]Assassin spectre\c[0]
-"Finish... my...task..."
-____TEXT____
-\c[7]Assassin spectre\c[0]
-"O... worthy..."
-____TEXT____
-The \c[2]Eastern sword\c[0] was purified!
-____TEXT____
-The engraving on the hilt becomes clear to you now.
-\c[2]Eastern sword\c[0] was purified and it revealed its
-true name to you - the Black steel of the East.
-____TEXT____
-You search the barrel for anything useful...
-____TEXT____
-Nothing left here.
-____TEXT____
-You search the barrel for anything useful...
-____TEXT____
-Nothing left here.
-____TEXT____
-You search the crate for anything useful...
-____TEXT____
-Nothing left here.
-BOOKSHELF
-____TEXT____
-Dusty old books fill the bookshelf.
-Some of them seem partly rotten and moldy.
+Podrías usar \c[2]Piedra del alma\c[0] aquí...
 ___CHOICE___
-Search
-Leave
+Sí
+No
+____TEXT____
+La \c[2]Piedra del alma\c[0] ha cambiado de apariencia.
+____TEXT____
+Aquí descansa \N[4]...
+____TEXT____
+Podrías usar \c[2]Piedra del alma\c[0] aquí...
 ___CHOICE___
-HEADS
-TAILS
+Sí
+No
 ____TEXT____
-The book feels very special and has a hefty weight to it.
+La \c[2]Piedra del alma\c[0] ha cambiado de apariencia.
 ____TEXT____
-Like a siren's call, the book is calling to you. Its
-macabre leather coverings look irresistable.
+Aquí descansa \N[5]...
 ____TEXT____
-You find nothing of interest.
-BOOKSHELF
-____TEXT____
-You already searched this bookshelf.
-BOOKSHELF
-____TEXT____
-Dusty old books fill the bookshelf.
-Some of them seem partly rotten and moldy.
+Podrías usar \c[2]Piedra del alma\c[0] aquí...
 ___CHOICE___
-Search
-Leave
+Sí
+No
+____TEXT____
+La \c[2]Piedra del alma\c[0] ha cambiado de apariencia.
+____TEXT____
+Aquí descansa \N[6]...
+____TEXT____
+Podrías usar \c[2]Piedra del alma\c[0] aquí...
 ___CHOICE___
-HEADS
-TAILS
-____TEXT____
-The book feels very special and has a hefty weight to it.
-____TEXT____
-Like a siren's call, the book is calling to you. Its
-macabre leather coverings look irresistable.
-____TEXT____
-You find nothing of interest.
-BOOKSHELF
-____TEXT____
-You already searched this bookshelf.
-____TEXT____
-The bed is in a bad shape. The dungeons feel very dingy and 
-unsafe but you could have a brief respite here if you choosed 
-to do so...
-___CHOICE___
-Tear the blanket
-Save & Rest
-Leave
-____TEXT____
-You got a \c[2]Cloth fragment\c[0]!
-____TEXT____
-Your adrenaline is running high, you can't rest at this very
-moment.
-____TEXT____
-The bed is in a bad shape. The dungeons feel very dingy and 
-unsafe, something tells you not to sleep here.
-___CHOICE___
-Tear the blanket
-Leave
-____TEXT____
-You got a \c[2]Cloth fragment\c[0]!
-____TEXT____
-The bed is in a bad shape. The dungeons feel very dingy and 
-unsafe but you could have a brief respite here if you choosed 
-to do so...
-___CHOICE___
-Save & Rest
-Leave
-____TEXT____
-Your adrenaline is running high, you can't rest at this very
-moment.
-____TEXT____
-The bed is in a bad shape. The dungeons feel very dingy and 
-unsafe, something tells you not to sleep here.
-____TEXT____
-It's a piss-stained bucket.
-____TEXT____
-Random cleaning items can be found here...
-____TEXT____
-Random cleaning items can be found here...
-CHEST
-____TEXT____
-A sturdy chest. It doesn't seem to be locked.
-___CHOICE___
-Open
-Leave
-___CHOICE___
-HEADS
-TAILS
-CHEST
-____TEXT____
-There is nothing left in the chest anymore.
-____TEXT____
-A sturdy chest. It doesn't seem to be locked.
-___CHOICE___
-Open
-Leave
-___CHOICE___
-HEADS
-TAILS
-____TEXT____
-There is nothing left in the chest anymore.
-____TEXT____
-Your child is dead now...
-____TEXT____
-You could use \c[2]Soul stone\c[0] here...
-___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
 .\|.\|.\|.
 ____TEXT____
-The \c[2]Soul stone\c[0] doesn't seem to react to his 
-remains...
+La \c[2]Piedra de alma\c[0] no parece reaccionar a sus 
+restos...
+____TEXT____
+Moonless ahora está muerta...
+____TEXT____
+Podrías usar \c[2]Piedra del alma\c[0] aquí...
+___CHOICE___
+Sí
+No
+____TEXT____
+La \c[2]Piedra del alma\c[0] ha cambiado de apariencia.
+MERCENARIO
+CABALLERO
+CAPITÁN
+FORASTERO
+MATRIMONIO
+____TEXT____
+El pasillo se ha derrumbado aquí. Te hace pensar cómo se sostiene el resto de esta vieja fortaleza...
+____TEXT____
+El pasillo se ha derrumbado aquí. Te hace pensar cómo se sostiene el resto de esta vieja fortaleza...
+____TEXT____
+El pasillo se ha derrumbado aquí. Te hace pensar cómo se sostiene el resto de esta vieja fortaleza...
+____TEXT____
+El pasillo se ha derrumbado aquí. Te hace pensar cómo se sostiene el resto de esta vieja fortaleza...
+____TEXT____
+El pasillo se ha derrumbado aquí. Te hace pensar cómo se sostiene el resto de esta vieja fortaleza...
+____TEXT____
+El pasillo se ha derrumbado aquí. Te hace pensar cómo se sostiene el resto de esta vieja fortaleza...
+____TEXT____
+El pasillo se ha derrumbado aquí. Te hace pensar cómo se sostiene el resto de esta vieja fortaleza...
+____TEXT____
+El pasillo se ha derrumbado aquí. Te hace pensar cómo se sostiene el resto de esta vieja fortaleza...
+____TEXT____
+El pasillo se ha derrumbado aquí. Te hace pensar cómo se sostiene el resto de esta vieja fortaleza...
+____TEXT____
+El pasillo se ha derrumbado aquí. Te hace pensar cómo se sostiene el resto de esta vieja fortaleza...
+____TEXT____
+El pasillo se ha derrumbado aquí. Te hace pensar cómo se sostiene el resto de esta vieja fortaleza...
+____TEXT____
+El pasillo se ha derrumbado aquí. Te hace pensar cómo se sostiene el resto de esta vieja fortaleza...
+____TEXT____
+El pasillo se ha derrumbado aquí. Te hace pensar cómo se sostiene el resto de esta vieja fortaleza...
+____TEXT____
+El pasillo se ha derrumbado aquí. Te hace pensar cómo se sostiene el resto de esta vieja fortaleza...
+____TEXT____
+El pasillo se ha derrumbado aquí. Te hace pensar cómo se sostiene el resto de esta vieja fortaleza...
+____TEXT____
+Has conseguido vencer al fantasma que perseguía tu espada.
+____TEXT____
+Como vientos lejanos traídos de tierras lejanas 
+oyes murmullos...
+____TEXT____
+\c[7]Fantasma asesino\c[0]
+"Termina... mi... misión..."
+____TEXT____
+\c[7]Fantasma asesino\c[0]
+"O... digno..."
+____TEXT____
+¡La \c[2]Espada del Este[0] fue purificada!
+____TEXT____
+El texto de la empuñadura se vuelve claro para ti ahora.
+\c[2]Espada del Este\c[0] fue purificada y te reveló su
+verdadero nombre - el Hierro en Negro del Este.
+____TEXT____
+Has conseguido vencer al fantasma que perseguía tu espada.
+____TEXT____
+Como vientos lejanos traídos de tierras lejanas 
+oyes murmullos...
+____TEXT____
+\c[7]Fantasma asesino\c[0]
+"Termina... mi... misión..."
+____TEXT____
+\c[7]Fantasma asesino\c[0]
+"O... digno..."
+____TEXT____
+¡La \c[2]Espada del Este[0] fue purificada!
+____TEXT____
+El texto de la empuñadura se vuelve claro para ti ahora.
+\c[2]Espada del Este\c[0] fue purificada y te reveló su
+verdadero nombre - el Hierro en Negro del Este.
+____TEXT____
+Buscas algo útil en el barril...
+____TEXT____
+No queda nada aquí.
+____TEXT____
+Buscas algo útil en el barril...
+____TEXT____
+No queda nada aquí.
+____TEXT____
+Buscas algo útil en la caja...
+____TEXT____
+No queda nada aquí.
+LIBRERO
+____TEXT____
+Libros viejos y empolvados llenan el librero.
+Algunos parecen parcialmente podridos y mohosos.
+___CHOICE___
+Escurca
+Deja
+___CHOICE___
+CABEZAS
+COLA
+____TEXT____
+El libro se siente muy especial y tiene un gran peso.
+____TEXT____
+Como un canto de sirena, el libro te llama. Su
+macabras cubiertas de cuero parecen irresistibles.
+____TEXT____
+No encuentras nada de interés.
+LIBRERO
+____TEXT____
+Ya has buscado en este librero.
+LIBRERO
+____TEXT____
+Libros viejos y empolvados llenan el librero.
+Algunos parecen parcialmente podridos y mohosos.
+___CHOICE___
+Escurca
+Deja
+___CHOICE___
+CABEZAS
+COLA
+____TEXT____
+El libro se siente muy especial y tiene un gran peso.
+____TEXT____
+Como un canto de sirena, el libro te llama. Su
+macabras cubiertas de cuero parecen irresistibles.
+____TEXT____
+No encuentras nada de interés.
+LIBRERO
+____TEXT____
+Ya has buscado en este librero.
+____TEXT____
+La cama está en mal estado. Las mazmorras son muy sucias e inseguras pero podrías tener un breve refugio aquí si lo eliges hacerlo...
+___CHOICE___
+Rompe la cobija
+Salva & Descansa
+Deja
+____TEXT____
+¡Conseguiste un \c[2]Fragmento de tela\c[0]!
+____TEXT____
+Tu adrenalina está por los cielos, no puedes descansar en este momento.
+____TEXT____
+La cama está en mal estado. Las mazmorras parecen muy sucias e inseguras, algo te dice que no debes dormir aquí.
+___CHOICE___
+Rompe la cobija
+Deja
+____TEXT____
+¡Conseguiste un \c[2]Fragmento de tela\c[0]!
+____TEXT____
+La cama está en mal estado. Las mazmorras son muy sucias e inseguras pero podrías tener un breve refugio aquí si lo eliges hacerlo...
+___CHOICE___
+Salva & Descansa
+Deja
+____TEXT____
+Tu adrenalina está por los cielos, no puedes descansar en este momento.
+____TEXT____
+La cama está en mal estado. Las mazmorras parecen muy sucias e inseguras, algo te dice que no debes dormir aquí.
+____TEXT____
+Es un cubeta manchado de meados.
+____TEXT____
+Hay artículos de limpieza variados...
+____TEXT____
+Hay artículos de limpieza variados...
+COFRE
+____TEXT____
+Un cofre robusto. No parece cerrado con llave.
+___CHOICE___
+Abre
+Deja
+___CHOICE___
+CABEZAS
+COLA
+COFRE
+____TEXT____
+No queda nada en el cofre.
+____TEXT____
+Un cofre robusto. No parece cerrado con llave.
+___CHOICE___
+Abre
+Deja
+___CHOICE___
+CABEZAS
+COLA
+____TEXT____
+No queda nada en el cofre.
+____TEXT____
+Tu niño ahora está muerto...
+____TEXT____
+Podrías usar \c[2]Piedra del alma\c[0] aquí...
+___CHOICE___
+Sí
+No
+____TEXT____
+.\|.\|.\|.
+____TEXT____
+La \c[2]Piedra de alma\c[0] no parece reaccionar a sus 
+restos...
 ____TEXT____
 A lone skeleton sits here...
 ___CHOICE___
-Use \c[2]Necromancy\c[0]
-Leave
+Usa \c[2]Necromancia\c[0]
+Deja
 ____TEXT____
-There is no room in your party for new skeletons!
+¡No hay espacio en tu grupo para nuevos esqueletos!
 ___CHOICE___
-HEADS
-TAILS
+CABEZAS
+COLA
 ____TEXT____
-\c[2]Necromancy\c[0] was succesful!
+\c[2]¡Necromancia\c[0] se logró!.
 ____TEXT____
-Give a name to your new skeleton!
+¡Ponle nombre a tu nuevo esqueleto!
 ____TEXT____
-\N[19] doesn't seem to remember his past life and
-seems to be confused about life.
+\N[19] no parece recordar su vida pasada y
+parece estar confundido sobre la vida.
 ____TEXT____
 \c[7]\N[19]\c[0]
 "Ack ack!"
 ____TEXT____
-\c[2]Necromancy\c[0] failed!
+\c[2]Necromancia\c[0] falló
 ____TEXT____
-\c[2]Necromancy\c[0] was succesful!
+\c[2]¡Necromancia\c[0] se logró!.
 ____TEXT____
-Give a name to your new skeleton!
+¡Ponle nombre a tu nuevo esqueleto!
 ____TEXT____
-\N[19] doesn't seem to remember his past life and
-seems to be confused about life.
+\N[19] no parece recordar su vida pasada y
+parece estar confundido sobre la vida.
 ____TEXT____
 \c[7]\N[19]\c[0]
 "Ack ack!"
 ____TEXT____
-\c[2]Necromancy\c[0] failed!
+\c[2]Necromancia\c[0] falló
 ____TEXT____
-A lone skeleton is sitting here...
+Un esqueleto solitario está sentado aquí...
 ___CHOICE___
-Use \c[2]Necromancy\c[0]
-Leave
+Usa \c[2]Necromancia\c[0]
+Deja
 ____TEXT____
-You don't have enough sanity to perform such actions.
+No tienes suficiente sanidad para hacer tales acciones.
 ____TEXT____
-A lone skeleton is sitting here...
+Un esqueleto solitario está sentado aquí...
 ____TEXT____
-With \c[2]Mastery over insects\c[0] you are able to hear
-whispers...
+Con \c[2]Dominio sobre insects\c[0] eres capaz de oír
+murmullos...
 ____TEXT____
-\} "Master... it comes... the fearsome crow!"
-<follower touch>
-<follower touch>
-<follower touch>
-<follower touch>
-<follower touch>
-<follower touch>
+\} "Maestro... viene... ¡el cuervo terrorífico!"
+<seguidor toque>
+<seguidor toque>
+<seguidor toque>
+<seguidor toque>
+<seguidor toque>
+<seguidor toque>
 ____TEXT____
-You could use \c[2]Soul stone\c[0] here...
+Podrías usar \c[2]Piedra del alma\c[0] aquí...
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-The \c[2]Soul stone\c[0] changed it's appearance.
-The stone is radiating faint blue light.
+La \c[2]Piedra del alma\c[0] ha cambiado de apariencia.
 ____TEXT____
-You could \c[2]Devour\c[0] the remains of the crow.
+Podrías \c[2]Devorar\c[0] los restos del cuervo.
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-You devoured the remains.
+Has devorado los restos.
 ____TEXT____
-You could use \c[2]Demon seed\c[0] here.
+Usted podría utilizar \c[2]Semilla demonica\c[0] aquí.
 ___CHOICE___
-Use 
+Utiliza 
 No
 ____TEXT____
-A baby sprouted out of your seed!
+¡Un bebé brotó de tu semilla!
 ____TEXT____
-You take the baby with you.
+Te llevas al bebé contigo.
 ____TEXT____
-You do not have enough sanity to perform this act.
+No tienes suficiente sanidad para hacer ese acto.
 ____TEXT____
-The Crow Mauler is down...
+El Cuervo Machacador ha caído...
 ___CHOICE___
-Beat him
-Search him
-Skin him
-Leave him
+Golpearlo
+Escurcarlo
+Despellejarlo
+Déjalo
 ____TEXT____
-No reaction. But it is satisfying.
+No reacciona. Pero es una gran satisfacción.
 ____TEXT____
-Crow Mauler only carries \c[2]Crow emblem key\c[0] with
-him.
+Cuervo Machacador sólo lleva la \c[2]Llave del emblema del cuervo\c[0] con él.
 ____TEXT____
-You see no point in skinning the Crow Mauler.
+No ves sentido a despellejar al Cuervo Machacador.
 ____TEXT____
-The Crow Mauler is down...
+El Cuervo Machacador ha caído...
 ___CHOICE___
-Beat him
-Search him
-Leave him
+Golpearlo
+Escurcarlo
+Déjalo
 ____TEXT____
-No reaction. But it is satisfying.
+No reacciona. Pero es una gran satisfacción.
 ____TEXT____
-Crow Mauler only carries \c[2]Crow emblem key\c[0] with
-him.
+Cuervo Machacador sólo lleva la \c[2]Llave del emblema del cuervo\c[0] con él.
 ____TEXT____
-You could use \c[2]Soul stone\c[0] here...
+Podrías usar \c[2]Piedra del alma\c[0] aquí...
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-The \c[2]Soul stone\c[0] changed it's appearance.
-The stone is radiating faint blue light.
+La \c[2]Piedra del alma\c[0] ha cambiado de apariencia.
 ____TEXT____
-You could \c[2]Devour\c[0] the remains of the crow.
+Podrías \c[2]Devorar\c[0] los restos del cuervo.
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-You devoured the remains.
+Has devorado los restos.
 ____TEXT____
-You could use \c[2]Demon seed\c[0] here.
+Usted podría utilizar \c[2]Semilla demonica\c[0] aquí.
 ___CHOICE___
-Use 
+Utiliza 
 No
 ____TEXT____
-A baby sprouted out of your seed!
+¡Un bebé brotó de tu semilla!
 ____TEXT____
-You take the baby with you.
+Te llevas al bebé contigo.
 ____TEXT____
-You do not have enough sanity to perform this act.
+No tienes suficiente sanidad para hacer ese acto.
 ____TEXT____
-The Crow Mauler is down...
+El Cuervo Machacador ha caído...
 ___CHOICE___
-Beat him
-Search him
-Skin him
-Leave him
+Golpearlo
+Escurcarlo
+Despellejarlo
+Déjalo
 ____TEXT____
-No reaction. But it is satisfying.
+No reacciona. Pero es una gran satisfacción.
 ____TEXT____
-The Crow Mauler has nothing of worth.
+El Cuervo Machacador no tiene nada de valioso.
 ____TEXT____
-You see no point in skinning the Crow Mauler.
+No ves sentido a despellejar al Cuervo Machacador.
 ____TEXT____
-The Crow Mauler is down...
+El Cuervo Machacador ha caído...
 ___CHOICE___
-Beat him
-Search him
-Leave him
+Golpearlo
+Escurcarlo
+Déjalo
 ____TEXT____
-No reaction. But it is satisfying.
+No reacciona. Pero es una gran satisfacción.
 ____TEXT____
-The Crow Mauler has nothing of worth.
+El Cuervo Machacador no tiene nada de valioso.
 ____TEXT____
-You could use \c[2]Soul stone\c[0] here...
+Podrías usar \c[2]Piedra del alma\c[0] aquí...
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-The \c[2]Soul stone\c[0] changed it's appearance.
-The stone is radiating faint blue light.
+La \c[2]Piedra del alma\c[0] ha cambiado de apariencia.
 ____TEXT____
-A pile of flesh remains here...
+Aquí queda un rastro de cadáver...
 unused
 ____TEXT____
-There is a statue depicting the new gods here...
+Aquí hay una estatua que representa a los nuevos dioses...
 ____TEXT____
-Someone has written "Save us" here with blood.
+Alguien ha escrito "Sálvanos" aquí con sangre.
 ____TEXT____
-There is a statue depicting the new gods here...
+Aquí hay una estatua que representa a los nuevos dioses...
 ____TEXT____
-Someone has written "Save us" here with blood.
+Alguien ha escrito "Sálvanos" aquí con sangre.
 ____TEXT____
-There is a statue depicting the new gods here...
+Aquí hay una estatua que representa a los nuevos dioses...
 ____TEXT____
-Someone has written "False idols" here with blood.
+Alguien ha escrito aquí " Ídolos falsos " con sangre.
 ____TEXT____
-There is a statue depicting the new gods here...
+Aquí hay una estatua que representa a los nuevos dioses...
 ____TEXT____
-Someone has written "False idols" here with blood.
+Alguien ha escrito aquí " Ídolos falsos " con sangre.
 ____TEXT____
-There is a statue depicting the new gods here...
+Aquí hay una estatua que representa a los nuevos dioses...
 ____TEXT____
-Someone has written "False idols" here with blood.
+Alguien ha escrito aquí " Ídolos falsos " con sangre.
 ____TEXT____
-There is a statue depicting the new gods here...
+Aquí hay una estatua que representa a los nuevos dioses...
 ____TEXT____
-Someone has written "False idols" here with blood.
+Alguien ha escrito aquí " Ídolos falsos " con sangre.
 ____TEXT____
-There is a statue depicting the new gods here...
+Aquí hay una estatua que representa a los nuevos dioses...
 ____TEXT____
-Someone has written "False idols" here with blood.
+Alguien ha escrito aquí " Ídolos falsos " con sangre.
 ____TEXT____
-There is a statue depicting the new gods here...
+Aquí hay una estatua que representa a los nuevos dioses...
 ____TEXT____
-Someone has written "False idols" here with blood.
+Alguien ha escrito aquí " Ídolos falsos " con sangre.
 ____TEXT____
-There is a statue depicting the new gods here...
+Aquí hay una estatua que representa a los nuevos dioses...
 ____TEXT____
-Someone has written "False idols" here with blood.
+Alguien ha escrito aquí " Ídolos falsos " con sangre.
 ____TEXT____
-There is a statue depicting the new gods here...
+Aquí hay una estatua que representa a los nuevos dioses...
 ____TEXT____
-Someone has written "False idols" here with blood.
+Alguien ha escrito aquí " Ídolos falsos " con sangre.
 ____TEXT____
-There is a statue depicting the new gods here...
+Aquí hay una estatua que representa a los nuevos dioses...
 ____TEXT____
-Someone has written "False idols" here with blood.
+Alguien ha escrito aquí " Ídolos falsos " con sangre.
 ____TEXT____
-There is a statue depicting the new gods here...
+Aquí hay una estatua que representa a los nuevos dioses...
 ____TEXT____
-Someone has written "False idols" here with blood.
+Alguien ha escrito aquí " Ídolos falsos " con sangre.
 ____TEXT____
-There is a statue depicting the new gods here...
+Aquí hay una estatua que representa a los nuevos dioses...
 ____TEXT____
-Someone has written "False idols" here with blood.
+Alguien ha escrito aquí " Ídolos falsos " con sangre.
 ____TEXT____
-There is a statue depicting the new gods here...
+Aquí hay una estatua que representa a los nuevos dioses...
 ____TEXT____
-Someone has written "False idols" here with blood.
+Alguien ha escrito aquí " Ídolos falsos " con sangre.
 ____TEXT____
-Here lies \N[19]...
+Aquí descansa \N[19]...
 ____TEXT____
-You could use \c[2]Soul stone\c[0] here...
+Podrías usar \c[2]Piedra del alma\c[0] aquí...
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
 .\|.\|.\|.
 ____TEXT____
-The \c[2]Soul stone\c[0] doesn't seem to react to his 
-remains...
+La \c[2]Piedra de alma\c[0] no parece reaccionar a sus 
+restos...
 ____TEXT____
-Here lies \N[20]...
+Aquí descansa \N[20]...
 ____TEXT____
-You could use \c[2]Soul stone\c[0] here...
+Podrías usar \c[2]Piedra del alma\c[0] aquí...
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
 .\|.\|.\|.
 ____TEXT____
-The \c[2]Soul stone\c[0] doesn't seem to react to his 
-remains...
+La \c[2]Piedra de alma\c[0] no parece reaccionar a sus 
+restos...
 ____TEXT____
-Here lies \N[21]...
+Aquí descansa \N[21]...
 ____TEXT____
-You could use \c[2]Soul stone\c[0] here...
+Podrías usar \c[2]Piedra del alma\c[0] aquí...
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
 .\|.\|.\|.
 ____TEXT____
-The \c[2]Soul stone\c[0] doesn't seem to react to his 
-remains...
+La \c[2]Piedra de alma\c[0] no parece reaccionar a sus 
+restos...
 ____TEXT____
-A flag of the Kingdom of Rondon is hanging on the wall.
+En la pared cuelga una bandera del Reino de Rondón.
 ____TEXT____
-You could tear the flag for cloth fragments...
+Podrías arrancar la bandera por fragmentos de tela...
 ___CHOICE___
-Tear the flag
-Leave
+Arranca la bandera
+Deja
 ____TEXT____
-You got a \c[2]Cloth fragment\c[0]!
+¡Conseguiste un \c[2]Fragmento de tela\c[0]!
 ____TEXT____
-A flag of the Kingdom of Rondon is hanging on the wall.
+En la pared cuelga una bandera del Reino de Rondón.
 ____TEXT____
-You feel a presence of a minor curse attached to the door.
+Sientes la presencia de una maldición menor pegada a la puerta.
 ____TEXT____
-You could cancel it's effects with your \c[2]Counter-magic\c[0].
+Podrías cancelar sus efectos con tu \c[2]Contra-magia\c[0].
 ___CHOICE___
-Use \c[2]Counter-magic\c[0]
-Leave
+Usa \c[2]Contra-magia\c[0]
+Deja
 ____TEXT____
-\c[2]Counter-magic\c[0] was succesful.
+\c[2]Contra-magia\c[0] tuvo éxito.
 ____TEXT____
-You try to open the door but it doesn't budge.
+Tratas de abrir la puerta, pero no se mueve.
 ___CHOICE___
-Investigate
-Leave
+Investigue
+Deja
 ____TEXT____
-\c[2]Purifying talisman\c[0] seems to react to the markings
-on the door.
+\c[2]Talismán purificador\c[0] parece reaccionar a las marcas
+de la puerta.
 ___CHOICE___
-Use \c[2]Purifying talisman\c[0]
-Leave
+Usa el \c[2]Talismán purificador\c[0]
+Deja
 ____TEXT____
-\c[2]Purifying talisman\c[0] burned brightly.
+\c[2]Talismán purificador\c[0] arde brillantemente.
 ____TEXT____
-An unknown force is keeping the door shut. There doesn't
-seem to be anything you could do.
+Una fuerza desconocida mantiene la puerta cerrada. No hay
+que pudieras hacer.
 ____TEXT____
-There are markings on the door that look similar to the
-text found around Eastern Sanctuaries.
+Hay marcas en la puerta que parecen similares al
+texto que se encuentra en los Santuarios del Este.
 ____TEXT____
-The Hexen table stands here omniously.
+La mesa Hexen está aquí omnipresente.
 ___CHOICE___
-Use the Hexen
-Curse equipment
-Leave
+Usa el Hexen
+Equipo de maldición
+Deja
 ---
 ---
 ---
-others
-GEMS
-GEMS
+otros
+GEMAS
+GEMAS
 gro-goroth
 ---
 sylvian
 ---
 Alll-mer
 ---
-depths
+profundidad
 ---
-endless
+interminable
 ---
-domination
+dominación
 ---
-tormented
+atormentado
 ---
-enlightenment
+iluminación
 ---
 ---
 ---
-GEMS
+GEMAS
 gro-goroth
 ---
 sylvian
 ---
 Alll-mer
 ---
-depths
+profundidad
 ---
-endless
+interminable
 ---
-domination
+dominación
 ---
-tormented
+atormentado
 ---
-enlightenment
+iluminación
 ---
-MERCENARY
-KNIGHT
-CAPTAIN
-OUTLANDER
-MARRIAGE
-DARK PRIEST
+MERCENARIO
+CABALLERO
+CAPITÁN
+FORASTERO
+MATRIMONIO
+SACERDOTE OSCURO
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]Lockpicking\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]Ganzúa\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-The skill of \c[2]Lockpicking\c[0] is engraved in your
-head!
+La habilidad de \c[2]Ganzúa\c[0] está grabada en tu
+mente!
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]Steal\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]Robar\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-The skill of \c[2]Steal\c[0] is engraved in your
-head!
+La habilidad de \c[2]Robar\c[0] está grabada en tu
+mente!
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]Necromancy\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]Necromancia\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-The skill of \c[2]Necromancy\c[0] is engraved in your
-head!
+La habilidad de \c[2]Necromancia\c[0] está grabada en tu
+mente!
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]Blood golem\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]Golem de sangre\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-The skill of \c[2]Blood golem\c[0] is engraved in your
-head!
+La habilidad de \c[2]Golem de sangre\c[0] está grabada en tu
+mente!
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]En garde\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]En garde\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-The skill of \c[2]En garde\c[0] is engraved in your
-head!
+La habilidad de \c[2]En garde\c[0] está grabada en tu
+mente!
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]Dash\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]Correr\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-The skill of \c[2]Dash\c[0] is engraved in your
-head!
+La habilidad de \c[2]Correr\c[0] está grabada en tu
+mente!
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]Dash\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]Correr\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-The skill of \c[2]Dash\c[0] is engraved in your
-head!
+La habilidad de \c[2]Correr\c[0] está grabada en tu
+mente!
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]Hurting\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]Hiriendo\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-The skill of \c[2]Hurting\c[0] is engraved in your
-head!
+La habilidad de \c[2]Hiriendo\c[0] está grabada en tu
+mente!
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]Hurting\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]Hiriendo\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-The skill of \c[2]Hurting\c[0] is engraved in your
-head!
+La habilidad de \c[2]Hiriendo\c[0] está grabada en tu
+mente!
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]Pyromancy trick\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]Truco de piromancia\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-The skill of \c[2]Pyromancy trick\c[0] is engraved in your
-head!
+La habilidad de \c[2]Truco de piromancia\c[0] está grabada en tu
+mente!
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]Defence stance\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]Posición defensiva\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-The skill of \c[2]Defence stance\c[0] is engraved in your
-head!
+La habilidad de \c[2]Posición defensiva\c[0] está grabada en tu
+mente!
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]Fast attack\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]Ataque rápido\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-The skill of \c[2]Fast attack\c[0] is engraved in your
-head!
+La habilidad de \c[2]Ataque rápido\c[0] está grabada en tu
+mente!
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]Counter\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]Contraataque \c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-The skill of \c[2]Counter\c[0] is engraved in your head!
+La habilidad de \c[2]Contraataque \c[0] está grabada en tu
+mente!
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]Black orb\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]Orbe negro\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-The skill of \c[2]Black orb\c[0] is engraved in your head!
+La habilidad de \c[2]Orbe negro\c[0] está grabada en tu
+mente!
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]Pheromones\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]Feromonas\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-The skill of \c[2]Pheromones\c[0] is engraved in your
-head!
+La habilidad de \c[2]Feromonas\c[0] está grabada en tu
+mente!
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]Leg sweep\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]Barrido de piernas\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-The skill of \c[2]Leg sweep\c[0] is engraved in your
-head!
+La habilidad de \c[2]Barrido de piernas\c[0] está grabada en tu
+mente!
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]Leg sweep\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]Barrido de piernas\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-The skill of \c[2]Leg sweep\c[0] is engraved in your
-head!
+La habilidad de \c[2]Barrido de piernas\c[0] está grabada en tu
+mente!
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]Healing whispers\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]Murmullos curativos\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-The skill of \c[2]Healing whispers\c[0] is engraved in your
-head!
+La habilidad de \c[2]Murmullos curativos\c[0] está grabada en tu
+mente!
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]Healing whispers\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]Murmullos curativos\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-The skill of \c[2]Healing whispers\c[0] is engraved in your
-head!
+La habilidad de \c[2]Murmullos curativos\c[0] está grabada en tu
+mente!
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]Loving whispers\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]Murmullos de amor\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-The skill of \c[2]Loving whispers\c[0] is engraved in
+La habilidad de \c[2]Murmullos de amor\c[0] is engraved in
 your head!
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]Devour\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]Devorar\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-The skill of \c[2]Devour\c[0] is engraved in your head!
+La habilidad de \c[2]Devorar\c[0] está grabada en tu
+mente!
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]Marksmanship\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]Puntería\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-The skill of \c[2]Marksmanship\c[0] is engraved in your head!
+La habilidad de \c[2]Puntería\c[0] está grabada en tu
+mente!
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]Marksmanship\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]Puntería\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-The skill of \c[2]Marksmanship\c[0] is engraved in your head!
+La habilidad de \c[2]Puntería\c[0] está grabada en tu
+mente!
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]War cry\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]Grito de guerra\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-The skill of \c[2]War cry\c[0] is engraved in your head!
+La habilidad de \c[2]Grito de guerra\c[0] está grabada en tu
+mente!
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]Locust swarm\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]Plaga de langostas\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-The skill of \c[2]Locust swarm\c[0] is engraved in your head!
+La habilidad de \c[2]Plaga de langostas\c[0] está grabada en tu
+mente!
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]Locust swarm\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]Plaga de langostas\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-The skill of \c[2]Locust swarm\c[0] is engraved in your head!
+La habilidad de \c[2]Plaga de langostas\c[0] está grabada en tu
+mente!
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]Blood portal\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]Portal de sangre\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-The skill of \c[2]Blood portal\c[0] is engraved in your head!
+La habilidad de \c[2]Portal de sangre\c[0] está grabada en tu
+mente!
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]Counter-magic\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]Contra-magia\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-The skill of \c[2]Counter-magic\c[0] is engraved in your head!
+La habilidad de \c[2]Contra-magia\c[0] está grabada en tu
+mente!
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]Greater blood magic\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]Gran magia de sangre\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-The skill of \c[2]Greater blood magic\c[0] is engraved in 
-your head!
+La habilidad de \c[2]Gran magia de sangre\c[0] está grabada en tu
+mente!
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]Flock of crows\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]Bandada de cuervos\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-The skill of \c[2]Flock of crows\c[0] is engraved in your 
-head!
+La habilidad de \c[2]Bandada de cuervos\c[0] está grabada en tu
+mente!
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]Mastery over insects\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]Dominio sobre los insectos\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-The skill of \c[2]Mastery over insects\c[0] is engraved 
-in your head!
+La habilidad de \c[2]Dominio sobre los insectos\c[0] está grabada en tu
+mente!
 ____TEXT____
-Use \c[2]Lesser soul\c[0] to learn \c[2]Needle worms\c[0]?
+¿Utiliza \c[2]Alma menor\c[0] para aprender \c[2]Gusanos de aguja\c[0]?
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-The skill of \c[2]Needle worms\c[0] is engraved in your 
-head!
+La habilidad de \c[2]Gusanos de aguja\c[0] está grabada en tu
+mente!
 ____TEXT____
-\c[7]Masked man\c[0]
+\c[7]Hombre enmascarado\c[0]
 "..."
 ____TEXT____
-The mysterious man looks like a war veteran almost. His
-right arm seems to be missing and there is something very
-intimidating in his stature.
+El hombre misterioso parece un veterano de guerra. Su
+brazo derecho parece haberse perdido y hay algo muy
+intimidante en su figura.
 ___CHOICE___
-"Who are you?"
-"What are you doing here?"
-Attack him
-Ignore
+"¿Quién eres?"
+"¿Qué estás haciendo aquí?"
+Atácalo.
+Ignorarlo
 ____TEXT____
-\c[7]Masked man\c[0]
-"What difference does it make?"
+\c[7]Hombre enmascarado\c[0]
+"¿Qué diferencia hace?"
 ____TEXT____
-\c[7]Masked man\c[0]
-"Not like we are going to run into each other ever again."
+\c[7]Hombre enmascarado\c[0]
+"No es que vayamos a encontrarnos otra vez".
 ___CHOICE___
-"You never know..."
-"Fair enough."
+"Nunca sabes..."
+"Es razonable".
 ____TEXT____
-\c[7]Masked man\c[0]
+\c[7]Hombre enmascarado\c[0]
 "..."
 ____TEXT____
-\c[7]Masked man\c[0]
-"On the second thought..."
+\c[7]Hombre enmascarado\c[0]
+"Pensándolo bien..."
 ____TEXT____
 \c[7]Isayah\c[0]
-"The name is Isayah."
+"El nombre es Isayah."
 ____TEXT____
 \c[7]Isayah\c[0]
-"You could call me... a veteran of these dungeons."
+"Podrías llamarme... un veterano de estas mazmorras".
 ____TEXT____
 \c[7]Isayah\c[0]
-"Some time ago I found a manuscript concerning the ancient
-walls this fortress holds..."
+"Hace cierto tiempo encontré un manuscrito relativo a las antiguas
+muros que contiene esta fortaleza..."
 ____TEXT____
 \c[7]Isayah\c[0]
-"There were multiple pages that were maps of sorts..."
+"Había varias páginas que eran como mapas..."
 ____TEXT____
 \c[7]Isayah\c[0]
-"I was able to locate few of the map locations and there
-were buried treasures hidden where the marker was set."
+"Pude localizar algunas de las posiciones del mapa y había
+había tesoros enterrados donde estaba el marcador".
 ____TEXT____
 \c[7]Isayah\c[0]
-"A couple of the maps are complete mystery to me however..."
+"Sin embargo, un par de los mapas son un gran misterio para mí...".
 ____TEXT____
 \c[7]Isayah\c[0]
-"Maybe they're hidden somewhere so deep where I simply
-couldn't get yet, or maybe there's something I'm missing."
+"Tal vez están escondidos en algún lugar tan profundo donde yo simplemente
+aún no pude llegar, o tal vez hay algo que me escapa".
 ____TEXT____
 \c[7]Isayah\c[0]
-"In any case, I'm done with this place. I've played with my
-luck long enough."
+"En cualquier caso, he terminado con este lugar. He jugado con mi
+suerte lo suficiente".
 ____TEXT____
 \c[7]Isayah\c[0]
-"I can sell you the maps, for say... \c[2]50 silver coins\c[0]."
+"Puedo venderte los mapas, digamos... \c[2]50 monedas de plata\c[0]."
 ___CHOICE___
-"It's a deal."
-"How about 40 silver coins?"
-How about 20 silver coins?"
-"How do I know the maps are legit?"
+"Es un trato".
+"¿Qué te parece 40 monedas de plata?"
+"¿Qué te parece 20 monedas de plata?"
+"¿Cómo sé que los mapas son legítimos?
 ____TEXT____
-You get \c[2]Map #1\c[0] and \c[2]Map #2\c[0]."
-____TEXT____
-\c[7]Isayah\c[0]
-"Who knows... Maybe you can even find them."
+Obtienes \c[2]Mapa #1\c[0] y \c[2]Mapa #2\c[0]".
 ____TEXT____
 \c[7]Isayah\c[0]
-"Eh, you don't have enough?"
+"Quién sabe... Tal vez aún puedes hallarlos".
+____TEXT____
+\c[7]Isayah\c[0]
+"¿Eh, no tienes suficiente?"
 ____TEXT____
 \c[7]Isayah\c[0]
 "..."
@@ -3081,33 +3031,33 @@ ____TEXT____
 "No."
 ____TEXT____
 \c[7]Isayah\c[0]
-"Are you kidding me? I don't think so."
+" ¿Estás bromeando? No me vale".
 ____TEXT____
 \c[7]Isayah\c[0]
-"I got no ways to prove my words. So yeah..."
+"No tengo forma de probar mis palabras. Así que, vale..."
 ____TEXT____
-\c[7]Masked man\c[0]
-"I got my own business here..."
+\c[7]Hombre enmascarado\c[0]
+"Tengo mi propio negocio aquí..."
 ____TEXT____
-\c[7]Masked man\c[0]
-"Ha! I've witnessed horror you couldn't even begin to 
-imagine. You got no chance."
+\c[7]Hombre enmascarado\c[0]
+"¡Ja! He visto horrores que ni siquiera podrías empezar a 
+imaginar. No tienes ninguna esperanza".
 ____TEXT____
 \c[7]Isayah\c[0]
-"I can sell you the maps, for \c[2]50 silver coins\c[0].
+"Puedo venderte los mapas, por \c[2]50 monedas de plata\c[0].
 ___CHOICE___
-"It's a deal."
-"How about 40 silver coins?"
-How about 20 silver coins?"
-"How do I know the maps are legit?"
+"Es un trato".
+"¿Qué te parece 40 monedas de plata?"
+"¿Qué te parece 20 monedas de plata?"
+"¿Cómo sé que los mapas son legítimos?
 ____TEXT____
-You get \c[2]Map #1\c[0] and \c[2]Map #2\c[0]."
-____TEXT____
-\c[7]Isayah\c[0]
-"Who knows... Maybe you can even find them."
+Obtienes \c[2]Mapa #1\c[0] y \c[2]Mapa #2\c[0]".
 ____TEXT____
 \c[7]Isayah\c[0]
-"Eh, you don't have enough?"
+"Quién sabe... Tal vez aún puedes hallarlos".
+____TEXT____
+\c[7]Isayah\c[0]
+"¿Eh, no tienes suficiente?"
 ____TEXT____
 \c[7]Isayah\c[0]
 "..."
@@ -3116,412 +3066,395 @@ ____TEXT____
 "No."
 ____TEXT____
 \c[7]Isayah\c[0]
-"Are you kidding me? I don't think so."
+" ¿Estás bromeando? No me vale".
 ____TEXT____
 \c[7]Isayah\c[0]
-"I got no ways to prove my words. So yeah..."
+"No tengo forma de probar mis palabras. Así que, vale..."
 ____TEXT____
 \c[7]Isayah\c[0]
 "You clearly don't take me seriously. So I'm done with you."
 ____TEXT____
 \c[7]Isayah\c[0]
-"Who knows... Maybe you can even find them."
+"Quién sabe... Tal vez aún puedes hallarlos".
 ____TEXT____
-You could use \c[2]Soul stone\c[0] here...
+Podrías usar \c[2]Piedra del alma\c[0] aquí...
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-The \c[2]Soul stone\c[0] changed it's appearance.
-The stone is radiating faint blue light.
+La \c[2]Piedra del alma\c[0] ha cambiado de apariencia.
 ____TEXT____
-You could \c[2]Devour\c[0] the remains of the dead guard.
+Podrías \c[2]Devorar\c[0] los restos del guardia muerto.
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-You devoured the remains.
+Has devorado los restos.
 ____TEXT____
-You could use \c[2]Demon seed\c[0] on the body.
+Podrías usar \c[2]Semilla demoníaca\c[0] en el cuerpo.
 ___CHOICE___
-Use 
+Utiliza 
 No
 ____TEXT____
-A baby sprouted out of your seed!
+¡Un bebé brotó de tu semilla!
 ____TEXT____
-You take the baby with you.
+Te llevas al bebé contigo.
 ____TEXT____
-You do not have enough sanity to perform this act.
+No tienes suficiente sanidad para hacer ese acto.
 ____TEXT____
-Isayah is down...
+Isayah ha caído...
 ___CHOICE___
-Beat him
-Search him
-Skin him
-Leave him
+Golpearlo
+Escurcarlo
+Despellejarlo
+Déjalo
 ____TEXT____
-You carefully kicked him, watching out for any skin contact.
+Le das una patada con cuidado, vigilando que no entre en contacto con la piel.
 ____TEXT____
-You find an \c[2]Iron mask\c[0] and an \c[2]Orange vial\c[0].
+Encuentras una \c[2]Máscara de hierro\c[0] y un \c[2]Frasco anaranjado\c[0].
 ____TEXT____
-You also find \c[2]Map #1\c[0] and \c[2]Map #2\c[0].
+Encuentras una \c[2]Máscara de hierro\c[0] y un \c[2]Frasco anaranjado\c[0].
 ____TEXT____
-Skinning him would sere no purpose.
+Despellejarlo no serviría para nada.
 ____TEXT____
-Isayah is down...
+Isayah ha caído...
 ___CHOICE___
-Beat him
-Search him
-Leave him
+Golpearlo
+Escurcarlo
+Déjalo
 ____TEXT____
-You carefully kicked him, watching out for any skin contact.
+Le das una patada con cuidado, vigilando que no entre en contacto con la piel.
 ____TEXT____
-You find an \c[2]Iron mask\c[0] and an \c[2]Orange vial\c[0].
+Encuentras una \c[2]Máscara de hierro\c[0] y un \c[2]Frasco anaranjado\c[0].
 ____TEXT____
-You also find \c[2]Map #1\c[0] and \c[2]Map #2\c[0].
+Encuentras una \c[2]Máscara de hierro\c[0] y un \c[2]Frasco anaranjado\c[0].
 ____TEXT____
-You could use \c[2]Soul stone\c[0] here...
+Podrías usar \c[2]Piedra del alma\c[0] aquí...
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-The \c[2]Soul stone\c[0] changed it's appearance.
-The stone is radiating faint blue light.
+La \c[2]Piedra del alma\c[0] ha cambiado de apariencia.
 ____TEXT____
-You could \c[2]Devour\c[0] the remains of the dead guard.
+Podrías \c[2]Devorar\c[0] los restos del guardia muerto.
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-You devoured the remains.
+Has devorado los restos.
 ____TEXT____
-You could use \c[2]Demon seed\c[0] on the dead guard.
+Podrías usar \c[2]Semilla demoníaca\c[0] al guardia muerto.
 ___CHOICE___
-Use 
+Utiliza 
 No
 ____TEXT____
-A baby sprouted out of your seed!
+¡Un bebé brotó de tu semilla!
 ____TEXT____
-You take the baby with you.
+Te llevas al bebé contigo.
 ____TEXT____
-You do not have enough sanity to perform this act.
+No tienes suficiente sanidad para hacer ese acto.
 ____TEXT____
-Isayah is down...
+Isayah ha caído...
 ___CHOICE___
-Beat him
-Search him
-Skin him
-Leave him
+Golpearlo
+Escurcarlo
+Despellejarlo
+Déjalo
 ____TEXT____
-You carefully kicked him, watching out for any skin contact.
+Le das una patada con cuidado, vigilando que no entre en contacto con la piel.
 ____TEXT____
-Isayah got nothing left with him.
+A Isayah no le queda nada.
 ____TEXT____
-Skinning the man serves no purpose.
+Despellejar al hombre no sirve para nada.
 ____TEXT____
-Isayah is down...
+Isayah ha caído...
 ___CHOICE___
-Beat him
-Search him
-Leave him
+Golpearlo
+Escurcarlo
+Déjalo
 ____TEXT____
-You carefully kicked him, watching out for any skin contact.
+Le das una patada con cuidado, vigilando que no entre en contacto con la piel.
 ____TEXT____
-Isayah got nothing left with him.
+A Isayah no le queda nada.
 ____TEXT____
-You could use \c[2]Soul stone\c[0] here...
+Podrías usar \c[2]Piedra del alma\c[0] aquí...
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-The \c[2]Soul stone\c[0] changed it's appearance.
-The stone is radiating faint blue light.
+La \c[2]Piedra del alma\c[0] ha cambiado de apariencia.
 ____TEXT____
-A pile of flesh remains here...
+Aquí queda un rastro de cadáver...
 ____TEXT____
-There is something written here...
+Hay algo escrito aquí...
 ____TEXT____
-"The hexen creates a connection to the gods, both new and
-the old."
+"El hexen crea una conexión con los dioses, para los nuevos y los
+los antiguos".
 ____TEXT____
-"To get closer to the older gods, you must work your way
-up and gain their affinity. With each circle you get closer
-to them."
+"Para acercarte a los dioses más antiguos, debes avanzar
+y ganar su afinidad. Con cada círculo te acercas
+a ellos".
 ____TEXT____
-"The new gods only pass on their knowledge to those who
-share the same birth sign and soul with them."
+"Los nuevos dioses sólo transmiten sus secretos a quienes...
+comparten el mismo símbolo de nacimiento y alma con ellos".
 ____TEXT____
-There is something written here...
+Hay algo escrito aquí...
 ____TEXT____
-"The hexen creates a connection to the gods, both new and
-the old."
+"El hexen crea una conexión con los dioses, para los nuevos y los
+los antiguos".
 ____TEXT____
-"To get closer to the older gods, you must work your way
-up and gain their affinity. With each circle you get closer
-to them."
+"Para acercarte a los dioses más antiguos, debes avanzar
+y ganar su afinidad. Con cada círculo te acercas
+a ellos".
 ____TEXT____
-"The new gods only pass on their knowledge to those who
-share the same birth sign and soul with them."
+"Los nuevos dioses sólo transmiten sus secretos a quienes
+comparten el mismo símbolo de nacimiento y alma con ellos".
 ____TEXT____
-You managed to defeat the spectre that was after your sword.
+Has conseguido vencer al fantasma que perseguía tu espada.
 ____TEXT____
-Like distant winds carried from from the far-away lands 
-you hear whispers...
+Como vientos lejanos traídos de tierras lejanas 
+oyes murmullos...
 ____TEXT____
-\c[7]Assassin spectre\c[0]
-"Finish... my...task..."
+\c[7]Fantasma asesino\c[0]
+"Termina... mi... misión..."
 ____TEXT____
-\c[7]Assassin spectre\c[0]
-"O... worthy..."
+\c[7]Fantasma asesino\c[0]
+"O... digno..."
 ____TEXT____
-The \c[2]Eastern sword\c[0] was purified!
+¡La \c[2]Espada del Este[0] fue purificada!
 ____TEXT____
-The engraving on the hilt becomes clear to you now.
-\c[2]Eastern sword\c[0] was purified and it revealed its
-true name to you - the Black steel of the East.
+El texto de la empuñadura se vuelve claro para ti ahora.
+\c[2]Espada del Este\c[0] fue purificada y te reveló su
+verdadero nombre - el Hierro en Negro del Este.
 ____TEXT____
-You managed to defeat the spectre that was after your sword.
+Has conseguido vencer al fantasma que perseguía tu espada.
 ____TEXT____
-Like distant winds carried from from the far-away lands 
-you hear whispers...
+Como vientos lejanos traídos de tierras lejanas 
+oyes murmullos...
 ____TEXT____
-\c[7]Assassin spectre\c[0]
-"Finish... my...task..."
+\c[7]Fantasma asesino\c[0]
+"Termina... mi... misión..."
 ____TEXT____
-\c[7]Assassin spectre\c[0]
-"O... worthy..."
+\c[7]Fantasma asesino\c[0]
+"O... digno..."
 ____TEXT____
-The \c[2]Eastern sword\c[0] was purified!
+¡La \c[2]Espada del Este[0] fue purificada!
 ____TEXT____
-The engraving on the hilt becomes clear to you now.
-\c[2]Eastern sword\c[0] was purified and it revealed its
-true name to you - the Black steel of the East.
+El texto de la empuñadura se vuelve claro para ti ahora.
+\c[2]Espada del Este\c[0] fue purificada y te reveló su
+verdadero nombre - el Hierro en Negro del Este.
 ____TEXT____
-You managed to defeat the spectre that was after your sword.
+Has conseguido vencer al fantasma que perseguía tu espada.
 ____TEXT____
-Like distant winds carried from from the far-away lands 
-you hear whispers...
+Como vientos lejanos traídos de tierras lejanas 
+oyes murmullos...
 ____TEXT____
-\c[7]Assassin spectre\c[0]
-"Finish... my...task..."
+\c[7]Fantasma asesino\c[0]
+"Termina... mi... misión..."
 ____TEXT____
-\c[7]Assassin spectre\c[0]
-"O... worthy..."
+\c[7]Fantasma asesino\c[0]
+"O... digno..."
 ____TEXT____
-The \c[2]Eastern sword\c[0] was purified!
+¡La \c[2]Espada del Este[0] fue purificada!
 ____TEXT____
-The engraving on the hilt becomes clear to you now.
-\c[2]Eastern sword\c[0] was purified and it revealed its
-true name to you - the Black steel of the East.
+El texto de la empuñadura se vuelve claro para ti ahora.
+\c[2]Espada del Este\c[0] fue purificada y te reveló su
+verdadero nombre - el Hierro en Negro del Este.
 ____TEXT____
-You managed to defeat the spectre that was after your sword.
+Has conseguido vencer al fantasma que perseguía tu espada.
 ____TEXT____
-Like distant winds carried from from the far-away lands 
-you hear whispers...
+Como vientos lejanos traídos de tierras lejanas 
+oyes murmullos...
 ____TEXT____
-\c[7]Assassin spectre\c[0]
-"Finish... my...task..."
+\c[7]Fantasma asesino\c[0]
+"Termina... mi... misión..."
 ____TEXT____
-\c[7]Assassin spectre\c[0]
-"O... worthy..."
+\c[7]Fantasma asesino\c[0]
+"O... digno..."
 ____TEXT____
-The \c[2]Eastern sword\c[0] was purified!
+¡La \c[2]Espada del Este[0] fue purificada!
 ____TEXT____
-The engraving on the hilt becomes clear to you now.
-\c[2]Eastern sword\c[0] was purified and it revealed its
-true name to you - the Black steel of the East.
+El texto de la empuñadura se vuelve claro para ti ahora.
+\c[2]Espada del Este\c[0] fue purificada y te reveló su
+verdadero nombre - el Hierro en Negro del Este.
 ____TEXT____
-You managed to defeat the spectre that was after your sword.
+Has conseguido vencer al fantasma que perseguía tu espada.
 ____TEXT____
-Like distant winds carried from from the far-away lands 
-you hear whispers...
+Como vientos lejanos traídos de tierras lejanas 
+oyes murmullos...
 ____TEXT____
-\c[7]Assassin spectre\c[0]
-"Finish... my...task..."
+\c[7]Fantasma asesino\c[0]
+"Termina... mi... misión..."
 ____TEXT____
-\c[7]Assassin spectre\c[0]
-"O... worthy..."
+\c[7]Fantasma asesino\c[0]
+"O... digno..."
 ____TEXT____
-The \c[2]Eastern sword\c[0] was purified!
+¡La \c[2]Espada del Este[0] fue purificada!
 ____TEXT____
-The engraving on the hilt becomes clear to you now.
-\c[2]Eastern sword\c[0] was purified and it revealed its
-true name to you - the Black steel of the East.
+El texto de la empuñadura se vuelve claro para ti ahora.
+\c[2]Espada del Este\c[0] fue purificada y te reveló su
+verdadero nombre - el Hierro en Negro del Este.
 ____TEXT____
-You managed to defeat the spectre that was after your sword.
+Has conseguido vencer al fantasma que perseguía tu espada.
 ____TEXT____
-Like distant winds carried from from the far-away lands 
-you hear whispers...
+Como vientos lejanos traídos de tierras lejanas 
+oyes murmullos...
 ____TEXT____
-\c[7]Assassin spectre\c[0]
-"Finish... my...task..."
+\c[7]Fantasma asesino\c[0]
+"Termina... mi... misión..."
 ____TEXT____
-\c[7]Assassin spectre\c[0]
-"O... worthy..."
+\c[7]Fantasma asesino\c[0]
+"O... digno..."
 ____TEXT____
-The \c[2]Eastern sword\c[0] was purified!
+¡La \c[2]Espada del Este[0] fue purificada!
 ____TEXT____
-The engraving on the hilt becomes clear to you now.
-\c[2]Eastern sword\c[0] was purified and it revealed its
-true name to you - the Black steel of the East.
-<follower touch>
+El texto de la empuñadura se vuelve claro para ti ahora.
+\c[2]Espada del Este\c[0] fue purificada y te reveló su
+verdadero nombre - el Hierro en Negro del Este.
+<seguidor toque>
 ____TEXT____
-You could use \c[2]Soul stone\c[0] here...
+Podrías usar \c[2]Piedra del alma\c[0] aquí...
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-The \c[2]Soul stone\c[0] changed it's appearance.
-The stone is radiating faint blue light.
+La \c[2]Piedra del alma\c[0] ha cambiado de apariencia.
 ____TEXT____
-You could \c[2]Devour\c[0] the remains of the dead hound.
+Podrías \c[2]Devorar\c[0] los restos del sabueso muerto.
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-You devoured the remains.
+Has devorado los restos.
 ____TEXT____
-You could use \c[2]Demon seed\c[0] on the cavewolf.
+Podrías usar \c[2]Semilla demonica\c[0] en el lobo de las cavernas.
 ___CHOICE___
-Use 
+Utiliza 
 No
 ____TEXT____
-A baby sprouted out of your seed!
+¡Un bebé brotó de tu semilla!
 ____TEXT____
-You take the baby with you.
+Te llevas al bebé contigo.
 ____TEXT____
-You do not have enough sanity to perform this act.
+No tienes suficiente sanidad para hacer ese acto.
 ____TEXT____
-A wild hound lies dead on the ground.
+Un perro salvaje está muerto en el suelo.
 ___CHOICE___
-Beat him
-Search him
-Leave
+Golpéalo.
+Escurcarlo
+Deja
 ____TEXT____
-The hound is definitely dead.
+El sabueso está sin duda muerto.
 ____TEXT____
-The hound doesn't appear to have anything.
+El sabueso no parece tener nada.
 ____TEXT____
-You could use \c[2]Soul stone\c[0] here...
+Podrías usar \c[2]Piedra del alma\c[0] aquí...
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-The \c[2]Soul stone\c[0] changed it's appearance.
-The stone is radiating faint blue light.
+La \c[2]Piedra del alma\c[0] ha cambiado de apariencia.
 ____TEXT____
-A pile of flesh remains here...
-<follower touch>
+Aquí queda un rastro de cadáver...
+<seguidor toque>
 ____TEXT____
-You could use \c[2]Soul stone\c[0] here...
+Podrías usar \c[2]Piedra del alma\c[0] aquí...
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-The \c[2]Soul stone\c[0] changed it's appearance.
-The stone is radiating faint blue light.
+La \c[2]Piedra del alma\c[0] ha cambiado de apariencia.
 ____TEXT____
-You could \c[2]Devour\c[0] the remains of the dead hound.
+Podrías \c[2]Devorar\c[0] los restos del sabueso muerto.
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-You devoured the remains.
+Has devorado los restos.
 ____TEXT____
-You could use \c[2]Demon seed\c[0] on the cavewolf.
+Podrías usar \c[2]Semilla demonica\c[0] en el lobo de las cavernas.
 ___CHOICE___
-Use 
+Utiliza 
 No
 ____TEXT____
-A baby sprouted out of your seed!
+¡Un bebé brotó de tu semilla!
 ____TEXT____
-You take the baby with you.
+Te llevas al bebé contigo.
 ____TEXT____
-You do not have enough sanity to perform this act.
+No tienes suficiente sanidad para hacer ese acto.
 ____TEXT____
-A wild hound lies dead on the ground.
+Un perro salvaje está muerto en el suelo.
 ___CHOICE___
-Beat him
-Search him
-Leave
+Golpéalo.
+Escurca him
+Deja
 ____TEXT____
-The hound is definitely dead.
+El sabueso está sin duda muerto.
 ____TEXT____
-The hound doesn't appear to have anything.
+El sabueso no parece tener nada.
 ____TEXT____
-You could use \c[2]Soul stone\c[0] here...
+Podrías usar \c[2]Piedra del alma\c[0] aquí...
 ___CHOICE___
-Yes
+Sí
 No
 ____TEXT____
-The \c[2]Soul stone\c[0] changed it's appearance.
-The stone is radiating faint blue light.
+La \c[2]Piedra del alma\c[0] ha cambiado de apariencia.
 ____TEXT____
-A pile of flesh remains here...
+Aquí queda un rastro de cadáver...
 ____TEXT____
-Awful smell comes from all the rotten meat on 
-the table! Plates are covered with maggots.
+Un olor horrible viene de toda la carne podrida en 
+la mesa. Los platos están cubiertos de gusanos.
 ____TEXT____
-It does make you wonder if someone actually eats this
-stuff. After all, why have them here otherwise?
+Te hace pensar si alguien realmente come estas
+cosas. Al fin de cuentas, ¿para qué tenerlas aquí si no?
 ___CHOICE___
-Take some
-Leave it
+Toma un poco
+Déjalo
 ____TEXT____
-You take some \c[2]Rotten meat\c[0] with you.
-It's soft and squishy, barely able to hold together.
+Te llevas un poco de \c[2]Carne podrida\c[0].
+Es suave y blanda, apenas capaz de mantenerse unida.
 ____TEXT____
-One of the maggots runs up your arm.
+Uno de los gusanos te sube por el brazo.
 ____TEXT____
-Awful smell comes from all the rotten meat on 
-the table! Plates are covered with maggots.
+Un olor horrible viene de toda la carne podrida en 
+la mesa. Los platos están cubiertos de gusanos.
 ____TEXT____
-It does make you wonder if someone actually eats this
-stuff. After all, why have them here otherwise?
+Te hace pensar si alguien realmente come estas
+cosas. Al fin de cuentas, ¿para qué tenerlas aquí si no?
 ____TEXT____
-You feel a bit rested, even though you had troubling
-dreams...
+Te sientes un poco descansado, aunque has tenido malos sueños...
 ___CHOICE___
-HEADS
-TAILS
+CABEZAS
+COLA
 ____TEXT____
-You feel a bit rested, even though you had troubling
-dreams...
+Te sientes un poco descansado, aunque has tenido malos sueños...
 ____TEXT____
-Your rest is interrupted. You wake up to a strong sensation
-of killing intent.
+Tu descanso es interrumpido. Te despiertas con una fuerte sensación
+de intento de asesinato.
 --------
 ____TEXT____
-The bed is in a bad shape. The dungeons feel very dingy and 
-unsafe but you could have a brief respite here if you choosed 
-to do so...
+La cama está en mal estado. Las mazmorras son muy sucias e inseguras pero podrías tener un breve refugio aquí si lo eliges hacerlo...
 ___CHOICE___
-Tear the blanket
-Save & Rest
-Leave
+Rompe la cobija
+Salva & Descansa
+Deja
 ____TEXT____
-You got a \c[2]Cloth fragment\c[0]!
+¡Conseguiste un \c[2]Fragmento de tela\c[0]!
 ____TEXT____
-Your adrenaline is running high, you can't rest at this very
-moment.
+Tu adrenalina está por los cielos, no puedes descansar en este momento.
 ____TEXT____
-The bed is in a bad shape. The dungeons feel very dingy and 
-unsafe, something tells you not to sleep here.
+La cama está en mal estado. Las mazmorras parecen muy sucias e inseguras, algo te dice que no debes dormir aquí.
 ___CHOICE___
-Tear the blanket
-Leave
+Rompe la cobija
+Deja
 ____TEXT____
-You got a \c[2]Cloth fragment\c[0]!
+¡Conseguiste un \c[2]Fragmento de tela\c[0]!
 ____TEXT____
-The bed is in a bad shape. The dungeons feel very dingy and 
-unsafe but you could have a brief respite here if you choosed 
-to do so...
+La cama está en mal estado. Las mazmorras son muy sucias e inseguras pero podrías tener un breve refugio aquí si lo eliges hacerlo...
 ___CHOICE___
-Save & Rest
-Leave
+Salva & Descansa
+Deja
 ____TEXT____
-Your adrenaline is running high, you can't rest at this very
-moment.
+Tu adrenalina está por los cielos, no puedes descansar en este momento.
 ____TEXT____
-The bed is in a bad shape. The dungeons feel very dingy and 
-unsafe, something tells you not to sleep here.
+La cama está en mal estado. Las mazmorras parecen muy sucias e inseguras, algo te dice que no debes dormir aquí.
