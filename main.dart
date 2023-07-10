@@ -66,7 +66,9 @@ class JsonProcessor {
       await for (final file in files) {
         if (file is File) {
           final fileName = file.path.split('\\').last;
-          await processFile(fileName);
+          if (fileName.endsWith('.json')) {
+            await processFile(fileName);
+          }
         }
       }
     } else {
@@ -272,7 +274,8 @@ class JsonProcessor {
         continue;
       }
       final enemyData = Enemy.fromJson(jsonData[i]);
-      print('enemyData.name: ${enemyData.name}'); // ! Check it
+      await _postTranslatedString('_____ENEMIES_____');
+      enemyData.name = await _getTranslatedString(enemyData.name);
       jsonData[i] = enemyData.toJson();
     }
   }
