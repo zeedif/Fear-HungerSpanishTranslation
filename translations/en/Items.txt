@@ -1,0 +1,784 @@
+_____ITEMS_____
+Ancient book
+An ancient looking book, with grotesque leather covers.
+You feel great urge to read the book.
+_____ITEMS_____
+Book of the Forgotten Memories
+A book with fine decorated covers. The book radiates
+certain dignity.
+_____ITEMS_____
+Recipes of the 15th century
+The book contains recipes of various meat dishes.
+_____ITEMS_____
+Poems of love and torment
+A perfect collection of love letters written by
+the storied hero Ronn Chambara.
+_____ITEMS_____
+Torch
+A wooden stick with rags wrapped around it to prolong its
+burning. Slows down the effects of the darkness when used.
+_____ITEMS_____
+Flashlight
+
+_____ITEMS_____
+Tinderbox
+Use to light a fire. Light brings warmth and safety
+and keeps fear in check.
+_____ITEMS_____
+Cloth fragment
+Cloth can be used to tie up small wounds and stop
+bleeding.
+_____ITEMS_____
+Glass vial
+A small vial. Typically used with alchemy.
+_____ITEMS_____
+Murky vial
+A vial full of murky liquid. Highly flammable.
+_____ITEMS_____
+Black vial
+A vial full of mysterious black liquid.
+_____ITEMS_____
+Oil
+A vial full of oil. Flammable liquid.
+_____ITEMS_____
+Alchemillia vol. 2
+A book containing recipes for beginner class
+alchemy.
+_____ITEMS_____
+Meatpie
+Old fashioned meatpie. Rather easy to do.
+_____ITEMS_____
+Egg
+An egg of bird or lizard origin. Who knows really?
+_____ITEMS_____
+Dried meat
+Strips of meat, dried to prevent spoiling.
+_____ITEMS_____
+Wheat flour
+Grinded wheat, used for human consumption.
+_____ITEMS_____
+Captain's orders
+Orders written by the captain in charge of the
+dungeons of fear and hunger.
+_____ITEMS_____
+List of inmates
+A list of all the inmates locked down 
+in these dungeons.
+_____ITEMS_____
+Small key
+A rusty worn-out key.
+_____ITEMS_____
+Rotten Meat
+Disgusting piece of meat. Its use is questionable.
+Food poisoning is very likely.
+_____ITEMS_____
+Captain's diary 1
+A brief take from the diary of the captain.
+_____ITEMS_____
+Ma'havre
+A book about the ancient city Ma'habre.
+_____ITEMS_____
+Studies of Gro-goroth I
+A book about the older god Gro-goroth.
+_____ITEMS_____
+The Fellowship ch.1
+This book tells the tale of the legendary fellowship
+that would be known in this day as the new gods.
+_____ITEMS_____
+Pinecone
+A pinecone. Someday it might grow out
+to be a tree.
+_____ITEMS_____
+Stick
+A cut tree branch. It might be useful in some
+situations.
+_____ITEMS_____
+Blue vial
+A vial full of blue liquid.
+_____ITEMS_____
+Priest's lantern
+A lantern from a dark priest. You can toss it
+at your enemies for a small fire attack.
+_____ITEMS_____
+Bottle of whiskey
+A bottle of old whiskey. Helps you keep sane in
+the ever-pressing darkness.
+_____ITEMS_____
+Moldy bread
+A dried up bread with some mold already growing on it.
+Gives momentary ease against hunger.
+_____ITEMS_____
+Captain's diary 1
+A diary written by the captain in charge of the
+dungeons of fear and hunger.
+_____ITEMS_____
+Yellow vial
+A vial full of yellow colored muckus. The smell is very salty,
+but it might just be edible...
+_____ITEMS_____
+Blood vial
+A vial full of blood.
+_____ITEMS_____
+Torturer's notes 1
+Notes written by a torturer.
+_____ITEMS_____
+Studies of Alll-mer I
+A book about the older god Alll-mer.
+_____ITEMS_____
+Cheese
+An old dried up cheese. It has pretty bad smell.
+_____ITEMS_____
+Ale
+A bottle of ale. The ale inside is murky. Helps you 
+keep sane in the ever-pressing darkness.
+_____ITEMS_____
+Studies of Sylvian I
+A book about the older god Sylvian.
+_____ITEMS_____
+Book of enlightenment
+Monks from the east have written this book.
+_____ITEMS_____
+Vegetable pie
+Old fashioned pie made of carrots and cabbage.
+_____ITEMS_____
+Carrot
+Perfectly edible carrot.
+_____ITEMS_____
+Cabbage
+A cabbage with few rotten leaves. Otherwise in 
+perfect condition.
+_____ITEMS_____
+Skinning knife
+A small knife used for skinning animals and other
+living creatures.
+_____ITEMS_____
+Guard skin
+A skin from a prison guard.
+_____ITEMS_____
+Pale skin
+A skin from a ghoul.
+_____ITEMS_____
+Assassin's handbook I
+The book contains instructions on how to make disguises
+from animal leathers.
+_____ITEMS_____
+Cell keys F3
+A set of keys.
+_____ITEMS_____
+Mockup book
+Empty book with just wooden covers.
+_____ITEMS_____
+Lockpick
+Lockpicks can break easily. It requires training
+to succesfully pick a lock.
+_____ITEMS_____
+2F key
+A key found from Trortur the torturer.
+_____ITEMS_____
+White vial
+A vial full of white colored liquid. Works as an
+antidote to poisoning.
+_____ITEMS_____
+Purple vial
+A vial full of purple colored liquid. Slowly working,
+but potent poison.
+_____ITEMS_____
+Red vial
+A vial full of red colored liquid. Highly corrosive.
+Can be used to melt certain objects.
+_____ITEMS_____
+Fetus
+A living and breathing fetus. Seems to be in pain.
+_____ITEMS_____
+Creation of life I
+A book containing a recipe for advanced alchemy.
+_____ITEMS_____
+Gnome milk
+A vial full of yellow colored gnome milk.
+_____ITEMS_____
+Dirt
+Looks like feces, smells like feces... But why
+would anyone be carrying this?
+_____ITEMS_____
+Silver coin
+Common currency outside. They might have value 
+in these dungeons too...
+_____ITEMS_____
+Gnome egg
+An egg found inside the cavemother's body.
+_____ITEMS_____
+Green vial
+A vial full of green colored liquid. The smell makes your
+muscles contract and heightens your senses.
+_____ITEMS_____
+Bacon & eggs
+A great way to start new day - if not a little bit
+heavy on your stomach.
+_____ITEMS_____
+Mix'n'match stew
+A stew with great taste. It's not every day you get
+to eat this well.
+_____ITEMS_____
+Tomato
+The color of the tomato is a little pale, suggesting
+it hasn't seen much sun.
+_____ITEMS_____
+Dried mushroom
+A dried mushroom. Goes without spoiling for a long
+period of time.
+_____ITEMS_____
+Glow mushroom
+Mushroom eminates pale light. It's smell is off.
+_____ITEMS_____
+Light blue vial
+A vial full of light blue liquid.
+_____ITEMS_____
+Salami
+A Dry piece of salami. Made from horse meat.
+_____ITEMS_____
+Blueberries
+Rather fresh pile of blue berries. They are very
+healthy!
+_____ITEMS_____
+Blueberry pie
+Old fashioned pie made of blueberries. Tasty and 
+healthy in same package!
+_____ITEMS_____
+Nitroglycerin powder
+White powder of nitroglycerin. Mixed with right
+elements, you can get something out of this...
+_____ITEMS_____
+Opium powder
+If you had a pipe, you could smoke this. It has
+calming and fear reducing effects.
+_____ITEMS_____
+Pipe
+You could smoke something with this.
+_____ITEMS_____
+Tobacco
+A rare luxury product from the new continent, the dark
+lands of Vinland. Can be smoked with a pipe.
+_____ITEMS_____
+Iron arrow
+An arrow with an iron tip. Specifically used for long range
+sharpshooting. If you have a bow, use [SHIFT] to shoot.
+_____ITEMS_____
+Bear trap
+A strong contraption that will cause severe damage.
+_____ITEMS_____
+Diamond
+A clear diamond that radiates slight light. It would be
+worth a lot of money outside these dungeons.
+_____ITEMS_____
+Orange vial
+A vial full of orange colored liquid. Just smelling
+the liquid gets your adrenaline running...
+_____ITEMS_____
+Explosive vial
+A vial full of explosive liquids. Can be used to clear
+cave-ins or other rocks and rubble.
+_____ITEMS_____
+The Tale of the Pocketcat I
+A childrens fairy tale about the Pocketcat. It's the 
+first chapter.
+_____ITEMS_____
+Captain's diary 2
+A brief take from the diary of the captain.
+_____ITEMS_____
+Captain's diary 3
+A brief take from the diary of the captain.
+_____ITEMS_____
+Blood & Flower magic I
+A book about the teachings of the great wizard of
+Eastern sanctuaries.
+_____ITEMS_____
+Stone
+A small rock.
+_____ITEMS_____
+Water vial
+A vial full of water. The water looks and smells like
+drinkable.
+_____ITEMS_____
+Torn page
+A page torn clearly torn from a book. It tells of the
+Crow Mauler.
+_____ITEMS_____
+Quill
+A feather of a falcon. Perfectly suited for use as a quill.
+_____ITEMS_____
+Empty scroll
+An empty scroll waiting for someone to write in it.
+_____ITEMS_____
+Alchemillia vol. 3
+A book containing recipes for intermediate class
+alchemy.
+_____ITEMS_____
+Brown vial
+A vial full of brown colored liquid. The smell makes your
+muscles contract and heightens your senses.
+_____ITEMS_____
+Salmonsnake meat
+Meat of the salmonsnake. It's greasy and smells delicious.
+_____ITEMS_____
+Cavewolf fur
+A fur of a cavewolf. The hair is harsh, not soft at
+all and it has a leathery texture.
+_____ITEMS_____
+The Passages of Ma'habre
+A normal looking book that feels surprisingly heavy. It's
+covers look very old.
+_____ITEMS_____
+Green herb
+A green herb with a bitter smell. Used commonly
+to cure infections by rubbing them with the herb.
+_____ITEMS_____
+Blue herb
+A blue herb with a sweet smell.
+_____ITEMS_____
+Branding iron
+A branding iron to mark those caught by the black
+plague.
+_____ITEMS_____
+Wine vial
+A vial of old murky wine. Drink it to dim your senses
+and fear.
+_____ITEMS_____
+Book of Fears
+A book written about different phobias.
+_____ITEMS_____
+Potion of full healing
+Miraculous potion that claims to fully heals all your
+status ailments. The liquid is suspiciously murky.
+_____ITEMS_____
+Potion of full sanity
+Miraculous potion that claims to fully recovers your
+sanity. The liquid smell awful.
+_____ITEMS_____
+Potion of life
+Miraculous potion that claims to return life to where it
+once lingered. The colour of the liquid gives you nausea.
+_____ITEMS_____
+Scroll of thievery
+Learn the secrets of the art of stealing and 
+pickpocketing.
+_____ITEMS_____
+Scroll of the highwaymen
+Learn the secrets of dashing and speedrunning.
+_____ITEMS_____
+Scroll of lockpicking
+Learn the secrets of the art of lockpicking.
+_____ITEMS_____
+Scroll of fencing
+Learn the secrets of the art of fencing and fast
+attacking.
+_____ITEMS_____
+Scroll of the swordsman
+Learn the secrets of the counter techniques.
+_____ITEMS_____
+Scroll of the general
+Learn the secrets of the art of war. A great general knows
+when the defensive warfare is needed.
+_____ITEMS_____
+Scroll of the wizards
+Learn the secrets of the greater blood magic. Secrets
+that only the most comitted wizards learn in time.
+_____ITEMS_____
+Scroll of the dark mage
+Learn the secrets of the blood sacrifice. The unholy
+ceremony of self-harm and mutilation.
+_____ITEMS_____
+Scroll of the wildman
+Learn the secrets of devouring carcasses. A special
+skill passed between the northern wildmen.
+_____ITEMS_____
+Scroll of marksmanship
+Learn the secrets of marksmanship and archery. The
+unique talents of the eastern mongol armies.
+_____ITEMS_____
+Scroll of berserk
+Learn the secrets of the bloodlust. A skill that has been
+used by the ferocious northern tribes for generations.
+_____ITEMS_____
+Scroll of the long sword
+Learn the secrets of the leg sweep. A devastating sword
+technique that requires great finesse.
+_____ITEMS_____
+
+
+_____ITEMS_____
+Soul stone
+The surface of the gemstone is smooth yet it seems
+to be naturally formed.
+_____ITEMS_____
+Lesser soul
+The insides of the gemstone radiate faint blue light
+that slowly swirl around.
+_____ITEMS_____
+Small seeds
+Small seeds that are soft and squishy.
+_____ITEMS_____
+Cave moss
+Green and leathery moss. It smells dull but it seems
+edible.
+_____ITEMS_____
+Cube of depths
+The object is an ancient looking cube with ornaments
+and decorations twisting around.
+_____ITEMS_____
+Crow Mauler soul
+A surprisingly heavy gemstone. The insides radiate
+faint blue light that slowly swirl around.
+_____ITEMS_____
+Cavemother soul
+A surprisingly heavy gemstone. The insides radiate
+faint blue light that slowly swirl around.
+_____ITEMS_____
+Salmonsnake soul
+A surprisingly heavy gemstone. The insides radiate
+faint blue light that slowly swirl around.
+_____ITEMS_____
+Old Knight soul
+A surprisingly heavy gemstone. The insides radiate
+faint blue light that slowly swirl around.
+_____ITEMS_____
+Iron Shakespeare soul
+A surprisingly heavy gemstone. The insides radiate
+faint blue light that slowly swirl around.
+_____ITEMS_____
+
+
+_____ITEMS_____
+Endless soul
+One of the grand souls that work as the key to the
+ascension.
+_____ITEMS_____
+Domination soul
+One of the grand souls that work as the key to the
+ascension.
+_____ITEMS_____
+Enlightened soul
+One of the grand souls that work as the key to the
+ascension.
+_____ITEMS_____
+Tormented soul
+One of the grand souls that work as the key to the
+ascension.
+_____ITEMS_____
+Ancient One soul
+A surprisingly heavy gemstone. The insides radiate
+faint blue light that slowly swirl around.
+_____ITEMS_____
+
+
+_____ITEMS_____
+Red herb
+A red herb with a neutral smell.
+_____ITEMS_____
+Alchemillia vol. 1
+A book containing recipes for basic herbs and plants.
+_____ITEMS_____
+Mix of red and blue
+A mixture of herbs that is especially potent.
+_____ITEMS_____
+Mix of red and green
+A mixture of herbs that is especially potent.
+_____ITEMS_____
+Anathomia
+The book of collected knowledge of medical science.
+_____ITEMS_____
+The Fellowship ch.2
+This book tells the tale of the legendary fellowship
+that would be known in this day as the new gods.
+_____ITEMS_____
+The Fellowship ch.2 (Original)
+This book tells the tale of the legendary fellowship
+that would be known in this day as the new gods.
+_____ITEMS_____
+The Fellowship ch.1 (Original)
+This book tells the tale of the legendary fellowship
+that would be known in this day as the new gods.
+_____ITEMS_____
+Bonesaw
+A rusty old bonesaw. You can only imagine the cruelty
+this saw has seen. Effective against infections.
+_____ITEMS_____
+Arm
+An arm that's still relatively fresh.
+_____ITEMS_____
+Leg
+A leg that's still relatively fresh.
+_____ITEMS_____
+Skeletal leg
+A skeletal leg that's been cut off.
+_____ITEMS_____
+Blueish arm
+An arm that's still relatively fresh.
+_____ITEMS_____
+Blueish leg
+A leg that's still relatively fresh.
+_____ITEMS_____
+
+
+_____ITEMS_____
+Cube of depths
+The object is an ancient looking cube with ornaments
+and decorations twisting around.
+_____ITEMS_____
+Crow emblem key
+A large key with an emblem of a flying crow.
+_____ITEMS_____
+Purifying talisman
+A paper talisman with markings that originate from
+Eastern Sanctuaries.
+_____ITEMS_____
+Arm of the nameless
+A huge arm given to you by the nameless.
+_____ITEMS_____
+Lord of flies fur
+A fur of a lord of flies. The hair is harsh and dirty.
+It stink repulsive and is moldy.
+_____ITEMS_____
+Raw meat
+A piece of raw meat. It's huge junk, but you don't know
+if it's healthy to eat it raw...
+_____ITEMS_____
+Grilled meat
+A piece of grilled meat. It's huge junk that will surely
+satisfy your hunger.
+_____ITEMS_____
+Grilled salmonsnake meat
+Meat of the salmonsnake. It's greasy and smells delicious.
+It has been grilled.
+_____ITEMS_____
+Natural doctrine I
+Book recounting the studies around the creation of life.
+The book is written by the new god, Valteil.
+_____ITEMS_____
+Natural doctrine II
+Book recounting the studies around the creation of life.
+The book is written by the new god, Valteil.
+_____ITEMS_____
+Diary of an unknown guard
+A diary that belonged to an anonymous guard set on
+duty in the dungeons of fear and hunger.
+_____ITEMS_____
+
+
+_____ITEMS_____
+Scroll of pyromancy trick
+A scroll teaching you the secrets of the pyromancy trick.
+_____ITEMS_____
+Scroll of combustion
+A scroll teaching you the secrets of the combustion.
+_____ITEMS_____
+Scroll of walking on water
+A scroll about the teachings of Alll-mer. The scroll
+teaches you the secrets on how to walk on water.
+_____ITEMS_____
+Map #1
+An old paper filled with symbolism and drawings. It's
+supposedly a map of some kind...
+_____ITEMS_____
+Map #2
+An old paper filled with symbolism and drawings. It's
+supposedly a map of some kind...
+_____ITEMS_____
+Scroll of transmutation
+A scroll about the teachings of Alll-mer. The scroll
+teaches you the secrets on simple transmutation.
+_____ITEMS_____
+
+
+_____ITEMS_____
+Elixir of mind
+An elixir that is said to restore you sanity and mind.
+The odor gives eastern impression.
+_____ITEMS_____
+Elixir of body
+An elixir that is said to restore you vitality.
+The odor gives eastern impression.
+_____ITEMS_____
+Mushroom stew
+A mushroom stew that is surely to keep hunger away.
+_____ITEMS_____
+Throwing knife
+A small and light knife designed for throwing.
+_____ITEMS_____
+Pinecone pig instructions
+Instructions on how to craft your very own pinecone pig.
+
+_____ITEMS_____
+Worm juice
+A vial full of mild poison that is said to kill parasites
+and worms inside the host body.
+_____ITEMS_____
+
+
+_____ITEMS_____
+Scroll of pyromancy
+Learn the secrets of a simple pyromancy trick
+_____ITEMS_____
+Scroll of the black arts
+Learn the secrets of the black orb.
+_____ITEMS_____
+Scroll of the church of healing
+Learn the secrets of the healing whispers
+_____ITEMS_____
+Scroll of the church of Sylvian
+Learn the secrets of the loving whispers
+_____ITEMS_____
+Scroll of the leeches
+Learn the secrets of the needle worms and their mastery.
+_____ITEMS_____
+The Tale of the Pocketcat II
+A childrens fairy tale about the Pocketcat. It's the 
+second chapter.
+_____ITEMS_____
+Old passage key
+An ancient key with decorations all around it. The key
+is said to open the old passage way in downtown.
+_____ITEMS_____
+King's passage key
+An ancient key with decorations all around it. The key
+is said to open the king's passage in cetral square.
+_____ITEMS_____
+Buckman's letter
+A letter written by the crown prince Ludwig Buckman.
+_____ITEMS_____
+Throwing dart
+Small darts designed for throwing. They are also dipped
+in poison.
+_____ITEMS_____
+Blue demon powder
+Powdered remains of a blue demon found at the city of
+the gods.
+_____ITEMS_____
+Book pages I
+A collection of book pages. They are illegible without
+the full context. They do mention artificial life...
+_____ITEMS_____
+Book pages II
+A collection of book pages. They are illegible without
+the full context. They do mention magic of Sylvian...
+_____ITEMS_____
+Book pages III
+A collection of book pages. They are illegible without
+the full context. They do mention seed of destruction...
+_____ITEMS_____
+Creation of life II
+A book describing the teachings of Sylvian and her love
+magic called the 'Demon seed'.
+_____ITEMS_____
+Map #3
+An old paper filled with symbolism and drawings. It's
+supposedly a map of some kind...
+_____ITEMS_____
+King's crown
+A golden crown that is decorated with emerald details.
+It must be worth fortunes.
+_____ITEMS_____
+Instructions of Rebirth
+A page describing the teachings of Sylvian and her love
+magic called the 'Rebirth of the beloved'.
+_____ITEMS_____
+Torn instruction I
+A torn page with instructions of hidden occult...
+_____ITEMS_____
+Torn instruction II
+A torn page with instructions of hidden occult...
+_____ITEMS_____
+Torn instruction III
+A torn page with instructions of hidden occult...
+_____ITEMS_____
+Catnip
+Catnip rolled into decorative wrappings.
+_____ITEMS_____
+Dirty magazine
+A thin booklet full of men and women in questionable
+poses.
+_____ITEMS_____
+Withered rose
+A rose that has withered and dried up in the darkness.
+It still retains its beauty.
+_____ITEMS_____
+Plush toy
+A children's toy that resembles a sitting bear. The toy
+is stuffed with feathers.
+_____ITEMS_____
+Flesh strips
+Strips of fresh meat.
+_____ITEMS_____
+Rope
+A long and durable rope. It could easily withstand your
+weight.
+_____ITEMS_____
+
+
+_____ITEMS_____
+Lucky coin
+Lucky coin to be used in dire situations. Hold [SHIFT]
+while choosing head or tails to boost your chances.
+_____ITEMS_____
+Vault key
+
+_____ITEMS_____
+The Penance Knights
+A book about The Penance Knights of Vatican city.
+_____ITEMS_____
+Turnip
+A root vegetable commonly grown in all around Europa.
+The taste is rather bland.
+_____ITEMS_____
+
+
+_____ITEMS_____
+Rotten Turnip
+A root vegetable commonly grown in all around Europa.
+It doesn't look very good anymore...
+_____ITEMS_____
+Rotten Meatpie
+Old fashioned meatpie. It seems to have gone bad long ago...
+_____ITEMS_____
+Rotten Egg
+An egg of bird or lizard origin. Who knows really? The egg
+smells horrible.
+_____ITEMS_____
+Rotten Vegetable pie
+Old fashioned pie made of carrots and cabbage. It doesn't
+look very good anymore...
+_____ITEMS_____
+Rotten Cabbage
+A cabbage that is fully rotten. It's squishy and moist in
+all the wrong ways...
+_____ITEMS_____
+Rotten Tomato
+The tomato has been in the dark for too long. It's
+completely rotten.
+_____ITEMS_____
+Rotten Carrot
+The carrot has been in the dark for too long. It's
+completely rotten.
+_____ITEMS_____
+Rotten Blueberries
+The blueberries are falling apart already. They've gone
+bad long ago.
+_____ITEMS_____
+
+
+_____ITEMS_____
+
+
+_____ITEMS_____
+
+
+_____ITEMS_____
+
+
+_____ITEMS_____
+
+
+_____ITEMS_____
+
+
+_____ITEMS_____
+

@@ -171,8 +171,7 @@ class JsonProcessor {
     if (generateTranslationsFile && !emptyTranslationFile) {
       if (translationIndex < translatedStrings.length) {
         final translation = translatedStrings[translationIndex];
-        translationIndex++;
-        await _postTranslatedString(originalString, suffix: suffix, prefix: prefix, altString: altString);
+        await _postTranslatedString(originalString, suffix: suffix, prefix: prefix, altString: translation);
         return translation;
       }
     }
@@ -197,110 +196,103 @@ class JsonProcessor {
       return;
     }
 
-    if (isExistsTranslationFile) {
+    if (isExistsTranslationFile && emptyTranslationFile) {
       final fileContentWithoutLastLine = fileContent.substring(0, fileContent.lastIndexOf('\n'));
       await translationsFile.writeAsString(fileContentWithoutLastLine);
     }
   }
 
   // * Actors
-  Future<dynamic> processActors(List<dynamic> jsonData) async {
+  Future<void> processActors(List<dynamic> jsonData) async {
     for (int i = 0; i < jsonData.length; i++) {
       if (jsonData[i] == null) {
         continue;
       }
       final actorData = Actor.fromJson(jsonData[i]);
+      await _postTranslatedString('_____ACTORS_____');
       actorData.name = await _getTranslatedString(actorData.name);
       jsonData[i] = actorData.toJson();
     }
-    return jsonData;
   }
 
   // * Animations
-  Future<dynamic> processAnimations(List<dynamic> jsonData) async {
+  Future<void> processAnimations(List<dynamic> jsonData) async {
     for (int i = 0; i < jsonData.length; i++) {
       if (jsonData[i] == null) {
         continue;
       }
       final animationData = Animation.fromJson(jsonData[i]);
-      // animationData.name = await _getTranslatedString(animationData.name);
-      print('animationData.name: ${animationData.name}');
       jsonData[i] = animationData.toJson();
     }
-    return jsonData;
   }
 
   // * Armors
-  Future<dynamic> processArmors(List<dynamic> jsonData) async {
+  Future<void> processArmors(List<dynamic> jsonData) async {
     for (int i = 0; i < jsonData.length; i++) {
       if (jsonData[i] == null) {
         continue;
       }
       final armorData = Armor.fromJson(jsonData[i]);
-      // armorData.name = await _getTranslatedString(armorData.name);
-      print('armorData.name: ${armorData.name}');
+      await _postTranslatedString('____ARMORS____');
+      armorData.name = await _getTranslatedString(armorData.name);
+      armorData.description = await _getTranslatedString(armorData.description);
       jsonData[i] = armorData.toJson();
     }
-    return jsonData;
   }
 
   // * Classes
-  Future<dynamic> processClasses(List<dynamic> jsonData) async {
+  Future<void> processClasses(List<dynamic> jsonData) async {
     for (int i = 0; i < jsonData.length; i++) {
       if (jsonData[i] == null) {
         continue;
       }
       final classData = Class.fromJson(jsonData[i]);
+      print('classData.name: ${classData.name}'); // ! Check it
+      print('classData.note: ${classData.note}'); // ! Check it
       jsonData[i] = classData.toJson();
     }
-    return jsonData;
   }
 
   // * CommonEvents
-  Future<dynamic> processCommonEvents(List<dynamic> jsonData) async {
+  Future<void> processCommonEvents(List<dynamic> jsonData) async {
     for (int i = 0; i < jsonData.length; i++) {
       if (jsonData[i] == null) {
         continue;
       }
       final commonEventData = CommonEvent.fromJson(jsonData[i]);
-      // final list = commonEventData.list;
-      await _processListCommand(commonEventData.list); // ! Check it; list debe asignarse a commonEventData.list?
-      // commonEventData.list = list;
+      await _processListCommand(commonEventData.list);
       jsonData[i] = commonEventData.toJson();
     }
-    return jsonData;
   }
 
   // * Enemies
-  Future<dynamic> processEnemies(List<dynamic> jsonData) async {
+  Future<void> processEnemies(List<dynamic> jsonData) async {
     for (int i = 0; i < jsonData.length; i++) {
       if (jsonData[i] == null) {
         continue;
       }
       final enemyData = Enemy.fromJson(jsonData[i]);
-      // enemyData.name = await _getTranslatedString(enemyData.name);
-      print('enemyData.name: ${enemyData.name}');
+      print('enemyData.name: ${enemyData.name}'); // ! Check it
       jsonData[i] = enemyData.toJson();
     }
-    return jsonData;
   }
 
   // * Items
-  Future<dynamic> processItems(List<dynamic> jsonData) async {
+  Future<void> processItems(List<dynamic> jsonData) async {
     for (int i = 0; i < jsonData.length; i++) {
       if (jsonData[i] == null) {
         continue;
       }
       final itemData = Item.fromJson(jsonData[i]);
-      // itemData.name = await _getTranslatedString(itemData.name);
-      print('itemData.name: ${itemData.name}');
+      await _postTranslatedString('_____ITEMS_____');
+      itemData.name = await _getTranslatedString(itemData.name);
+      itemData.description = await _getTranslatedString(itemData.description);
       jsonData[i] = itemData.toJson();
     }
-    return jsonData;
   }
 
   // * Maps
-  Future<dynamic> processMaps(Map<String, dynamic> jsonData) async {
+  Future<void> processMaps(Map<String, dynamic> jsonData) async {
     final mapData = DataMap.fromJson(jsonData);
     for (int i = 0; i < mapData.events.length; i++) {
       if (mapData.events[i] == null) {
@@ -312,85 +304,109 @@ class JsonProcessor {
         await _processListCommand(pageData.list);
       }
     }
-    return jsonData;
   }
 
   // * MapInfos
-  Future<dynamic> processMapInfos(List<dynamic> jsonData) async {
+  Future<void> processMapInfos(List<dynamic> jsonData) async {
     for (int i = 0; i < jsonData.length; i++) {
       if (jsonData[i] == null) {
         continue;
       }
       final mapInfoData = MapInfo.fromJson(jsonData[i]);
-      // mapInfoData.name = await _getTranslatedString(mapInfoData.name);
-      print('mapInfoData.name: ${mapInfoData.name}');
       jsonData[i] = mapInfoData;
     }
-    return jsonData;
   }
 
   // * Skills
-  Future<dynamic> processSkills(List<dynamic> jsonData) async {
+  Future<void> processSkills(List<dynamic> jsonData) async {
     for (int i = 0; i < jsonData.length; i++) {
       if (jsonData[i] == null) {
         continue;
       }
       final skillData = Skill.fromJson(jsonData[i]);
-      // skillData.name = await _getTranslatedString(skillData.name);
-      print('skillData.name: ${skillData.name}');
+      await _postTranslatedString('____SKILLS____');
+      skillData.name = await _getTranslatedString(skillData.name);
+      skillData.description = await _getTranslatedString(skillData.description);
+      skillData.note = await _getTranslatedString(skillData.note);
+      skillData.message1 = await _getTranslatedString(skillData.message1);
+      skillData.message2 = await _getTranslatedString(skillData.message2);
       jsonData[i] = skillData.toJson();
     }
-    return jsonData;
   }
 
   // * States
-  Future<dynamic> processStates(List<dynamic> jsonData) async {
+  Future<void> processStates(List<dynamic> jsonData) async {
     for (int i = 0; i < jsonData.length; i++) {
       if (jsonData[i] == null) {
         continue;
       }
       final stateData = State.fromJson(jsonData[i]);
-      // stateData.name = await _getTranslatedString(stateData.name);
+      await _postTranslatedString('____STATES____');
+      stateData.name = await _getTranslatedString(stateData.name);
+      if (stateData.description != null) {
+        stateData.description = await _getTranslatedString(stateData.description!);
+      }
+      stateData.note = await _getTranslatedString(stateData.note);
+      stateData.message1 = await _getTranslatedString(stateData.message1);
+      stateData.message2 = await _getTranslatedString(stateData.message2);
+      stateData.message3 = await _getTranslatedString(stateData.message3);
+      stateData.message4 = await _getTranslatedString(stateData.message4);
       print('stateData.name: ${stateData.name}');
       jsonData[i] = stateData.toJson();
     }
-    return jsonData;
   }
 
   // * System
-  Future<dynamic> processSystem(Map<String, dynamic> jsonData) async {
+  Future<void> processSystem(Map<String, dynamic> jsonData) async {
     final systemData = System.fromJson(jsonData);
+    await _postTranslatedString('____ARMORS____');
     for (int i = 0; i < systemData.armorTypes.length; i++) {
-      print('systemData.armorTypes[$i]: ${systemData.armorTypes[i]}');
+      systemData.armorTypes[i] = await _getTranslatedString(systemData.armorTypes[i]);
     }
+    await _postTranslatedString('___ELEMENTS___');
     for (int i = 0; i < systemData.elements.length; i++) {
-      print('systemData.elements[$i]: ${systemData.elements[i]}');
+      systemData.elements[i] = await _getTranslatedString(systemData.elements[i]);
     }
+    await _postTranslatedString('____SKILLS____');
     for (int i = 0; i < systemData.equipTypes.length; i++) {
-      print('systemData.equipTypes[$i]: ${systemData.equipTypes[i]}');
+      systemData.equipTypes[i] = await _getTranslatedString(systemData.equipTypes[i]);
     }
+    await _postTranslatedString('_SYSTEM_TERMS_');
+    systemData.gameTitle = await _getTranslatedString(systemData.gameTitle);
+    await _postTranslatedString('____SKILLS____');
     for (int i = 0; i < systemData.skillTypes.length; i++) {
-      print('systemData.skillTypes[$i]: ${systemData.skillTypes[i]}');
+      systemData.skillTypes[i] = await _getTranslatedString(systemData.skillTypes[i]);
     }
+    await _postTranslatedString('____BASICS____');
     for (int i = 0; i < systemData.terms.basic.length; i++) {
-      print('systemData.terms.basic[$i]: ${systemData.terms.basic[i]}');
+      systemData.terms.basic[i] = await _getTranslatedString(systemData.terms.basic[i]);
     }
+    await _postTranslatedString('___COMMANDS___');
     for (int i = 0; i < systemData.terms.commands.length; i++) {
-      print('systemData.terms.commands[$i]: ${systemData.terms.commands[i]}');
+      final command = systemData.terms.commands[i];
+      if (command != null) {
+        systemData.terms.commands[i] = await _getTranslatedString(command);
+      }
     }
+    await _postTranslatedString('____PARAMS____');
     for (int i = 0; i < systemData.terms.params.length; i++) {
-      print('systemData.terms.params[$i]: ${systemData.terms.params[i]}');
+      await _getTranslatedString(systemData.terms.params[i]);
     }
-    for (int i = 0; i < systemData.terms.messages.length; i++) {
-      print('systemData.terms.messages[$i]: ${systemData.terms.messages[i]}');
+    await _postTranslatedString('___MESSAGES___');
+    for (int i = 0; i < systemData.terms.messages.keys.length; i++) {
+      final key = systemData.terms.messages.keys.elementAt(i);
+      systemData.terms.messages[key] = await _getTranslatedString(systemData.terms.messages[key]!);
     }
+    await _postTranslatedString('____WEAPONS____');
     for (int i = 0; i < systemData.weaponTypes.length; i++) {
-      print('systemData.weaponTypes[$i]: ${systemData.weaponTypes[i]}');
+      systemData.weaponTypes[i] = await _getTranslatedString(systemData.weaponTypes[i]);
     }
+    jsonData.clear();
+    jsonData.addAll(systemData.toJson());
   }
 
   // * Tilesets
-  Future<dynamic> processTilesets(List<dynamic> jsonData) async {
+  Future<void> processTilesets(List<dynamic> jsonData) async {
     for (int i = 0; i < jsonData.length; i++) {
       if (jsonData[i] == null) {
         continue;
@@ -400,11 +416,10 @@ class JsonProcessor {
       print('tilesetData.name: ${tilesetData.name}');
       jsonData[i] = tilesetData.toJson();
     }
-    return jsonData;
   }
 
   // * Troops
-  Future<dynamic> processTroops(List<dynamic> jsonData) async {
+  Future<void> processTroops(List<dynamic> jsonData) async {
     for (int i = 0; i < jsonData.length; i++) {
       if (jsonData[i] == null) {
         continue;
@@ -412,27 +427,25 @@ class JsonProcessor {
       final troopData = Troop.fromJson(jsonData[i]);
       for (int j = 0; j < troopData.pages.length; j++) {
         final page = troopData.pages[j];
-        // final list = page.list;
-        await _processListCommand(page.list); // ! Check it; list debe asignarse a page.list?
-        // page.list = list;
+        await _processListCommand(page.list);
       }
       jsonData[i] = troopData.toJson();
     }
-    return jsonData;
   }
 
   // * Weapons
-  Future<dynamic> processWeapons(List<dynamic> jsonData) async {
+  Future<void> processWeapons(List<dynamic> jsonData) async {
     for (int i = 0; i < jsonData.length; i++) {
       if (jsonData[i] is! Map<String, dynamic>) {
         continue;
       }
       final weaponData = Weapon.fromJson(jsonData[i]);
-      // weaponData['name'] = await _getTranslatedString(weaponData['name']);
-      print('weaponData.name: ${weaponData.name}');
+      await _postTranslatedString('____WEAPONS____');
+      weaponData.name = await _getTranslatedString(weaponData.name);
+      weaponData.description = await _getTranslatedString(weaponData.description);
+      weaponData.note = await _getTranslatedString(weaponData.note);
       jsonData[i] = weaponData;
     }
-    return jsonData;
   }
 
   Future<void> _processListCommand(dynamic list) async {
@@ -516,40 +529,4 @@ class JsonProcessor {
       _processListCommand(parameters);
     }
   }
-
-  // Future<String> _escapeSpecialCharacters(String value) async {
-  //   final escapedValue = value.replaceAllMapped(RegExp(r'[\n\r\t]'), (match) {
-  //     final specialCharacter = match.group(0);
-  //     switch (specialCharacter) {
-  //       case '\n':
-  //         return '\\n';
-  //       case '\r':
-  //         return '\\r';
-  //       case '\t':
-  //         return '\\t';
-  //       default:
-  //         return specialCharacter!;
-  //     }
-  //   });
-
-  //   return escapedValue;
-  // }
-
-  // Future<String> _unescapeSpecialCharacters(String value) async {
-  //   final unescapedValue = value.replaceAllMapped(RegExp(r'\\[nrt]'), (match) {
-  //     final escapedCharacter = match.group(0);
-  //     switch (escapedCharacter) {
-  //       case '\\n':
-  //         return '\n';
-  //       case '\\r':
-  //         return '\r';
-  //       case '\\t':
-  //         return '\t';
-  //       default:
-  //         return escapedCharacter!;
-  //     }
-  //   });
-
-  //   return unescapedValue;
-  // }
 }

@@ -1,0 +1,151 @@
+____ARMORS____
+
+General Armor
+Magic Armor
+Light Armor
+Heavy Armor
+Small Shield
+Large Shield
+___ELEMENTS___
+
+Blunt
+Slashing
+Piercing
+Fire
+Leech
+Otherwordly
+
+
+
+____SKILLS____
+
+Weapon
+Shield
+Head
+Body
+Accessory
+_SYSTEM_TERMS_
+Fear & Hunger
+____SKILLS____
+
+Skills
+Flower magic
+Skill
+Special
+
+
+____BASICS____
+Level
+Lv
+Body
+Body
+Mind
+Mind
+TP
+TP
+EXP
+EXP
+___COMMANDS___
+Fight
+Run!
+Attack
+Guard
+Item
+Sk
+Eq
+St
+Formation
+Save
+Q
+Options
+Weapon
+Armor
+Books
+Equip
+Optimize
+Clear
+New Game
+Continue
+To Title
+Cancel
+Buy
+Sell
+____PARAMS____
+Max HP
+Max MP
+Attack
+Defense
+M.Attack
+M.Defense
+Agility
+Luck
+Hit
+Evasion
+___MESSAGES___
+There was no effect on %1!
+%1 took %2 damage!
+%1 was drained of %2 %3!
+%1 gained %2 %3!
+%1 lost %2 %3!
+%1 took no damage!
+Miss! %1 took no damage!
+%1 recovered %2 %3!
+Always Dash
+BGM Volume
+BGS Volume
+%1's %2 went up!
+%1's %2 returned to normal!
+Command Remember
+%1 counterattacked!
+A painful blow!!
+An excellent hit!!
+%1's %2 went down!
+%1 was defeated.
+%1 emerged!
+%1 took %2 damage!
+%1 was drained of %2 %3!
+%1 gained %2 %3!
+%1 lost %2 %3!
+%1 took no damage!
+Miss! %1 took no damage!
+%1 recovered %2 %3!
+However, it was unable to escape!
+%1 tries to escape...
+%1 evaded the attack!
+Current %1
+Current %1
+File
+%1 is now %2 %3!
+Load which file?
+%1 nullified the magic!
+%1 reflected the magic!
+ME Volume
+%1 %2 received!
+%1\G found!
+%1 found!
+%1 learned!
+%1's party
+Possession
+%1 got the upper hand!
+Save to which file?
+SE Volume
+%1 protected %2!
+%1 was surprised!
+%1 uses %2!
+%1 was victorious!
+____WEAPONS____
+
+Dagger
+Sword
+Eastern sword
+Mace
+Whip
+Big sword
+Bow
+Crossbow
+Blunt
+Other
+Glove
+Spear
+Curved sword
+Axe

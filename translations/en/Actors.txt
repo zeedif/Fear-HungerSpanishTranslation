@@ -1,39 +1,79 @@
+_____ACTORS_____
 Mercenary
+_____ACTORS_____
 Girl
+_____ACTORS_____
 Knight
+_____ACTORS_____
 Dark Priest
+_____ACTORS_____
 Outlander
+_____ACTORS_____
 Le'garde
+_____ACTORS_____
 Moonless
+_____ACTORS_____
 Kid Demon
+_____ACTORS_____
 Marriage
+_____ACTORS_____
 Blood golem
+_____ACTORS_____
 Marriage
+_____ACTORS_____
 Baby Demon
+_____ACTORS_____
 Buckman
+_____ACTORS_____
 Nas'hrah
+_____ACTORS_____
 
+_____ACTORS_____
 Ghoul
+_____ACTORS_____
 Ghoul
+_____ACTORS_____
 Ghoul
+_____ACTORS_____
 Skeleton
+_____ACTORS_____
 Skeleton
+_____ACTORS_____
 Skeleton
+_____ACTORS_____
 
+_____ACTORS_____
 test
+_____ACTORS_____
 
+_____ACTORS_____
 First verse
+_____ACTORS_____
 Second verse
+_____ACTORS_____
 Third verse
+_____ACTORS_____
 
+_____ACTORS_____
 
+_____ACTORS_____
 
+_____ACTORS_____
 
+_____ACTORS_____
 
+_____ACTORS_____
 
+_____ACTORS_____
 
+_____ACTORS_____
 
+_____ACTORS_____
 
+_____ACTORS_____
 
+_____ACTORS_____
 
+_____ACTORS_____
 
+_____ACTORS_____
