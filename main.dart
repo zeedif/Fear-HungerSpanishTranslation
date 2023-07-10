@@ -20,7 +20,7 @@ import 'package:FearHungerTranslation/models/weapon.dart';
 
 Future<void> main() async {
   final specificFileName = ''; // Specify the file name if you only want to run a specific file
-  final translationCode = 'en'; // ISO 639-1 codes
+  final translationCode = 'ru-RU'; // ISO 639-1 codes
   final generateTranslationsFile = true;
 
   final jsonProcessor = JsonProcessor(translationCode, generateTranslationsFile);
@@ -296,6 +296,9 @@ class JsonProcessor {
 
   // * Maps
   Future<void> processMaps(Map<String, dynamic> jsonData) async {
+    if (jsonData['events'] is bool) {
+      return;
+    }
     final mapData = DataMap.fromJson(jsonData);
     for (int i = 0; i < mapData.events.length; i++) {
       if (mapData.events[i] == null) {
