@@ -1,0 +1,4 @@
+Ruta,Texto original,Traducción
+Map.Event[1].Page[0].list.command[3],___CHOICE___,
+Map.Event[1].Page[0].list.command[3].textChoice[0],New Game,
+Map.Event[1].Page[0].list.command[3].textChoice[1],\c[07]Continue\c[0],

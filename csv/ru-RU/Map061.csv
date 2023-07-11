@@ -1,0 +1,12 @@
+Ruta,Texto original,Traducción
+Map.Event[1].Page[0].list.command[6].textComment,grogoroth,
+Map.Event[1].Page[0].list.command[19].textComment,sylvian,
+Map.Event[1].Page[0].list.command[32].textComment,alll-mer,
+Map.Event[1].Page[0].list.command[41].textComment,god of depths,
+Map.Event[10].Page[0].list.command[1],____TEXT____,
+Map.Event[10].Page[0].list.command[2].textData,Использовать \c[2]Малую душу\c[0] чтобы изучить \c[2]Взлом\c[0]?,
+Map.Event[10].Page[0].list.command[3],___CHOICE___,
+Map.Event[10].Page[0].list.command[3].textChoice[0],Да,
+Map.Event[10].Page[0].list.command[3].textChoice[1],Нет,
+Map.Event[10].Page[0].list.command[42],____TEXT____,
+Map.Event[10].Page[0].list.command[43].textData,Навык \c[2]Взлом\c[0] запечатлен в твоей голове!,
