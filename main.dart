@@ -19,8 +19,8 @@ import 'package:FearHungerTranslation/models/troop.dart';
 import 'package:FearHungerTranslation/models/weapon.dart';
 
 Future<void> main() async {
-  final specificFileName = ''; // Specify the file name if you only want to run a specific file
-  final translationCode = 'es-ES'; // ISO 639-1 codes
+  final specificFileName = 'Troops.json'; // Specify the file name if you only want to run a specific file
+  final translationCode = 'ru-RU'; // ISO 639-1 codes
   final generateTranslationsFile = true;
 
   final jsonProcessor = JsonProcessor(translationCode, generateTranslationsFile);
