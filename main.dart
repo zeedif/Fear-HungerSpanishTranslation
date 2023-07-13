@@ -424,7 +424,9 @@ class JsonProcessor {
       final troopData = Troop.fromJson(jsonData[i]);
       for (int j = 0; j < troopData.pages.length; j++) {
         final page = troopData.pages[j];
+        currentPath.add('Troop[$i].pages[$j]');
         await _processListCommand(page.list);
+        await currentPath.removeLast();
       }
       jsonData[i] = troopData.toJson();
     }
