@@ -1,7 +1,7 @@
-Ruta,Texto original,Traducción
-Map.Event[7].Page[0].list.command[4],____TEXT____,
-Map.Event[7].Page[0].list.command[5].textData,The mines caved-in... but you managed to survive somehow...,
-Map.Event[7].Page[0].list.command[7],____TEXT____,
-Map.Event[7].Page[0].list.command[8].textData,You are stuck under the rocks and boulders...,
-Map.Event[7].Page[0].list.command[9],____TEXT____,
-Map.Event[7].Page[0].list.command[10].textData,You try to move... but it's no use.,
+ID,source,target
+Map186.Event[7].Page[0].list.command[4],____TEXT____,
+Map186.Event[7].Page[0].list.command[5].textData,The mines caved-in... but you managed to survive somehow...,
+Map186.Event[7].Page[0].list.command[7],____TEXT____,
+Map186.Event[7].Page[0].list.command[8].textData,You are stuck under the rocks and boulders...,
+Map186.Event[7].Page[0].list.command[9],____TEXT____,
+Map186.Event[7].Page[0].list.command[10].textData,You try to move... but it's no use.,

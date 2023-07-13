@@ -1,4 +1,4 @@
-Ruta,Texto original,Traducción
+ID,source,target
 Weapon[1].name,Short sword,
 Weapon[1].description,"Short iron sword. Blade is a bit worn out, but the sword
 itself is easy and quick to handle.",

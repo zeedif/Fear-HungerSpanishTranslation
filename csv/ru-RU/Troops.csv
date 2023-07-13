@@ -1,4 +1,4 @@
-Ruta,Texto original,Traducción
+ID,source,target
 command[0].textComment,TALK,
 command[1],____TEXT____,
 command[2].textData,Ты пытаешься поговорить с чудовищем...,

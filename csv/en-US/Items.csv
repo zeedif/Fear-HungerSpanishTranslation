@@ -1,4 +1,4 @@
-Ruta,Texto original,Traducción
+ID,source,target
 Item[1].name,Ancient book,
 Item[1].description,"An ancient looking book, with grotesque leather covers.
 You feel great urge to read the book.",

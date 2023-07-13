@@ -1,4 +1,4 @@
-Ruta,Texto original,Traducción
+ID,source,target
 Item[1].name,Старинная книга,
 Item[1].description,"Старинная книга в причудливой обложке.
 Ты чувствуешь сильное желание прочитать книгу.",

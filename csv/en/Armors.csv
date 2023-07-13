@@ -1,4 +1,4 @@
-Ruta,Texto original,Traducción
+ID,source,target
 Armor[1].name,Leather vest,
 Armor[1].description,"Simple vest design. Made from hardened leather.
 Effective against fire.",

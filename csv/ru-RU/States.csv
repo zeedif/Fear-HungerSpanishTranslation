@@ -1,4 +1,4 @@
-Ruta,Texto original,Traducción
+ID,source,target
 State[1].name,Без сознания,
 State[1].note,"Статус #1 будет автоматически добавлен, как только
 ОЗ достигнут 0.",

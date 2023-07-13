@@ -1,4 +1,4 @@
-Ruta,Texto original,Traducción
+ID,source,target
 Enemy[1].name,Guard [torso],
 Enemy[2].name,Guard [head],
 Enemy[3].name,Guard [right arm],

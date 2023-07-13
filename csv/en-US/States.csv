@@ -1,4 +1,4 @@
-Ruta,Texto original,Traducción
+ID,source,target
 State[1].name,Knockout,
 State[1].note,"State #1 will be automatically added when
 HP reaches 0.",

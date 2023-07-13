@@ -1,4 +1,4 @@
-Ruta,Texto original,Traducción
+ID,source,target
 System.armorTypes[0],,
 System.armorTypes[1],General Armor,
 System.armorTypes[2],Magic Armor,

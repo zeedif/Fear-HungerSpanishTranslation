@@ -1,4 +1,4 @@
-Ruta,Texto original,Traducción
+ID,source,target
 Skill[1].name,Attack,
 Skill[1].description,,
 Skill[1].note,"<Target Action>

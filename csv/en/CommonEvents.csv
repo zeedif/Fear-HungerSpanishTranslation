@@ -1,4 +1,4 @@
-Ruta,Texto original,Traducción
+ID,source,target
 CommonEvent[1].command[0],____TEXT____,
 CommonEvent[1].command[1].textData,You light the torch.,
 CommonEvent[2].command[9],____TEXT____,

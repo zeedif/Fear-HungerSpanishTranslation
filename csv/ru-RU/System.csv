@@ -1,4 +1,4 @@
-Ruta,Texto original,Traducción
+ID,source,target
 System.armorTypes[0],,
 System.armorTypes[1],Обычная броня,
 System.armorTypes[2],Магическая броня,

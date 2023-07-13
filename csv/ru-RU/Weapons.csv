@@ -1,4 +1,4 @@
-Ruta,Texto original,Traducción
+ID,source,target
 Weapon[1].name,Короткий меч,
 Weapon[1].description,"Короткий железный меч. Лезвие немного изношено, но сам 
 меч легок и быстр в обращении.",

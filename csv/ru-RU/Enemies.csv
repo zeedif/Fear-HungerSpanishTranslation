@@ -1,4 +1,4 @@
-Ruta,Texto original,Traducción
+ID,source,target
 Enemy[1].name,Страж [торс],
 Enemy[2].name,Страж [голова],
 Enemy[3].name,Страж [правая рука],

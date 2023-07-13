@@ -1,6 +1,6 @@
-Ruta,Texto original,Traducción
-Map.Event[51].Page[0].list.command[264],____TEXT____,
-Map.Event[51].Page[0].list.command[265].textData,Save game?,
-Map.Event[51].Page[0].list.command[266],___CHOICE___,
-Map.Event[51].Page[0].list.command[266].textChoice[0],Yes,
-Map.Event[51].Page[0].list.command[266].textChoice[1],No,
+ID,source,target
+Map162.Event[51].Page[0].list.command[264],____TEXT____,
+Map162.Event[51].Page[0].list.command[265].textData,Save game?,
+Map162.Event[51].Page[0].list.command[266],___CHOICE___,
+Map162.Event[51].Page[0].list.command[266].textChoice[0],Yes,
+Map162.Event[51].Page[0].list.command[266].textChoice[1],No,

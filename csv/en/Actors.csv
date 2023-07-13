@@ -1,4 +1,4 @@
-Ruta,Texto original,Traducción
+ID,source,target
 Actor[1].name,Mercenary,
 Actor[2].name,Girl,
 Actor[3].name,Knight,

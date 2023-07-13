@@ -152,7 +152,9 @@ class JsonProcessor {
           if (fileName.startsWith('Map') && fileName.length == 11 && fileName.endsWith('.json')) {
             final mapNumber = int.tryParse(fileName.substring(3, 6));
             if (mapNumber != null && mapNumber >= 1 && mapNumber <= 186) {
+              currentPath.add(fileName.substring(0, 6));
               await processMaps(jsonData);
+              await currentPath.removeLast();
               break;
             }
           }
@@ -168,7 +170,7 @@ class JsonProcessor {
 
       if (rows.isNotEmpty) {
         List<List<dynamic>> csvData = [
-          <String>['Ruta', 'Texto original', 'Traducción'],
+          <String>['ID', 'source', 'target'],
           ...rows.map((item) => item.cast<dynamic>()),
         ];
         String csv = const ListToCsvConverter().convert(csvData);
@@ -319,7 +321,7 @@ class JsonProcessor {
       final eventData = mapData.events[i]!;
       for (int j = 0; j < eventData.pages.length; j++) {
         final pageData = eventData.pages[j];
-        currentPath.add('Map.Event[$i].Page[$j].list');
+        currentPath.add('Event[$i].Page[$j].list');
         await _processListCommand(pageData.list);
         await currentPath.removeLast();
       }
