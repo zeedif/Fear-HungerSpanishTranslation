@@ -20,7 +20,7 @@ import 'package:FearHungerTranslation/models/weapon.dart';
 
 Future<void> main() async {
   final specificFileName = ''; // Specify the file name if you only want to run a specific file
-  final translationCode = 'ru-RU'; // ISO 639-1 codes
+  final translationCode = 'es-ES'; // ISO 639-1 codes
   final generateTranslationsFile = true;
 
   final jsonProcessor = JsonProcessor(translationCode, generateTranslationsFile);
@@ -34,11 +34,12 @@ class JsonProcessor {
   final String translationsDirectory;
   final String outputDirectory;
   final bool generateTranslationsFile;
-  int translationIndex = 0;
   bool emptyTranslationFile = true;
   bool isExistsTranslationFile = false;
-  List<String> translatedStrings = [];
+  Map<String, dynamic> translatedStrings = {};
   File translationsFile = File('');
+  Map<String, String> outputJson = {};
+  List<String> currentPath = [];
 
   JsonProcessor(this.translationCode, this.generateTranslationsFile)
       : originDirectory = 'data',
@@ -81,7 +82,7 @@ class JsonProcessor {
       }
 
       if (generateTranslationsFile) {
-        translationsFile = File('$translationsDirectory/${fileName.replaceAll('.json', '.txt')}');
+        translationsFile = File('$translationsDirectory/${fileName}');
         isExistsTranslationFile = await translationsFile.exists();
         if (!isExistsTranslationFile) {
           await translationsFile.create(recursive: true);
@@ -89,8 +90,7 @@ class JsonProcessor {
         } else {
           final existingTranslations = await translationsFile.readAsString();
           if (existingTranslations.isNotEmpty) {
-            final existingLines = existingTranslations.split('\n');
-            translatedStrings.addAll(existingLines);
+            translatedStrings = json.decode(existingTranslations);
             emptyTranslationFile = false;
           }
         }
@@ -146,61 +146,65 @@ class JsonProcessor {
           if (fileName.startsWith('Map') && fileName.length == 11 && fileName.endsWith('.json')) {
             final mapNumber = int.tryParse(fileName.substring(3, 6));
             if (mapNumber != null && mapNumber >= 1 && mapNumber <= 186) {
+              currentPath.add(fileName.substring(0, 6));
               await processMaps(jsonData);
+              await currentPath.removeLast();
               break;
             }
           }
           print('The file $filePath is not a valid JSON file.');
           break;
       }
-      await _deleteLastLine();
+      await _deleteEmpty();
 
       if (generateTranslationsFile && !emptyTranslationFile) {
         final outputFile = File('$outputDirectory/$fileName');
         await outputFile.writeAsString(json.encode(jsonData));
       }
 
-      translatedStrings = [];
-      translationIndex = 0;
+      if (translatedStrings.isNotEmpty && emptyTranslationFile) {
+        await translationsFile.writeAsString(JsonEncoder.withIndent('  ').convert(translatedStrings));
+      }
+
+      translatedStrings.clear();
       emptyTranslationFile = true;
       isExistsTranslationFile = false;
     }
 
-    print('Done!');
+    if (generateTranslationsFile) print('The file $fileName has been processed.');
   }
 
-  Future<String> _getTranslatedString(String originalString, {String suffix = '', String prefix = '', String? altString}) async {
+  Future<String> _getTranslatedString(String originalString, String nameAttr, {String? altString}) async {
+    currentPath.add(nameAttr);
     if (generateTranslationsFile && !emptyTranslationFile) {
-      if (translationIndex < translatedStrings.length) {
-        final translation = translatedStrings[translationIndex];
-        await _postTranslatedString(originalString, suffix: suffix, prefix: prefix, altString: translation);
-        return translation;
-      }
+      final translation = translatedStrings[currentPath.join('.')] ?? originalString;
+      await _postTranslatedString(originalString, altString: translation);
+      await currentPath.removeLast();
+      return translation;
     }
 
-    await _postTranslatedString(originalString, suffix: suffix, prefix: prefix, altString: altString);
+    await _postTranslatedString(originalString, altString: altString);
+    await currentPath.removeLast();
     return originalString;
   }
 
-  Future<void> _postTranslatedString(String translatedValue, {String suffix = '', String prefix = '', String? altString}) async {
-    translationIndex++;
-    altString ??= translatedValue;
-    print('$prefix$altString$suffix');
+  Future<void> _postTranslatedString(String translatedValue, {String? altString}) async {
+    if (!generateTranslationsFile) {
+      altString ??= translatedValue;
+      print('$altString');
+    }
     if (emptyTranslationFile && isExistsTranslationFile) {
-      await translationsFile.writeAsString('$translatedValue\n', mode: FileMode.append);
+      final String path = currentPath.join('.');
+      translatedStrings[path] = translatedValue;
     }
   }
 
-  Future<void> _deleteLastLine() async {
+  Future<void> _deleteEmpty() async {
+    if (!isExistsTranslationFile) return;
     final fileContent = await translationsFile.readAsString();
     if (fileContent.isEmpty) {
       await translationsFile.delete();
       return;
-    }
-
-    if (isExistsTranslationFile && emptyTranslationFile) {
-      final fileContentWithoutLastLine = fileContent.substring(0, fileContent.lastIndexOf('\n'));
-      await translationsFile.writeAsString(fileContentWithoutLastLine);
     }
   }
 
@@ -211,8 +215,7 @@ class JsonProcessor {
         continue;
       }
       final actorData = Actor.fromJson(jsonData[i]);
-      await _postTranslatedString('_____ACTORS_____');
-      actorData.name = await _getTranslatedString(actorData.name);
+      actorData.name = await _getTranslatedString(actorData.name, 'Actor[$i].name');
       jsonData[i] = actorData.toJson();
     }
   }
@@ -235,9 +238,8 @@ class JsonProcessor {
         continue;
       }
       final armorData = Armor.fromJson(jsonData[i]);
-      await _postTranslatedString('____ARMORS____');
-      armorData.name = await _getTranslatedString(armorData.name);
-      armorData.description = await _getTranslatedString(armorData.description);
+      armorData.name = await _getTranslatedString(armorData.name, 'Armor[$i].name');
+      armorData.description = await _getTranslatedString(armorData.description, 'Armor[$i].description');
       jsonData[i] = armorData.toJson();
     }
   }
@@ -249,8 +251,8 @@ class JsonProcessor {
         continue;
       }
       final classData = Class.fromJson(jsonData[i]);
-      print('classData.name: ${classData.name}'); // ! Check it
-      print('classData.note: ${classData.note}'); // ! Check it
+      print('Classes[$i].name: ${classData.name}'); // ! Check it
+      print('Classes[$i].note: ${classData.note}'); // ! Check it
       jsonData[i] = classData.toJson();
     }
   }
@@ -262,8 +264,10 @@ class JsonProcessor {
         continue;
       }
       final commonEventData = CommonEvent.fromJson(jsonData[i]);
+      currentPath.add('CommonEvent[$i]');
       await _processListCommand(commonEventData.list);
       jsonData[i] = commonEventData.toJson();
+      await currentPath.removeLast();
     }
   }
 
@@ -274,8 +278,7 @@ class JsonProcessor {
         continue;
       }
       final enemyData = Enemy.fromJson(jsonData[i]);
-      await _postTranslatedString('_____ENEMIES_____');
-      enemyData.name = await _getTranslatedString(enemyData.name);
+      enemyData.name = await _getTranslatedString(enemyData.name, 'Enemy[$i].name');
       jsonData[i] = enemyData.toJson();
     }
   }
@@ -287,9 +290,8 @@ class JsonProcessor {
         continue;
       }
       final itemData = Item.fromJson(jsonData[i]);
-      await _postTranslatedString('_____ITEMS_____');
-      itemData.name = await _getTranslatedString(itemData.name);
-      itemData.description = await _getTranslatedString(itemData.description);
+      itemData.name = await _getTranslatedString(itemData.name, 'Item[$i].name');
+      itemData.description = await _getTranslatedString(itemData.description, 'Item[$i].description');
       jsonData[i] = itemData.toJson();
     }
   }
@@ -307,7 +309,9 @@ class JsonProcessor {
       final eventData = mapData.events[i]!;
       for (int j = 0; j < eventData.pages.length; j++) {
         final pageData = eventData.pages[j];
+        currentPath.add('Event[$i].Page[$j].list');
         await _processListCommand(pageData.list);
+        await currentPath.removeLast();
       }
     }
   }
@@ -330,12 +334,11 @@ class JsonProcessor {
         continue;
       }
       final skillData = Skill.fromJson(jsonData[i]);
-      await _postTranslatedString('____SKILLS____');
-      skillData.name = await _getTranslatedString(skillData.name);
-      skillData.description = await _getTranslatedString(skillData.description);
-      skillData.note = await _getTranslatedString(skillData.note);
-      skillData.message1 = await _getTranslatedString(skillData.message1);
-      skillData.message2 = await _getTranslatedString(skillData.message2);
+      skillData.name = await _getTranslatedString(skillData.name, 'Skill[$i].name');
+      skillData.description = await _getTranslatedString(skillData.description, 'Skill[$i].description');
+      skillData.note = await _getTranslatedString(skillData.note, 'Skill[$i].note');
+      skillData.message1 = await _getTranslatedString(skillData.message1, 'Skill[$i].message1');
+      skillData.message2 = await _getTranslatedString(skillData.message2, 'Skill[$i].message2');
       jsonData[i] = skillData.toJson();
     }
   }
@@ -347,17 +350,15 @@ class JsonProcessor {
         continue;
       }
       final stateData = State.fromJson(jsonData[i]);
-      await _postTranslatedString('____STATES____');
-      stateData.name = await _getTranslatedString(stateData.name);
+      stateData.name = await _getTranslatedString(stateData.name, 'State[$i].name');
       if (stateData.description != null) {
-        stateData.description = await _getTranslatedString(stateData.description!);
+        stateData.description = await _getTranslatedString(stateData.description!, 'State[$i].description');
       }
-      stateData.note = await _getTranslatedString(stateData.note);
-      stateData.message1 = await _getTranslatedString(stateData.message1);
-      stateData.message2 = await _getTranslatedString(stateData.message2);
-      stateData.message3 = await _getTranslatedString(stateData.message3);
-      stateData.message4 = await _getTranslatedString(stateData.message4);
-      print('stateData.name: ${stateData.name}');
+      stateData.note = await _getTranslatedString(stateData.note, 'State[$i].note');
+      stateData.message1 = await _getTranslatedString(stateData.message1, 'State[$i].message1');
+      stateData.message2 = await _getTranslatedString(stateData.message2, 'State[$i].message2');
+      stateData.message3 = await _getTranslatedString(stateData.message3, 'State[$i].message3');
+      stateData.message4 = await _getTranslatedString(stateData.message4, 'State[$i].message4');
       jsonData[i] = stateData.toJson();
     }
   }
@@ -365,47 +366,37 @@ class JsonProcessor {
   // * System
   Future<void> processSystem(Map<String, dynamic> jsonData) async {
     final systemData = System.fromJson(jsonData);
-    await _postTranslatedString('____ARMORS____');
     for (int i = 0; i < systemData.armorTypes.length; i++) {
-      systemData.armorTypes[i] = await _getTranslatedString(systemData.armorTypes[i]);
+      systemData.armorTypes[i] = await _getTranslatedString(systemData.armorTypes[i], 'System.armorTypes[$i]');
     }
-    await _postTranslatedString('___ELEMENTS___');
     for (int i = 0; i < systemData.elements.length; i++) {
-      systemData.elements[i] = await _getTranslatedString(systemData.elements[i]);
+      systemData.elements[i] = await _getTranslatedString(systemData.elements[i], 'System.elements[$i]');
     }
-    await _postTranslatedString('____SKILLS____');
     for (int i = 0; i < systemData.equipTypes.length; i++) {
-      systemData.equipTypes[i] = await _getTranslatedString(systemData.equipTypes[i]);
+      systemData.equipTypes[i] = await _getTranslatedString(systemData.equipTypes[i], 'System.equipTypes[$i]');
     }
-    await _postTranslatedString('_SYSTEM_TERMS_');
-    systemData.gameTitle = await _getTranslatedString(systemData.gameTitle);
-    await _postTranslatedString('____SKILLS____');
+    systemData.gameTitle = await _getTranslatedString(systemData.gameTitle, 'System.gameTitle');
     for (int i = 0; i < systemData.skillTypes.length; i++) {
-      systemData.skillTypes[i] = await _getTranslatedString(systemData.skillTypes[i]);
+      systemData.skillTypes[i] = await _getTranslatedString(systemData.skillTypes[i], 'System.skillTypes[$i]');
     }
-    await _postTranslatedString('____BASICS____');
     for (int i = 0; i < systemData.terms.basic.length; i++) {
-      systemData.terms.basic[i] = await _getTranslatedString(systemData.terms.basic[i]);
+      systemData.terms.basic[i] = await _getTranslatedString(systemData.terms.basic[i], 'System.terms.basic[$i]');
     }
-    await _postTranslatedString('___COMMANDS___');
     for (int i = 0; i < systemData.terms.commands.length; i++) {
       final command = systemData.terms.commands[i];
       if (command != null) {
-        systemData.terms.commands[i] = await _getTranslatedString(command);
+        systemData.terms.commands[i] = await _getTranslatedString(command, 'System.terms.commands[$i]');
       }
     }
-    await _postTranslatedString('____PARAMS____');
     for (int i = 0; i < systemData.terms.params.length; i++) {
-      await _getTranslatedString(systemData.terms.params[i]);
+      await _getTranslatedString(systemData.terms.params[i], 'System.terms.params[$i]');
     }
-    await _postTranslatedString('___MESSAGES___');
     for (int i = 0; i < systemData.terms.messages.keys.length; i++) {
       final key = systemData.terms.messages.keys.elementAt(i);
-      systemData.terms.messages[key] = await _getTranslatedString(systemData.terms.messages[key]!);
+      systemData.terms.messages[key] = await _getTranslatedString(systemData.terms.messages[key]!, 'System.terms.messages[$key]');
     }
-    await _postTranslatedString('____WEAPONS____');
     for (int i = 0; i < systemData.weaponTypes.length; i++) {
-      systemData.weaponTypes[i] = await _getTranslatedString(systemData.weaponTypes[i]);
+      systemData.weaponTypes[i] = await _getTranslatedString(systemData.weaponTypes[i], 'System.weaponTypes[$i]');
     }
     jsonData.clear();
     jsonData.addAll(systemData.toJson());
@@ -418,8 +409,8 @@ class JsonProcessor {
         continue;
       }
       final tilesetData = Tileset.fromJson(jsonData[i]);
-      // tilesetData.name = await _getTranslatedString(tilesetData.name);
-      print('tilesetData.name: ${tilesetData.name}');
+      // tilesetData.name = await _getTranslatedString(tilesetData.name, 'Tileset[$i].name');
+      // print('tilesetData.name: ${tilesetData.name}');
       jsonData[i] = tilesetData.toJson();
     }
   }
@@ -446,10 +437,9 @@ class JsonProcessor {
         continue;
       }
       final weaponData = Weapon.fromJson(jsonData[i]);
-      await _postTranslatedString('____WEAPONS____');
-      weaponData.name = await _getTranslatedString(weaponData.name);
-      weaponData.description = await _getTranslatedString(weaponData.description);
-      weaponData.note = await _getTranslatedString(weaponData.note);
+      weaponData.name = await _getTranslatedString(weaponData.name, 'Weapon[$i].name');
+      weaponData.description = await _getTranslatedString(weaponData.description, 'Weapon[$i].description');
+      weaponData.note = await _getTranslatedString(weaponData.note, 'Weapon[$i].note');
       jsonData[i] = weaponData;
     }
   }
@@ -469,11 +459,17 @@ class JsonProcessor {
       }
 
       if (commandData is Map<String, dynamic>) {
+        currentPath.add('command[$i]');
         await _processCommandMap(commandData, nextCode);
+        await currentPath.removeLast();
       } else if (commandData is List<dynamic>) {
+        currentPath.add('list[$i]');
         await _processListCommand(commandData);
+        await currentPath.removeLast();
       } else if (commandData is Command) {
+        currentPath.add('command[$i]');
         await _processCommandMap(commandData.toJson(), nextCode);
+        await currentPath.removeLast();
       }
     }
   }
@@ -488,47 +484,33 @@ class JsonProcessor {
       };
       final position = parameters[3] as int;
       final positionText = positionMap[position];
-      await _postTranslatedString('____TEXT____', suffix: '\n$positionText');
+      await _postTranslatedString('____TEXT____', altString: '____TEXT____\n$positionText');
     } else if (commandData['code'] == 102) {
       await _postTranslatedString('___CHOICE___');
       for (var i = 0; i < parameters[0].length; i++) {
         final value = parameters[0][i];
         if (value is String) {
-          final translatedValue = await _getTranslatedString(value, prefix: '(•) ');
+          final translatedValue = await _getTranslatedString(value, 'textChoice[$i]', altString: '(•) $value');
           parameters[0][i] = translatedValue;
         }
       }
     } else if (commandData['code'] == 105) {
-      // final positionMap = {
-      //   0: ' (superior) ',
-      //   1: ' (centrado) ',
-      //   2: ' (inferior) ',
-      // };
-      // final position = parameters[3] as int;
-      // final positionText = positionMap[position];
-      await _postTranslatedString('____SHOW____', /*suffix: '\n$positionText',*/ altString: '_SCROLLTEXT_');
+      await _postTranslatedString('_SCROLLTEXT_');
     } else if (commandData['code'] == 108) {
       for (var i = 0; i < parameters.length; i++) {
         final value = parameters[i];
-        if (value is String) {
-          // ? ¿Es necesario el if?
-          final translatedValue = await _getTranslatedString(value);
-          // final filteredTranslatedValue = translatedValue.replaceAll(RegExp(r'^(ChoiceMessage <WordWrap>|ChoiceHelp )'), '');
-          // await _postTranslatedString(translatedValue);
-          parameters[i] = translatedValue;
-        } else {
-          Exception('No es un String');
-        }
+        final translatedValue = await _getTranslatedString(value, 'textComment');
+        parameters[i] = translatedValue;
       }
     } else if (commandData['code'] == 401 || commandData['code'] == 405) {
       for (var i = 0; i < parameters.length; i++) {
         final value = parameters[i];
         if (value is String) {
-          final translatedValue = await _getTranslatedString(value);
+          final translatedValue = await _getTranslatedString(value, 'textData');
           parameters[i] = translatedValue;
         }
       }
-    } else if (commandData['code'] == 402 && nextCode == 101) {
+    } else if (commandData['code'] == 402 && nextCode == 101 && !generateTranslationsFile) {
       final concatenatedParameters = parameters.join(' || ');
       print("____WHEN____\n[  $concatenatedParameters  ]");
     } else if (parameters is List<dynamic>) {

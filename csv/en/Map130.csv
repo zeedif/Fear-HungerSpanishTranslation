@@ -1,4 +1,0 @@
-ID,source,target
-Map130.Event[1].Page[0].list.command[3],___CHOICE___,
-Map130.Event[1].Page[0].list.command[3].textChoice[0],New Game,
-Map130.Event[1].Page[0].list.command[3].textChoice[1],\c[07]Continue\c[0],

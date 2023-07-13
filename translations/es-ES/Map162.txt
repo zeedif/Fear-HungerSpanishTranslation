@@ -1,5 +1,0 @@
-____TEXT____
-Save game?
-___CHOICE___
-Yes
-No

@@ -1,3 +1,0 @@
-___CHOICE___
-New Game
-\c[07]Continue\c[0]
