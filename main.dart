@@ -40,6 +40,7 @@ class JsonProcessor {
   File translationsFile = File('');
   Map<String, String> outputJson = {};
   List<String> currentPath = [];
+  int currentTextId = 0, currentMessageId = 0;
 
   JsonProcessor(this.translationCode, this.generateTranslationsFile)
       : originDirectory = 'data',
@@ -169,6 +170,7 @@ class JsonProcessor {
       translatedStrings.clear();
       emptyTranslationFile = true;
       isExistsTranslationFile = false;
+      currentTextId = 0;
     }
 
     if (generateTranslationsFile) print('The file $fileName has been processed.');
@@ -462,17 +464,13 @@ class JsonProcessor {
       }
 
       if (commandData is Map<String, dynamic>) {
-        currentPath.add('command[$i]');
         await _processCommandMap(commandData, nextCode);
-        await currentPath.removeLast();
       } else if (commandData is List<dynamic>) {
         currentPath.add('list[$i]');
         await _processListCommand(commandData);
         await currentPath.removeLast();
       } else if (commandData is Command) {
-        currentPath.add('command[$i]');
         await _processCommandMap(commandData.toJson(), nextCode);
-        await currentPath.removeLast();
       }
     }
   }
@@ -487,9 +485,11 @@ class JsonProcessor {
       };
       final position = parameters[3] as int;
       final positionText = positionMap[position];
-      await _postTranslatedString('____TEXT____', altString: '____TEXT____\n$positionText');
+      if (!generateTranslationsFile) print('____TEXT____\n$positionText');
+      _addRouteByCode('message');
     } else if (commandData['code'] == 102) {
-      await _postTranslatedString('___CHOICE___');
+      if (!generateTranslationsFile) print('___CHOICE___');
+      _addRouteByCode('message');
       for (var i = 0; i < parameters[0].length; i++) {
         final value = parameters[0][i];
         if (value is String) {
@@ -498,28 +498,56 @@ class JsonProcessor {
         }
       }
     } else if (commandData['code'] == 105) {
-      await _postTranslatedString('_SCROLLTEXT_');
+      if (!generateTranslationsFile) print('_SCROLLTEXT_');
+      _addRouteByCode('message');
     } else if (commandData['code'] == 108) {
       for (var i = 0; i < parameters.length; i++) {
         final value = parameters[i];
         if (value.startsWith('ChoiceHelp ') || value.startsWith('ChoiceMessage ') || value.startsWith('ChoiceFace ')) {
-          final translatedValue = await _getTranslatedString(value, 'textComment');
+          final translatedValue = await _getTranslatedString(value, 'textComment[$currentTextId]');
+          currentTextId++;
           parameters[i] = translatedValue;
         }
       }
-    } else if (commandData['code'] == 401 || commandData['code'] == 405) {
+    } else if (commandData['code'] == 401) {
       for (var i = 0; i < parameters.length; i++) {
         final value = parameters[i];
         if (value is String) {
-          final translatedValue = await _getTranslatedString(value, 'textData');
+          final translatedValue = await _getTranslatedString(value, 'textLine[$currentTextId]');
+          currentTextId++;
+          parameters[i] = translatedValue;
+        }
+      }
+    } else if (commandData['code'] == 405) {
+      for (var i = 0; i < parameters.length; i++) {
+        final value = parameters[i];
+        if (value is String) {
+          final translatedValue = await _getTranslatedString(value, 'scrollText[$currentTextId]');
+          currentTextId++;
           parameters[i] = translatedValue;
         }
       }
     } else if (commandData['code'] == 402 && nextCode == 101 && !generateTranslationsFile) {
       final concatenatedParameters = parameters.join(' || ');
       print("____WHEN____\n[  $concatenatedParameters  ]");
-    } else if (parameters is List<dynamic>) {
-      _processListCommand(parameters);
     }
+    // else if (parameters is List<dynamic>) {
+    //   _processListCommand(parameters);
+    // }
+
+    if (nextCode == null && currentPath.last.startsWith('message')) {
+      currentPath.removeLast();
+      currentMessageId = 0;
+    }
+  }
+
+  void _addRouteByCode(String route) {
+    final last = currentPath.last;
+    if (last.startsWith('message')) {
+      currentMessageId++;
+      currentPath.removeLast();
+      currentTextId = 0;
+    }
+    currentPath.add('$route[$currentMessageId]');
   }
 }
