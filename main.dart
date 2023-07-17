@@ -175,6 +175,7 @@ class JsonProcessor {
   }
 
   Future<String> _getTranslatedString(String originalString, String nameAttr, {String? altString}) async {
+    if (originalString.isEmpty) return originalString;
     currentPath.add(nameAttr);
     if (generateTranslationsFile && !emptyTranslationFile) {
       final translation = translatedStrings[currentPath.join('.')] ?? originalString;
@@ -501,8 +502,10 @@ class JsonProcessor {
     } else if (commandData['code'] == 108) {
       for (var i = 0; i < parameters.length; i++) {
         final value = parameters[i];
-        final translatedValue = await _getTranslatedString(value, 'textComment');
-        parameters[i] = translatedValue;
+        if (value.startsWith('ChoiceHelp ') || value.startsWith('ChoiceMessage ') || value.startsWith('ChoiceFace ')) {
+          final translatedValue = await _getTranslatedString(value, 'textComment');
+          parameters[i] = translatedValue;
+        }
       }
     } else if (commandData['code'] == 401 || commandData['code'] == 405) {
       for (var i = 0; i < parameters.length; i++) {
