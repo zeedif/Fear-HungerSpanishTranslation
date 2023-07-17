@@ -1,13 +1,6 @@
 {
-  "Map061.Event[1].Page[0].list.command[6].textComment": "grogoroth",
-  "Map061.Event[1].Page[0].list.command[19].textComment": "sylvian",
-  "Map061.Event[1].Page[0].list.command[32].textComment": "alll-mer",
-  "Map061.Event[1].Page[0].list.command[41].textComment": "god of depths",
-  "Map061.Event[10].Page[0].list.command[1]": "____TEXT____",
-  "Map061.Event[10].Page[0].list.command[2].textData": "Use a \\c[2]Lesser soul\\c[0] to learn the \\c[2]Lockpicking\\c[0]?",
-  "Map061.Event[10].Page[0].list.command[3]": "___CHOICE___",
-  "Map061.Event[10].Page[0].list.command[3].textChoice[0]": "Yes",
-  "Map061.Event[10].Page[0].list.command[3].textChoice[1]": "No",
-  "Map061.Event[10].Page[0].list.command[42]": "____TEXT____",
-  "Map061.Event[10].Page[0].list.command[43].textData": "The skill of \\c[2]Lockpicking\\c[0] is engraved in your head!"
+  "Map061.Event[10].Page[0].list.message[0].textLine[0]": "Use a \\c[2]Lesser soul\\c[0] to learn the \\c[2]Lockpicking\\c[0]?",
+  "Map061.Event[10].Page[0].list.message[1].textChoice[0]": "Yes",
+  "Map061.Event[10].Page[0].list.message[1].textChoice[1]": "No",
+  "Map061.Event[10].Page[0].list.message[2].textLine[0]": "The skill of \\c[2]Lockpicking\\c[0] is engraved in your head!"
 }
