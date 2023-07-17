@@ -1,9 +1,5 @@
 {
-  "Map186.Event[7].Page[0].list.command[4]": "____TEXT____",
-  "Map186.Event[7].Page[0].list.command[5].textData": "Тоннели шахт обвалились... но тебе удалось выжить...",
-  "Map186.Event[7].Page[0].list.command[6].textData": "",
-  "Map186.Event[7].Page[0].list.command[8]": "____TEXT____",
-  "Map186.Event[7].Page[0].list.command[9].textData": "Тебя завалило под камнями и валунами...",
-  "Map186.Event[7].Page[0].list.command[10]": "____TEXT____",
-  "Map186.Event[7].Page[0].list.command[11].textData": "Ты пробуешь пошевелиться... но тебе это не удается."
+  "Map186.Event[7].Page[0].list.message[0].textLine[0]": "Тоннели шахт обвалились... но тебе удалось выжить...",
+  "Map186.Event[7].Page[0].list.message[1].textLine[0]": "Тебя завалило под камнями и валунами...",
+  "Map186.Event[7].Page[0].list.message[2].textLine[0]": "Ты пробуешь пошевелиться... но тебе это не удается."
 }
