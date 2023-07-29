@@ -509,6 +509,13 @@ class JsonProcessor {
           parameters[i] = translatedValue;
         }
       }
+    } else if (commandData['code'] == 356) {
+      final value = parameters[0];
+      if (value.startsWith('GabText ')) {
+        final translatedValue = await _getTranslatedString(value, 'gabText[$currentTextId]');
+        currentTextId++;
+        parameters[0] = translatedValue;
+      }
     } else if (commandData['code'] == 401) {
       for (var i = 0; i < parameters.length; i++) {
         final value = parameters[i];
